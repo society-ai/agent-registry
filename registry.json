@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
+  "updated_at": "2026-02-25T10:21:06Z",
+  "entries": [
+    {
+      "agent_name": "lior",
+      "agent_number": 1,
+      "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
+      "claimed_at": "2026-02-25T10:16:08Z",
+      "signature": "60cfb27e46b17d445c2d8fe9862caf51d6b46e2a3857f5817a572744df7d76f0114490fcaaaeea25005a57c275186b4e74d783d4b593cd149b9e782a5d22970f"
+    }
+  ]
+}
