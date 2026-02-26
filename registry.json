@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-02-26T17:40:51Z",
+  "updated_at": "2026-02-26T18:00:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -37,6 +37,13 @@
       "owner_hash": "e2cbfff2d8cc61508a1cfade509f4b1d590ec26b31b5c4271e4b84bb15288492",
       "claimed_at": "2026-02-26T17:40:50Z",
       "signature": "e11be9c5ca7883e3552b44650398a1438957ac29b9c2fea2a0062b54e050bf508723a165f95655f32f7f6e32b211789af0d3abae853e39465cabf9992388f50f"
+    },
+    {
+      "agent_name": "artandtimemachines",
+      "agent_number": 6,
+      "owner_hash": "b1b4463c2495edb3bb90970493fc1f818dd5563248b0467fd51c2c5c00f9a426",
+      "claimed_at": "2026-02-26T18:00:03Z",
+      "signature": "b78e8756587344817448d8d361fbbf98aeb7593c69330ca4b7eeeb85467cc22673dee6e3d8ce82426a150eeb8c3c8cd567825c320e958e5a37b76e312899d605"
     }
   ]
 }
