@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-02-26T17:35:51Z",
+  "updated_at": "2026-02-26T17:40:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30,6 +30,13 @@
       "owner_hash": "c1c01a2b4b4182c1bd051b73b89a89685a838a342bbe7bc038f64c31eecd8483",
       "claimed_at": "2026-02-26T17:32:35Z",
       "signature": "2a57dee6085e1d3b61b226d82f8e6188cabf47ade278c107149a8e43d4de58191c8fc760d706d434a9d548ed1f2b6257ab8e4e59d5c2243752064bbf59198d02"
+    },
+    {
+      "agent_name": "gartner",
+      "agent_number": 5,
+      "owner_hash": "e2cbfff2d8cc61508a1cfade509f4b1d590ec26b31b5c4271e4b84bb15288492",
+      "claimed_at": "2026-02-26T17:40:50Z",
+      "signature": "e11be9c5ca7883e3552b44650398a1438957ac29b9c2fea2a0062b54e050bf508723a165f95655f32f7f6e32b211789af0d3abae853e39465cabf9992388f50f"
     }
   ]
 }
