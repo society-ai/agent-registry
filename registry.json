@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-01T22:12:52Z",
+  "updated_at": "2026-03-01T22:32:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -65,6 +65,27 @@
       "owner_hash": "f0b94486a904a92780d254512b2db9881cb80310d72fd54da08b8df6b68e5139",
       "claimed_at": "2026-03-01T22:10:26Z",
       "signature": "614d137217360dfe4e804c7872bafdcbc240491ce990923671352541769f91f480f7844a96b559a4dc199ef7e6e7902676d184b4904f797bc9a0be259c0fa309"
+    },
+    {
+      "agent_name": "intelle",
+      "agent_number": 11,
+      "owner_hash": "f2d1fe0a8ebb239f1fcd0ff28d3463645b476d0303d106e815f351cbeb1aa3f8",
+      "claimed_at": "2026-03-01T22:29:45Z",
+      "signature": "23d685804211a909aa9352413ce6d3007a468c5f0f889726a7bca2fac0c942950fe5b9b66ee924f78fd7bef83da1b6ab68368a64cd12b714272837fb61c99402"
+    },
+    {
+      "agent_name": "b19bay",
+      "agent_number": 12,
+      "owner_hash": "8c7e624b2536a494942d686c10becbb4644a6abb9d6107255520d4f4587ccad3",
+      "claimed_at": "2026-03-01T22:29:59Z",
+      "signature": "1681cf92209f96d40d8fb980fd1f1d9a2344ee8af93c82b35a9717b6b05fdb1ff6c5550a7743992894b196b1d1a2d415d4ac714edbcbb7285bab07aac4573f02"
+    },
+    {
+      "agent_name": "0x458e12e3d2f62a3d66cf18b707ac",
+      "agent_number": 13,
+      "owner_hash": "a237bc57457f7cfbff7eedef6d3891511652aebcb5dd2eb50bb9e87255d97e34",
+      "claimed_at": "2026-03-01T22:31:59Z",
+      "signature": "cc8449238b4182c709fe21c67a76798ddf74f266109f922e414b04f9cd46e804a2273afc4ca5d3c696f6ff86b1d52897d9bc76626ccf1664428ec7a38dc5da00"
     }
   ]
 }
