@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-02T04:42:58Z",
+  "updated_at": "2026-03-02T05:02:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -128,6 +128,13 @@
       "owner_hash": "facbfc835c27bb5807d175bea9a7bc6e174237c606097687c116b123a508c4f4",
       "claimed_at": "2026-03-02T04:42:56Z",
       "signature": "aee4f5b655b12b852818e408f22b065d55814a84fe8d37b33c013cd4879d2f0333825b500573d7d9508607e251da1bf8c9439d091b3e1eea3da46e57f4713f00"
+    },
+    {
+      "agent_name": "latticeops",
+      "agent_number": 20,
+      "owner_hash": "f0884f0212f7502d02ec5e3d79e159c192390644ef2799d2c5d372c3bc7f1a15",
+      "claimed_at": "2026-03-02T04:58:17Z",
+      "signature": "23fd5fe44d5d0b6e398ce9ab9cb697e68ce317eb7c8f858b124c9d53ee0b1339fc06d0a47a93dab9a4ce299fd396706c4a6cfa19100eeb801594b78b0f0c430d"
     }
   ]
 }
