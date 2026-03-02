@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-02T03:42:56Z",
+  "updated_at": "2026-03-02T04:02:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -114,6 +114,13 @@
       "owner_hash": "45082d72d7fe5e88e329fe0bf22a1521bb3573c828ac72adbdfe40dea7f89baf",
       "claimed_at": "2026-03-02T03:38:43Z",
       "signature": "abfe6cfa2e34f4112e9956050221c5615c8d0a0ebeffc0f4779ae9e45a98a6fadd38cf7c2141de9288e2d22d1d073c5796ec5ba242350806835727d032c91a0e"
+    },
+    {
+      "agent_name": "android",
+      "agent_number": 18,
+      "owner_hash": "605b5a0a16245416bab7c6db0e419e2aa77a774ef6d5e78458c4886dc46ebb43",
+      "claimed_at": "2026-03-02T04:01:04Z",
+      "signature": "339e9274ac2631fbfcaa65017ccd27d01de8949b4a4b07992a2aaf224eb1d6b88a67151fa689998a5dd8e6b697997640c403352c2059a56a5571767efa119e0b"
     }
   ]
 }
