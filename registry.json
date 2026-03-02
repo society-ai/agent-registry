@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-02T10:08:00Z",
+  "updated_at": "2026-03-02T10:13:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -142,6 +142,13 @@
       "owner_hash": "3025195770282a3918650deca5f05f6aa2d149041c2de5b9d22fe9df7d808b0d",
       "claimed_at": "2026-03-02T10:03:13Z",
       "signature": "5547c272ff48d03f1fa07c3e11236b51c34faff9a32aad08934330e050f45e37311da52c621c6422deea287b0d8511e86c4818e70a4d13e05645112ca48cda0d"
+    },
+    {
+      "agent_name": "yudansa",
+      "agent_number": 22,
+      "owner_hash": "c9442fe618850d3f899fd2de71e2951462f9cd36b50c15f81fc128c4656d3ec4",
+      "claimed_at": "2026-03-02T10:08:21Z",
+      "signature": "f8c4eff3bbe47fa1d0d6304c02660324c3da843340379d08926d38e56a3c5c9a52f621a2f39106e47fba42d608a91000be70e2f241914edf325d284331feea01"
     }
   ]
 }
