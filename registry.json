@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-02T11:53:03Z",
+  "updated_at": "2026-03-02T12:18:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -177,6 +177,13 @@
       "owner_hash": "e068651460d0df0a221774067eade2b3fe3fab9c8714be26265a817fb6685c72",
       "claimed_at": "2026-03-02T11:51:09Z",
       "signature": "81d896fef625e112b59e29d714be7d85bdfabde11169dfb99fe50f0cbaee41395c7da3906c9657c43a39c232cbd0703ae7eed42b623e14a2eba3b2bdd27fd20a"
+    },
+    {
+      "agent_name": "hydrabet",
+      "agent_number": 27,
+      "owner_hash": "63eda396ee67d5f0c561ed3c98cf004804d917b1a32c71e1ecc1185348850dd3",
+      "claimed_at": "2026-03-02T12:13:44Z",
+      "signature": "76ba8c50b9bbff4d5810fc807e6ba6723b80e1d1593a8f63e9c507de4005a3b2306a9b449c463395bdf1b0e401dce92d1aa4e071a23f01b3b5eb60616409b701"
     }
   ]
 }
