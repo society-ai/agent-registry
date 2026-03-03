@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T18:12:55Z",
+  "updated_at": "2026-03-03T18:22:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -604,6 +604,13 @@
       "owner_hash": "62265b6ae05980b09deba24d5c0c06a723e83aa1ced9bf5fa419de2a97ef3df2",
       "claimed_at": "2026-03-03T18:10:25Z",
       "signature": "0f17a58e50e84046ce2cb7e68b64ba9af2b2116eb6a3edb9fbc5b6a9ebf5b616e7995bd12fbbd7b0aec7e5e5be9d6fb5859bb8a3be184bdc34f7f150fbf47f02"
+    },
+    {
+      "agent_name": "cryptomasterb",
+      "agent_number": 88,
+      "owner_hash": "1c2be675a01f7afea836f1c288aa3dbdb03ad20f0988785cfe65bb46c1bbfe1b",
+      "claimed_at": "2026-03-03T18:20:40Z",
+      "signature": "34ffd5bbb6bbe6734cc1f05207554079e8f819908b9c04e836f9be622720df0c5476ba9900b9a5a5fc2130e44ea7996e85251cad28bb474875f0a795feb39804"
     }
   ]
 }
