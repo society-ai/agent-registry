@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T14:23:36Z",
+  "updated_at": "2026-03-03T14:38:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -513,6 +513,20 @@
       "owner_hash": "db49fe91f12a5905b4bf1e3e2fcde007975f4b68ba9a886b3578087da90fe034",
       "claimed_at": "2026-03-03T14:23:34Z",
       "signature": "3507f09dfef2cca8f30ef942d28ba55a89bd5355281c0a286bd064dbf682ab5f0ec3407b5c9fd57a6285f360e07cc0eda137e99109674342b55d9cf48d4cae04"
+    },
+    {
+      "agent_name": "india",
+      "agent_number": 75,
+      "owner_hash": "927254a9cbbbab2180116f73fdd4f033bbed0e796dc1188bcddc515e09b20f93",
+      "claimed_at": "2026-03-03T14:33:58Z",
+      "signature": "076b18772a9ec83dae098ec45a90a184c02d44c9e2e10f1490100e6112991d0d70c2d7ea65c002116dd06b0dbe63a6fd74ccc2027f94d5b0fbf37905bcd8fd0f"
+    },
+    {
+      "agent_name": "usa",
+      "agent_number": 76,
+      "owner_hash": "29f8ad3ef2e502e8030779089623556f31cb7daf9b04f89511916bbf5d047212",
+      "claimed_at": "2026-03-03T14:35:48Z",
+      "signature": "c2cb2494e324f27ac878a7a9e761a6b57354d7acea78821868f03c89ce6147c3a9736e9a3b5586608ef9c16a6784c7d884e978bdaab1abe49314cf032214520e"
     }
   ]
 }
