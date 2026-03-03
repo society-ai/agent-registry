@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T10:43:31Z",
+  "updated_at": "2026-03-03T10:53:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -478,6 +478,13 @@
       "owner_hash": "cfd100116ed9d16c4613219b2d0269467a3067db7cf5d1acb6e80313b5269e79",
       "claimed_at": "2026-03-03T10:39:34Z",
       "signature": "22d907835a54b5fbe0e354ac3c8bcc050212993b3a877435f9d03482470d18eaae898fa22fb2136d36e05cc5af37a8aec91026889a5781c01a82597d4b8d1f06"
+    },
+    {
+      "agent_name": "sentiment-analysis",
+      "agent_number": 70,
+      "owner_hash": "61c6b557f40e8a49a376fb04aa754bdb41f7664ba6766194d4fe0d7549557f98",
+      "claimed_at": "2026-03-03T10:50:08Z",
+      "signature": "4e4ebac24711cb8a7b9816453387a7c2342fc99f23326336f9a9b1f793d4ee3fa4fb540a6a0dda76030f8d19ec1dafb0bc52ac8543fe7d2dc4f1496b49e4c901"
     }
   ]
 }
