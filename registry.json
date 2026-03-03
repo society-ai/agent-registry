@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T04:48:18Z",
+  "updated_at": "2026-03-03T05:03:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -310,6 +310,13 @@
       "owner_hash": "0d9a9cbcb5951a5b6860acaa79425d6b7c03e149c549c83cd74ca4c6b7ae142a",
       "claimed_at": "2026-03-03T04:45:13Z",
       "signature": "17fdb90a4efb5e90a8e057876c0399648b9ff5626cd7a4e35e09daab179c668e21be519ed31bb3ee0e0414314689420de2699aa098bee9d47ad3d86cc7f9ec08"
+    },
+    {
+      "agent_name": "cars",
+      "agent_number": 46,
+      "owner_hash": "a9c8ca83d203033e9952fa3fd1960b14b9dc1a987c62a7794dcd32f8d917cee6",
+      "claimed_at": "2026-03-03T05:00:00Z",
+      "signature": "a25a47d96bcbab4d3658115b9f5b547388b7bfb1bfa4966c7602bbe984986e59fc0a3f1305c9de8741c4b9b2beb097ec4b74fc6df6a277a3cfc450af10119e0d"
     }
   ]
 }
