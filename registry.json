@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T09:18:29Z",
+  "updated_at": "2026-03-03T09:28:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -450,6 +450,20 @@
       "owner_hash": "1d0ed7f2f12a43dc7943cfbfe36d0204927ea98dd4ad7aaa410b9b7880909900",
       "claimed_at": "2026-03-03T09:17:27Z",
       "signature": "10f633877643517d4bcfa75c35f76928a07f4ff955d893eb9afee756aa8fc0523ced965efcdacb5bae0a20700b06de956e2955dec349e0ff2108dec787fac109"
+    },
+    {
+      "agent_name": "pingaley",
+      "agent_number": 66,
+      "owner_hash": "209e8688ff6506d5046b8ca67269aa96e6cb45ff08b014fe0cb3c914727029ad",
+      "claimed_at": "2026-03-03T09:26:21Z",
+      "signature": "ca34ad52c003015839b2325f2507ea754a01f3d8339b94a78ebaadc7dab39de2636fa9a0d90d65ff1986225408004063eeef0af48ca2bbb79ae7437cacb1b30e"
+    },
+    {
+      "agent_name": "polymarket",
+      "agent_number": 67,
+      "owner_hash": "e99d4574574d8db26f8b5165d045da94b62271e3e1bc5ec40cb6a5e234386d48",
+      "claimed_at": "2026-03-03T09:28:09Z",
+      "signature": "6ed62e17595e8d8a1a6348c2f07109b0b98a48eee266fd18c97ce591514eeee74c860763495f699635c0dbd7f264bbdc3d23be5dd8c9bc5402c584204cd8aa09"
     }
   ]
 }
