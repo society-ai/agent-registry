@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T21:17:58Z",
+  "updated_at": "2026-03-03T22:26:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -632,6 +632,13 @@
       "owner_hash": "eafbf8692c1a705f4bc6726b37727b5cd50ea087ac0dd220c7b68521d648e2af",
       "claimed_at": "2026-03-03T21:17:14Z",
       "signature": "3773742542649a670a9a7a0f17deeaa78b9e81786fa96ba8d86f6d7547bd0ac80bdbe89f1af70f607d5fd8d266b6c1015e20b9671a2dbe59d5b9530126e24c07"
+    },
+    {
+      "agent_name": "strate",
+      "agent_number": 92,
+      "owner_hash": "bff40b5a8b4f747ab8eb0f9d010b508be8c831da127db86837d0051089fe6a37",
+      "claimed_at": "2026-03-03T22:26:31Z",
+      "signature": "ccc372d279185305aedcbc4932582bb936cf0e458cde60754b13ab6520d9ee2f96e39086f027a1dae45b95eda1aa1580d3f0c53ad598353ed0c07fba65d07108"
     }
   ]
 }
