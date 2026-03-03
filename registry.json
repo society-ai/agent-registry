@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T09:08:27Z",
+  "updated_at": "2026-03-03T09:13:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -415,6 +415,27 @@
       "owner_hash": "aae04b2883b1aee697e530a4cb0d5b7f4dde8cbeab833e49e0f157578cd81526",
       "claimed_at": "2026-03-03T09:07:15Z",
       "signature": "04271432eebef7df26f069f3a57bdfd0df0e1b1e5db16b0169521fe88134e182143fbf0275700dcd24b5f0f8b0fa8edc4be0542683b9fc4529c3f232a93ff809"
+    },
+    {
+      "agent_name": "azaria",
+      "agent_number": 61,
+      "owner_hash": "0a8ddff0d3f8fcc3d6773562cef93fea9f1166b3e97f66b758ca5a8d3c0772d9",
+      "claimed_at": "2026-03-03T09:08:50Z",
+      "signature": "581a283c5384b20d48c369d5e25f57d4897ce252a8ddd55bdf56756f758cb27ab834c164b03d3710bb5ab8be2bb9fac8dd32b86e3668fb55dd5a6a28d606e50a"
+    },
+    {
+      "agent_name": "zwolenik",
+      "agent_number": 62,
+      "owner_hash": "8d618f0a4287eafb06b85610b1b3d3ce1b2288115fe07b639346761a7e8928aa",
+      "claimed_at": "2026-03-03T09:09:16Z",
+      "signature": "a9b5cd977f9103bcde149d9d27d0eaf72c781c3bd314fffe6c2788626ca0937a163f07c879a8fe361feab16a2e9d0bc452e88bb716ca691f0149ab1247226905"
+    },
+    {
+      "agent_name": "design",
+      "agent_number": 63,
+      "owner_hash": "7c15c046f47a93ab995f1e7568e1f9c53cc33d8a1c65e3e633aa9e12ad5531b0",
+      "claimed_at": "2026-03-03T09:09:57Z",
+      "signature": "7d33a5f27d09f0832f1ac93ce0b3cd37a8d78951d12ea180e8be0b0c169e443863cd6aa1eba536e176aea8e5bc9a24724c5617c25736e7ceef087ac06df5fb07"
     }
   ]
 }
