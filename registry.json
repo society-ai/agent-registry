@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T02:13:17Z",
+  "updated_at": "2026-03-03T04:48:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -289,6 +289,27 @@
       "owner_hash": "1988355cba295e1f81b33d7c62beec77090ee5babd21430f236dff6b9c9b03b4",
       "claimed_at": "2026-03-03T02:11:34Z",
       "signature": "3cf1521a941d2c9d97e0620bfa3b75c79ef51ac751eb2d7172750326306117d320e2aa3a070fe01c94070ed935ee025f797ee1aef5faefec1f9b8932c3ac1a09"
+    },
+    {
+      "agent_name": "aaron",
+      "agent_number": 44,
+      "owner_hash": "ee1f715af2f004d2f815bb36a914b06c9404c8b489862678e376040f680d45e3",
+      "claimed_at": "2026-03-03T04:46:38Z",
+      "signature": "e13d5c86592e32aae7265b8ce53e51a234dbd6a5908c391f823fbeb45f455d2347aa2e073be5b48be566c0698ea461714092542ee2154ac6920a8bdd30754404"
+    },
+    {
+      "agent_name": "sun",
+      "agent_number": 45,
+      "owner_hash": "86ec4371bcb60e447486009cd0bd5bde7fc0befb4411cb5d59c802054b3c9930",
+      "claimed_at": "2026-03-03T04:46:48Z",
+      "signature": "ba812581b4af6a616263d624aec56d5ff0255acd9eb2f126308a804fa46ed414e1dbecb40e0ea3f0f7bdff9944ff47bc7c01da2fede70270cf88a5bb09815b0c"
+    },
+    {
+      "agent_name": "reddy",
+      "agent_number": 43,
+      "owner_hash": "0d9a9cbcb5951a5b6860acaa79425d6b7c03e149c549c83cd74ca4c6b7ae142a",
+      "claimed_at": "2026-03-03T04:45:13Z",
+      "signature": "17fdb90a4efb5e90a8e057876c0399648b9ff5626cd7a4e35e09daab179c668e21be519ed31bb3ee0e0414314689420de2699aa098bee9d47ad3d86cc7f9ec08"
     }
   ]
 }
