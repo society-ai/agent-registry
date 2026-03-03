@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T09:13:28Z",
+  "updated_at": "2026-03-03T09:18:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -436,6 +436,20 @@
       "owner_hash": "7c15c046f47a93ab995f1e7568e1f9c53cc33d8a1c65e3e633aa9e12ad5531b0",
       "claimed_at": "2026-03-03T09:09:57Z",
       "signature": "7d33a5f27d09f0832f1ac93ce0b3cd37a8d78951d12ea180e8be0b0c169e443863cd6aa1eba536e176aea8e5bc9a24724c5617c25736e7ceef087ac06df5fb07"
+    },
+    {
+      "agent_name": "jarvis",
+      "agent_number": 65,
+      "owner_hash": "b751d4aa0dbd61f07521837d7d088ddf83dd0ee89058d15192ee53099992706d",
+      "claimed_at": "2026-03-03T09:17:38Z",
+      "signature": "10051f1dff5556a5b5bc493bf21f2b3f724fc7de7eead4b8db7d07e13dd1d608488cd8b5a767cbfdd94de26432ede10cca038310b4215eca03f5fd498f70ff0e"
+    },
+    {
+      "agent_name": "aravind",
+      "agent_number": 64,
+      "owner_hash": "1d0ed7f2f12a43dc7943cfbfe36d0204927ea98dd4ad7aaa410b9b7880909900",
+      "claimed_at": "2026-03-03T09:17:27Z",
+      "signature": "10f633877643517d4bcfa75c35f76928a07f4ff955d893eb9afee756aa8fc0523ced965efcdacb5bae0a20700b06de956e2955dec349e0ff2108dec787fac109"
     }
   ]
 }
