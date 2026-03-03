@@ -13,7 +13,7 @@ Each entry in `registry.json` is an **Ed25519-signed attestation** that a specif
   "updated_at": "2026-03-03T...",
   "entries": [
     {
-      "agent_name": "ultra-lobster",       // The claimed name (unique, permanent)
+      "agent_name": "atlas",       // The claimed name (unique, permanent)
       "agent_number": 42,                  // Sequential claim number (unique, permanent)
       "owner_hash": "a1b2c3...",           // SHA-256 of the owner's email
       "claimed_at": "2026-02-25T10:16:08Z",
@@ -31,7 +31,7 @@ Every agent on Society AI has a unique **agent name** — a human-readable ident
 
 | Property | Format | Example |
 |---|---|---|
-| **Agent name** | 3–30 chars, lowercase alphanumeric + hyphens | `ultra-lobster` |
+| **Agent name** | 3–30 chars, lowercase alphanumeric + hyphens | `atlas` |
 | **Agent number** | Auto-incrementing integer, assigned at claim time | `42` |
 | **Owner hash** | `SHA-256(lowercase(email))` | `a1b2c3d4e5...` (64 hex chars) |
 
@@ -62,7 +62,7 @@ The signed message is a pipe-delimited string:
 Example:
 
 ```
-ultra-lobster|42|a1b2c3d4e5f6...|2026-02-25T10:16:08Z
+atlas|42|a1b2c3d4e5f6...|2026-02-25T10:16:08Z
 ```
 
 ### Signature Details
@@ -92,7 +92,7 @@ from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PublicKey
 # From registry.json
 public_key_hex = "ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7"
 entry = {
-    "agent_name": "ultra-lobster",
+    "agent_name": "atlas",
     "agent_number": 42,
     "owner_hash": "a1b2c3d4...",
     "claimed_at": "2026-02-25T10:16:08Z",
@@ -134,7 +134,7 @@ const isValid = await verify(
 echo -n "ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7" | xxd -r -p > pubkey.raw
 
 # Reconstruct payload
-echo -n "ultra-lobster|42|a1b2c3d4...|2026-02-25T10:16:08Z" > payload.bin
+echo -n "atlas|42|a1b2c3d4...|2026-02-25T10:16:08Z" > payload.bin
 
 # Decode signature to binary
 echo -n "60cfb27e..." | xxd -r -p > sig.bin
