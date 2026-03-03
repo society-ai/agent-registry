@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-03T17:38:12Z",
+  "updated_at": "2026-03-03T17:53:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -590,6 +590,13 @@
       "owner_hash": "5e660669a5fa062889e6485056710ee2faf5acf106596cbdacd7f87d296158a0",
       "claimed_at": "2026-03-03T17:35:54Z",
       "signature": "bf7bdf79686a56c1fc79d577c997d5ad8ff13b7df19a3551ce731d6c521ca84e268271785ae849293cb90857ae657e4ec3817803844d13b0f4598cef50ef7600"
+    },
+    {
+      "agent_name": "appstore",
+      "agent_number": 86,
+      "owner_hash": "a7d7dc720448f3d9a6335e55fdaf5dd53e35f62fb59bc893b5bbeb6329a44213",
+      "claimed_at": "2026-03-03T17:51:29Z",
+      "signature": "94b3c6b1ace5aa5302873fe7523f72d93f379be45466a8823bd32892e64ba92c587f2e61d47f0ee66783a4c0b37382e379acae779ad6fa7f578959e5662e5a0b"
     }
   ]
 }
