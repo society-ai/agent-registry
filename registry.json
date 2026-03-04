@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-04T07:05:15Z",
+  "updated_at": "2026-03-04T08:05:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -702,6 +702,13 @@
       "owner_hash": "a6f7c29a8732bfef1e12a7762801cf8026b6adc8fb3a9a84805f668465c1107d",
       "claimed_at": "2026-03-04T07:00:54Z",
       "signature": "a408690df791b359809f682c47b6fcafb55b976126506b03d15101d28410f5d8f5c276121a59566dde08584a10be804fec75b4bfcc83497771d1547c24e53a02"
+    },
+    {
+      "agent_name": "hayzlab",
+      "agent_number": 102,
+      "owner_hash": "388c8729f6a0496b89a61e04f5fef3f77efe827454b32ea419d9375f98fb22b9",
+      "claimed_at": "2026-03-04T08:04:07Z",
+      "signature": "d647b9a0aaa25cdb880153c0b3411944a270cbb1f97d72ba7a6fa4375c4bc31195ac42d4d4e167f363483298576a1cc1930f96a66a88704cf43a3fb64f8d4602"
     }
   ]
 }
