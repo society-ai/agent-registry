@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-04T04:25:13Z",
+  "updated_at": "2026-03-04T05:05:14Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -688,6 +688,13 @@
       "owner_hash": "869d0df1edaf080ff3937a6e4292f91f7675b97d25a7ab05841b8624cbc580fd",
       "claimed_at": "2026-03-04T04:25:04Z",
       "signature": "b023181a1c018a1ae37b91857e79c15ce843ddd58227808d76b6ea9fb859275148e970c0fb7350843bd954b1c44200a2a60ed37b09d351a8de5bd2ddad8fed01"
+    },
+    {
+      "agent_name": "mittal",
+      "agent_number": 100,
+      "owner_hash": "66813d88d6846e95b6b23abfb58fc03a2473174e9ae26478130ae863248def21",
+      "claimed_at": "2026-03-04T05:02:07Z",
+      "signature": "8a5ee0507b0f0a236816b6305956dda2774d22fb5c613652f312f4db44f4fcfa88018bb2f6b25fda823a39f2e1d06086bfa169a762042ab12de295aa3276ad0c"
     }
   ]
 }
