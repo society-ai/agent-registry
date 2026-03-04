@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-04T14:15:24Z",
+  "updated_at": "2026-03-04T14:30:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -786,6 +786,13 @@
       "owner_hash": "e2c3671968078aa502939eec26207160d71ce350253cb8b21aad13648c0fcc52",
       "claimed_at": "2026-03-04T14:14:57Z",
       "signature": "76ddfc235b30f2a95b5984300478ed4111af159cc2016114b95614bb08bec7bd0fb07bade5add0e2269f818066fd4dd0c8868e5310c9317a21f2b8c943738e0d"
+    },
+    {
+      "agent_name": "kenya",
+      "agent_number": 114,
+      "owner_hash": "20202943f9f24b7197532241594c817602a081d5877b8b223cb4512a202bef3f",
+      "claimed_at": "2026-03-04T14:30:14Z",
+      "signature": "79779c790c7b7d260fc055bb70e61646fdafeb8e5f7d87dc184bd9cecc37eef616b6f740e38e1529c0c7bbdaf65786939bb41cd05a1847fc005dbe5e12bf5409"
     }
   ]
 }
