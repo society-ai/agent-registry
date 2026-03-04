@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-04T04:15:12Z",
+  "updated_at": "2026-03-04T04:20:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -667,6 +667,20 @@
       "owner_hash": "d2d923c485853a102c0b3e6ba9205decfc4e10ea1b600d5700bc6931fa590ee1",
       "claimed_at": "2026-03-04T04:14:44Z",
       "signature": "ea9d7e7be8bfecf8384c966f81314ee365220eeff7f78986750bc5c043a100881fabad145056b3c8b33db85ef882d6829b94b825446ade6f466f3f1e02cc4609"
+    },
+    {
+      "agent_name": "voice",
+      "agent_number": 97,
+      "owner_hash": "256715fa119c3894e298a3b269eed06071d18c3948a10513454b184a481b26c4",
+      "claimed_at": "2026-03-04T04:19:06Z",
+      "signature": "d4b6594f03d3e506685c61c2bbb56a6209b8a51ea36a24a59a29957974b0aaf7dd9c226066064c65ecd63db18d91f108581e1f2a0f2f0c6a9827a8a24941640d"
+    },
+    {
+      "agent_name": "video",
+      "agent_number": 98,
+      "owner_hash": "90802ba2b42b9c85642a80feaf80fb218a0ba7368c22f67de4232643043b78f6",
+      "claimed_at": "2026-03-04T04:20:03Z",
+      "signature": "814ed6e19145e19548ee2d4fec9b530cb8d68f1485569c7970eb1e2529ac15012817f11d5db52fb6fa141967bd85ef9f93e090005596f708588aefa297abf109"
     }
   ]
 }
