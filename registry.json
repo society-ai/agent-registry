@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-04T16:43:30Z",
+  "updated_at": "2026-03-04T16:53:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -828,6 +828,13 @@
       "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
       "claimed_at": "2026-03-04T16:42:25Z",
       "signature": "0e4348833a20110ee137a51aa96e46fd2864d354e5d9e7170f99e9fed8b3c8a88f9fa28a3fe9dd68fd113dcd2f291860a894a9c5132e0c397124b0efe7b5850c"
+    },
+    {
+      "agent_name": "kelvinlamptey",
+      "agent_number": 120,
+      "owner_hash": "931d9c15fd32b783ee430ad458db2c3992dd1664d8c1ff4f466a6c82af585909",
+      "claimed_at": "2026-03-04T16:51:32Z",
+      "signature": "9f37a76205088d36d706b1efb2c4ed9842e98d13f4e0ba0193c699db64c57448595e2c8daac4c14af6da3c18e1f36738c6b53fe0f86e8b69ca16c6cc397c2d05"
     }
   ]
 }
