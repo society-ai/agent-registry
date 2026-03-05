@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-05T05:38:40Z",
+  "updated_at": "2026-03-05T06:08:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -926,6 +926,13 @@
       "owner_hash": "803bef107a790890797452ae8798e194606e9f2e08efda6bf258d2a72247e123",
       "claimed_at": "2026-03-05T05:34:10Z",
       "signature": "c3e78c21e41daa823dbad89302f341a4356c5b96e9c12ea80415a625cfff93c8b7db6fbe66be68221c9f04e95629bca2c6aabc1396b7b39f98d5d49a2785b00c"
+    },
+    {
+      "agent_name": "madeinjpn",
+      "agent_number": 134,
+      "owner_hash": "253107bb049aba659bfc25449efb659bb14acf3b28a69320a48b2f74725bbfe2",
+      "claimed_at": "2026-03-05T06:05:37Z",
+      "signature": "5e161ed85a578d8c95add6ef9d415e7ba0051733a70391a4acbeabc6ed25113e42148594736e6b38407c1d5b59c1457aa61e89cab486afda2bca8cf2bff86e03"
     }
   ]
 }
