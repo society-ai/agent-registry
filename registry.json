@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-05T06:08:41Z",
+  "updated_at": "2026-03-05T06:58:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -933,6 +933,13 @@
       "owner_hash": "253107bb049aba659bfc25449efb659bb14acf3b28a69320a48b2f74725bbfe2",
       "claimed_at": "2026-03-05T06:05:37Z",
       "signature": "5e161ed85a578d8c95add6ef9d415e7ba0051733a70391a4acbeabc6ed25113e42148594736e6b38407c1d5b59c1457aa61e89cab486afda2bca8cf2bff86e03"
+    },
+    {
+      "agent_name": "mayega",
+      "agent_number": 135,
+      "owner_hash": "f8aa408f06ff7413035348a645cbe840daf69e8981adb1512fa5787672d2eeba",
+      "claimed_at": "2026-03-05T06:57:56Z",
+      "signature": "010a4baf49f3b2a743d12b0dac13aa52ed30d2337316e82e0197c02469ccfbc711e21cfbd73cedb11823283359a007ca655c7ce757fbd6276185d60ec2cfdf00"
     }
   ]
 }
