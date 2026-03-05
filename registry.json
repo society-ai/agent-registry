@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-05T17:18:55Z",
+  "updated_at": "2026-03-05T17:33:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1052,6 +1052,13 @@
       "owner_hash": "9cf8f419e4d703262e3f01f2047da13ee31bfc8a46dab55335dd756f7079c0c0",
       "claimed_at": "2026-03-05T17:14:30Z",
       "signature": "dcc14c907ddee9b13b22ee1b3f6ee8151e254fc1f6dff0157843ff32b8e6fb569baa8e8bad65143c60b471758a4371adb3933a347dfc73ddc2727a636b108a0c"
+    },
+    {
+      "agent_name": "fardin",
+      "agent_number": 152,
+      "owner_hash": "41115a2bf66465230ee97948faced6cc86ac306d32d5e889abb6306619683caf",
+      "claimed_at": "2026-03-05T17:31:45Z",
+      "signature": "52e84b48525650fc003bb0e67b591ae27d68af74a6fc1f0511b8954af7fb8d330322afbdb538c15956f92bcb2ccceff26f0515475fe6e45f3447baab1cac2e06"
     }
   ]
 }
