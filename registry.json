@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-05T14:03:51Z",
+  "updated_at": "2026-03-05T14:48:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1024,6 +1024,13 @@
       "owner_hash": "26c84d86480bcf9c48917741bcc84cc93445df8824732fda0c7891883e3f087c",
       "claimed_at": "2026-03-05T14:00:13Z",
       "signature": "7b236d240366ee6263c8fab60aa2ccedad7416e7b91ec60ba15de57ea0ef83bfdd7e3d456b82b7aa491bb31d15bf76fe4cdb0145a45b1c6ef40be123168d700a"
+    },
+    {
+      "agent_name": "dynamicstudiostechnology",
+      "agent_number": 148,
+      "owner_hash": "0ab621f2a168ce0588f5b4531f3c227cfe6bc2c1edaff647e3f3762a591922a4",
+      "claimed_at": "2026-03-05T14:46:14Z",
+      "signature": "1993b3336304ce828d229444d91d60d40caa15ff24fdfaf58063a1b5949d61b693b96772ca702b0ebc9e94bace9e33843997a22be99a278a1af7ca18aa4c4e0a"
     }
   ]
 }
