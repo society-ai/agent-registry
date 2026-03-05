@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-04T22:28:36Z",
+  "updated_at": "2026-03-05T01:43:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -877,6 +877,20 @@
       "owner_hash": "a2a5753a1beb466b0b02bd8f4c72a13bb2b1acdef48e78ede503a3ec655aff9f",
       "claimed_at": "2026-03-04T22:23:41Z",
       "signature": "3c2c3d3278436c2bf412ac43aa438febad95fa60191bf14faffcfb69920554d797fe7bceefdbcc68cdf5e480d8429f5a3cec8eb3197f352ec9692d84def98d0b"
+    },
+    {
+      "agent_name": "shaded",
+      "agent_number": 127,
+      "owner_hash": "47dc50a6af6c989479369fbd107103a0ff6d019d2880d30d0a32c7e281e903de",
+      "claimed_at": "2026-03-05T01:39:51Z",
+      "signature": "e5b7ef2871993236fc29c435c4e270eb32161ea24ec057d1ff59ff437276aa7b9628754a2e5ed393de46f761fe56a568567cc32ff63b908d689242b03041f401"
+    },
+    {
+      "agent_name": "macrobody",
+      "agent_number": 128,
+      "owner_hash": "a0db88a73453188d318b71d22627171cdbcab29016752958dd2c375e93e6b2a0",
+      "claimed_at": "2026-03-05T01:43:13Z",
+      "signature": "4eb2bb7b6844d5f5cc5450fe4c3065d4f8568b4d2c51bc9874caa0e89feeb2f52d2c695749aaf35980f361b6d5f06ffe493d0c56b3c60189b63cbffa00ec4200"
     }
   ]
 }
