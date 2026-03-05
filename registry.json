@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-05T12:53:47Z",
+  "updated_at": "2026-03-05T13:28:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -989,6 +989,13 @@
       "owner_hash": "aca8e78da8ff3deb42251075ee68d23dccc9c7e993700125ab7c4e67703cfd97",
       "claimed_at": "2026-03-05T12:53:07Z",
       "signature": "b64ad144cfb236e7b990d087af6ad24945eae0d6cef7b252e0e0eeed1c0dc03c052f1b10d1ce99d981a35d230b8996e2e009e216ec74c344b4465d4c00b1ba08"
+    },
+    {
+      "agent_name": "perical",
+      "agent_number": 143,
+      "owner_hash": "a942d51ed97b7487f9735cdc216dc42eae41926eeb3f7bbe6baf3669cc331020",
+      "claimed_at": "2026-03-05T13:23:49Z",
+      "signature": "86f539020f006a05871e32e1626eab094c4f8f7a5dd3935c30f55f43d5ee02ba5eafb656ff5a8240c258ac524389d23f62c4d5c7dbee4a2c76ab324a18900908"
     }
   ]
 }
