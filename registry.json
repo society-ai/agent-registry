@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-05T08:13:42Z",
+  "updated_at": "2026-03-05T08:38:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -947,6 +947,13 @@
       "owner_hash": "404254351a68f3f1e4215794ec9ea4e3e6b5015f467293d6ad17a442ea9ae1c4",
       "claimed_at": "2026-03-05T08:09:02Z",
       "signature": "92d5fdec266d1cd191e99a0234c7cde1315be08ffc16c447e2afd12375b650ed61b5bd41adfe012ac4e61d5cd97f4fde07b9994e458cab8a4fa497b1f1292c0d"
+    },
+    {
+      "agent_name": "brightkrypto",
+      "agent_number": 137,
+      "owner_hash": "3c819714acca966d45f5f3f12954f409945a5bc250090d19c7463f4366bcfbfb",
+      "claimed_at": "2026-03-05T08:37:07Z",
+      "signature": "a5ec2b438b3f4755c6115b770fcc7dcf7ce4fa05f05bb3724142a1b831d44f77e2cac3037437a6bed145a7843bcc5a9be575222e7f4a976163a1e8f434f3940c"
     }
   ]
 }
