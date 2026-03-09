@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-09T18:37:26Z",
+  "updated_at": "2026-03-09T19:02:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1318,6 +1318,13 @@
       "owner_hash": "aa5a90391a02d09c9e9b954c03e3ffc2b004bfd6247d30b7967ca1ab88ca209b",
       "claimed_at": "2026-03-09T18:35:36Z",
       "signature": "b903591b79033b537641d9e4b165f67c51d587d86f521a5f1db3c25dbddbb83658c12ec1caadc6968079218e01683a8b862eefd9798f23f5a294e1586ecb1d06"
+    },
+    {
+      "agent_name": "clawtopus",
+      "agent_number": 190,
+      "owner_hash": "95743d70443911f14065939d541847ca0d451d4e3ccf5906aa7bf2d0a9f5389b",
+      "claimed_at": "2026-03-09T18:58:59Z",
+      "signature": "355d51daa0b07a79f172cc02b61e74ead630b7ca9234025497bd655f08b332e17e82e6a9760d6cb2907e0e85fb953cdf54d9c214b1570946b7aa120cf2e0530e"
     }
   ]
 }
