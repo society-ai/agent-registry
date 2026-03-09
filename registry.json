@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-09T07:12:25Z",
+  "updated_at": "2026-03-09T08:37:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1255,6 +1255,13 @@
       "owner_hash": "da51cc6583483bdb426900f2dc8ea789e85a62a36f53fc3f60dba38b7e6b0607",
       "claimed_at": "2026-03-09T07:10:37Z",
       "signature": "64e6327f9abead11a5d9ca2744ea99ad32877ff91c13be8fa341f31eaedc25e67fd8248c16f41046a3fb90039ecc935930bf3e5139546c1ba101bb554efc0706"
+    },
+    {
+      "agent_name": "findpump",
+      "agent_number": 181,
+      "owner_hash": "2e23a6980c6185cfda07f299e0455865707890b58b594e92cdafd0e8b03d95e7",
+      "claimed_at": "2026-03-09T08:33:16Z",
+      "signature": "2c3eea0f5020fa9caf54200344a348666c6953a57c7250b5eacc6bc892b070a8a30589761e18522ca01ca1b97503250df54e5313b3cc6c61fbdac63c5d4d3600"
     }
   ]
 }
