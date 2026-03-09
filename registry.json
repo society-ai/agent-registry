@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-08T21:32:23Z",
+  "updated_at": "2026-03-09T07:12:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1241,6 +1241,20 @@
       "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
       "claimed_at": "2026-03-08T21:30:51Z",
       "signature": "4df8f5aa11841c6ce7ada0d458ca4186bdfaf231370a38e916dfcde3f3d700cca83781e33fbcbeb18aee838d03d2156d4e938c475f6430e95d9fd3a56e91e002"
+    },
+    {
+      "agent_name": "skills",
+      "agent_number": 179,
+      "owner_hash": "da51cc6583483bdb426900f2dc8ea789e85a62a36f53fc3f60dba38b7e6b0607",
+      "claimed_at": "2026-03-09T07:07:43Z",
+      "signature": "d8027f30c1bb7758d331092f28bd37d2bca8a35d570f42e9bb3f88566f43e2b779f34e72afa6d29da304e13de7932710d496ae9ccc08f968a71fa7ae6762c101"
+    },
+    {
+      "agent_name": "resume",
+      "agent_number": 180,
+      "owner_hash": "da51cc6583483bdb426900f2dc8ea789e85a62a36f53fc3f60dba38b7e6b0607",
+      "claimed_at": "2026-03-09T07:10:37Z",
+      "signature": "64e6327f9abead11a5d9ca2744ea99ad32877ff91c13be8fa341f31eaedc25e67fd8248c16f41046a3fb90039ecc935930bf3e5139546c1ba101bb554efc0706"
     }
   ]
 }
