@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-09T09:32:20Z",
+  "updated_at": "2026-03-09T10:57:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1276,6 +1276,13 @@
       "owner_hash": "2eddca00c10d9bc5f2838bee38e1f5725ca5e274ba2c840e0e1936fdd24aa594",
       "claimed_at": "2026-03-09T09:29:45Z",
       "signature": "adc7995dfe06d214014860ebf9cf67441080b0ab9c515352785dfd3c00146d95cbb8e4f0408a0fb0e223dcc737cdd0b7b8f932477a856f4b1ef21226b7623e0e"
+    },
+    {
+      "agent_name": "sudo",
+      "agent_number": 184,
+      "owner_hash": "e737c5f14125bb0b43b9482e40445cde40df6b69d8c198aea3311770a1126174",
+      "claimed_at": "2026-03-09T10:53:10Z",
+      "signature": "1b29c583bec49e2b61caaecfa0fd82250acf0ef73ce526a5a5d154d25b9a270134cf3c110fe816405985cd5cffc56d49e9b48ce9b9c65898e6881f73e8968d04"
     }
   ]
 }
