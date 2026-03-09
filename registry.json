@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-09T09:12:27Z",
+  "updated_at": "2026-03-09T09:32:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1269,6 +1269,13 @@
       "owner_hash": "1a41df86e8bc0a3ef3b79c0145cc4246553e8fb7e30faf959ca3e298a351bfc7",
       "claimed_at": "2026-03-09T09:07:28Z",
       "signature": "79872fc83e13051412e1b0a07dc849ad255511f913eb1c495a541358d189889746d5758dd1b78a6cb41d84d31cb999dbad08d570e5139b759c36d88d20f97a09"
+    },
+    {
+      "agent_name": "wingman",
+      "agent_number": 183,
+      "owner_hash": "2eddca00c10d9bc5f2838bee38e1f5725ca5e274ba2c840e0e1936fdd24aa594",
+      "claimed_at": "2026-03-09T09:29:45Z",
+      "signature": "adc7995dfe06d214014860ebf9cf67441080b0ab9c515352785dfd3c00146d95cbb8e4f0408a0fb0e223dcc737cdd0b7b8f932477a856f4b1ef21226b7623e0e"
     }
   ]
 }
