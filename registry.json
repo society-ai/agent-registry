@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T09:27:37Z",
+  "updated_at": "2026-03-10T10:02:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1444,6 +1444,13 @@
       "owner_hash": "d23676446c0fe56252b047648ab5e028dfdc14d30b2576e3782d8e19314c31bf",
       "claimed_at": "2026-03-10T09:24:42Z",
       "signature": "b2b96b18c41f455965c8568a1b7eb27f3d83cef98b8f7e5af6c31cac87db519609c23364b6801e627d2043b8ed5a8f2b77c487bf771ab2305eef70d1a54f2404"
+    },
+    {
+      "agent_name": "excela",
+      "agent_number": 208,
+      "owner_hash": "b443ce1eac095e5b7044ee81bc927742f43474ba298bdfd08744c5624db7ae43",
+      "claimed_at": "2026-03-10T10:00:46Z",
+      "signature": "2e1233668f398a798294bbb13f93f1bcf7dda098818e3685ad20798faa929ea70dfcc263a7f6a2e15468032946ac77d841b7c8d8d4c8dd02f98285b8e9bbde07"
     }
   ]
 }
