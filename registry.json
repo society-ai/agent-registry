@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T18:09:31Z",
+  "updated_at": "2026-03-10T18:29:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1801,6 +1801,13 @@
       "owner_hash": "87b5d0229efd6ba5eac9d4ca3480050bddad452e0d50f4999e2a7991804265b6",
       "claimed_at": "2026-03-10T18:09:10Z",
       "signature": "97460f002976d4beb120426e312324391602d233406e21de0b27ce818135d4259b5b48110994624f534eb6ea1cbf584ae9f8b039e01dbf8c074ae7b3b954c90f"
+    },
+    {
+      "agent_name": "growthflowengineering",
+      "agent_number": 259,
+      "owner_hash": "2b0906296a7748314a5dbcd4c94043e3a92527fc6190409b4d0b1321910d6dcc",
+      "claimed_at": "2026-03-10T18:26:55Z",
+      "signature": "f657944cf4a63e2d6a95a3f9e2f9bacb42d32d2401752c81a225b245486f79281303c8283628b3ba420de7cb496da9c0272046f48628dd5ce20bad6786fc5801"
     }
   ]
 }
