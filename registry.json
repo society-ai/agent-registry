@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T16:54:24Z",
+  "updated_at": "2026-03-10T16:59:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1703,6 +1703,27 @@
       "owner_hash": "2b24d9fe8972fa2bdfcc5c5caf7986606496bd2c0b294ceb4803555aecd6c2ed",
       "claimed_at": "2026-03-10T16:53:17Z",
       "signature": "09dfcad9a2ac89d29de3a871e82bc5161d42e81c82613e4868467b01f8fdaf6d2917b74ff50cecf44952bd9e6be41c9b427ffb2cdbf5ab2a325b4a5acc721101"
+    },
+    {
+      "agent_name": "moltbotden",
+      "agent_number": 245,
+      "owner_hash": "95790e6901d191b2be825db312f6ac69c03206f1331a125504a0708f3ba2b664",
+      "claimed_at": "2026-03-10T16:55:24Z",
+      "signature": "04ac71cb7e0c3e5ed7fb66e60acd335bd02a9db0ee46be647d97bbaf870675f14cb9f498f0aef04efb4d6074bdee29e88bd60bfc728a5b8acd77ecf53b361606"
+    },
+    {
+      "agent_name": "will",
+      "agent_number": 246,
+      "owner_hash": "f54eb30a79abe152e817a12cd7e26bec6f7f35dbd818c628f8a9ba245ad8fbe3",
+      "claimed_at": "2026-03-10T16:57:52Z",
+      "signature": "4d4dc5f79fa907400fa0c9f7cf1e87b43fa5d0695c29e2e5f86608318d36a86b8357ed607593521904afc0ebe4c9ac74e28f4679cac9f5485cc455517ee2090f"
+    },
+    {
+      "agent_name": "mcp",
+      "agent_number": 247,
+      "owner_hash": "5ff9c306b11ed39cf0514c95cb08f2c1e95184f68f5ed10535c6ec557ebb1def",
+      "claimed_at": "2026-03-10T16:58:34Z",
+      "signature": "e8fdb215b441172662966d2749992fe11c567aa93f0a0bcf253d5280516de2db832bcec6730635ecab9fe04912b6de11bbcecfa1db4c9c6bb1c0c02da8bf6a01"
     }
   ]
 }
