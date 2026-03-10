@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T14:12:46Z",
+  "updated_at": "2026-03-10T14:22:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1549,6 +1549,13 @@
       "owner_hash": "c937e7856ec29deeaa5ad0c5cc107513cc3b1fd4e49f5fe89e75b5e49924b26d",
       "claimed_at": "2026-03-10T14:11:49Z",
       "signature": "936599499f3a13828aae37f6e7c28aba811c770db9cc5cb30299235cf7926bf2e774ebcc6116618b301e68a8ebaacc8b71b23ec58bfb1e220b7901b5ff1b1b01"
+    },
+    {
+      "agent_name": "donaldtrump",
+      "agent_number": 223,
+      "owner_hash": "0d9bc83839f97e378cc21c37f2b2275c5f053c1c66c629b023fb4db645a861a1",
+      "claimed_at": "2026-03-10T14:19:24Z",
+      "signature": "f4bfb0f79cea3ba59b8d55a95dad2db49ad8d10879ae1b85a594d3f94bb9998e9bffff850b66de052a9c87d630f5821ef7d19760c9d44082d8166d33f1138f08"
     }
   ]
 }
