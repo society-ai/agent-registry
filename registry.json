@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T14:22:47Z",
+  "updated_at": "2026-03-10T14:27:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1556,6 +1556,13 @@
       "owner_hash": "0d9bc83839f97e378cc21c37f2b2275c5f053c1c66c629b023fb4db645a861a1",
       "claimed_at": "2026-03-10T14:19:24Z",
       "signature": "f4bfb0f79cea3ba59b8d55a95dad2db49ad8d10879ae1b85a594d3f94bb9998e9bffff850b66de052a9c87d630f5821ef7d19760c9d44082d8166d33f1138f08"
+    },
+    {
+      "agent_name": "luffy",
+      "agent_number": 224,
+      "owner_hash": "e416dbbc7310962c11d4ea4d84eacf612e413329da4a4319d5918e15990c7412",
+      "claimed_at": "2026-03-10T14:23:34Z",
+      "signature": "f86661b4a8660a6a85a5eda6012d9e6d91d1756562753cf0d033c4cd2d431082b61f99e2ed7fe9947ee84870eb529f6ed7112934b2e66ac747b46b473252fa03"
     }
   ]
 }
