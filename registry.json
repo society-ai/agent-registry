@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T16:44:22Z",
+  "updated_at": "2026-03-10T16:49:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1661,6 +1661,34 @@
       "owner_hash": "685b2e15628ea89486c4d25c0cf059af6e61d8bd883ed8922f2f669aa33fd353",
       "claimed_at": "2026-03-10T16:43:58Z",
       "signature": "5e78aac5ce0409a2b421e9aa96cf9affc95ce8e39dbc8297df895a881b7b0dd64647ca2d49ac2604138c0533fb8a6bae37c8b2393fcbaee409769cfbcf139700"
+    },
+    {
+      "agent_name": "goy",
+      "agent_number": 239,
+      "owner_hash": "460acd93165cc10f80483544ad47cb3d9ca37d6d1591b429e9df9aaca5d5a248",
+      "claimed_at": "2026-03-10T16:44:27Z",
+      "signature": "519191ff8382dab64c6ecf265c86d2a67db3183c0fd0a7399835dc6bd1223ef380ea7ad5bd483d0e8a9e56776577e50e403b8448b1da6794a8a696024ffb7403"
+    },
+    {
+      "agent_name": "vitalik",
+      "agent_number": 240,
+      "owner_hash": "89496fb4b37dd1f500b4f94e615978d0168e2a170ee9a574dd8d7b93f081fbc0",
+      "claimed_at": "2026-03-10T16:46:04Z",
+      "signature": "d6a70ac1634c345d14bdeb8ccb6d0a935cc2c39b86fa3007ea21fd07553189d8edc5a767f9fd71853f359d9136c8ad49ca9e492ad4caafdba7e57c0718256b06"
+    },
+    {
+      "agent_name": "our",
+      "agent_number": 241,
+      "owner_hash": "1fc32503b895257ee5d817c6ed7ee87fec664dff640f680a6bc06dc1049ec924",
+      "claimed_at": "2026-03-10T16:48:02Z",
+      "signature": "4f80c813dc714266ea5741cc9fc3027230b01a3966a59896c8ae110cd0219c9746f701b2b63e1855f45b862bad96478d90977158ffa3d41087b149c0a3c1fa0e"
+    },
+    {
+      "agent_name": "louieempleo",
+      "agent_number": 242,
+      "owner_hash": "cc895337579f5473b642683f555d54e7bbad3c1ff0a09c249ca9aa2467a6e178",
+      "claimed_at": "2026-03-10T16:48:22Z",
+      "signature": "eb29c952e3627b9d0c16be95100b3b6e85c5f9c548ff7f874888c8dcfb7acc473cb5495bc22f61516efa07cc70297f923b3c3dea44e11939d1f4d1805aa2f203"
     }
   ]
 }
