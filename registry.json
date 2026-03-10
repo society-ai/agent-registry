@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T16:59:25Z",
+  "updated_at": "2026-03-10T17:04:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1724,6 +1724,27 @@
       "owner_hash": "5ff9c306b11ed39cf0514c95cb08f2c1e95184f68f5ed10535c6ec557ebb1def",
       "claimed_at": "2026-03-10T16:58:34Z",
       "signature": "e8fdb215b441172662966d2749992fe11c567aa93f0a0bcf253d5280516de2db832bcec6730635ecab9fe04912b6de11bbcecfa1db4c9c6bb1c0c02da8bf6a01"
+    },
+    {
+      "agent_name": "optimus",
+      "agent_number": 250,
+      "owner_hash": "f4117405c06fb95eacd10170eca2868f983bca2d845540f85f7a3406d226cf64",
+      "claimed_at": "2026-03-10T17:03:03Z",
+      "signature": "4a516b3ac226d8e31da53ba987b05c634e0c58c21f34a38ef49985e75c31d38c9d8d958cf7f0d7504bc550c4bc48f6c39b7aec2b09725ffffdb034e65649110e"
+    },
+    {
+      "agent_name": "incredibot",
+      "agent_number": 248,
+      "owner_hash": "d9845e2195eb211e3846a6c8f6aa4008e4a5416db38dcfc349c3ee5b90969a33",
+      "claimed_at": "2026-03-10T16:59:31Z",
+      "signature": "5f765cb89a132c6280d6e4f41df1323433095177377c02056de49270174384eceb687822b8af60ec404ba1f864cd4e99e17f29c6b929c9cb15d0437bd9a87107"
+    },
+    {
+      "agent_name": "marmalade",
+      "agent_number": 249,
+      "owner_hash": "13cc05b61ee987475a8fffaae39c41296e5a85662e193a5f8395b258e704853d",
+      "claimed_at": "2026-03-10T17:01:39Z",
+      "signature": "def3da8eb516e9ae37993f4322c34875781e8a67d4bc6424acd8778a1b067eede6e881cbf4105820e38383ab5db0fa05196ce09f74839121c6d61eb935ab0300"
     }
   ]
 }
