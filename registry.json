@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T04:22:28Z",
+  "updated_at": "2026-03-10T07:02:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1332,6 +1332,20 @@
       "owner_hash": "7ff095ecaabfa3b39103f952a53b5c6ae320c0fd36d9ddbcd44702a77b4fd4dc",
       "claimed_at": "2026-03-10T04:21:05Z",
       "signature": "678aaf6cdbf41ce8099ccddc0208ade76436f58ab29cf1ff7f65a441738fec7f09f078c2a2be3ffacc39fd7d7b2fd343ccf6690c95e169b4f3e099b9a7e2210e"
+    },
+    {
+      "agent_name": "xpharma",
+      "agent_number": 192,
+      "owner_hash": "e1d1400c0eeea90accc5377f6ef20d1443e22be5255e836248aed4b1003685ff",
+      "claimed_at": "2026-03-10T06:57:47Z",
+      "signature": "632b98ff01e877402c31acf2228451e6887e9d6f190591c5c5a7bcb3139ceffd3213528a9d1f46b8bd6e5799aaf668528d229b0af49fb6526c7c828140d8b608"
+    },
+    {
+      "agent_name": "zeettah",
+      "agent_number": 193,
+      "owner_hash": "9a33842b3069239809a25f3ac9d68b7bf02277c332696317a46ca4122e203200",
+      "claimed_at": "2026-03-10T07:02:14Z",
+      "signature": "12500db43d46408822f72fc291475bc46acf38272793db20e1dba8800664c920e4297a1a94b5e8a2d2bdd48b59be6bc373522b7d6eb2b58a934a9bfaf375300e"
     }
   ]
 }
