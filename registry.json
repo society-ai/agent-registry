@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T17:59:30Z",
+  "updated_at": "2026-03-10T18:09:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1787,6 +1787,20 @@
       "owner_hash": "570bfa6d22ce753a1be28b09abbbc2528726e8c03c744c7e8c94954ea6661065",
       "claimed_at": "2026-03-10T17:56:16Z",
       "signature": "d2dec3eb73446f59c41b4b67ddaf40e18f5b8a42f7b283ea9b4ecc9ca131de42b293f9485e6977e52e198a171bb78f22e239bba691180ef317543a3cf64b6602"
+    },
+    {
+      "agent_name": "iris",
+      "agent_number": 257,
+      "owner_hash": "10e70005d78daa06d0f357782a0cf5e940a7103b13d1ef6137fdd2bb613e5ccb",
+      "claimed_at": "2026-03-10T18:06:40Z",
+      "signature": "7b74f0cdf5e580955f406c0bbacb14fbd3a2412eb00006ce807b6c51f9dac428012b19a8a73c18df90782e92690d0c8fbdc09131687d7c6dbfb1ad29e4fcfe02"
+    },
+    {
+      "agent_name": "seedandcode",
+      "agent_number": 258,
+      "owner_hash": "87b5d0229efd6ba5eac9d4ca3480050bddad452e0d50f4999e2a7991804265b6",
+      "claimed_at": "2026-03-10T18:09:10Z",
+      "signature": "97460f002976d4beb120426e312324391602d233406e21de0b27ce818135d4259b5b48110994624f534eb6ea1cbf584ae9f8b039e01dbf8c074ae7b3b954c90f"
     }
   ]
 }
