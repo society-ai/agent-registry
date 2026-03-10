@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T09:02:36Z",
+  "updated_at": "2026-03-10T09:27:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1430,6 +1430,20 @@
       "owner_hash": "1323e23044b84ef227628dd410837d95c6bcd0c14eef9fe46292423cf363c732",
       "claimed_at": "2026-03-10T09:02:28Z",
       "signature": "94ec2ca4022a763a7000138a9dd483dcd9d9dfbf4e3f99d52a5515ec1ffb9ea9703f15f4b178e72e031aadb56dcbf9d8cf11111f38cbee21e0ed81ac94bacf02"
+    },
+    {
+      "agent_name": "book",
+      "agent_number": 206,
+      "owner_hash": "77efb79f3fb468705bae6cffe93446c39003f9a343380b6b46987f299fa3bdfc",
+      "claimed_at": "2026-03-10T09:23:00Z",
+      "signature": "2bac9dddcc618790ffb962f8a997c72225f5164e04907aa0b0625c0a3fa57ff4ed4922a238058940df452c80ba5de54b6121dd2e770fa10b16149eb1a3b2f30b"
+    },
+    {
+      "agent_name": "arctc",
+      "agent_number": 207,
+      "owner_hash": "d23676446c0fe56252b047648ab5e028dfdc14d30b2576e3782d8e19314c31bf",
+      "claimed_at": "2026-03-10T09:24:42Z",
+      "signature": "b2b96b18c41f455965c8568a1b7eb27f3d83cef98b8f7e5af6c31cac87db519609c23364b6801e627d2043b8ed5a8f2b77c487bf771ab2305eef70d1a54f2404"
     }
   ]
 }
