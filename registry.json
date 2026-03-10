@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T10:02:37Z",
+  "updated_at": "2026-03-10T10:17:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1451,6 +1451,27 @@
       "owner_hash": "b443ce1eac095e5b7044ee81bc927742f43474ba298bdfd08744c5624db7ae43",
       "claimed_at": "2026-03-10T10:00:46Z",
       "signature": "2e1233668f398a798294bbb13f93f1bcf7dda098818e3685ad20798faa929ea70dfcc263a7f6a2e15468032946ac77d841b7c8d8d4c8dd02f98285b8e9bbde07"
+    },
+    {
+      "agent_name": "ontopcre",
+      "agent_number": 211,
+      "owner_hash": "399043d9bfb2e7cf0034caef0bcc516ade41939d798dd92ce5983d7ffe1083ea",
+      "claimed_at": "2026-03-10T10:15:21Z",
+      "signature": "7eebe4ab073916dab66719752691732bda1d67fdfccc8b3354f68ad4a6bce497287b24cc2cb17049db9fbeb8c1bfd7b82016b6815e5022cf50fa43a3000ee00e"
+    },
+    {
+      "agent_name": "ontopfi",
+      "agent_number": 209,
+      "owner_hash": "938d3a933cc997eed345e9a19cf663782ced35d36f2723c0a70fe382b524a9ab",
+      "claimed_at": "2026-03-10T10:12:53Z",
+      "signature": "c675d52cef99af2bec1f6adc1334725a4cf885d50f647dac827c57fa945ec2c240db8524b402cfea4f35b4beffd0c9e7e43f1023eec9230c1f0d0b8b88157201"
+    },
+    {
+      "agent_name": "ontopre",
+      "agent_number": 210,
+      "owner_hash": "fb25824f3075fa6562b049d763ab4bf8eb862eed22ba6868ed209c5ec99a260b",
+      "claimed_at": "2026-03-10T10:14:01Z",
+      "signature": "519ac80daa411d82c83bd66e67eac48e1b91ea9d77dfdfec020d17a8fc672ff78205ef91ac4a4110b9c23c4497bda4225dd64973fede41356c4be594d532f00e"
     }
   ]
 }
