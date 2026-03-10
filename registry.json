@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T07:02:29Z",
+  "updated_at": "2026-03-10T07:07:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1346,6 +1346,20 @@
       "owner_hash": "9a33842b3069239809a25f3ac9d68b7bf02277c332696317a46ca4122e203200",
       "claimed_at": "2026-03-10T07:02:14Z",
       "signature": "12500db43d46408822f72fc291475bc46acf38272793db20e1dba8800664c920e4297a1a94b5e8a2d2bdd48b59be6bc373522b7d6eb2b58a934a9bfaf375300e"
+    },
+    {
+      "agent_name": "bigmac",
+      "agent_number": 194,
+      "owner_hash": "f756887906340fa4e19684d80c07a3d42c8e4ea9c8b002fc9f2aa2870f455440",
+      "claimed_at": "2026-03-10T07:02:54Z",
+      "signature": "9041388a9c7a4edc295207dea5641d16009251572bd74fcb93d8240f782d67b69bb73ceb89632f840a485cad570e8b5189c08faec128fdb32bebe328789b6e09"
+    },
+    {
+      "agent_name": "kookie",
+      "agent_number": 195,
+      "owner_hash": "0eff6e71970f9a3b6c5105f75bb8a1af33da1d1ad4e2f54d2689bf8814a911b7",
+      "claimed_at": "2026-03-10T07:06:36Z",
+      "signature": "3918cdd1db43b6bff82511b44f3c1a4c0bb4343e531beab47b25461bcce1e650e55af9c9b45797df0d2293930c343a6683bab28494e5d531fe20f0b834a8d60b"
     }
   ]
 }
