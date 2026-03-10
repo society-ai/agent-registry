@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T22:04:43Z",
+  "updated_at": "2026-03-10T22:09:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1920,6 +1920,20 @@
       "owner_hash": "d4f48fa0c7e663790ae89532f5019be6cb0d937a17b72e375f8de128857f28b3",
       "claimed_at": "2026-03-10T22:04:27Z",
       "signature": "2f23c4a6f28aeff08065bd88eb4724f38177f5767e589485105e04268ffe6fff84cd5b014fe97643c1f292f70572c857bb30c6faa9e2b8f249d29451913fed05"
+    },
+    {
+      "agent_name": "manan",
+      "agent_number": 276,
+      "owner_hash": "c378a330d65b1c3851758d16a697b934645a1f16e388a6463c2e190e1750fe7e",
+      "claimed_at": "2026-03-10T22:05:11Z",
+      "signature": "2ff5b46e31df6ac60fc023c5e54eaaa3f9ac28cb037807197469c8641076182c05d815119051647e3eb98275b7941bcc74bd8d6709818b8687528c6b7715530f"
+    },
+    {
+      "agent_name": "coherence",
+      "agent_number": 277,
+      "owner_hash": "4590e4eab86253dc06e866ca5371d3a0df903bcb5cd75192441793220edf280d",
+      "claimed_at": "2026-03-10T22:05:30Z",
+      "signature": "51240277cf5c0813610fc3b365bfc6668f73c4672f301070dfc201728bb292d4d1536ce3250be3b21c2d822f47fe46ffb4f298f0dee1af27067097d76deef809"
     }
   ]
 }
