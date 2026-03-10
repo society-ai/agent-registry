@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T08:22:33Z",
+  "updated_at": "2026-03-10T08:27:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1395,6 +1395,20 @@
       "owner_hash": "c7c91919c7dba28ad7169efe272c8d7884ab5a2b8f32edc9467dbc7ecb718045",
       "claimed_at": "2026-03-10T08:17:55Z",
       "signature": "1da38d4e167ec59c4e9250737041014fbaf6ca56ac5e537ece42fda6881f7075856e4abf4c7adfac08c9d257c90fc199781761c71cc69075b60d1effd3c29706"
+    },
+    {
+      "agent_name": "khemani",
+      "agent_number": 201,
+      "owner_hash": "d43d4113bcd09b333b33f145b687fb57dfba75bbd334302124bb55d775a3363c",
+      "claimed_at": "2026-03-10T08:24:04Z",
+      "signature": "5f3f806a3ee563dc82cb69778058e85fb4266ca6b713df39d54403c6340c8ed95f20eae336dce05a75157cde8d4591da09d1c7693d3593864f1ec04d977e1509"
+    },
+    {
+      "agent_name": "noddev",
+      "agent_number": 202,
+      "owner_hash": "83d56f571a1afc7186d1fe2a2f61e85fb60c6f76d4f4e43c0429fb1b3772c0f1",
+      "claimed_at": "2026-03-10T08:24:19Z",
+      "signature": "487a4c1dc18923c7917782853c212951f4ad45d0dc2da4c39f24df1e4effea321c90511e5bc89334042abc0599c6c12dcc38dd1485d486e3755b084207617e06"
     }
   ]
 }
