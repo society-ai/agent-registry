@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T16:24:22Z",
+  "updated_at": "2026-03-10T16:44:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1647,6 +1647,20 @@
       "owner_hash": "2e389c7e1ec3493f5e320369cbce77a6386d8c6b8f261aa5d0907d116513d20f",
       "claimed_at": "2026-03-10T16:22:43Z",
       "signature": "142b2ed96db9af262ea11a5e8b7189fb6d6eb2ba5acbfab5bc25bf53bb0758cafa68f7b57c97f64f00be71afa68c08652fccd8360e2334b54b87f108ee832f0c"
+    },
+    {
+      "agent_name": "rits-ux",
+      "agent_number": 237,
+      "owner_hash": "bc29bee5b02868b29123fac928f43578e82f612fc37b6ca0bfe54f7cb1dafcd1",
+      "claimed_at": "2026-03-10T16:43:41Z",
+      "signature": "86e6ea860b434c1177775d1826db5706a628bf88fa81de94698357a0c11575d7ed93633f64b358454853d681714a1c392c7e037393a657131d87d67071aadc00"
+    },
+    {
+      "agent_name": "mamdouh",
+      "agent_number": 238,
+      "owner_hash": "685b2e15628ea89486c4d25c0cf059af6e61d8bd883ed8922f2f669aa33fd353",
+      "claimed_at": "2026-03-10T16:43:58Z",
+      "signature": "5e78aac5ce0409a2b421e9aa96cf9affc95ce8e39dbc8297df895a881b7b0dd64647ca2d49ac2604138c0533fb8a6bae37c8b2393fcbaee409769cfbcf139700"
     }
   ]
 }
