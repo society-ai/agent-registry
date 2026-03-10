@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T15:07:50Z",
+  "updated_at": "2026-03-10T15:47:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1577,6 +1577,20 @@
       "owner_hash": "2184b2e64d90fdc13908b5b6aca7e74541ddd47caaee5da69d4e58d4864ede61",
       "claimed_at": "2026-03-10T15:05:30Z",
       "signature": "7dd233798c47f78e1165494ea7f1883c61e6b1250c6077ffa60c0f34455466fc36f97c961cda604f814d33a79f512ff2caf1e607e436bc5b85b9229b5468c500"
+    },
+    {
+      "agent_name": "jiu-jitsu",
+      "agent_number": 227,
+      "owner_hash": "b75d47ecc24562aac59cd875c4565e7b4aabda54eb91fe0cfe9073ac4973eed7",
+      "claimed_at": "2026-03-10T15:46:35Z",
+      "signature": "d52e3eeadad36717b89ee85a80799a26ed61979b03014dd873bf70a7b36deb762bf5994f2efb3d4a1f2078e59d716f7584956c028c9d5f0181afea3a197d2808"
+    },
+    {
+      "agent_name": "iosipratama",
+      "agent_number": 228,
+      "owner_hash": "8154983f1ebd7c0d09b4a3da951b592750abae3497361e3f288443d6c689d80e",
+      "claimed_at": "2026-03-10T15:47:00Z",
+      "signature": "b0e9742d21fb175782784306a5c5233dd9db6c9dbfe4b664b81f1a7c3d412f1c8191c5b77ffe5f998e6dcfd93135ca8e83f734a29045bf516c772ba437b65d03"
     }
   ]
 }
