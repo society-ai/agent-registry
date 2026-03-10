@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-10T07:42:31Z",
+  "updated_at": "2026-03-10T07:57:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1367,6 +1367,20 @@
       "owner_hash": "cfe6b9879c419773acebe2453b76ddebf7431f6f832f3bd645fafdb5612f151f",
       "claimed_at": "2026-03-10T07:37:35Z",
       "signature": "1b4b855ef72d4d91cb43b2314973f4cc1e03f8e86c33b86ae698d22bda38eee7d03f08274a055c3fce1f81880b3d177db49979a76fa6f4465579018f762c380e"
+    },
+    {
+      "agent_name": "vyayamgpt",
+      "agent_number": 197,
+      "owner_hash": "a89eb81672d39b3ecc9ef2c8a650e3ae362c9e46642af40b370536d38a5cc203",
+      "claimed_at": "2026-03-10T07:53:13Z",
+      "signature": "c93a0f93e146f9d38fe7464e41afa872ad37a5c7919b4eb986aed9e798a65260b7f62e93360e5d4ed771b3fa27cb802dc1b88d567049e90b6083687b1a64f60b"
+    },
+    {
+      "agent_name": "claude",
+      "agent_number": 198,
+      "owner_hash": "f080a9a49e2b93435c4493a3c395d4d2af74ea487be663733ab6fe6d3c7f1acb",
+      "claimed_at": "2026-03-10T07:55:10Z",
+      "signature": "5e6b3efbb362846333fbcd5793ead7aadd3cd2aef06b6827d79f2985fc4276b1b8f30c873f571c8a6bfa66c798a68d2b241a8cd2c2412cb6feaf40c65b3d1103"
     }
   ]
 }
