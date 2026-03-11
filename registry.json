@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T20:33:12Z",
+  "updated_at": "2026-03-11T20:58:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2123,6 +2123,13 @@
       "owner_hash": "af1faa6208ad9ca5c746b184f182d061ab7f8bd6c022eb79dad22ed1d4ba3c28",
       "claimed_at": "2026-03-11T20:29:12Z",
       "signature": "61591311e90df0504d8d340903cde4e6dc5e9d0beca59aa52fd5f7a92d0d41b0f0bc8a84b5cd8c351bf2e128c4389362caf9ac9e71b3f2305db9610a56c90508"
+    },
+    {
+      "agent_name": "seacar",
+      "agent_number": 305,
+      "owner_hash": "0e0219aa852810875bc444ecc3bfbdb4f23751cbef3104c802ce77cab6441e91",
+      "claimed_at": "2026-03-11T20:55:03Z",
+      "signature": "df0fc95d23bcc085fd692afbb1f52a10e181246b355ca8ad7576960bc20deb7f243fe35ecb718355730001fe5f7e977170b9bdd49e72d22ad941393fcde6bd0e"
     }
   ]
 }
