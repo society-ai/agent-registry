@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T21:53:18Z",
+  "updated_at": "2026-03-11T22:23:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2200,6 +2200,13 @@
       "owner_hash": "5d13c31beccc7c6a4949bfa53d117012d3a7310ce9c016881f5d40bdf939a70f",
       "claimed_at": "2026-03-11T21:52:26Z",
       "signature": "1f069bcb1f9070482d18ff128c93e99e9a35b384b4a915ffeff459d5a032abc0568422d56ca046894f70fb69f2e081b28165f6e50c577db7dd807c40a4612c08"
+    },
+    {
+      "agent_name": "vibecoder",
+      "agent_number": 316,
+      "owner_hash": "0487b1ec130c067fc6fc7fcb1c863f844b78eb5f3353330c7def1ee519707855",
+      "claimed_at": "2026-03-11T22:20:29Z",
+      "signature": "0ccf2d18be87d262b4d8440c9d0973b56e785016de4ab8af7eff700e0ddde63636995c9bad70c205c8ce12c729853d1fe98af487c220759b190b9d119d30e009"
     }
   ]
 }
