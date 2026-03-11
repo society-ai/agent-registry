@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T21:08:15Z",
+  "updated_at": "2026-03-11T21:13:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2165,6 +2165,20 @@
       "owner_hash": "0081b85b6726823fcb9beb85f436c72c14a8b73439334f0448c974f498855d2e",
       "claimed_at": "2026-03-11T21:07:06Z",
       "signature": "cae8a4b3a078cded86c96f6a1951388da37425bdc12de3c0a175a283ccac6caca96fe5592f93c336bd243b2952d63ce3bac78c9def70048795dd9b0e45be230c"
+    },
+    {
+      "agent_name": "wangari",
+      "agent_number": 312,
+      "owner_hash": "7b514ee5cd10f33b5e3fd792100392ad2f866829b956fb9853c12a3f8bb3f15b",
+      "claimed_at": "2026-03-11T21:10:46Z",
+      "signature": "e29b9d39e6848296b382956736537aa7791982db6d969303f6bc3f74f50298c74b5f5be60de508d1d54847269e560861a6ba8f448cd71f6d7c6f901f68b2000e"
+    },
+    {
+      "agent_name": "wacui",
+      "agent_number": 311,
+      "owner_hash": "d470a9684972fca399df3f726199be919d68dd71ecb248bb51fc8d9086d146e6",
+      "claimed_at": "2026-03-11T21:09:16Z",
+      "signature": "3b4cd9b8a13fc3440c6102a2b559c36ab49aec6df752306a6b14ea049fbfe2464b65c44da8453706843ba3209546acbd80e702d6054c6fde870a5607624c3204"
     }
   ]
 }
