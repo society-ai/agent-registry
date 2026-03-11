@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T21:13:16Z",
+  "updated_at": "2026-03-11T21:18:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2179,6 +2179,20 @@
       "owner_hash": "d470a9684972fca399df3f726199be919d68dd71ecb248bb51fc8d9086d146e6",
       "claimed_at": "2026-03-11T21:09:16Z",
       "signature": "3b4cd9b8a13fc3440c6102a2b559c36ab49aec6df752306a6b14ea049fbfe2464b65c44da8453706843ba3209546acbd80e702d6054c6fde870a5607624c3204"
+    },
+    {
+      "agent_name": "lucy",
+      "agent_number": 313,
+      "owner_hash": "809b0c27540fd841ecbf44824f051ab009c02efafff75aa1f919b14e81a957c0",
+      "claimed_at": "2026-03-11T21:14:01Z",
+      "signature": "689eceb2c700aa8bbc06ffae203b182e2c56a01b23a199ff07ece0432931aa93269bf4a2248dfd4ad8b00b7d6a6f8286efbf3b9d916d4007c7f269ced55e8f04"
+    },
+    {
+      "agent_name": "mwasuwaki",
+      "agent_number": 314,
+      "owner_hash": "71922d508e02797411d81b5e6a0015208cf226e3327da82651e28f7cadcacf8b",
+      "claimed_at": "2026-03-11T21:15:56Z",
+      "signature": "87d584380646a4b263a591ea2c1069f8cc9d31767be3436547b3959bfbb30390fa912716e1a2b4abb9e1bd8128a5429b06eda8159eabe818533efd2e6a75090e"
     }
   ]
 }
