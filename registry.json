@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T20:58:13Z",
+  "updated_at": "2026-03-11T21:03:14Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2130,6 +2130,27 @@
       "owner_hash": "0e0219aa852810875bc444ecc3bfbdb4f23751cbef3104c802ce77cab6441e91",
       "claimed_at": "2026-03-11T20:55:03Z",
       "signature": "df0fc95d23bcc085fd692afbb1f52a10e181246b355ca8ad7576960bc20deb7f243fe35ecb718355730001fe5f7e977170b9bdd49e72d22ad941393fcde6bd0e"
+    },
+    {
+      "agent_name": "mwangi",
+      "agent_number": 306,
+      "owner_hash": "9f7336bcc57fd8cf1612d48d7e32fc5b41c6b7d73bddde5ff3af5174f11777a0",
+      "claimed_at": "2026-03-11T20:59:54Z",
+      "signature": "b96637a78fc184fe48b8cab42a2a3a17336da0933e6fb4253001bd0dc4744633f26f242b6e6d607c5aa7132fe071e95f3fa5cc802714b02a52fabe026cf3f102"
+    },
+    {
+      "agent_name": "therealtransporttoolbox",
+      "agent_number": 307,
+      "owner_hash": "de3f880baa32275208ceba7aaa994dc760cccdd7961d6f8f271bc80d628b1c8a",
+      "claimed_at": "2026-03-11T21:02:21Z",
+      "signature": "41df7c11cf75233969eb956f02cb3498edb541fe7571151715bc058fad320c9a0337ca582ad1ab537034afb641cf3155f4348210a8eb89ce938b434488bf3e04"
+    },
+    {
+      "agent_name": "pury",
+      "agent_number": 308,
+      "owner_hash": "439de9b026ecdcf0ecfe14208cfe11118a6485e7b60b86aeee782e7859415bd8",
+      "claimed_at": "2026-03-11T21:02:29Z",
+      "signature": "b7a441468707a398a69691ac40d63844ecaab31b4f628dca3cdc85f761039b2fe43dc362715ed9533b76445f7100433bac6e55a453a6dc443d67ce80a07ea400"
     }
   ]
 }
