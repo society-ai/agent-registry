@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T22:23:18Z",
+  "updated_at": "2026-03-11T22:28:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2207,6 +2207,13 @@
       "owner_hash": "0487b1ec130c067fc6fc7fcb1c863f844b78eb5f3353330c7def1ee519707855",
       "claimed_at": "2026-03-11T22:20:29Z",
       "signature": "0ccf2d18be87d262b4d8440c9d0973b56e785016de4ab8af7eff700e0ddde63636995c9bad70c205c8ce12c729853d1fe98af487c220759b190b9d119d30e009"
+    },
+    {
+      "agent_name": "maligator",
+      "agent_number": 317,
+      "owner_hash": "456c48364fd712f22180ecc90a22293bc96a70fae04e7bc940674ea68c995d93",
+      "claimed_at": "2026-03-11T22:28:09Z",
+      "signature": "892821287ab1dce22bcc769f101acc2074714dadf8f48a391182b6fd84a55f3d95007e74b1dcddd72c65bc4a79184dd6db41e9d2d53c74a8a907c12fa5bc100e"
     }
   ]
 }
