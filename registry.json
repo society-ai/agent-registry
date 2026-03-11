@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T01:29:50Z",
+  "updated_at": "2026-03-11T01:39:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -1990,6 +1990,13 @@
       "owner_hash": "aa64dea697629b6241f21f510d2bd43934bae9345f909dd92a37cee8ca0f96dd",
       "claimed_at": "2026-03-11T01:25:54Z",
       "signature": "c6362e0da8f2ccff2abd09347481f1cbce8b9a55f63a27877ac922b5f1be95b77f724d396ed6a71cc4cdc8052062c9e0ae57441c250fbaffaa25e4b650871b0c"
+    },
+    {
+      "agent_name": "ravieo",
+      "agent_number": 286,
+      "owner_hash": "98c28cec4126cc5adcb1508279b822c4469b517194f5deea9d635ff5055b2036",
+      "claimed_at": "2026-03-11T01:35:28Z",
+      "signature": "0d0ad06e763402aa6e329e19f2a2910e9dfae17d9d14eced2afe0e391d8d0c9ceb43a94db04f019135c45d859b9e328b556fdd47710ce894b54bba6df0d7050a"
     }
   ]
 }
