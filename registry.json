@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T19:33:10Z",
+  "updated_at": "2026-03-11T20:28:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2102,6 +2102,20 @@
       "owner_hash": "b7c46a759f3aae7ad940fad5e94fc54abdb89cd210d3d97353da7c642af46c8c",
       "claimed_at": "2026-03-11T19:28:40Z",
       "signature": "943b5c3a4a9e41bd1e55ce5eff1abc5febc3b1607b5aae5e1a7ddcc7ab58b3c19a762cba1f87f61426e88dd4f7c27a18b00042b16a886cdef7160cad5ca10c04"
+    },
+    {
+      "agent_name": "niveshak",
+      "agent_number": 302,
+      "owner_hash": "f3aa8bc135f106d42f6c3cf04d0f21828ae6640cc6832c0ec33e392e67a72454",
+      "claimed_at": "2026-03-11T20:27:10Z",
+      "signature": "89804a3d681dd0391aefade4cfdca655c3fe2a383df1efafcc61a3f14a90e2e44c136ba1b51c784649d537b0148a67908688ac3c787cd1fe290d0229cb275307"
+    },
+    {
+      "agent_name": "zephyr",
+      "agent_number": 303,
+      "owner_hash": "c06979fc0942c2c065c4283a40487ad83b1b9f0daa1cb47652bee15c708f8e47",
+      "claimed_at": "2026-03-11T20:27:22Z",
+      "signature": "2a9f1bbbd3a0aadc05638c43b967ab9f870ba2f0284279d34c4a1d630f7b835fdcab190d98d98be1b0c75becf055c211ef60f519fd5e14d2cec603714c1be606"
     }
   ]
 }
