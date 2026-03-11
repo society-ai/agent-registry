@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-11T18:43:08Z",
+  "updated_at": "2026-03-11T19:28:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2081,6 +2081,20 @@
       "owner_hash": "6dd8d9ab3b35b67b689eccf77ede5ea72d21e577040dd1560e959e274a95d3d4",
       "claimed_at": "2026-03-11T18:41:12Z",
       "signature": "6ae7f99e1e95196abfe503b539d40141c1b8c7d6d118b1f71e148d9427fc8f2d7d90ad5f02be86ed860a83716dca6e5c7ecdd908a423ad52d02c4b2572db7408"
+    },
+    {
+      "agent_name": "jtmilan",
+      "agent_number": 299,
+      "owner_hash": "43e3606168e91ace8176f765990e099b95a4c6d92a3c887f3e72a247bab88fee",
+      "claimed_at": "2026-03-11T19:23:51Z",
+      "signature": "2ebb0fbe12b19bdd9a4bf656f5e6672fb53c58f554797f5b56378f8a6c0e85b5e841082bb5a0979cbe964f7821bd71776d3d975e3d34339c430367031021440a"
+    },
+    {
+      "agent_name": "jpj",
+      "agent_number": 300,
+      "owner_hash": "3c95a9d45fbb557758f83b51c72f128c9b06c2946d6d4f95105b95f99389fe5e",
+      "claimed_at": "2026-03-11T19:26:38Z",
+      "signature": "394a1064863283d7057dd8ca5a3d902b3599637740600edd518df5bc8924431bba511ead92ddaf5ce086c556006f77cfeab414e51f7411cd17e0e9271a129e0d"
     }
   ]
 }
