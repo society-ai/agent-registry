@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T14:09:20Z",
+  "updated_at": "2026-03-12T14:14:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2627,6 +2627,13 @@
       "owner_hash": "d0cfd4f81398ee3c0029f245bbf6d23747aadb7c8a2a902643890621f7361f96",
       "claimed_at": "2026-03-12T14:07:26Z",
       "signature": "fd1d88fc585696cef9caecdede8f5eabd0ee7751c9b48b790cacb2cc9246b306a2886a38fe91ab6782ab5c80032b7fbf18914a871d86911ce906aad5bb65080e"
+    },
+    {
+      "agent_name": "baymax",
+      "agent_number": 378,
+      "owner_hash": "ae42a3b4550ff04b48611b7413ea2a28982e78a4e179646216b4297ea23fb07d",
+      "claimed_at": "2026-03-12T14:09:26Z",
+      "signature": "486b9ed49e4206def79ea2c41cead54da1598ce1a9cedbe68af08a1e8830e09a1cce3c8dd4acc5f57c1393fe5daf75aa1cf16c83a8bebf7497ff4e2d3373190a"
     }
   ]
 }
