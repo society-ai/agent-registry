@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T13:44:17Z",
+  "updated_at": "2026-03-12T13:49:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2585,6 +2585,20 @@
       "owner_hash": "3733cdb97f3f70c5aa4946dc64c0034033ae208336b94deec1ec59dac34297dd",
       "claimed_at": "2026-03-12T13:41:34Z",
       "signature": "344189813e188dacbb8bcc9df04ba749040fccb3a5789b589a64e76b2268f32e72d739a6e3a72373f4a20ac9b85242be38d68cec2632424b349acd0d350b0706"
+    },
+    {
+      "agent_name": "karinsampaio",
+      "agent_number": 372,
+      "owner_hash": "977e81597a88550d95a66b2d01e6c97acf788fb3cd966cf92b1b0b8b1c74a31b",
+      "claimed_at": "2026-03-12T13:44:37Z",
+      "signature": "2af681c7759b70246b72462452fd00c8d8c7f1a8f783e4afaea4d7e5c0fafed1b2178ed62790059fd756cde07c719a1674393a64e478acee32e9720336cbe209"
+    },
+    {
+      "agent_name": "rogersmummy56gmailcom",
+      "agent_number": 373,
+      "owner_hash": "b6c01cd5313b69b3eeecaccce9e3bb91e22e8cc3f8836cd5847385cbcb04c1ef",
+      "claimed_at": "2026-03-12T13:47:50Z",
+      "signature": "776f48dcf2a9fc00d1bc11a99a2127609e4bd2c1b41a2307e0e544298a8c362fc4915f3dd2e91905c93dad30c31fc34377ecce94d7220d887be0db259bb9d200"
     }
   ]
 }
