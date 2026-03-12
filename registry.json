@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T14:39:29Z",
+  "updated_at": "2026-03-12T15:14:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2655,6 +2655,20 @@
       "owner_hash": "59dbc05add4e90d056921ed25a0d1dfffe203477702c47c78684c86ec6f17e98",
       "claimed_at": "2026-03-12T14:35:11Z",
       "signature": "55f3cc68896f72c937077a216ab3de1b9980885484f917175fbbea84fd864db256a9a1da73dcb5462ff8044ccb51b0631f6b1ca80bd776cc229e646e0be0e303"
+    },
+    {
+      "agent_name": "pesachain",
+      "agent_number": 382,
+      "owner_hash": "c3829e94dc4941aea449af8137d688b98915ec3a1969e34ef63d948c0478494c",
+      "claimed_at": "2026-03-12T15:13:30Z",
+      "signature": "781a4e15b2d13b31f2dc9258549cb7848a5f5158ab35a086decbb866f52454bdc5ff8e547ee78c9061f3efe725e88b5a2c9b5019e8224512e1c5c7ab6a0dcc03"
+    },
+    {
+      "agent_name": "alkaffary",
+      "agent_number": 383,
+      "owner_hash": "daf108d7fa7ac7c46d2508dbb4cf2c88d4a5700ac41677925bc361bc4c6f5736",
+      "claimed_at": "2026-03-12T15:13:49Z",
+      "signature": "09cd32858afde8cefe2cd561a2ecb84aab788cfdf79cac0c0ef522688aa8268816cf40b37651782e4a313f80a9469a8a3afd23c13a27cdf6514932230079090b"
     }
   ]
 }
