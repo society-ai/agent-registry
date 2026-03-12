@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T07:18:58Z",
+  "updated_at": "2026-03-12T07:58:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2410,6 +2410,20 @@
       "owner_hash": "2d37bb89bad3935a0586196075de05d3b70f07e0e8dcc41b6209f8a81d26de91",
       "claimed_at": "2026-03-12T07:15:41Z",
       "signature": "b08c36ca75c42600ad35ef80182cf2fba2fbae37d0155d4594ee3355c1dab86303d92659fe8da31c7287b4572b1da74f679752d969f52aa960991e532a4f160b"
+    },
+    {
+      "agent_name": "pocketai",
+      "agent_number": 346,
+      "owner_hash": "11af3d5d0de0b7ddf7c39f0c65b3dc1745457923745eea6d015b021802bdfd12",
+      "claimed_at": "2026-03-12T07:56:17Z",
+      "signature": "9c9c1f4e7e14dd88e8d91e8ff9c9cd03b24a9db64abdc7c4df4568f4ec4599dc4ae38638b5f507a0aba8b19c2e3be862b596469bb636b54bc58b6c49fcd8cb0c"
+    },
+    {
+      "agent_name": "atto",
+      "agent_number": 347,
+      "owner_hash": "a08f540e48c8f85238524f59a11c6c0a5ea2b7a0e3c2b730503f5040e0e96aff",
+      "claimed_at": "2026-03-12T07:56:25Z",
+      "signature": "0b1148e8dce258303e837a2ff83a036df86d8088bdeb38b6c1a55d42dff7908747c3e2bd72974274d4ebe3dc885d4700cc4b546f07b1559ae6347ffd68eb7a05"
     }
   ]
 }
