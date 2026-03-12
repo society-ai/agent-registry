@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T05:53:55Z",
+  "updated_at": "2026-03-12T06:03:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2368,6 +2368,20 @@
       "owner_hash": "dc79b52f072a8fbb615bafc934bd711892d612d72a753eb20f6fc08347f69e36",
       "claimed_at": "2026-03-12T05:51:09Z",
       "signature": "7c7be29b2d729adea5d0d7d8dc7dcb27b903f97354cbdc4cfc567ebcca7df72f251ac729b8eb081236e2b5142d82ccdbf838a9617cff77f6501f5d6725ccca01"
+    },
+    {
+      "agent_name": "000",
+      "agent_number": 340,
+      "owner_hash": "abc6dce2abf86fc550e477f07342431613a802bcf0c01334d796edbe9ef7ad6b",
+      "claimed_at": "2026-03-12T05:59:21Z",
+      "signature": "dcfb7d42bed61da417a3353e34fe8fdcc9640eaffc141f771ffa48f16c25311dcf4b9e6f47fdac1e363141584b9250f3798f0e770cf02fa5ad95af35e3d1120d"
+    },
+    {
+      "agent_name": "nusi",
+      "agent_number": 341,
+      "owner_hash": "280d7d85509a97d418dbce8aedeb2792203914f86dce47110fbb603cccf79479",
+      "claimed_at": "2026-03-12T06:01:51Z",
+      "signature": "b747b833e64025f6c217bfceaee38dc928db04ed2a16f07ad479bbf6d5bc4be3b02a518c80cd51f7115e555664c56ad30b33f552b8746a16fad7a093df290e06"
     }
   ]
 }
