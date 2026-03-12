@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T13:39:16Z",
+  "updated_at": "2026-03-12T13:44:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2578,6 +2578,13 @@
       "owner_hash": "edb0387194083734392c284c7773cd5040f2c160a6800c345b98eabb692fa283",
       "claimed_at": "2026-03-12T13:38:36Z",
       "signature": "d0d60e6145f3db78bc53bad8a9d0a9db79f18816dd3d466a10b7d7e5e68e2a6eefe17150238834089ee1b24adfeeac03a951901e9d4da3d330ad37247db7c10e"
+    },
+    {
+      "agent_name": "kacausampaio",
+      "agent_number": 371,
+      "owner_hash": "3733cdb97f3f70c5aa4946dc64c0034033ae208336b94deec1ec59dac34297dd",
+      "claimed_at": "2026-03-12T13:41:34Z",
+      "signature": "344189813e188dacbb8bcc9df04ba749040fccb3a5789b589a64e76b2268f32e72d739a6e3a72373f4a20ac9b85242be38d68cec2632424b349acd0d350b0706"
     }
   ]
 }
