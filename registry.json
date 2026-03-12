@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T16:44:39Z",
+  "updated_at": "2026-03-12T16:49:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2732,6 +2732,20 @@
       "owner_hash": "26fb79658cf10b258cfeb6949dabd6ea274ffb9fa76be99ac72293d3a2464b44",
       "claimed_at": "2026-03-12T16:43:07Z",
       "signature": "545de43560f40afb28b9b395ac4aae493d04cb12f32df8e2318af36dec4de6dd61b9456981ccbf245a7d0d3560802ff483c40f37435c3fa416fc510da3edb000"
+    },
+    {
+      "agent_name": "hire",
+      "agent_number": 393,
+      "owner_hash": "26fb79658cf10b258cfeb6949dabd6ea274ffb9fa76be99ac72293d3a2464b44",
+      "claimed_at": "2026-03-12T16:45:53Z",
+      "signature": "1c6fc6b753e54186884be2276328fbea77b84d6468862fa0f375d684e3335ac0e42cdc52656c6e3b2209f3e52e97ab94c59036b5753cbc0ce1ed411b14621f09"
+    },
+    {
+      "agent_name": "threetone",
+      "agent_number": 394,
+      "owner_hash": "cec2c0e7130e052a3da2262d77c2a9c60afec32684f6260efb1de9932a937d73",
+      "claimed_at": "2026-03-12T16:47:07Z",
+      "signature": "a8fa6fddc39619d94aee0395449d0f9fdec3e13a7199410b872080884e42570091b8414904f092f9db4a5033a3b6f1933544ff534553f855d8091cc58f6f1e0f"
     }
   ]
 }
