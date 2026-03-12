@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T07:13:58Z",
+  "updated_at": "2026-03-12T07:18:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2403,6 +2403,13 @@
       "owner_hash": "ae0e1a4399632e51e0c1eede6391a9468aca6b0975e72465d626173167f7c91b",
       "claimed_at": "2026-03-12T07:09:32Z",
       "signature": "cda2db977ae6c3a5ee9a945535050a29c521eb6e373fd710304d06dd28919511f60b6837d0becbf7f7925eb100533b20ebbda4f1ca1e91dd81c64162bdfd7403"
+    },
+    {
+      "agent_name": "water",
+      "agent_number": 345,
+      "owner_hash": "2d37bb89bad3935a0586196075de05d3b70f07e0e8dcc41b6209f8a81d26de91",
+      "claimed_at": "2026-03-12T07:15:41Z",
+      "signature": "b08c36ca75c42600ad35ef80182cf2fba2fbae37d0155d4594ee3355c1dab86303d92659fe8da31c7287b4572b1da74f679752d969f52aa960991e532a4f160b"
     }
   ]
 }
