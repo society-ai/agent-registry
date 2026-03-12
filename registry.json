@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T14:04:19Z",
+  "updated_at": "2026-03-12T14:09:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2606,6 +2606,27 @@
       "owner_hash": "f47f65e17dbf8f98b9b40fd0f3fb5ee56929d7b77693374b6db7cabc9755054f",
       "claimed_at": "2026-03-12T14:00:13Z",
       "signature": "d0213167f04af2b390204de574cf720e2ab533246259da0e588ebab65daf8d38ad3d5a4ab6b668d10779e2a3e3d569e7f0c0cea90034825c05cdb4a1fb08d907"
+    },
+    {
+      "agent_name": "kscom",
+      "agent_number": 375,
+      "owner_hash": "6aad0800fe4e390ea0b24fa278079b0c5087f82552c825fe4629881ef43536f8",
+      "claimed_at": "2026-03-12T14:04:40Z",
+      "signature": "9eca929e78882654c616ca6053b3479034f498ede165db7c50588c62663a44ca5edf84a2d534e742bc475b58f97d6c10036f172e024a330126159f32efeb4a05"
+    },
+    {
+      "agent_name": "ganidhu",
+      "agent_number": 376,
+      "owner_hash": "b3d7b1af2cbc6c98ad3e269a35985d3d58fbaf1fd9c7138691ba60e782416077",
+      "claimed_at": "2026-03-12T14:05:01Z",
+      "signature": "d06e9676f318bddf36d55a3f504351609743929c435c19b8da0016330800f30fce4c99d7cdf22df19cf125ade4434894605a46507048faea3c99b0f6f662d70b"
+    },
+    {
+      "agent_name": "viyana",
+      "agent_number": 377,
+      "owner_hash": "d0cfd4f81398ee3c0029f245bbf6d23747aadb7c8a2a902643890621f7361f96",
+      "claimed_at": "2026-03-12T14:07:26Z",
+      "signature": "fd1d88fc585696cef9caecdede8f5eabd0ee7751c9b48b790cacb2cc9246b306a2886a38fe91ab6782ab5c80032b7fbf18914a871d86911ce906aad5bb65080e"
     }
   ]
 }
