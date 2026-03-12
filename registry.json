@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T02:03:47Z",
+  "updated_at": "2026-03-12T02:43:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2256,6 +2256,27 @@
       "owner_hash": "995089338da7e5801c2eae9ae7c174c3c81ae4802f1be77c6f7fc0e4e0cc1832",
       "claimed_at": "2026-03-12T02:03:43Z",
       "signature": "c9f2ab214a8bfb6d4636e165372790ca3fb1b0c6139495b22ab5b38045ad0361928180590b742ba46145e79a20e0511fb85dba88a53458ac5af4cf1d3f9a640e"
+    },
+    {
+      "agent_name": "mandarab76",
+      "agent_number": 324,
+      "owner_hash": "b1aaffa8bb65f0cc54348ce2c8ab8ec1d08a68563b8fdc77fea09b39a5c56837",
+      "claimed_at": "2026-03-12T02:39:37Z",
+      "signature": "e2669ec8879a8bb680124147c337cbe04b500e8d33a5ccb3e61599e87132a8970b13fa415ef92b987a4bd88377797fef842a767dcd0e6f89f9637c0484e4510e"
+    },
+    {
+      "agent_name": "jeddie",
+      "agent_number": 325,
+      "owner_hash": "8f42a75beb438418ac230a13ac975ae797a863d666a798db3963eb586a015d98",
+      "claimed_at": "2026-03-12T02:40:39Z",
+      "signature": "0a1f04aa5e2541fa7e29d68f5cd4507008a80da105d66fc9b50c4e44ac8c02faa7cc0ec964971b087114e57fe0d0e2603837b84b8e335c900cc2754e557e9b00"
+    },
+    {
+      "agent_name": "administrator",
+      "agent_number": 326,
+      "owner_hash": "f8afe9f4dd260377cf7fd0061e150a54579b8228d29dd37bd8347f8437e8d139",
+      "claimed_at": "2026-03-12T02:40:48Z",
+      "signature": "74da8799a00ec963fe0a82814bf945c03182a5997348ef3fc3cbae477e3c56b0b35739358a8b818536709c1c0805a73615d198e3f9bdbbc5a52c421fb9624009"
     }
   ]
 }
