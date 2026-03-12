@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T03:58:50Z",
+  "updated_at": "2026-03-12T04:03:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2305,6 +2305,20 @@
       "owner_hash": "4ed84844984727dd022e3f57d760345fe27a624810ba82f3704e7af541e06153",
       "claimed_at": "2026-03-12T03:56:23Z",
       "signature": "4a4542afb7399a30d77a7073d261e7aa27b89f0cd8979a3925c6992ecbc1f19ab269567a463d44f35bc7e3530b66f1c035852ed6459018c8735db9f2180e8000"
+    },
+    {
+      "agent_name": "solar",
+      "agent_number": 331,
+      "owner_hash": "b7691735c3ec03e16886393d1dcd6c1f80add0a8fb2ad812832ccd6971041c96",
+      "claimed_at": "2026-03-12T04:01:41Z",
+      "signature": "cd6821448daea533cdb94fa2fa3dd71be00ab5d2d9bfb3ef2c4ab2cc321560d8b281e9a6f606252d8be831a0e1673187691ad5432f24bac54eafd647e9b6d107"
+    },
+    {
+      "agent_name": "guide",
+      "agent_number": 332,
+      "owner_hash": "0a84918b6a6a3c72f4a87394c427bafb76a5e2969c9899e5e95be65e41b5853b",
+      "claimed_at": "2026-03-12T04:01:58Z",
+      "signature": "6a1084a8279653d1fb4d2012c462790b67e68499e14bf5e40245530e276cbf96b8da87ffc0ae1927b9a7174a1c4e99924a53ba6b9627f8d9977fb902e0d9c10b"
     }
   ]
 }
