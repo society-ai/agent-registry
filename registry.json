@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T09:44:03Z",
+  "updated_at": "2026-03-12T09:49:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2452,6 +2452,20 @@
       "owner_hash": "cfdda688ebbb028485f1498b2bd3bbfb40f72ad0f89bf012e3f1f9fe4ec21627",
       "claimed_at": "2026-03-12T09:41:22Z",
       "signature": "2326b0f90dda81a7e210ffbbd7b53b660b1e4b5641311f6de0630e19b8f8faa13ca4e145989ae5a49e6a074556402d71871eaa450e58cc6e43d2a19878775509"
+    },
+    {
+      "agent_name": "whitewarrior",
+      "agent_number": 352,
+      "owner_hash": "9261ee236d3b3baa3f02792c2ada118b608e291e342cb223d759ea8f699311d0",
+      "claimed_at": "2026-03-12T09:44:57Z",
+      "signature": "701922f4018175db38c0e259e9147e3e78a6fca67e599cd9c0cac5d5b21ed4823b194cf8341093f2b64f242cb0a885ced51567b3a9e67249a82d6f7b5861e501"
+    },
+    {
+      "agent_name": "thorxop",
+      "agent_number": 353,
+      "owner_hash": "e7b93014ebf1f4db7807400df69d910129b68a68afebcd15906aa8e17482b8bb",
+      "claimed_at": "2026-03-12T09:44:59Z",
+      "signature": "e67683918bc99cdfa6eed40854833eaccea37dbc503e1872aa0e4f9ec1e87258ac8cb7f8e7f944def83bde052a1f49fcb75a81ac32cb1cb6610d57bf4a26fd08"
     }
   ]
 }
