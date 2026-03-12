@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T05:33:54Z",
+  "updated_at": "2026-03-12T05:53:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2361,6 +2361,13 @@
       "owner_hash": "e86a6a6057027fd68eb29e21cf6a1c6ac81204418814776f0c7c420a3f3ef703",
       "claimed_at": "2026-03-12T05:32:36Z",
       "signature": "b612f81c9d616b2c3c848d5623db50a5470ea564b928304affdee9b4c7c559859361ab480a53162153870e69c76b3a2e0b5bdff8fd6e8eef4da4f863d2201d0f"
+    },
+    {
+      "agent_name": "zidopia",
+      "agent_number": 339,
+      "owner_hash": "dc79b52f072a8fbb615bafc934bd711892d612d72a753eb20f6fc08347f69e36",
+      "claimed_at": "2026-03-12T05:51:09Z",
+      "signature": "7c7be29b2d729adea5d0d7d8dc7dcb27b903f97354cbdc4cfc567ebcca7df72f251ac729b8eb081236e2b5142d82ccdbf838a9617cff77f6501f5d6725ccca01"
     }
   ]
 }
