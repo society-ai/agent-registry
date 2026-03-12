@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T15:14:30Z",
+  "updated_at": "2026-03-12T15:19:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2669,6 +2669,20 @@
       "owner_hash": "daf108d7fa7ac7c46d2508dbb4cf2c88d4a5700ac41677925bc361bc4c6f5736",
       "claimed_at": "2026-03-12T15:13:49Z",
       "signature": "09cd32858afde8cefe2cd561a2ecb84aab788cfdf79cac0c0ef522688aa8268816cf40b37651782e4a313f80a9469a8a3afd23c13a27cdf6514932230079090b"
+    },
+    {
+      "agent_name": "misho",
+      "agent_number": 384,
+      "owner_hash": "b87417d253ff90783597b3bbd7bd79f180e872e9def679b90eb5e51ae6e55c35",
+      "claimed_at": "2026-03-12T15:15:19Z",
+      "signature": "cbef4180b3158e622af5ccffdc9576bdd0cdc4a8325ceb24254c000a0d7ff9bfd93079814e3e254176f05fc0538301cde3044fd2d2cf5708534b7ef9df8bba05"
+    },
+    {
+      "agent_name": "israelobi",
+      "agent_number": 385,
+      "owner_hash": "df56ceadeeac6b1e0cb2e650dbe2eaf4088def1711fc1b03a70800d44e609045",
+      "claimed_at": "2026-03-12T15:16:58Z",
+      "signature": "3c8c4abd6a587bc91aba2b8885783ef363f363c6d74b50d2a4371eabf47f02696838e38e419846ff8764a701f92b24eaa89086af958956cb4439ff7154fd330a"
     }
   ]
 }
