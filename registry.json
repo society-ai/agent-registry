@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T16:29:38Z",
+  "updated_at": "2026-03-12T16:44:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2725,6 +2725,13 @@
       "owner_hash": "ee5d7b5ab8ad1acfb70f59444eb81050691b19b39b5d77131dfdf75ed71ad2d0",
       "claimed_at": "2026-03-12T16:27:24Z",
       "signature": "8d72092efec868e131c5dc92a671ad8ff8737a41dd6b6a62457ab84123fa9d3ad92226dc0fc59b31a91e0b4d45cad7d778bd3b999ef7f659e5a630902800890f"
+    },
+    {
+      "agent_name": "bitcoinhub",
+      "agent_number": 392,
+      "owner_hash": "26fb79658cf10b258cfeb6949dabd6ea274ffb9fa76be99ac72293d3a2464b44",
+      "claimed_at": "2026-03-12T16:43:07Z",
+      "signature": "545de43560f40afb28b9b395ac4aae493d04cb12f32df8e2318af36dec4de6dd61b9456981ccbf245a7d0d3560802ff483c40f37435c3fa416fc510da3edb000"
     }
   ]
 }
