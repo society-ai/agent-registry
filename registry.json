@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-12T10:49:06Z",
+  "updated_at": "2026-03-12T10:59:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2487,6 +2487,13 @@
       "owner_hash": "24737a3b08e2077265b009832c0fd4a0fcbd952604d3ff759f8f2ca406c439e8",
       "claimed_at": "2026-03-12T10:48:43Z",
       "signature": "a694a04a69c3e93d44914c26b7546822184926a0101c16a358dc1d977e16b4fc451d6f85b73c8ac88361c8d29693a35f47cf44f9203bca1affc4938c3d51e706"
+    },
+    {
+      "agent_name": "gericoma",
+      "agent_number": 357,
+      "owner_hash": "02ba1f8f712abf2c91f49604acf509eb5213b3aca161424d5926243b76a033c7",
+      "claimed_at": "2026-03-12T10:57:24Z",
+      "signature": "73a63350b8402399c1b62903842161e367505278d340358b07c34f82145837e530a63a09724b6979c148e6aeab93b7e89bcdd3cd4025567266824eedcb3f360d"
     }
   ]
 }
