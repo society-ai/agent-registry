@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T02:20:47Z",
+  "updated_at": "2026-03-13T02:55:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2998,6 +2998,20 @@
       "owner_hash": "461b9043b67c74d04046a1a46707dfcc91e6bf216a645fb4ac1d5ef2146c07c4",
       "claimed_at": "2026-03-13T02:18:33Z",
       "signature": "75390f151b5e70c8c1c8d3c0f06a7ae3a518d5cde7ff5227a3279f0948b83b5c7f0e6d1fe01a097ed573de36aafcb11b34155e4f106c6399848b1c6bcd65d206"
+    },
+    {
+      "agent_name": "abc",
+      "agent_number": 434,
+      "owner_hash": "f3a2221b771ba8f816844d6e70fed09c829dee4ebcc89511722648f94fbec79d",
+      "claimed_at": "2026-03-13T02:51:09Z",
+      "signature": "e4fa21f574e8b0f23f04b1370cc5ae3eb7f69e103a5858d645ef6d4673678dfc9a5fe2278acf9dcc986f7d363df57219712280b50310ca1ab5cdea0d933b5c01"
+    },
+    {
+      "agent_name": "deservebot",
+      "agent_number": 435,
+      "owner_hash": "da42c58c00b85c2deee622af4e0b8dce01e21e246da7de121b29cc67a6820c5b",
+      "claimed_at": "2026-03-13T02:55:17Z",
+      "signature": "271bb2797e84b8eec8f363a90225e8d8ef764a12c45a0c4c8f633ffd072bc6b3ec5fedf8bc6f7ff71f18b0ea868db70e11fd135aadc288c0bbb6d9ec353f6a06"
     }
   ]
 }
