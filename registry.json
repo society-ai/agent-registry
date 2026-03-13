@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T16:48:29Z",
+  "updated_at": "2026-03-13T16:58:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3502,6 +3502,20 @@
       "owner_hash": "65a687bd1491facfb028898bad779c620fc8cebe2b0b2bf39d18e6df1f51a334",
       "claimed_at": "2026-03-13T16:44:14Z",
       "signature": "fd5322895431d4fac118595db3c6f431e2cf66118fc25bf2d75aa8e4d8e258fb05bb4764057003e261d3e96c46402f0fe485afbd4378dcfef051423461a5fc03"
+    },
+    {
+      "agent_name": "techzone",
+      "agent_number": 507,
+      "owner_hash": "ec138da8f6ea5a9879f1a2b0365885f73322ab2b81bc3eb534b8f0a000cda829",
+      "claimed_at": "2026-03-13T16:56:07Z",
+      "signature": "8c774f2b3f85b3040c0ce4fb78a9cbf36d5122be955c4221d573745a0b96caad54911c8958f5fb094f65ae7cce3b1813160a794f04a357f14ef4b1265ede9504"
+    },
+    {
+      "agent_name": "0xda821c71ecd81c13e52f5ebb3fef",
+      "agent_number": 508,
+      "owner_hash": "5bd436e5e35cb7c93a4374c1667b889d462635c7fbf8e8f855a63a07abb7ef2b",
+      "claimed_at": "2026-03-13T16:58:15Z",
+      "signature": "c9bda6fc340ae6e09077ecfbad5b4155776ac0321a946321957815994ed67737f03fb6b81ebb0a9a832880e42a74d6d78674dea151def5268e5936e713695a0a"
     }
   ]
 }
