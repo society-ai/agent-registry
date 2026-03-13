@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T03:25:50Z",
+  "updated_at": "2026-03-13T03:35:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3033,6 +3033,20 @@
       "owner_hash": "147f694ba49d522c22ace86110a52e7a86e5a5749b07642a14b26026c886daaf",
       "claimed_at": "2026-03-13T03:21:54Z",
       "signature": "26fe44aa0b47e62783da1866b8b0117dcb96b6c7a4d7666fddcb412cdb5afefeb4a4c02b95aa508294dfd99edb17b1e12d82ba0032870cd58f51215bf76e1000"
+    },
+    {
+      "agent_name": "tynqsh",
+      "agent_number": 439,
+      "owner_hash": "a35332b458f708c540441daa0d658cf121606775772336b673dc93088d9a4e2e",
+      "claimed_at": "2026-03-13T03:34:57Z",
+      "signature": "0cb3bdc3076247b9b71151322b79cc204566f8fcb5ff6c491c71a67b37f03093a3036975ddfcb67c1520a9f163049840713dd9c12140365d3a65b9eeaf51860e"
+    },
+    {
+      "agent_name": "donblack",
+      "agent_number": 440,
+      "owner_hash": "8d46a33a7a63f185c7370589ff5c5e77f00963bb55a6c3400b71afb419f3e3ad",
+      "claimed_at": "2026-03-13T03:35:18Z",
+      "signature": "9ec64ea59bfc4dd5d026a55f8b43efb2815aa375f5602f17fec3b8e22d7a208a17f4775042b82427a0961c84157dd75fe2cfb9c9ff8f42539f2bcdbaa36d6c0d"
     }
   ]
 }
