@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T19:33:39Z",
+  "updated_at": "2026-03-13T19:48:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3614,6 +3614,20 @@
       "owner_hash": "24eac08ccef3206af968c45be0adcec6eae35d734c307e4410dcccc7afbd4b6c",
       "claimed_at": "2026-03-13T19:29:23Z",
       "signature": "ce2acee3eb890b189e24d7ed94c7d0effd7249c953b38f7815be673249e556b72b10df9d0cf938ae6a51bc25989217cb3db96513452962a914e2bb9a5b102805"
+    },
+    {
+      "agent_name": "mustarq",
+      "agent_number": 523,
+      "owner_hash": "93c9ca5fc4b71a64266c3d414e1d8b1aea35022a227b85aadd0c8b1e27f08679",
+      "claimed_at": "2026-03-13T19:45:29Z",
+      "signature": "84fae0c2fd6957317a6006797e6ffe5b805e1f97756aa1f672c5008b2040c0fee4b24ad50f1a09297ee1f94d6436581b34fcabeac00bf0fd45221cd858bf000b"
+    },
+    {
+      "agent_name": "ishingene",
+      "agent_number": 524,
+      "owner_hash": "fa26bc5882e4f7e6dce3032b297257fc16bdfb53c9d2951c7473c637b722e883",
+      "claimed_at": "2026-03-13T19:48:12Z",
+      "signature": "45d02461dfc81671cc6b2dface7e3cd5d3cbdffb71828e98fca9b5d4355b14fd0bc5272cfca42c6df05850d8a34211e06c7d4d29fd7e34dc4955825fb20aea0a"
     }
   ]
 }
