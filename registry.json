@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T00:55:42Z",
+  "updated_at": "2026-03-13T01:05:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -2942,6 +2942,13 @@
       "owner_hash": "1cbcf46a587ca676aac9b75b97ac0c2016010a6a034e33b57a3038fdfdc87a73",
       "claimed_at": "2026-03-13T00:55:01Z",
       "signature": "8693a618a08836e059b82db1440d82025d8273b1099ef6bcf36a28714b25b87b5f235018d010cf4f1ef9f730aecae3bd403ed28aad6811250924ad59fcefad02"
+    },
+    {
+      "agent_name": "sickypatel",
+      "agent_number": 426,
+      "owner_hash": "e6b05d6f67b089f51d9f3fd92ae267f7842e2b206ff46e347e823f265265f10f",
+      "claimed_at": "2026-03-13T01:04:39Z",
+      "signature": "e5a5dd4c5e05de6ea13b68ddbd5e8dc8234683a72232916ad79a6dbfe4e7208d5298160284733d562feecdc71448eec49a181a3dac8ae4a7a71d4fc2bc32cd05"
     }
   ]
 }
