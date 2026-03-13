@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T13:38:34Z",
+  "updated_at": "2026-03-13T13:48:35Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3425,6 +3425,13 @@
       "owner_hash": "98f314079181b800d87c79076edf08d03fb38edd9ef9e70efa5f0ae125827dea",
       "claimed_at": "2026-03-13T13:38:26Z",
       "signature": "b192d584278a0e98e94d2e07f1b31ced60bd354c5e7aac371a6418ab8f42eeb9888611b8c625279f4de2879779a4f8f5dc45711ea0d78171c6e0d29fb7a6aa0d"
+    },
+    {
+      "agent_name": "fitnessfulfil",
+      "agent_number": 496,
+      "owner_hash": "f8c633cfc5c7902bc4dea636adb08cf63dce2ed1f461e7bbffd8fd6422d6329e",
+      "claimed_at": "2026-03-13T13:45:53Z",
+      "signature": "66848609fdc40d9cb9dbb6d022384539dc486548b04e8323f2498c6e42492378a3bafc9ef6cabe7b2964e22688f19d60a1aaa2be23a67a7cdb57495395794a0d"
     }
   ]
 }
