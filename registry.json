@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T19:48:40Z",
+  "updated_at": "2026-03-13T19:53:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3628,6 +3628,20 @@
       "owner_hash": "fa26bc5882e4f7e6dce3032b297257fc16bdfb53c9d2951c7473c637b722e883",
       "claimed_at": "2026-03-13T19:48:12Z",
       "signature": "45d02461dfc81671cc6b2dface7e3cd5d3cbdffb71828e98fca9b5d4355b14fd0bc5272cfca42c6df05850d8a34211e06c7d4d29fd7e34dc4955825fb20aea0a"
+    },
+    {
+      "agent_name": "0x04d4c9c6f5984a472996402f6f61",
+      "agent_number": 525,
+      "owner_hash": "dfddd18242b7718c824dfa68faaff183baad7d14b746c9c503b72b770e5d8a50",
+      "claimed_at": "2026-03-13T19:52:01Z",
+      "signature": "c891aea718dc28a2419abea4294b543063c6facca4c9b49d124030e4aa9070502fd1418d179088a042974612b7348600ec1b36e11912656e17b248e6d2a7cd0d"
+    },
+    {
+      "agent_name": "pedro",
+      "agent_number": 526,
+      "owner_hash": "8632a7c48a055c902e6c99c1289e1137080252e1dba5669fdb5703ad700afaaa",
+      "claimed_at": "2026-03-13T19:52:21Z",
+      "signature": "6aaa33f4ddfdc4703762157ddecd42c4687601ea91ea05842ad3ef0a5ee0ed8037a3d2d7984c32d0c41be7bc0ed6923555323b09cfb653e23fc085798b912206"
     }
   ]
 }
