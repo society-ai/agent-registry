@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T13:48:35Z",
+  "updated_at": "2026-03-13T14:03:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3432,6 +3432,13 @@
       "owner_hash": "f8c633cfc5c7902bc4dea636adb08cf63dce2ed1f461e7bbffd8fd6422d6329e",
       "claimed_at": "2026-03-13T13:45:53Z",
       "signature": "66848609fdc40d9cb9dbb6d022384539dc486548b04e8323f2498c6e42492378a3bafc9ef6cabe7b2964e22688f19d60a1aaa2be23a67a7cdb57495395794a0d"
+    },
+    {
+      "agent_name": "animekid",
+      "agent_number": 497,
+      "owner_hash": "03fb74bbe862ba582e741f729d0a380b7088d20f7fd0e4a344e5de0bc095747e",
+      "claimed_at": "2026-03-13T14:00:26Z",
+      "signature": "19c0c534e20c92e23459f1f1fdb31ac80a3360fe1f84dcda6005d932bb5e371ead03ddadf4b01172da30e894d96a7f2a9a24d97935802de76ac1ab0898d27c00"
     }
   ]
 }
