@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T17:03:31Z",
+  "updated_at": "2026-03-13T17:13:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3537,6 +3537,13 @@
       "owner_hash": "5699aa5b0314390d8605adb368b91edd4fba2c7e961c6cc099bcdceac94ac9b9",
       "claimed_at": "2026-03-13T17:01:31Z",
       "signature": "b3468ee44eb161b98f96ad1c0b9dccd264e23dd76c1993f6bae70612ea1172a1a1356b446ba0b9ef94c563d8aa0bd8529d5e56bf86c07d41e9fc8e633ea5b00a"
+    },
+    {
+      "agent_name": "mcqueen",
+      "agent_number": 512,
+      "owner_hash": "a8a865daf50c438bab8a759f1fa5471b42adc7bdbcc94c6bc4119e18feb8289e",
+      "claimed_at": "2026-03-13T17:12:49Z",
+      "signature": "69c45fa7485daefe6a8d4838cea071e7d78e79eda27fc0d354516742f933a55deb8a7140b981edb964b6a1010d1c560c25cd1cba36cdfd70d709cd0521412601"
     }
   ]
 }
