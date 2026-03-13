@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T04:00:53Z",
+  "updated_at": "2026-03-13T04:15:54Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3075,6 +3075,13 @@
       "owner_hash": "1541aa359a1a0d0dddbf173a0c1c84e42158f39c9dfcec4adb2b7c1a976da0bf",
       "claimed_at": "2026-03-13T03:59:46Z",
       "signature": "60057aa0c004c0b1f90e4c257734e171dc3dac3e7eb3a7b2d9e51d51f693a90dc6091dce8a197bb9d9dbaf92b22a96fce7553972374e45a8a901b0dc07820f0b"
+    },
+    {
+      "agent_name": "explorecambo",
+      "agent_number": 446,
+      "owner_hash": "8bcf13da084e5dcead19b224582c18e9a11cded8f6d93a2bae92b697b8dfa966",
+      "claimed_at": "2026-03-13T04:14:57Z",
+      "signature": "3c0b2cc03697d2b001d9a4cd33c541b381726cd7fe19b90cba221599c7afd89527ad1e996006112a56f9f543f688ee431940a20f280e7889bd75ba2a5d9c8f05"
     }
   ]
 }
