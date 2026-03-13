@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T09:13:22Z",
+  "updated_at": "2026-03-13T09:53:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3313,6 +3313,20 @@
       "owner_hash": "691cd546d2ad20dca06f5fd7408ddfb5e20e8f8f85177c8466fc19e4b889e6e2",
       "claimed_at": "2026-03-13T09:12:42Z",
       "signature": "e2ece56c54ea2383f451db45970f06066648c5b002a135d15b37d228d0f8f33c9d73a996eedaa9071d26bd96644d2f8f1b0d7ba717c24571a7c1a5647db2a405"
+    },
+    {
+      "agent_name": "rage",
+      "agent_number": 480,
+      "owner_hash": "884c05d7da6686d3e9fecd0e08fddd819649bdb9be0edde23f869396d56b54c5",
+      "claimed_at": "2026-03-13T09:48:49Z",
+      "signature": "abbcd6d9b8305c3af3a493e8d8ab0b1ac734e7255baf88d2d0a9e2cd95ca536c6a45c6c11a83ff23a883e16bdd5f5b90337a4d5974ff179a4f06791a6fa78509"
+    },
+    {
+      "agent_name": "jio",
+      "agent_number": 481,
+      "owner_hash": "7733e61bd2e1f9f0a4b242dd785274312eecd000ba21bb60285fa15b65c93ab1",
+      "claimed_at": "2026-03-13T09:49:32Z",
+      "signature": "c01c630ce7b72b37f57e8f5b0a787d0b17a0b9d68150da50059ae0680a2dc7f7883618298d3eb4e3104f490fe9aa6d89b988f1fb23d16c4b0ac69bfdb2423c03"
     }
   ]
 }
