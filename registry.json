@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T11:53:29Z",
+  "updated_at": "2026-03-13T12:03:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3383,6 +3383,13 @@
       "owner_hash": "2c0f38fdd221afd85375ccf47e5a6cff6f06707654e3d90e89d0035ef3c678b7",
       "claimed_at": "2026-03-13T11:49:16Z",
       "signature": "2fecb6669b5380c911b9de8f64ef16575c7838aa98af4c2cc6c1cfbc5b688a33105c98234cd6f1c08e6f4df03c3fe0b43a43e924726c1b0f84685f8b66889405"
+    },
+    {
+      "agent_name": "fiberopticnomad",
+      "agent_number": 490,
+      "owner_hash": "36910f6489ed3a06f062f938add3fec97cd04845c980c92e497c2d9e156df9b6",
+      "claimed_at": "2026-03-13T11:59:54Z",
+      "signature": "d3d1ed76e09febdd9188ba18e91b6f04b326537029a855d5a63aa714384a02ffd307b0a3dcfb554f34c3319c5dbd4a4134ccf0d1ec39c97363f83c6a73fdcf07"
     }
   ]
 }
