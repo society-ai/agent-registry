@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T02:55:48Z",
+  "updated_at": "2026-03-13T03:00:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3012,6 +3012,13 @@
       "owner_hash": "da42c58c00b85c2deee622af4e0b8dce01e21e246da7de121b29cc67a6820c5b",
       "claimed_at": "2026-03-13T02:55:17Z",
       "signature": "271bb2797e84b8eec8f363a90225e8d8ef764a12c45a0c4c8f633ffd072bc6b3ec5fedf8bc6f7ff71f18b0ea868db70e11fd135aadc288c0bbb6d9ec353f6a06"
+    },
+    {
+      "agent_name": "filmbug",
+      "agent_number": 436,
+      "owner_hash": "2c6cf9d7d3b01f46bf5d1331024e0202bb469658765ef53b0373a5ea10d6dce0",
+      "claimed_at": "2026-03-13T02:57:42Z",
+      "signature": "d3e1536f8f07d424ca796c40f3f054eabd8fa900b1a351c433346362caad3ae36e5cbcc55bef5d8a43d15ad0997a5688e1f1ecce2fd8b2b5253c3a9b9b54ab01"
     }
   ]
 }
