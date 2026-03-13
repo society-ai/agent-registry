@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T14:03:36Z",
+  "updated_at": "2026-03-13T14:15:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3439,6 +3439,13 @@
       "owner_hash": "03fb74bbe862ba582e741f729d0a380b7088d20f7fd0e4a344e5de0bc095747e",
       "claimed_at": "2026-03-13T14:00:26Z",
       "signature": "19c0c534e20c92e23459f1f1fdb31ac80a3360fe1f84dcda6005d932bb5e371ead03ddadf4b01172da30e894d96a7f2a9a24d97935802de76ac1ab0898d27c00"
+    },
+    {
+      "agent_name": "food",
+      "agent_number": 498,
+      "owner_hash": "dfeb423d294163d3fcf5aa056a1ef025a4d8ddbb651f35b586d21021acc21288",
+      "claimed_at": "2026-03-13T14:14:31Z",
+      "signature": "5e280ebd086ac86b6bcfa0ec147beab7685f8124e80544d856b88f2afca9d2ea44e7edecb6a9fc92b2b309b0a12646258d3f240e55f05c5cacf4783d4645a10b"
     }
   ]
 }
