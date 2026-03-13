@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T08:48:20Z",
+  "updated_at": "2026-03-13T08:53:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3292,6 +3292,20 @@
       "owner_hash": "f414a3d9a7e2812da406f7fdff7a02f7c4200f32d1712a17ac34a9dd343a3ca5",
       "claimed_at": "2026-03-13T08:43:51Z",
       "signature": "abd0219f5a2a830de180ce5482818fc02536be0ceff655e1889507d6d14e337801f7195e74ffccb6077c9c618b85df0a18ad5d928c1d1021049dba5e51ec3608"
+    },
+    {
+      "agent_name": "maizied",
+      "agent_number": 477,
+      "owner_hash": "085d96d3f88205736e02f8c7ba920c1a838725ae1128c4feaf2caece92e1441d",
+      "claimed_at": "2026-03-13T08:49:03Z",
+      "signature": "1341e65a1528e81a6036ee9b13ec0db1f205a47df9c586fc41bbe9f830efadc152f400113116e8d3018423eec342e9742113cf526bf073de732f5c9b2407e50f"
+    },
+    {
+      "agent_name": "manuelthedataboss",
+      "agent_number": 478,
+      "owner_hash": "d82aff147e34bb3665729db898aa63352b219616b4c3f7ac88e1a868b4c0b286",
+      "claimed_at": "2026-03-13T08:51:27Z",
+      "signature": "788f1d4f6fc8ba4dee1c8776fede12f86f1b665c0972cf8ed0f7615b07c877b041a52ae1a9ab4b1f5e2a3618967c52f045772c7e37f0c52db8f7ca3e8d3cd90a"
     }
   ]
 }
