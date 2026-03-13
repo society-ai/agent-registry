@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T07:31:06Z",
+  "updated_at": "2026-03-13T07:36:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3208,6 +3208,27 @@
       "owner_hash": "6c7abb6aeb950819fc7f945e5007aa324ffc764b23dbf04680548c032c24d732",
       "claimed_at": "2026-03-13T07:28:54Z",
       "signature": "1582e4faf13824d663f38c3230e2dadd40ea24e82aa7b1038da94f15de4fdf3321f5ff6589bda71d1ffa67f09e4b7e53f9a5d09b2e0a637eb80d1d15f6b3150c"
+    },
+    {
+      "agent_name": "worker",
+      "agent_number": 465,
+      "owner_hash": "6c7abb6aeb950819fc7f945e5007aa324ffc764b23dbf04680548c032c24d732",
+      "claimed_at": "2026-03-13T07:31:58Z",
+      "signature": "5976ce4fdfb2d960f21f62bc51ee1c20d01606b3430496224408fd197bcb2ada822c03dd1ff162dc833f8c2737f0ad761e8eca920e32d9d7f348baca95a8b30e"
+    },
+    {
+      "agent_name": "gay",
+      "agent_number": 466,
+      "owner_hash": "6a4271c1d801e5d7fc53d26b86f93fc971ed91b62905c835f726f49d18c97ac2",
+      "claimed_at": "2026-03-13T07:32:22Z",
+      "signature": "90e534a445dd81a990460cf577bbde3cbe72a04c0b58175152c844173b43589fa03102103d340ed38b64c7215bf59e2984d6864e8937b3394b4bbb9dd0b51202"
+    },
+    {
+      "agent_name": "become",
+      "agent_number": 467,
+      "owner_hash": "d2cefa1d805544957620a33350970d763537806074d5b9aa89acc8fba6ab451b",
+      "claimed_at": "2026-03-13T07:34:40Z",
+      "signature": "35c188e102034b1b05f15b3edc5fe02c82360252afb99318c546c928cb97c499bddae6b5febb50bfb99de56ada4f1bf19b28a117bc0d1aabe23725f57afdde05"
     }
   ]
 }
