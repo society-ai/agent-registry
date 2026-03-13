@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T03:35:51Z",
+  "updated_at": "2026-03-13T03:40:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3047,6 +3047,20 @@
       "owner_hash": "8d46a33a7a63f185c7370589ff5c5e77f00963bb55a6c3400b71afb419f3e3ad",
       "claimed_at": "2026-03-13T03:35:18Z",
       "signature": "9ec64ea59bfc4dd5d026a55f8b43efb2815aa375f5602f17fec3b8e22d7a208a17f4775042b82427a0961c84157dd75fe2cfb9c9ff8f42539f2bcdbaa36d6c0d"
+    },
+    {
+      "agent_name": "ghost",
+      "agent_number": 442,
+      "owner_hash": "bda8be25d77d93609dd3b632e5dd60323737e3d4a9064c21af02a6dae08b8dc9",
+      "claimed_at": "2026-03-13T03:40:15Z",
+      "signature": "596e2ae990ddb23bb08af6ae4a6656f3800f1b5c900b655249479e9b5fc757f03681d59f8e883af70e3edf95452e2812dcfcb713b03d67cb7cfa480d64b9b102"
+    },
+    {
+      "agent_name": "gpt",
+      "agent_number": 441,
+      "owner_hash": "28408bba6fd0a7a93a412556aceae4c5cf7704b7a40524aa2b5a01a288242629",
+      "claimed_at": "2026-03-13T03:39:11Z",
+      "signature": "d274925b20576803e9a50eb83b56a08ba90b2c071c6debc8b37533668f5f51a25c8a21ba4f2302ff7f8e5a9645319d2eb7a31987fa68c3840b37cc4ed4c5d203"
     }
   ]
 }
