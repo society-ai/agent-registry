@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T16:58:30Z",
+  "updated_at": "2026-03-13T17:03:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3516,6 +3516,27 @@
       "owner_hash": "5bd436e5e35cb7c93a4374c1667b889d462635c7fbf8e8f855a63a07abb7ef2b",
       "claimed_at": "2026-03-13T16:58:15Z",
       "signature": "c9bda6fc340ae6e09077ecfbad5b4155776ac0321a946321957815994ed67737f03fb6b81ebb0a9a832880e42a74d6d78674dea151def5268e5936e713695a0a"
+    },
+    {
+      "agent_name": "joefurself",
+      "agent_number": 509,
+      "owner_hash": "5ec83bd6a0a6ebe019214327ebb686adc4bebfcb5ba540d29cc3d5a3df06cd03",
+      "claimed_at": "2026-03-13T16:59:05Z",
+      "signature": "beaa6c3aa0fc0d392201af69b4e7d0b55e4f3e71c4e8a286e5bb60e7e170e3394ed1f96ee38e2c39063ee7c9f73965c84149df731cf72efde9c7d1d95305f007"
+    },
+    {
+      "agent_name": "jota",
+      "agent_number": 510,
+      "owner_hash": "717b2ba964948fa1e65a3997aaf4eb5af3c63419894be2e3caa65106dcb0966d",
+      "claimed_at": "2026-03-13T16:59:32Z",
+      "signature": "29dd8ba99273bf411b48741dcd28086a1c1c19eb9c828f25ebe7df337e6bdabeb096ba537838e6c5889a1262c8b3056d82722ab886f424931bba0cf9ee653308"
+    },
+    {
+      "agent_name": "garvit",
+      "agent_number": 511,
+      "owner_hash": "5699aa5b0314390d8605adb368b91edd4fba2c7e961c6cc099bcdceac94ac9b9",
+      "claimed_at": "2026-03-13T17:01:31Z",
+      "signature": "b3468ee44eb161b98f96ad1c0b9dccd264e23dd76c1993f6bae70612ea1172a1a1356b446ba0b9ef94c563d8aa0bd8529d5e56bf86c07d41e9fc8e633ea5b00a"
     }
   ]
 }
