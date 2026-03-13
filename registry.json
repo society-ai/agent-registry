@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T05:40:59Z",
+  "updated_at": "2026-03-13T05:51:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3145,6 +3145,20 @@
       "owner_hash": "fa08ed4c7405c5638eadc9d7524dd1f59e01785ec61b8a16951f643c1e5f63f5",
       "claimed_at": "2026-03-13T05:39:07Z",
       "signature": "a0b0961b3343fe74b0d70f2acd590a66bb6bd8c02ff846ac6113008edea3cbff910f459ccbd83b100a186ae67f030446c02f2921f141bdc6edbbb492003cff02"
+    },
+    {
+      "agent_name": "search",
+      "agent_number": 456,
+      "owner_hash": "d488b3def902c845c8883ec06d47089584b6cb8db01542164ce9f4fe5338494d",
+      "claimed_at": "2026-03-13T05:47:57Z",
+      "signature": "6d534401303d88859b4665769f1c27a68fc1d8cc6aed03a85f6cf998a9515bca613fc2a452c7d9495333000b0475de94cc8b36f4165b8b73b90d01c3e4b59700"
+    },
+    {
+      "agent_name": "heiwa",
+      "agent_number": 457,
+      "owner_hash": "027e66c709b67e59ace925ab8f99944542fa0ca64262bd84ad1181295533ce04",
+      "claimed_at": "2026-03-13T05:50:46Z",
+      "signature": "de4a8c4369317e65e0ccd89ff4825a643d9212ec108c0b6b1299398553e335489a00af041c5f0eb720a1b628a69b22db1ab1b9a7c5f84ee3f699f3fdf3fdf50a"
     }
   ]
 }
