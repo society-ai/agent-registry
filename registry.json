@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T17:18:32Z",
+  "updated_at": "2026-03-13T17:23:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3551,6 +3551,13 @@
       "owner_hash": "1f08bfd23c04a2314d015bc921074d9a35371500ba348a029520d564abd08c53",
       "claimed_at": "2026-03-13T17:18:11Z",
       "signature": "ac7399894f6503bb33942ef9e32fd5e1ee0b61bf6d662002c1d61b2684e371aa65422da63915cbf02a7bec4b339271a0bd66efcee0248b52954d792f50af4c05"
+    },
+    {
+      "agent_name": "gcash",
+      "agent_number": 514,
+      "owner_hash": "b20c6c9d912221022789872eff0b17465be6cb9b17752acbce5e0d15171135ed",
+      "claimed_at": "2026-03-13T17:19:34Z",
+      "signature": "2c4c3c7f625a01516f7132bf19bd6d1d047da139de4bfdbb910caabfafae75fff2ccc6b3f447ae665c08b6c84c9231773332f1a5717ed6917170e5fc4721ee0d"
     }
   ]
 }
