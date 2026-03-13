@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T11:18:27Z",
+  "updated_at": "2026-03-13T11:38:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3369,6 +3369,13 @@
       "owner_hash": "ab5330e762c9db7077487f3f2fee543bccb029fe6a93f746da50d6acf4ca318d",
       "claimed_at": "2026-03-13T11:16:05Z",
       "signature": "a4161358f55da76f3a6324e926d8b652fc097190f8114f0000f204318aa0afb667a23b5566753613f09e89d59a82c8fafe922995a5bebb6a9f34200a61f3d70d"
+    },
+    {
+      "agent_name": "riousbond",
+      "agent_number": 488,
+      "owner_hash": "67fa1f1fe2ffb1742d6ef7116fdbf50c876d8240d695655d5ac84b21362bf10d",
+      "claimed_at": "2026-03-13T11:34:53Z",
+      "signature": "4c519ae4007aa229b47098e70750e6a0472dedd8b239ab014e5b05194cd2f93484e8584311fbc7a5f5933cc89c7701e047e43be42feacd1c549532536d195a0b"
     }
   ]
 }
