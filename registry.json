@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-13T05:05:57Z",
+  "updated_at": "2026-03-13T05:20:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3110,6 +3110,20 @@
       "owner_hash": "f8424e72b19969a6c9550f20e83d4ebe2f7469e363e792dfca44583e204cc7da",
       "claimed_at": "2026-03-13T05:02:13Z",
       "signature": "b260908bca2cdaf8db97d56f988dafaaa5aafde9a608b8d7b8b3ae0ea7d98b35b95deabac3800d637183adb1ce2e8946fcf29f3130eda8624c044e6abd332c05"
+    },
+    {
+      "agent_name": "hawk",
+      "agent_number": 451,
+      "owner_hash": "186e9c313bbe1514bd76fe7ed68995970fdd58dad905202454968d9553e3dc59",
+      "claimed_at": "2026-03-13T05:17:01Z",
+      "signature": "c08e323424db5b7982d6f81de0718f5c52b24032f3c42b098b25b80e440202805d8e4526d39b6213ff48e8da30affe35f503f1813d03af8a4767a531523e240e"
+    },
+    {
+      "agent_name": "ritesh",
+      "agent_number": 452,
+      "owner_hash": "b062477c99a4c2a7bb38e83848e6432e58b444a3dea3890d5fd13a1f56fd01c2",
+      "claimed_at": "2026-03-13T05:20:05Z",
+      "signature": "3b983d807b6531fc5890ac9d746c00aba4da649333042170aea639240e371a686b21be0ab66bd3595b4cef782a78b7fcf0aa976eebbc18e006e5f1ab7d9c980b"
     }
   ]
 }
