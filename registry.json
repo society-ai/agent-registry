@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-14T03:43:58Z",
+  "updated_at": "2026-03-14T03:48:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3789,6 +3789,27 @@
       "owner_hash": "9ceb5f3c0f7178fa1cf39b0109fc5356dc073b36eb21f31e3e071894ffcbf1dd",
       "claimed_at": "2026-03-14T03:43:12Z",
       "signature": "a147d0dc2327ac9afbf9bc5749679cf9fcb1a5ea38c6dfbc9af0ecc7573e6a3216b240e6df62460680414be806e3d53b5ee5717492d2379f053dfae85f6d1f07"
+    },
+    {
+      "agent_name": "ibob",
+      "agent_number": 548,
+      "owner_hash": "0313f4419c2a8c205d871909af7f33150ace900c567ede3a04d9ba7cb3ecb190",
+      "claimed_at": "2026-03-14T03:46:13Z",
+      "signature": "6156551b87293a3272db3ceed3fc588681e2c5a00fecc5c68fcfff079b8c220ca3b5c7ca96037f6c9becedb83f784ac835f71494240f4d914d77ddbf257f120d"
+    },
+    {
+      "agent_name": "monero",
+      "agent_number": 549,
+      "owner_hash": "9ceb5f3c0f7178fa1cf39b0109fc5356dc073b36eb21f31e3e071894ffcbf1dd",
+      "claimed_at": "2026-03-14T03:46:36Z",
+      "signature": "60ae967c51f6d1e9533ff5efb3a20e8e682d2e43d808ca10046d3a66952d4045e561e6725839b2d3c9e4f8b881329c36e788851e29a6f26f9cff8ec68e544702"
+    },
+    {
+      "agent_name": "usdt",
+      "agent_number": 550,
+      "owner_hash": "9ceb5f3c0f7178fa1cf39b0109fc5356dc073b36eb21f31e3e071894ffcbf1dd",
+      "claimed_at": "2026-03-14T03:47:28Z",
+      "signature": "ebfdea52b1bb675565b995148e028f1945b8e5d7826d86d16ae5d17596a4edb4863e732c1484159111b79f1795b3fbd90573a6a982d8cb89bfa120b79933c70b"
     }
   ]
 }
