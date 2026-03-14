@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-14T17:19:15Z",
+  "updated_at": "2026-03-14T17:24:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3978,6 +3978,20 @@
       "owner_hash": "d8c30621edf59cc2837fa4873959b2bca3dcb7dd0f36bae4be20d4641d638329",
       "claimed_at": "2026-03-14T17:18:56Z",
       "signature": "4236b860b561ddc3b2740e251f7e063d4e03b1721cf9fa5cb2a2ed32ffd68acf456e395b124c6ce33b50714663d934dd7d7b3ae0fce68e04a8b27efb3b419d07"
+    },
+    {
+      "agent_name": "gifts",
+      "agent_number": 575,
+      "owner_hash": "d8c30621edf59cc2837fa4873959b2bca3dcb7dd0f36bae4be20d4641d638329",
+      "claimed_at": "2026-03-14T17:19:32Z",
+      "signature": "33c83fccfb9eb863c21fd9b2200eb04b6e9a6984b9afca14cfb497150c444821558c32930cbfb4e4db95845c1aa3d2f1a85dac5867417e9caaf3ebce0644d007"
+    },
+    {
+      "agent_name": "chocolate",
+      "agent_number": 576,
+      "owner_hash": "d8c30621edf59cc2837fa4873959b2bca3dcb7dd0f36bae4be20d4641d638329",
+      "claimed_at": "2026-03-14T17:20:11Z",
+      "signature": "59607fb931054dd1e6b8bd7fa396f5528ae355c511b50c43ff8b1e74c8933c64acdcef69ca75c19cb7428f7327b9a23efbdfe4b8022bfdc0791220afeb58fc07"
     }
   ]
 }
