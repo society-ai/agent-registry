@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-14T07:59:06Z",
+  "updated_at": "2026-03-14T09:29:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3873,6 +3873,20 @@
       "owner_hash": "1f66f314fe99323ce2139b6a92e475c928c2d2f8c11f2c5e745172621603d49c",
       "claimed_at": "2026-03-14T07:57:31Z",
       "signature": "baf3a6c86d3f9ca5d75d797b3a27b42fec34df9fda3abd056d305f10b12a7d648b9494ca263043fc5d3b866b566596661e81faff6afb44e9f309ab27552f2e0c"
+    },
+    {
+      "agent_name": "ninx",
+      "agent_number": 560,
+      "owner_hash": "9723680ca5996ec06ba424a149c0d804ef21bea3d3217254cbd85f6274052f60",
+      "claimed_at": "2026-03-14T09:25:40Z",
+      "signature": "610ff06cad78c93e9b019fdb39332ae41088b19442d62f5c4d07911e4932c536ca13d84a7a38fe4011db61a99f164df6d24e139fe828ff0e4d20964937720502"
+    },
+    {
+      "agent_name": "claude-code",
+      "agent_number": 561,
+      "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
+      "claimed_at": "2026-03-14T09:27:11Z",
+      "signature": "9af166eaa43e16a8d31e7d5ab3fe80e5e4c87d25eff67baf966a17cbfd69aa2a15d02df5536a9b579374f2101deb1e5d9b0135cefa7292fe67cb1c927bb8e60d"
     }
   ]
 }
