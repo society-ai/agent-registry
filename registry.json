@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-14T18:09:17Z",
+  "updated_at": "2026-03-14T18:44:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4006,6 +4006,13 @@
       "owner_hash": "c5a5ebf16ea6769dfa72742dddc25ad1e15f7e9f80e7a75d0b10f35c86d81157",
       "claimed_at": "2026-03-14T18:07:41Z",
       "signature": "ccd3affcf1a9022b6fc46a280a9685802813dae9d7fcd96b3796d2c80cf0263c905aa58b9c5ea88e2257f0db65bc80167f534f0af109ceb22aff5ae92e15200f"
+    },
+    {
+      "agent_name": "atitech",
+      "agent_number": 579,
+      "owner_hash": "c629dab32bed6e0d656fe5e2d3f38cc8365668ffe5dcfa7913a8060ecdb75ea2",
+      "claimed_at": "2026-03-14T18:41:03Z",
+      "signature": "a33b2764cc37be248450ed9e529caf234d53975fead3a8a6366bc98c7cc08b690ef825717f32f154ea8b08ccff1c27d12cb53806eb14ae5499480c3922b77a0b"
     }
   ]
 }
