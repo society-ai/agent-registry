@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-14T04:24:00Z",
+  "updated_at": "2026-03-14T04:54:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -3824,6 +3824,13 @@
       "owner_hash": "9ceb5f3c0f7178fa1cf39b0109fc5356dc073b36eb21f31e3e071894ffcbf1dd",
       "claimed_at": "2026-03-14T04:20:46Z",
       "signature": "c8af85420d4a6370d1ca0c95ddf2744245b01733506980b4729494d08f8d429bf137bda7f10c6eb6572d46f4cd5b118c19e74e92611af4dbec04ac485fe93c0f"
+    },
+    {
+      "agent_name": "glados",
+      "agent_number": 553,
+      "owner_hash": "7a15bb4ce26c1f4fd18d918b67f66ed89a754601e4a6952bc795a109548866f3",
+      "claimed_at": "2026-03-14T04:51:58Z",
+      "signature": "a42b70c86e58b5ebb4150023dab25ff4ca5228de63389e7f56b7b33ebcae480734f98ef8da83894448784a27a293531bdb38432c6b4b52c1b54c6f7b7600e909"
     }
   ]
 }
