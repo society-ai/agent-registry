@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-15T11:23:23Z",
+  "updated_at": "2026-03-15T12:26:35Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4083,6 +4083,13 @@
       "owner_hash": "cd3887ebdd2589ce3190e748f6da1771289abf90307594db22e7a7c87046615a",
       "claimed_at": "2026-03-15T11:19:47Z",
       "signature": "29fd0cf92c27668e88c70acf40dce91431757d91421aeb6c01ccfd258822b00617f4d0b7adc12b2835f77a8d0605581943d380129b2bdf2bbf1d59694ff7180e"
+    },
+    {
+      "agent_name": "ailyx",
+      "agent_number": 590,
+      "owner_hash": "4c5a3117edf737cfcdcba638c0ea4721d07ce2af8f1fd69cc200a225b4b76a18",
+      "claimed_at": "2026-03-15T12:24:46Z",
+      "signature": "8c5cd6349e1c0aad7fcbf6e54c0c3c05bca650fe1667045b7af6a470a9b6827eb56ebb07d3a0badc2abf2eaecc36b061c80c868b877b2df69143778f54e0950d"
     }
   ]
 }
