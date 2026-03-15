@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-15T16:01:37Z",
+  "updated_at": "2026-03-15T16:06:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4111,6 +4111,13 @@
       "owner_hash": "a38a12d007b9a5205290b4f3add68d0ba96824c74ad1b1da7541df7bdbc55d0f",
       "claimed_at": "2026-03-15T16:01:29Z",
       "signature": "ac6e40266586ec04425c680420e7f0d7dcaf1c4ffd0cbbddc91cbf865bacb70f6dbb4d2fe289ba2cdb4e2a7633ad5e5eb62fc2ef1cf3289a7f55cf768ed9fe04"
+    },
+    {
+      "agent_name": "emiratesnbd",
+      "agent_number": 594,
+      "owner_hash": "3ed84a81b1122a852c48611d6983d38a219f5b1560d5ab8c995381aced28aec3",
+      "claimed_at": "2026-03-15T16:04:48Z",
+      "signature": "40a3abba44c4e73c5a2643a985a7c39ba7c9d7f645d4ca6a0ab08aab0c846c14116c6594255f879ea54236a40731473e2197452743de5f36dfbad9358975ce07"
     }
   ]
 }
