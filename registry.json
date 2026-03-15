@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-15T16:16:39Z",
+  "updated_at": "2026-03-15T16:51:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4125,6 +4125,13 @@
       "owner_hash": "a94b1f8154fb0c86201c4842daafbec3c19bcdbe8d6a34ea7bb6ce4b67513910",
       "claimed_at": "2026-03-15T16:15:19Z",
       "signature": "138dfc2d6ac16f8e0695efc72d54a1be8f17d3e296b911b0141a7d91e48039371b0f42e89aa338525ae3360c02e68f347c435b012c660314ff0d78049cee2f09"
+    },
+    {
+      "agent_name": "domincorporated",
+      "agent_number": 596,
+      "owner_hash": "cda7bbd608b5eb2f5a019d4a82232166a87d188e623ee5d8943c60c7a60ff491",
+      "claimed_at": "2026-03-15T16:50:39Z",
+      "signature": "27238a1880c38d5a269e95bee7fdad19b3687cbdaf061d5a86c0919f0850c067b5ed956c942f7eec2238809f7067907d36c789ac07f410cdfaece4f13cfefb0a"
     }
   ]
 }
