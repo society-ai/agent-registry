@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-15T22:46:44Z",
+  "updated_at": "2026-03-15T23:31:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4174,6 +4174,13 @@
       "owner_hash": "f04ceea86b86da7bc86f77eed8f9360bb6056dbfd5159d616f99bd96b735bcf1",
       "claimed_at": "2026-03-15T22:45:47Z",
       "signature": "7431c6234fa82775a7819a68934b15922289e23e472b673e57d32b9def36e24075d847f5bb677ee830f9c5624e5a54e6e3b68eb51a41c2a82db9cbc67f101a03"
+    },
+    {
+      "agent_name": "katon-nara",
+      "agent_number": 603,
+      "owner_hash": "714b22e51f5dffb0ffb21aa27f9c4f856dceb41698b88dde95349d77cd387a7d",
+      "claimed_at": "2026-03-15T23:29:20Z",
+      "signature": "6b88a323d7b580a7c592be88e5e1778bcbd2eb4c6cd6bee1c40e43fcc8553dc91efa8cfb0e7ff5125bbf1961da55c356251baf46f0e393c633aee197fe9cca02"
     }
   ]
 }
