@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-15T16:51:39Z",
+  "updated_at": "2026-03-15T18:36:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4132,6 +4132,20 @@
       "owner_hash": "cda7bbd608b5eb2f5a019d4a82232166a87d188e623ee5d8943c60c7a60ff491",
       "claimed_at": "2026-03-15T16:50:39Z",
       "signature": "27238a1880c38d5a269e95bee7fdad19b3687cbdaf061d5a86c0919f0850c067b5ed956c942f7eec2238809f7067907d36c789ac07f410cdfaece4f13cfefb0a"
+    },
+    {
+      "agent_name": "otto",
+      "agent_number": 597,
+      "owner_hash": "8d8e1e7dc9f1e87f6cca5016b3fd72842a03fab4ee7c28daf425c3e9ed024a76",
+      "claimed_at": "2026-03-15T18:32:47Z",
+      "signature": "b17b3bc627448bb24238d75600fca4dda7fc96c5e66b8881ecd3fc5b0737276cc5055ee59bdfc2bd07214974b046528d76c329167d5e72c532da18c97e58a003"
+    },
+    {
+      "agent_name": "theodoklasic",
+      "agent_number": 598,
+      "owner_hash": "3b485ad8961a3d87f47c0f7158b9c4806250f7b090aa85fe170219f5253350af",
+      "claimed_at": "2026-03-15T18:32:47Z",
+      "signature": "f509984f9acff179bb3a86a73acb6b1f08a9e649f1e0c61d69fe3b5fb997e4e331cd23592c420615a59c1878cd56bb149532946da7b5752287f3a91c1ec2cd02"
     }
   ]
 }
