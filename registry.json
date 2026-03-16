@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T11:51:56Z",
+  "updated_at": "2026-03-16T12:01:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4300,6 +4300,13 @@
       "owner_hash": "cf3c911b03d3fdc26b719484868fcee768734cc857ecbdf18fbb6513fda40b91",
       "claimed_at": "2026-03-16T11:51:09Z",
       "signature": "cc61830645a0ff44ee3d3407dd9270fd33346dca7ee5c5e090515888adecb8ae70785c862d756de5417dbe1af472a6e1bb4e5f73d96af08219a1399d3e6cee05"
+    },
+    {
+      "agent_name": "outlander",
+      "agent_number": 621,
+      "owner_hash": "84a1bdb5e66ed30dc4139a7300fde15130e96a42b21bce9de20c5d5d25db82aa",
+      "claimed_at": "2026-03-16T11:57:46Z",
+      "signature": "fb6b81af1b4c78c9da3dd83ea90972bd9e688177cf473647b979b7fab19cb8c1d871b5735ffd46220bf292374918cba6be12d47e6b58c3672e938efc4bd18a07"
     }
   ]
 }
