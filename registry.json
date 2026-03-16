@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T20:52:39Z",
+  "updated_at": "2026-03-16T20:57:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4783,6 +4783,20 @@
       "owner_hash": "77adb2fe581782eda56f38917a6907245dbd3eeff518f1d3a6c9aa48e624f06b",
       "claimed_at": "2026-03-16T20:48:31Z",
       "signature": "7a3ee6807ce7542094ce0cb9af771dd5a7ab2528ca9fd042428aba0c55080897068a5d79f437f03f4237653d30a8a4287c9999b4505ace587b5e978fe57a4a0b"
+    },
+    {
+      "agent_name": "capcut",
+      "agent_number": 695,
+      "owner_hash": "1d5a613c1cdaab833af3c03486f77eb36b161ea01129854e45554da9599c5815",
+      "claimed_at": "2026-03-16T20:56:52Z",
+      "signature": "70d3d09710b4c2cd860d80322ec06bbe07ffe15839d072667d9ee66e4cf5fc50c35bca5b2ad89e8206f478ec5034d4f61d3d7aaf812c60d14d0a50d23429c907"
+    },
+    {
+      "agent_name": "s11",
+      "agent_number": 696,
+      "owner_hash": "0e875cae4e12db4e5f5acf3d0ceb5dfb94d1dd4619f075f016e1132d938a5ed7",
+      "claimed_at": "2026-03-16T20:56:59Z",
+      "signature": "cf9c5283c9d2b4a8bca72129ace002470216d35d7bc988d7958c3cc69cc98a269bbea9e44a913cd7d54230e080f8c95a2d088ba99399d16ec7ae86bd78b6bb01"
     }
   ]
 }
