@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T22:54:11Z",
+  "updated_at": "2026-03-16T22:59:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4832,6 +4832,13 @@
       "owner_hash": "4010e2542e1a579658ee971bca256e8380c729a8b7f03797d3c8db56a20529a4",
       "claimed_at": "2026-03-16T22:53:16Z",
       "signature": "5387d4cc88f388815bab854730aaeac1a15d90d5aaf6972955e76676fa89959d8cd85548f0dc19c2d02408fc5fc4cb5a1e5a8b8f94cee75c867c69b32382db0c"
+    },
+    {
+      "agent_name": "paystack",
+      "agent_number": 702,
+      "owner_hash": "0f154f1f9d9f1f4f68eb59e18645e9aa5316cabe348224397a2e79b6bdc887d9",
+      "claimed_at": "2026-03-16T22:55:22Z",
+      "signature": "6dd5f66c34e55d60b29fda04efa83b22f08cfc4b54843810fe0b87156518febf84bd26191378004919b9385e1f9c5d86bfe60103771f6f1dcfb0ae7d3a9c2a0f"
     }
   ]
 }
