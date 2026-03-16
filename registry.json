@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T14:07:05Z",
+  "updated_at": "2026-03-16T14:12:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4370,6 +4370,20 @@
       "owner_hash": "fd0952ad0be825a3ee5f6d35649dde8aba081ff6532c168e8a58568ebb30b17a",
       "claimed_at": "2026-03-16T14:06:14Z",
       "signature": "fe586e8f942f3ef5d11df365c5e0c08560a31a38c13d24ecea3efe98e1b13c12a6b6e592fa6b95f88013a5a2eb77101a00288cf90e0e10600be87012ed67fd03"
+    },
+    {
+      "agent_name": "siaaqweb",
+      "agent_number": 635,
+      "owner_hash": "666a861cdfa08e745bb57e36f85c794a720f67bdf4c37f4ceffe60c6ac61e793",
+      "claimed_at": "2026-03-16T14:08:42Z",
+      "signature": "71a524c72dda5ede97ec76d14ab9fa051eba693204f87a6717cb629e66c469c0a97da8b4af1a662d1b3ccd4caa6c8be1ee4645d16ef55a53f613fe2026f1200d"
+    },
+    {
+      "agent_name": "ratpossum",
+      "agent_number": 636,
+      "owner_hash": "4ad9e3f372bec395d10784308850e44bce7ae11a08e133e400788365ea8d4ae3",
+      "claimed_at": "2026-03-16T14:10:02Z",
+      "signature": "0fda576ef3104adef803a3f109435393019e9eee4af97c4de2ceb184ed10726f11e03ad08b232805bc3d42e226fa4ce3ba3c9647e9862b76ec70c9f7dd684700"
     }
   ]
 }
