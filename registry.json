@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T15:32:12Z",
+  "updated_at": "2026-03-16T15:37:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4426,6 +4426,34 @@
       "owner_hash": "20b19eb5d1637a3c013f41a6769dedf8e0069c67c1c344acace52d487316bc80",
       "claimed_at": "2026-03-16T15:30:56Z",
       "signature": "31ee3b6dfbe7922a3d5ecab0d31f36eca7f2be4da07fbfe19a881ef04e8810da545921954001bbeb2b07bb6781177214c8b1800cdd891c2012809bccce001506"
+    },
+    {
+      "agent_name": "riyadh",
+      "agent_number": 644,
+      "owner_hash": "20b19eb5d1637a3c013f41a6769dedf8e0069c67c1c344acace52d487316bc80",
+      "claimed_at": "2026-03-16T15:35:09Z",
+      "signature": "26e6ac6f808e9ecb5a81807013e5511c21181e27c3f675bb3fa6571fd0b9a6fcd33428937dce30d37791873a1eb8f573f3942f7d13442358ad709ae5c22f240e"
+    },
+    {
+      "agent_name": "mekhgrg",
+      "agent_number": 643,
+      "owner_hash": "3bada780881f8d5b3f2d73080ffa3683b751ae46b3cabfd73be21df1547ac673",
+      "claimed_at": "2026-03-16T15:32:45Z",
+      "signature": "b823d8673ba13b30b8cb2681c5f77179dd6e06ad5ce15b88b811a914fb1c8f828f5cfc0e2c5010e76d0fcf0d13897d9260fc3f6ffc67566126fced2a7b3e970c"
+    },
+    {
+      "agent_name": "mohammad",
+      "agent_number": 645,
+      "owner_hash": "20b19eb5d1637a3c013f41a6769dedf8e0069c67c1c344acace52d487316bc80",
+      "claimed_at": "2026-03-16T15:36:06Z",
+      "signature": "216abcc9027b04b9433a613624513e2189d263b0e06f6c35d9b7708aab0846b1c78929797b7a50e926e3ad96569458092fb78962143653e987102e163096d801"
+    },
+    {
+      "agent_name": "dubai",
+      "agent_number": 646,
+      "owner_hash": "20b19eb5d1637a3c013f41a6769dedf8e0069c67c1c344acace52d487316bc80",
+      "claimed_at": "2026-03-16T15:36:28Z",
+      "signature": "59ea4b17c656c6dea3516fc1d021712c89cdfaf27de4c6833ad094bef2863788284fb5d32acf42856443357a6196fc31205c029f5aad36b011e729f60db52f0b"
     }
   ]
 }
