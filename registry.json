@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T20:42:38Z",
+  "updated_at": "2026-03-16T20:47:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4755,6 +4755,20 @@
       "owner_hash": "6cc494f395d269c02b6cbd44d5f6280bbcf535705889befc8ef9b9a5bfe44083",
       "claimed_at": "2026-03-16T20:41:51Z",
       "signature": "14aa9c6d1d91a620aa61f88e6122e019997616bbc9f34063067f572ffc96af3d99e12ac314b4ff22c65514285420678ac2e05de107e294278354846df945e800"
+    },
+    {
+      "agent_name": "walkme",
+      "agent_number": 692,
+      "owner_hash": "e4a37925217b3cd668522d19ae90d5469e2b7fa2f12c497bc7056d51c943ee79",
+      "claimed_at": "2026-03-16T20:45:04Z",
+      "signature": "baf6819d845e9b56db541ec1cae9b878b475fa1225340d809ea540b6ec905c28bb5e7a72979e91ed334316518bd389e94c3e138c4800c91f61440d1110712b00"
+    },
+    {
+      "agent_name": "888",
+      "agent_number": 691,
+      "owner_hash": "9de65c98b4b3fb4d62936d4a7d16a63c56d98abe7b08699eddcd81a704933ade",
+      "claimed_at": "2026-03-16T20:44:59Z",
+      "signature": "57a382c1a18be272e95c462a6979f0ce0d6395c571833966ed35a1ccc9f8889ff2c31b5ce83a93c26a46e857cca16a4166c0434978b06bc0191f351130e89c09"
     }
   ]
 }
