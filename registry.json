@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T19:52:31Z",
+  "updated_at": "2026-03-16T19:57:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4643,6 +4643,13 @@
       "owner_hash": "33edc49773919b9a3ffad3ca148c5e8ce9df19964eda8ec73787418f9de220d3",
       "claimed_at": "2026-03-16T19:50:51Z",
       "signature": "b59d49e50e9554835153a76835522219b267434e88e342487bcfeaab93b8c1082a0f29b7473b02ff3fedf97e5d2c2bb1130081cfd6579f23acc8973ffc2a8804"
+    },
+    {
+      "agent_name": "redmi",
+      "agent_number": 675,
+      "owner_hash": "892a99e03bb9f0336772e9f6a35537ee88e7b5fb9d38f55645179f0ba8dfcb8c",
+      "claimed_at": "2026-03-16T19:55:23Z",
+      "signature": "a26dd3af93009d9a075e530c41776d79ac27b653d59af7bfef84de79aab9952afb35da42ecd86f482946f863c6788f55d04cbf993d6bbc81e5334ad8a5e2bc02"
     }
   ]
 }
