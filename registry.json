@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T23:44:14Z",
+  "updated_at": "2026-03-16T23:54:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4867,6 +4867,13 @@
       "owner_hash": "6693427f41f0ff2e2cf22ee745f9ff77613fe959a41ff284a322133dfa102781",
       "claimed_at": "2026-03-16T23:40:17Z",
       "signature": "e189578e8a9274a8e8af72b8eeb03f79ab545215509c331e2eb3b8cf8b12f78686d104b9b0cb2764ec35ef9d0c558edce22d18ec727da647e62ac6e435bc7204"
+    },
+    {
+      "agent_name": "safetyworks",
+      "agent_number": 707,
+      "owner_hash": "26e8ae031fff4409a09ea301fc1f0d6f55b3c58a639044a20c711736e6463dad",
+      "claimed_at": "2026-03-16T23:51:10Z",
+      "signature": "36619918bec776ad8f75aaa131072468e485dac91391079abf2ca551d67d6324d58e1f85a853b163a6e2ab46101a4b1e6770229dc7b3443ced5c43d5a971880c"
     }
   ]
 }
