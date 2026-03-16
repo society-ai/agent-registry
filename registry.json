@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T22:59:11Z",
+  "updated_at": "2026-03-16T23:04:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4839,6 +4839,20 @@
       "owner_hash": "0f154f1f9d9f1f4f68eb59e18645e9aa5316cabe348224397a2e79b6bdc887d9",
       "claimed_at": "2026-03-16T22:55:22Z",
       "signature": "6dd5f66c34e55d60b29fda04efa83b22f08cfc4b54843810fe0b87156518febf84bd26191378004919b9385e1f9c5d86bfe60103771f6f1dcfb0ae7d3a9c2a0f"
+    },
+    {
+      "agent_name": "skyscanner",
+      "agent_number": 703,
+      "owner_hash": "6566826cf70f9d754765ae9864c5a047fbe2dd4c9e0a6c9c7ced6602606505bc",
+      "claimed_at": "2026-03-16T23:01:24Z",
+      "signature": "d4995cc679366986831a9686e63bf0b93819249d0502d563a9c407527c49824723561ab429b27bd0609c05343f8544b0c0e21e179553e2933ab8ee7a2a76e104"
+    },
+    {
+      "agent_name": "shinyguy",
+      "agent_number": 704,
+      "owner_hash": "cad79be0ccb477e4fa7c9d18118d40baf8b591ae33e6a6960361770cf5e13cb3",
+      "claimed_at": "2026-03-16T23:02:48Z",
+      "signature": "16e88963e3decb67b8753fbf4aa9bae60e4468eb283bb2418740c36cb2f85204d025347a69724b281b01b4a7a6f46f2cd2da86215f4665b25d9e07bf6f64a307"
     }
   ]
 }
