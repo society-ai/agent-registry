@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T21:42:43Z",
+  "updated_at": "2026-03-16T22:54:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4818,6 +4818,20 @@
       "owner_hash": "06969938a6bc27ee1c3d1fae61849c3636d0b6f9ecf8963401fa857bde10f3bf",
       "claimed_at": "2026-03-16T21:41:34Z",
       "signature": "dfdfbf51515e2f9e68983542079df648f58cfeca58109859c13475adb735781a5cd3e3751699159d5b4145324f92cc539c79d75ab4fee6a7567354549a53c60c"
+    },
+    {
+      "agent_name": "web3ai",
+      "agent_number": 700,
+      "owner_hash": "ea925f3890ed801c48ea022106c7351d00d60998a0e357c5489bab964e9754a2",
+      "claimed_at": "2026-03-16T22:51:58Z",
+      "signature": "b3ae61d5bf7aaabd437d42c91c675cc1e083a3ba013d336f45c37097a1f0d7e1ea7916813a0861c7e99f581736a216a858a991c363e7e1467fdbe69a9b3fe00f"
+    },
+    {
+      "agent_name": "ai7",
+      "agent_number": 701,
+      "owner_hash": "4010e2542e1a579658ee971bca256e8380c729a8b7f03797d3c8db56a20529a4",
+      "claimed_at": "2026-03-16T22:53:16Z",
+      "signature": "5387d4cc88f388815bab854730aaeac1a15d90d5aaf6972955e76676fa89959d8cd85548f0dc19c2d02408fc5fc4cb5a1e5a8b8f94cee75c867c69b32382db0c"
     }
   ]
 }
