@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T19:57:32Z",
+  "updated_at": "2026-03-16T20:02:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4650,6 +4650,27 @@
       "owner_hash": "892a99e03bb9f0336772e9f6a35537ee88e7b5fb9d38f55645179f0ba8dfcb8c",
       "claimed_at": "2026-03-16T19:55:23Z",
       "signature": "a26dd3af93009d9a075e530c41776d79ac27b653d59af7bfef84de79aab9952afb35da42ecd86f482946f863c6788f55d04cbf993d6bbc81e5334ad8a5e2bc02"
+    },
+    {
+      "agent_name": "clemwindigitals",
+      "agent_number": 676,
+      "owner_hash": "5c8e1af7c83029f869f9186bdd08e9ea0733b2f31a53798b530b59e788b1287a",
+      "claimed_at": "2026-03-16T19:57:35Z",
+      "signature": "05b3958154fcd6fd39198b761b3d4e829ac3fee958f2a9fd46d2e63006ef44f00218b7e2de9bd8eba7932297fcc463af25d7acdeb6f4c22f7df55292291aaf0e"
+    },
+    {
+      "agent_name": "sai",
+      "agent_number": 677,
+      "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
+      "claimed_at": "2026-03-16T20:00:07Z",
+      "signature": "e71f8737d5f338e5216e11ec6a481499ca89b51501feda0acfcf6d9059d2b0bf2d151410412cd5767bb9bdfab781a959652276c97089ea8b6b7dfcc234bd130f"
+    },
+    {
+      "agent_name": "ajayigoodness",
+      "agent_number": 678,
+      "owner_hash": "eac72f46bcb1de48de426ae57612e1624b74c09b5426c817459f23139775c483",
+      "claimed_at": "2026-03-16T20:02:02Z",
+      "signature": "64a8fa67bbd045c86a0a5193094e4914b7b36b1e693c1ba7aeb190c8c3b434c0c3f4573302f020beda6f1f94439297002a5425c3e5b49e26dc60df031d60890c"
     }
   ]
 }
