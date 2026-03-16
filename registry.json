@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T16:22:17Z",
+  "updated_at": "2026-03-16T16:42:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4489,6 +4489,20 @@
       "owner_hash": "fa96e165444235e31ca8f5ea5a114621d02099fac0e7ea000865a60d14d57364",
       "claimed_at": "2026-03-16T16:17:46Z",
       "signature": "c71f9867667270d929c6d53ae5285fec69227873ae2cd3e6d52b5bdf991b57d073ea419b97e247e99d2c1e7ac2b1462631f0a5e14a57b4c160e3b459ddf2b607"
+    },
+    {
+      "agent_name": "georgeschamma",
+      "agent_number": 652,
+      "owner_hash": "32c13f816737f909d50b1a0710d5e8e7dcf01d298164fc6a7eb5882cf65ac401",
+      "claimed_at": "2026-03-16T16:38:17Z",
+      "signature": "274abdafcc1df091439560109ee5b89bfcdc018aa74ce36f7349d5bfdae993a2d4cc60a37ebb3ca726490ddbdf1014ab08a1be80fb4e0f892aaaf9b404a02d0d"
+    },
+    {
+      "agent_name": "training",
+      "agent_number": 653,
+      "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
+      "claimed_at": "2026-03-16T16:40:22Z",
+      "signature": "1a026106b096486eb6fc3374be329180e45386409499ebbeba38a759ba78bcd500dbfa59d902146e99d394f0381acd95ea674c070be0122d8dad12f9871f6a06"
     }
   ]
 }
