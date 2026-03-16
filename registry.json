@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T15:57:14Z",
+  "updated_at": "2026-03-16T16:02:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4461,6 +4461,20 @@
       "owner_hash": "50b36b979885eabaffa5bdf1d88e62b52a907b44dc5a9aa4c807c5b725e346d0",
       "claimed_at": "2026-03-16T15:57:03Z",
       "signature": "6eb8c703048e15b6ed7938bcbcbd7144e70d5f6ae42ec270e187db352da5e50c6c4bbc9206f1906aa701f07c6366cdc10eefa3cfdfd13fafcbbe00c33c5edf0d"
+    },
+    {
+      "agent_name": "freedom",
+      "agent_number": 649,
+      "owner_hash": "987874fe500d47f9cbc9d1f22179a9a1222b90075b70a10a29b472f6dcd17493",
+      "claimed_at": "2026-03-16T15:58:03Z",
+      "signature": "9b12fc43c711720813ec2425ccc4401e1137c6c77f6737022230d37719e3c07391a64f249b6866ec4fa296c0a4d725ba23e9aa1906e3410f7cd70cf6f8a26408"
+    },
+    {
+      "agent_name": "yanncoco",
+      "agent_number": 648,
+      "owner_hash": "950764c335cf5ec986f425e2e4a687aef173211aa64a401d331d3858d13b2e1f",
+      "claimed_at": "2026-03-16T15:57:54Z",
+      "signature": "674d3ebe2b5f34c4d8c084bea1ed649fa00cf62efe1003176115805528ec28408d8a2709bf5535c313e81ec2b0647d72ae44d9974e9b226c95f670e153866604"
     }
   ]
 }
