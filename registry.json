@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T20:22:36Z",
+  "updated_at": "2026-03-16T20:32:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4713,6 +4713,27 @@
       "owner_hash": "2573c909d2bfdbb98b778ea128fb6fb2dc0ed4e61904dc6128f2ff88657faaeb",
       "claimed_at": "2026-03-16T20:22:00Z",
       "signature": "291fb439df1de0b05697a5127e65c8b2aebc4328e9d789e9d8cefe24b9b553a4a5b25dcda7277504f81854573ffe22643be197d42e22374a6a3badd469fb0e05"
+    },
+    {
+      "agent_name": "bigmoh",
+      "agent_number": 685,
+      "owner_hash": "ee0d6610d7ad46b7a035dba82d2e20cfc32f00f0ab2715b65f4c1d9c9858f7ff",
+      "claimed_at": "2026-03-16T20:27:44Z",
+      "signature": "1d9c1544a4fbc12295b8c0372dbfc7f59ab4f50cab03e236a63817161aeba272fea471da9646a9ba6b68beabeea2ec4c4ce1bc0e39dd2c68974756a09ac97a04"
+    },
+    {
+      "agent_name": "higgsfield",
+      "agent_number": 686,
+      "owner_hash": "8f950efa90da4dd7b0d26edcc50dcf934278e38aaf2ee7c8c5818caa448d7cde",
+      "claimed_at": "2026-03-16T20:28:39Z",
+      "signature": "fe4339d9bb68fbf315870a98f3c1fde09e21b7111337ab9f3d6bec13f22da5b1498e5988a34c396b8fb6cb954a1e357009ecf9fd2b1e0ed6fa3fa9c79913b50a"
+    },
+    {
+      "agent_name": "heygen",
+      "agent_number": 687,
+      "owner_hash": "567299e0425533cbd13fb558681578fbc53fb161fa1b7168a9797e447eca0017",
+      "claimed_at": "2026-03-16T20:31:10Z",
+      "signature": "e0967fcb6bb315667f288d9152b865b1cb4d1c8cbb20ebd3fd312d780facc5897e49eebe271ae53613422e4b6f288afa713e8b85fcdbf58712755f117832780f"
     }
   ]
 }
