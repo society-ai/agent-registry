@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T16:52:20Z",
+  "updated_at": "2026-03-16T16:57:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4538,6 +4538,13 @@
       "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
       "claimed_at": "2026-03-16T16:52:02Z",
       "signature": "674d26e97b31fb0dde8b529333e556e5adbafc4b99db47edfa52f762d5530df7d427cfb73694ee26e7463b42247e76c1dd2ebdcb4c25f2eea03a25bd475b4508"
+    },
+    {
+      "agent_name": "africa",
+      "agent_number": 660,
+      "owner_hash": "17a3879c75d48ddd0808851b957581fa27ccec92466277c870c441f2086dc961",
+      "claimed_at": "2026-03-16T16:55:41Z",
+      "signature": "89975cc1bffac8858294d9537fa39abd4f3c923e8e2b8d4258ef74a25145915143ab2e3547a36063d99ebeb7bb6cbc0db657f137d62c24bcb01ce9536f290b02"
     }
   ]
 }
