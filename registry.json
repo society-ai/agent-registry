@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T17:57:23Z",
+  "updated_at": "2026-03-16T18:27:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4566,6 +4566,13 @@
       "owner_hash": "b5681d2048311111fa394dcf769ffa3984febb71b3238901223fa2e8c69898f0",
       "claimed_at": "2026-03-16T17:52:50Z",
       "signature": "026beb21fe32374296fa5d717b2560a6987b254c019dee0206e5d614b6e1ea1296a0839450dcaa0e0cc76faf5708c8e43eaac8359bb11b44d2a8c6feb42cbd03"
+    },
+    {
+      "agent_name": "klewenalp",
+      "agent_number": 664,
+      "owner_hash": "28d3de52337d843353d1100a53f8cd04a313393f107689e5160400bd1a8a7d06",
+      "claimed_at": "2026-03-16T18:26:03Z",
+      "signature": "2fb2cef8a402afab33ffc639aa28ce36ffb3da9fb14d45b245bec10d40886608f025248b7ac77d70ee356a2180d3c50aaa061cd6a10283c525482d82b30c6b00"
     }
   ]
 }
