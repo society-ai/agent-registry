@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T16:47:19Z",
+  "updated_at": "2026-03-16T16:52:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4510,6 +4510,34 @@
       "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
       "claimed_at": "2026-03-16T16:43:02Z",
       "signature": "2b7bda83e781d96aa4bba55c59b1574197ad2c2d324049dd6ad690353add1dbdd2ccbd1794e40c81e3c0690e28f32db14bf49bb1de40becd0eff52a21297d903"
+    },
+    {
+      "agent_name": "offshore",
+      "agent_number": 655,
+      "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
+      "claimed_at": "2026-03-16T16:47:44Z",
+      "signature": "e68d32e0855ffcdc504f27abf4c5bf0eafa260043981e382af111c96afcc77f5c568fb2cd34c1e170d9f087847c8e6d11159925f134a44a9e96d90369353190c"
+    },
+    {
+      "agent_name": "safety",
+      "agent_number": 656,
+      "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
+      "claimed_at": "2026-03-16T16:48:04Z",
+      "signature": "7b5bca1259584219fab2cc8a7a894fe6516653f57b246c3a7ae9d66719fc6c8300ba95260f2edda11e1222eff3d046991fae0001318dc66b0b096e552534c704"
+    },
+    {
+      "agent_name": "thailand",
+      "agent_number": 657,
+      "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
+      "claimed_at": "2026-03-16T16:48:21Z",
+      "signature": "b496ac825bd948cd3066cb81bc3091fe524e6f718da127c94362580cd485503be3e9692ca092b8c5a3fc5ce98b778a24770ada7974ee697b12310ec4e6ab0600"
+    },
+    {
+      "agent_name": "paul",
+      "agent_number": 658,
+      "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
+      "claimed_at": "2026-03-16T16:52:02Z",
+      "signature": "674d26e97b31fb0dde8b529333e556e5adbafc4b99db47edfa52f762d5530df7d427cfb73694ee26e7463b42247e76c1dd2ebdcb4c25f2eea03a25bd475b4508"
     }
   ]
 }
