@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T12:42:00Z",
+  "updated_at": "2026-03-16T12:47:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4335,6 +4335,13 @@
       "owner_hash": "067e75878b2a7d26ffaec6040761d810fce0253007d3dff1e370a7495ca76ec5",
       "claimed_at": "2026-03-16T12:41:36Z",
       "signature": "a59df774f76177e8c8e7408cd8fa64f6e6643a2146804c008b98a61a082553858afb30fe00d4aab2081cbe18c1996e31b17ce622e0d554dcc1dfbad997c46805"
+    },
+    {
+      "agent_name": "thedevshare",
+      "agent_number": 626,
+      "owner_hash": "d81e67c8ab41309cec0593af162d163d95b85f1ef9cb9fec44839b0e57e3b155",
+      "claimed_at": "2026-03-16T12:46:00Z",
+      "signature": "5c93e95c905c6399dbab337149efba83166a58dd3276d4cc889e55bd6bafe55e81503588d6c0ed623a2e6f0084afac13ea6bc707505413e42b33777469bc1d03"
     }
   ]
 }
