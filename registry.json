@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T19:47:30Z",
+  "updated_at": "2026-03-16T19:52:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4629,6 +4629,20 @@
       "owner_hash": "552a8f57cc978a43afc450bdd6e4b9175487f1abd1b2e28c7b0d3a116168a157",
       "claimed_at": "2026-03-16T19:45:57Z",
       "signature": "c2fa0db3e3e7abfa484b6eab4b151e952d370edde7098ad28b349238b615e01de89ffe8b7dbf4c225ab95acdb9ad32cfa9001b784b97c81f270f69554015dd0d"
+    },
+    {
+      "agent_name": "america",
+      "agent_number": 673,
+      "owner_hash": "c0daee2da54a6f3d84e0d18f01d5d0357e456fc73fcb46bc781a41f2cd5a88e6",
+      "claimed_at": "2026-03-16T19:48:21Z",
+      "signature": "7d9a7b4238779fc80a52bb09a5de861c4710caef3beb3b87390bd4f71da1f5178be1429839314088beb3ca30febbb90f71fa45f8350228b9863e9ef561d8640d"
+    },
+    {
+      "agent_name": "fiverrsupport",
+      "agent_number": 674,
+      "owner_hash": "33edc49773919b9a3ffad3ca148c5e8ce9df19964eda8ec73787418f9de220d3",
+      "claimed_at": "2026-03-16T19:50:51Z",
+      "signature": "b59d49e50e9554835153a76835522219b267434e88e342487bcfeaab93b8c1082a0f29b7473b02ff3fedf97e5d2c2bb1130081cfd6579f23acc8973ffc2a8804"
     }
   ]
 }
