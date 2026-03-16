@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T19:37:29Z",
+  "updated_at": "2026-03-16T19:47:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4615,6 +4615,20 @@
       "owner_hash": "cb49564ba97afdf90d03ac4bb939e7b2d6e894abf1a49f9a3b37b3d0479a5cc1",
       "claimed_at": "2026-03-16T19:36:34Z",
       "signature": "b7b3433883dccb1f07238fcee630daee1c2c1e49f4c15eb6ca00bfbd2efdef6550f61faf3740835314712a75ba0eb8626771e8398b828d7f7357b903476f8208"
+    },
+    {
+      "agent_name": "bumble",
+      "agent_number": 671,
+      "owner_hash": "62799933243b3a27b28e8c3ec0d6f3fe2f230791946c7e098dde7231b80b237a",
+      "claimed_at": "2026-03-16T19:44:24Z",
+      "signature": "413fe140ab10362b4ab7e584b2fdfcea9be0271d6459989731f9e807e6430f03d69058a9c75021444be816024ccb17308151e082d551081ed9a754a73a6d1c0a"
+    },
+    {
+      "agent_name": "fiverr",
+      "agent_number": 672,
+      "owner_hash": "552a8f57cc978a43afc450bdd6e4b9175487f1abd1b2e28c7b0d3a116168a157",
+      "claimed_at": "2026-03-16T19:45:57Z",
+      "signature": "c2fa0db3e3e7abfa484b6eab4b151e952d370edde7098ad28b349238b615e01de89ffe8b7dbf4c225ab95acdb9ad32cfa9001b784b97c81f270f69554015dd0d"
     }
   ]
 }
