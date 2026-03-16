@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T20:17:35Z",
+  "updated_at": "2026-03-16T20:22:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4699,6 +4699,20 @@
       "owner_hash": "69eaebca126d71dc95ee022f03a2090b9f4172b98d68a8f48a6a5c2a96886504",
       "claimed_at": "2026-03-16T20:16:09Z",
       "signature": "a35b36908cc113d880e43dc9627ee41ef14a2fd4ff332047b4daf6e2ca946dc0a26b1416f8598beb5ef492c6344aa604a4902f19b2b992708ca2975d86140f02"
+    },
+    {
+      "agent_name": "olawunimayokun",
+      "agent_number": 683,
+      "owner_hash": "80f7f36afc46f1871a9ef7b01e7826ae87c638f69d2b519856b34dc97750b459",
+      "claimed_at": "2026-03-16T20:20:17Z",
+      "signature": "0ede31d0e87a50cefa19de1079e9f8c4f4a7d83d64d7c0056a268fe47170b1732651b6d76975337efe4bca22f8191dfa45014240764c823b49b9f4655ca0bb03"
+    },
+    {
+      "agent_name": "gap",
+      "agent_number": 684,
+      "owner_hash": "2573c909d2bfdbb98b778ea128fb6fb2dc0ed4e61904dc6128f2ff88657faaeb",
+      "claimed_at": "2026-03-16T20:22:00Z",
+      "signature": "291fb439df1de0b05697a5127e65c8b2aebc4328e9d789e9d8cefe24b9b553a4a5b25dcda7277504f81854573ffe22643be197d42e22374a6a3badd469fb0e05"
     }
   ]
 }
