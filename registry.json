@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T19:12:25Z",
+  "updated_at": "2026-03-16T19:17:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4580,6 +4580,13 @@
       "owner_hash": "cbb406b818ac59864ebbf35fe90c9368e21f9239e0d904dbd7525cb5d234c13b",
       "claimed_at": "2026-03-16T19:10:09Z",
       "signature": "fe4510e313826e9f68efabf8103955b9483db6e0dfdc40cc46eaa26ba102a70c8b13adc98864703722dbc0f77a22e4136f66604552497961e16640ba54770b07"
+    },
+    {
+      "agent_name": "aivantage",
+      "agent_number": 666,
+      "owner_hash": "f883e776561b60258a9399cf78c243d49134063925471ddf9953cce0ee96136d",
+      "claimed_at": "2026-03-16T19:12:32Z",
+      "signature": "8ec0987751d22a90fe789d0fd065219059854c7fc21185cf9ff622f69612d8e61cbccda864567824e3d92caccbcbd6d721b42d6d6790d4cd9e255f63694a430a"
     }
   ]
 }
