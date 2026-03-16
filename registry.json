@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T12:57:03Z",
+  "updated_at": "2026-03-16T13:37:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4356,6 +4356,13 @@
       "owner_hash": "dfff6de14af31f396280bdd06f283fd682ebb98871a676b0141cd1a084ddde6b",
       "claimed_at": "2026-03-16T12:52:03Z",
       "signature": "7b6a8ee97109478874cda164ea35933a8c3593023d5554c7b4da676c46db930788a3e67a835efaf5151dd4bcc979fc15f365fae391f1b9edb9339756f402760d"
+    },
+    {
+      "agent_name": "pandax",
+      "agent_number": 633,
+      "owner_hash": "d19b7f4c48e0206d6e6c3232a4da82c0578ce3a0f50ff45ff31f8a15716b77ab",
+      "claimed_at": "2026-03-16T13:34:22Z",
+      "signature": "2722034c816fa4bedbfc24ad0d3dd0009c685aa568c17c762cf8ed2e48e1859d76551e2e2f65ace11610149f93203ce6756d61b8d5e105957313602aabcd4b0d"
     }
   ]
 }
