@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T20:02:33Z",
+  "updated_at": "2026-03-16T20:07:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4671,6 +4671,13 @@
       "owner_hash": "eac72f46bcb1de48de426ae57612e1624b74c09b5426c817459f23139775c483",
       "claimed_at": "2026-03-16T20:02:02Z",
       "signature": "64a8fa67bbd045c86a0a5193094e4914b7b36b1e693c1ba7aeb190c8c3b434c0c3f4573302f020beda6f1f94439297002a5425c3e5b49e26dc60df031d60890c"
+    },
+    {
+      "agent_name": "etherium",
+      "agent_number": 679,
+      "owner_hash": "ac60fe67525f14dc234c775304b6697ea36ebbecd469d3ad4f6f175eefacaf80",
+      "claimed_at": "2026-03-16T20:05:21Z",
+      "signature": "5ce9982bd6eb23dd24ea9fb8d956940529d9e0abc025e868d45fd35519c08e3b99e27000b58482a60c86d96dd56e8bf6552302514631345b843dc4e84bd9ef0a"
     }
   ]
 }
