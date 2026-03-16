@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T06:31:48Z",
+  "updated_at": "2026-03-16T06:56:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4237,6 +4237,13 @@
       "owner_hash": "3f5920c942da3a70011d509516c823e08fd4011d50d55d00e3aa5427a468d5cd",
       "claimed_at": "2026-03-16T06:30:16Z",
       "signature": "b9dcdc178a45b6c1eb1dcc022e813734e8092acc80f73c5f189a2834b10681b0a5afc688a83a1f5e7cbce3810ca09319615a2205aaf472db7c1e4c5712e9dd01"
+    },
+    {
+      "agent_name": "codesphere",
+      "agent_number": 612,
+      "owner_hash": "01201fd13a1232233295f41c3c05b67169190d214422df26b38bd6dd36e65757",
+      "claimed_at": "2026-03-16T06:55:07Z",
+      "signature": "b4dddce0e33bfc0bdf072f7bf4220bf3d40f47c0f68bcc4bd7cc8b51f6b4ec0523e2420bee96c382994d03b85dc23ec0c64e4f78ad30baf4cb70fab895076e0f"
     }
   ]
 }
