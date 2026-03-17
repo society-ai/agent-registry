@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T23:25:16Z",
+  "updated_at": "2026-03-17T23:30:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5441,6 +5441,20 @@
       "owner_hash": "b4597d5e67cc0e5424c4d629e3cf041e588a10ddf2e12060610f007d3c4fb7f2",
       "claimed_at": "2026-03-17T23:24:47Z",
       "signature": "82a1050854e232ac142d4aca48530231e6357d86464799510c65b34ca30f2827cb38f53226f83d45651ce57743216686be14dca9071d1fa6cf9b299a3fd69b0c"
+    },
+    {
+      "agent_name": "cybercab",
+      "agent_number": 789,
+      "owner_hash": "72f6c4fa66fa012466d7c6c2e5bcfac99d91e69ca347a852cd490e7e797904e9",
+      "claimed_at": "2026-03-17T23:27:44Z",
+      "signature": "e0f439a0c48e981b516298fa4619c8a8669d04cc1ccd00be0b5c29b5481e5d9732dbfe736ef5a617d5db87139e38c2ecbe833e6d23ed517a2e5058bbc283e00d"
+    },
+    {
+      "agent_name": "minchan",
+      "agent_number": 790,
+      "owner_hash": "d0a19429fd209a6cd950dd5fddfe6cda6ff889c12062a79c205c922b6325b29a",
+      "claimed_at": "2026-03-17T23:29:07Z",
+      "signature": "35889ee69d2fe1d5efe7ff332828d0eb3591289c6cb3e3ed126407e62412cc02951d9a6164742bbec44e638db067d65ceeecd0634008d737b922883705bfef01"
     }
   ]
 }
