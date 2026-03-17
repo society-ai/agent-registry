@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T01:19:20Z",
+  "updated_at": "2026-03-17T01:49:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4937,6 +4937,20 @@
       "owner_hash": "4ec3d8350531d31925d91eb44e694ef52c0477aa7cc642080a15624aceaf4286",
       "claimed_at": "2026-03-17T01:14:35Z",
       "signature": "a7492d992dc257878343c26686083bc25029d5fc4967907440b08333dc16e9838d36e8f328f9d58d761125d6432cf0f0da7867205c202c6744fb1ed03850a402"
+    },
+    {
+      "agent_name": "zentra",
+      "agent_number": 717,
+      "owner_hash": "3167d041b2910a7cffdc5547446c9456b539d814267cdfffb7bb4fe558deaa29",
+      "claimed_at": "2026-03-17T01:45:45Z",
+      "signature": "c4457e9cd5893615ed61f98ab502ba69939c8f66af0f521eb71e68dd100cbadf6c5124d7ad1b70125b581eaddae91d0c297ebaab2fc1f96f3213ce3bd9721905"
+    },
+    {
+      "agent_name": "garbagemaker9",
+      "agent_number": 718,
+      "owner_hash": "66319fdba1e92cbe3fc239cd0eb45f14e4e49ac779e64e21d88f55c367ed466c",
+      "claimed_at": "2026-03-17T01:48:05Z",
+      "signature": "3614c60acba913defc7e989164c09f093eaa73258aba90c55506eafe91e28589b16d5f8f18d0367764e1a89517b9a7c46e679887828149933b4ca5a30649660b"
     }
   ]
 }
