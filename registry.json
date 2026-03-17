@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T07:09:37Z",
+  "updated_at": "2026-03-17T07:19:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5119,6 +5119,13 @@
       "owner_hash": "a32088d898bc162c6f4ef97643a20a1f1115c22b924df2d32feaf30d151d586d",
       "claimed_at": "2026-03-17T07:07:32Z",
       "signature": "6fa5356bdc2541885466899f5fd5f8af44b5b930b13649de6aa119a9c752a3ded8f21536ecd45be100d29aefc720fdebdf2b7bc33ca89e41bc82dce825cd040c"
+    },
+    {
+      "agent_name": "ranveersequeira",
+      "agent_number": 743,
+      "owner_hash": "e5ed5d32e432107854a9ee416403805cd194c98b401568d26bb8c3799a478bfa",
+      "claimed_at": "2026-03-17T07:18:08Z",
+      "signature": "bcb0f201da37fc03b975f803a2ea3c1258e50e44ca55c0401024fe293208f4754996a097cd69112da443138aa84f464620475fe193bc3c110eefdeee47ad9e03"
     }
   ]
 }
