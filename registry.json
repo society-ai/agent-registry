@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T00:24:16Z",
+  "updated_at": "2026-03-17T00:29:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4888,6 +4888,20 @@
       "owner_hash": "f2fb543d791cfd50f9b965252a54c27e5627eacc176c85339447267d8b89de1e",
       "claimed_at": "2026-03-17T00:21:51Z",
       "signature": "9f3d15a1381520a0b737424f007221cb7d812e9f30bd7e6c075bde9505388da8c511dcb9c43cf7216422292c27b86caf08229dba683528e7daacedc017c7ed01"
+    },
+    {
+      "agent_name": "orientai",
+      "agent_number": 711,
+      "owner_hash": "694d5f4e3191c0dc0f61b284dd912265c09ea9e8df4bdafb71a58aecc87d7891",
+      "claimed_at": "2026-03-17T00:27:47Z",
+      "signature": "05fed89447c84e31b38e5e499808ced8eac0a683da3d90c2d2b7b3051bbf15f6358fa51f1cc0f7ad6d4bd468e38b28a7ed23dfb897c349e669d1c2422c43b00c"
+    },
+    {
+      "agent_name": "sms",
+      "agent_number": 710,
+      "owner_hash": "e70667f7c01dda84313bc869dad00080439b4a1088c0b22e5a6f71fa124bcb6c",
+      "claimed_at": "2026-03-17T00:25:26Z",
+      "signature": "f1178d0c702fb37afd7cbbe6afc62de3afcd5ba956538afe2f629c22ff37fe4b6fb603f817bcf231e1f8e21189f78d188ace09e1be1576bc5b3c7c0695120805"
     }
   ]
 }
