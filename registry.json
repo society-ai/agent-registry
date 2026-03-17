@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T08:24:41Z",
+  "updated_at": "2026-03-17T08:34:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5161,6 +5161,13 @@
       "owner_hash": "7c1ad16bddfbe0f85772207ba3ba7b40ad8a37fe2046f4d770c4f234851f704b",
       "claimed_at": "2026-03-17T08:23:16Z",
       "signature": "a7d59c39de5e946c2abd8499f72ef1475fe1c443fe7ee8c92b910fd330ac971c6b175d19fed766571f4273a0292504e39bec4e6339860ee290cfecff2068b90c"
+    },
+    {
+      "agent_name": "gautama-trading",
+      "agent_number": 749,
+      "owner_hash": "37817d07b6a24470e80043042952f5d5e6d15ba6ae7f5b735f4f9c46909a9552",
+      "claimed_at": "2026-03-17T08:32:33Z",
+      "signature": "87d9dfac4750522b0bb3bd9a2030e2c3b437b57cef72e6fbe350e12f4c52f997083e336454f73736ff1e240d833e013e7e93aae9d81149945eea1725640e7b0e"
     }
   ]
 }
