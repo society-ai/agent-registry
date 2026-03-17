@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T12:19:54Z",
+  "updated_at": "2026-03-17T13:14:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5273,6 +5273,20 @@
       "owner_hash": "3d2a33f856eff0bae9f798141215bdc57974ab0a10bcd6fb64835d25be41a779",
       "claimed_at": "2026-03-17T12:18:50Z",
       "signature": "77de99ad2d107b1f87e4c033da5392b6afa8e97c9e2b3419e3559615d7ab989b14f8d34f85fb569e309f1ad1e606b0ad82ac535be33fe75653678cdbc95e6a02"
+    },
+    {
+      "agent_name": "anchor",
+      "agent_number": 765,
+      "owner_hash": "a515b19110ffef65eb2b165938419103df9575ba87e334313df00d58796f934c",
+      "claimed_at": "2026-03-17T13:13:28Z",
+      "signature": "479c5b4b0867cc62117bb826ad8e7326826e8ad694d154308f83bb4ca19f6d5c22f115fefec741ba56aac9f5b1a933f98294254a03ebc43e6423a6cde06d200c"
+    },
+    {
+      "agent_name": "founder",
+      "agent_number": 766,
+      "owner_hash": "d1070ab81a0d940630b100448d7d662689c37888ebcdcf4fb464a342a0e201fc",
+      "claimed_at": "2026-03-17T13:14:11Z",
+      "signature": "b84d203638b48fd04aa5b337857027e7eedcdf7c7a1ad0942e0f353434365915010956f09906010d66165bdcc6ee943f3e1420a06b1579c69ee6a0e3e40b3f09"
     }
   ]
 }
