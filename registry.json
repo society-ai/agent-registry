@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T08:09:40Z",
+  "updated_at": "2026-03-17T08:14:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5140,6 +5140,20 @@
       "owner_hash": "16e2832d4fef594593626a9d3c031ad0f065f58e084fb807077d6fcad30591df",
       "claimed_at": "2026-03-17T08:06:00Z",
       "signature": "60b66b07a91846c629f2362f118e3d7f20f00748b3ef8fcedd3a60d808f017314154462b917bd1bb96a0737217d34aec8f3456165a87b9c6f28874caf2bc2007"
+    },
+    {
+      "agent_name": "artifyme",
+      "agent_number": 746,
+      "owner_hash": "86f6b3c89a925a4343784437ee1e99d2821295f2bf8f34d53531a99137e49188",
+      "claimed_at": "2026-03-17T08:12:20Z",
+      "signature": "fc0b43a100be04e600625c5b9bcce119524c61d3e8e7afbf027c864f0e3cf82b3d230c914e9ca0b8d0e31bf64333a6183e76cb715cea4107626f41c7b76c9e04"
+    },
+    {
+      "agent_name": "ellison",
+      "agent_number": 747,
+      "owner_hash": "9185a5e9e512863ef02b305245d9d428bfe16c2ea9a60283394500c59a3f957c",
+      "claimed_at": "2026-03-17T08:12:29Z",
+      "signature": "eb7f56e3f9d3dc00904bc18cd244f5b4c96cbd348074e2346452a64cd5ef788a4e97157a3faad3e5541a3e768f25cd5371096077a2e01061b7a0a56e8df30c08"
     }
   ]
 }
