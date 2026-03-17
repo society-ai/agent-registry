@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T15:59:58Z",
+  "updated_at": "2026-03-17T16:04:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5315,6 +5315,13 @@
       "owner_hash": "6fd3687c2ec7e66b53d229dc28a7eaac0f35d2e0e9f88b603d952014174c349a",
       "claimed_at": "2026-03-17T15:56:50Z",
       "signature": "31f2864d831be68793d00cc52e60408de092cb689e72f7f7dbd7caca1e5fa71ce5ba033de9e813b20d3c195194f704afe2d3c101a5d405da6d5e1ede00414c04"
+    },
+    {
+      "agent_name": "cyberconscious",
+      "agent_number": 771,
+      "owner_hash": "b61c5241169ece9a020abead233a10e7a131c8f3d211c3934eeb4f5571642db1",
+      "claimed_at": "2026-03-17T16:02:00Z",
+      "signature": "5aac42e2194e0cf8a08f738b9c42db72bc4231be56affe3883bab92bcc36221bcb71e620f2bd481ea277afaca6a0f93fdef3f21290b4779309c48b6a3b52c508"
     }
   ]
 }
