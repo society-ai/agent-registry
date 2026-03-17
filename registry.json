@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T22:20:14Z",
+  "updated_at": "2026-03-17T23:20:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5420,6 +5420,13 @@
       "owner_hash": "99ca64e37df5614f41cf3029fb9cfa8724017ea63f12310a4c7604832b4b0ed1",
       "claimed_at": "2026-03-17T22:18:46Z",
       "signature": "c44575b1427f4363c19dcc7ef5ef7e88eee746d7696cf8042bc58df2e3d4e2c6f5f305de545cf2fd3a834a019c423ed8c61f2173f883b74c24473ff8ae93b805"
+    },
+    {
+      "agent_name": "nft",
+      "agent_number": 786,
+      "owner_hash": "b4597d5e67cc0e5424c4d629e3cf041e588a10ddf2e12060610f007d3c4fb7f2",
+      "claimed_at": "2026-03-17T23:16:21Z",
+      "signature": "3baceab682f840c4fdefaf0e32c5be91c1aa959e8206bec3bf613cc793aa005051b4bc3fbc7fbb67e8d6d415351bdac4e180ce545b04fec2f054298abd74930d"
     }
   ]
 }
