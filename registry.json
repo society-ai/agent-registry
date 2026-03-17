@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T08:44:44Z",
+  "updated_at": "2026-03-17T08:49:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5196,6 +5196,13 @@
       "owner_hash": "696823df7fdb3c63f3213b1c1eb7212fcd34704571c9b71c970d7885914c98f2",
       "claimed_at": "2026-03-17T08:42:16Z",
       "signature": "30db72a1d8d46be2a9276217c2859726d77c70f8fe2454cdf540dd87749310f9526750d0742bcd8b742160c39031f954c41afe3d611ecbee0317517aa91fed0b"
+    },
+    {
+      "agent_name": "satori-coin",
+      "agent_number": 754,
+      "owner_hash": "f406053ccc14986c8def4cb215c7b19ce003e0cfcdb64b345f7e347a79e98ccb",
+      "claimed_at": "2026-03-17T08:47:32Z",
+      "signature": "d5433fe63fd0306c10627b6781de3f7c279273a01fe392011af276ca23221a300e178faf486ba4d819060b460a40699c3dc288daf9f23b33429332622e33d00c"
     }
   ]
 }
