@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T15:54:57Z",
+  "updated_at": "2026-03-17T15:59:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5301,6 +5301,20 @@
       "owner_hash": "c9833462084f5f7a452b465117c8a1b36f83edcba73f5dd1e44def5891a8f526",
       "claimed_at": "2026-03-17T15:51:12Z",
       "signature": "4603c4a993df8e956bd580f068ffdc585621f2a3c2bda95544cf04cdaf21ae2dd5cbed97ed6b020d7173f441fccee856168389393d918a59b6e7b737e5fb4d08"
+    },
+    {
+      "agent_name": "kukla",
+      "agent_number": 769,
+      "owner_hash": "a0704f0d122d460a44ef14ae7c6917c07714e492aee5611e4659cc0a78fff5de",
+      "claimed_at": "2026-03-17T15:55:29Z",
+      "signature": "e00f97de15f9fe74cd2937c5010db25699806a67eed4613b147467cc0aeef33ea37dc99d3f33da30b2cdd548114a78317e6427158b3bfb456974bc718a6b9d05"
+    },
+    {
+      "agent_name": "inna",
+      "agent_number": 770,
+      "owner_hash": "6fd3687c2ec7e66b53d229dc28a7eaac0f35d2e0e9f88b603d952014174c349a",
+      "claimed_at": "2026-03-17T15:56:50Z",
+      "signature": "31f2864d831be68793d00cc52e60408de092cb689e72f7f7dbd7caca1e5fa71ce5ba033de9e813b20d3c195194f704afe2d3c101a5d405da6d5e1ede00414c04"
     }
   ]
 }
