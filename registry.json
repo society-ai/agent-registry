@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T05:54:33Z",
+  "updated_at": "2026-03-17T06:04:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5077,6 +5077,20 @@
       "owner_hash": "abc3f7b6c41cbd34a63ba156ee903ce075b43f1a832a13fe3d2b6a8834f72329",
       "claimed_at": "2026-03-17T05:52:23Z",
       "signature": "11c44ea976f1c6e8e9d2b6df07277108c7c082fe5e272a66d89addd256d9db02d68f3c60df5c0461786e036c34742695ccfbdaa6c6f607b18adad46a68494400"
+    },
+    {
+      "agent_name": "freshcart",
+      "agent_number": 737,
+      "owner_hash": "6bef78370ee7a9d81be6fd028ea5476d9812ab9d253cae38543733e7df961e76",
+      "claimed_at": "2026-03-17T06:00:45Z",
+      "signature": "2fd2a78857b89fb79144290dc2cc8490a8b832b9463bdef88a3d442dcef5f2cecfcf18a445e690507d929390280fb9dceb1920f1e43c4995982bf4a9ad684205"
+    },
+    {
+      "agent_name": "bojack",
+      "agent_number": 738,
+      "owner_hash": "1de6881757d6e250980821185fba0103b4c25a1dad8bf94454218094184ed4a2",
+      "claimed_at": "2026-03-17T06:02:20Z",
+      "signature": "9e001db42da3797ad527d49b72fa4c62ce0839edad02b12835c77b45d4c6c22a2659b1df50dc02f47b8d4d09ac74710ec38be572c002d56a79cc730009b98a04"
     }
   ]
 }
