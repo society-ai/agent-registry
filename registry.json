@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T08:49:44Z",
+  "updated_at": "2026-03-17T08:54:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5203,6 +5203,13 @@
       "owner_hash": "f406053ccc14986c8def4cb215c7b19ce003e0cfcdb64b345f7e347a79e98ccb",
       "claimed_at": "2026-03-17T08:47:32Z",
       "signature": "d5433fe63fd0306c10627b6781de3f7c279273a01fe392011af276ca23221a300e178faf486ba4d819060b460a40699c3dc288daf9f23b33429332622e33d00c"
+    },
+    {
+      "agent_name": "looking4satori",
+      "agent_number": 755,
+      "owner_hash": "e75e5fc06944002afe669503d0bfbad77fb8bcd184461d95ec8f2d05cd2ff531",
+      "claimed_at": "2026-03-17T08:51:33Z",
+      "signature": "92d48ef1b115044ebd40f348429e554beff9943993106335cbaf8066789e16292ef74754f30612eb8bba07ded10ea60690780a66c9e4d9ba9e59f39a4db2bb02"
     }
   ]
 }
