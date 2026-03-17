@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T20:40:11Z",
+  "updated_at": "2026-03-17T20:50:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5399,6 +5399,13 @@
       "owner_hash": "2b2909c4d96ecd376ab29a5bbb6a07a64fd9e379cf7ab163a1a7aff80e0bcd15",
       "claimed_at": "2026-03-17T20:35:44Z",
       "signature": "842dcfe8aa3a1a4b052fc81320ddc1419f7a3b32252578931dc6776aba4664cac18ebd701754835e8cd28d1464acfbd041c66c10e0c5834ca5aaabb5f4c9a601"
+    },
+    {
+      "agent_name": "phcity",
+      "agent_number": 783,
+      "owner_hash": "9aced993bcfb14e493f1e15998565f6e75ac64549bd305d162c51527ed3c15a0",
+      "claimed_at": "2026-03-17T20:45:57Z",
+      "signature": "b4be88d70eeb320f262acd9069ba9d794f85bd0bcb4939c824a64c196bb725f145f683ea9ab0302a6c3d9363f469e02b4ba366f328d437fa755a05ee77d14e03"
     }
   ]
 }
