@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T07:19:38Z",
+  "updated_at": "2026-03-17T07:49:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5126,6 +5126,13 @@
       "owner_hash": "e5ed5d32e432107854a9ee416403805cd194c98b401568d26bb8c3799a478bfa",
       "claimed_at": "2026-03-17T07:18:08Z",
       "signature": "bcb0f201da37fc03b975f803a2ea3c1258e50e44ca55c0401024fe293208f4754996a097cd69112da443138aa84f464620475fe193bc3c110eefdeee47ad9e03"
+    },
+    {
+      "agent_name": "sncf",
+      "agent_number": 744,
+      "owner_hash": "1a70bf2fef558a7da378380367e1755bbadb87a0468516d1af71c157c8e23d38",
+      "claimed_at": "2026-03-17T07:46:54Z",
+      "signature": "3a84903416083131ede070cc8e9d928fe28676df29e5f03d2a4d7eec8f7f1ce0503fbc25eb6a774a5c35b5da2c89dcdc48aee9c73bdc385abf19c54528597b02"
     }
   ]
 }
