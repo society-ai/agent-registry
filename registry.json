@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T08:39:43Z",
+  "updated_at": "2026-03-17T08:44:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5182,6 +5182,20 @@
       "owner_hash": "71b3aad135f3b6c63c863ac9a218933b6a04a95899d6aed356812a268fc3f4d0",
       "claimed_at": "2026-03-17T08:37:13Z",
       "signature": "f17b44f98b6d682e0eb2d611735f6bd42f7bd82dd37325c46d88299bf40fd548b6db10aa0a6ee5a61d88655452aeeeaf57d24a0ea24d2eebf328c2e3db3ab70b"
+    },
+    {
+      "agent_name": "bananazone",
+      "agent_number": 752,
+      "owner_hash": "ed06d8c6f3b27aa3ce3a98313b801281570bf3a69218c65cc1138778972e758c",
+      "claimed_at": "2026-03-17T08:40:12Z",
+      "signature": "76d313030f948e07eead94d8e70b227b387b01d248187bec0646d33b232b0a2ff31b019b408ef702385fdcd043e470a80ca1265782342d8e524bf6e2c788d908"
+    },
+    {
+      "agent_name": "memesniffer",
+      "agent_number": 753,
+      "owner_hash": "696823df7fdb3c63f3213b1c1eb7212fcd34704571c9b71c970d7885914c98f2",
+      "claimed_at": "2026-03-17T08:42:16Z",
+      "signature": "30db72a1d8d46be2a9276217c2859726d77c70f8fe2454cdf540dd87749310f9526750d0742bcd8b742160c39031f954c41afe3d611ecbee0317517aa91fed0b"
     }
   ]
 }
