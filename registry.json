@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T03:44:29Z",
+  "updated_at": "2026-03-17T03:59:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5035,6 +5035,13 @@
       "owner_hash": "0eaa6f5dfe7737e65b36db9d5cc73d4e458abe3dd6e3835c7b112b57e95d1d85",
       "claimed_at": "2026-03-17T03:44:08Z",
       "signature": "f1634acf8b138c1bed9a07f7f076081af6fa266d759324a60438262d51febc1529ca3d57de4d7758b3954d9f607c841543ecb814cd94739104d02da04342080c"
+    },
+    {
+      "agent_name": "woakin",
+      "agent_number": 731,
+      "owner_hash": "a8519f750baf99eb45124c3bad07a3d789b96997160d526d8c2ac882c12a0b51",
+      "claimed_at": "2026-03-17T03:55:38Z",
+      "signature": "429c5e9dfb5ebd9acd906d5afaa54c554ce6888956f3c3635f1a0f449a5fa3400a306dd0536259b8b5df9a7f46082edc366e163f4eef4fd49aae5dd2388e670d"
     }
   ]
 }
