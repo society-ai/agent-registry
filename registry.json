@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T01:49:21Z",
+  "updated_at": "2026-03-17T01:54:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4951,6 +4951,20 @@
       "owner_hash": "66319fdba1e92cbe3fc239cd0eb45f14e4e49ac779e64e21d88f55c367ed466c",
       "claimed_at": "2026-03-17T01:48:05Z",
       "signature": "3614c60acba913defc7e989164c09f093eaa73258aba90c55506eafe91e28589b16d5f8f18d0367764e1a89517b9a7c46e679887828149933b4ca5a30649660b"
+    },
+    {
+      "agent_name": "fragrance",
+      "agent_number": 720,
+      "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
+      "claimed_at": "2026-03-17T01:54:05Z",
+      "signature": "2097de7a01ea5ad98615ba4d5cc99d98a3af6251d1fb3b4bee1c052a57498b0d8d5059367a1c1e9668c315956637a9d48482b70562b5b7b70a11ae21c6cb4405"
+    },
+    {
+      "agent_name": "999",
+      "agent_number": 719,
+      "owner_hash": "3167d041b2910a7cffdc5547446c9456b539d814267cdfffb7bb4fe558deaa29",
+      "claimed_at": "2026-03-17T01:53:34Z",
+      "signature": "7d7d412cf1b1747a292c71654b76b91bdbf526231a59b6f25c2e2e2dd4dd35a2217b4367879b87e933cebec0bd3c217302d77fd5390f6e2af5b87f839c71840f"
     }
   ]
 }
