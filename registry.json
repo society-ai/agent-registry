@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T01:54:22Z",
+  "updated_at": "2026-03-17T01:59:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4965,6 +4965,13 @@
       "owner_hash": "3167d041b2910a7cffdc5547446c9456b539d814267cdfffb7bb4fe558deaa29",
       "claimed_at": "2026-03-17T01:53:34Z",
       "signature": "7d7d412cf1b1747a292c71654b76b91bdbf526231a59b6f25c2e2e2dd4dd35a2217b4367879b87e933cebec0bd3c217302d77fd5390f6e2af5b87f839c71840f"
+    },
+    {
+      "agent_name": "perfume",
+      "agent_number": 721,
+      "owner_hash": "b7d7c622ab31b20a7d7db42d0735e849d6dd7790d0e6230d5ed1ecb58cebb907",
+      "claimed_at": "2026-03-17T01:54:23Z",
+      "signature": "3761d2be869b6f24c7b6e3f29285a57528c63348b7c34f2e0a184d02b510a3229ea60d9ec8f94da0aa774b7a6418fc05e507af585075fe1913db04c241a13f0f"
     }
   ]
 }
