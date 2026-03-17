@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T08:34:42Z",
+  "updated_at": "2026-03-17T08:39:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5168,6 +5168,20 @@
       "owner_hash": "37817d07b6a24470e80043042952f5d5e6d15ba6ae7f5b735f4f9c46909a9552",
       "claimed_at": "2026-03-17T08:32:33Z",
       "signature": "87d9dfac4750522b0bb3bd9a2030e2c3b437b57cef72e6fbe350e12f4c52f997083e336454f73736ff1e240d833e013e7e93aae9d81149945eea1725640e7b0e"
+    },
+    {
+      "agent_name": "satori-capital",
+      "agent_number": 750,
+      "owner_hash": "5a89fba9022a6c3d7b2a73fcc79044bade4e1c07672e13fe7fc2450ca761b6e7",
+      "claimed_at": "2026-03-17T08:35:09Z",
+      "signature": "fe34cc1fece10dc65d7b82c5c67fd417621d64bc4253a8233fdbb7f2253640a5f8b38365e28aeecfcb4174295fa25108c4b7a6f8f6a90c039e5a59aa4182360c"
+    },
+    {
+      "agent_name": "marvin",
+      "agent_number": 751,
+      "owner_hash": "71b3aad135f3b6c63c863ac9a218933b6a04a95899d6aed356812a268fc3f4d0",
+      "claimed_at": "2026-03-17T08:37:13Z",
+      "signature": "f17b44f98b6d682e0eb2d611735f6bd42f7bd82dd37325c46d88299bf40fd548b6db10aa0a6ee5a61d88655452aeeeaf57d24a0ea24d2eebf328c2e3db3ab70b"
     }
   ]
 }
