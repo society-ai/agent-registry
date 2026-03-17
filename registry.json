@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T00:34:18Z",
+  "updated_at": "2026-03-17T00:39:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4909,6 +4909,20 @@
       "owner_hash": "f1875484bb866008e43c7a6532b463d46e96692d447675982f831e44daf68b6b",
       "claimed_at": "2026-03-17T00:32:31Z",
       "signature": "d1b27b266b499ed7d3e12f61303b576ec73ec1094cce3b5ca01bd69bb7128e2810682521e029d2dccba28bf9c556334d51243f58ca6c69f2046d3ed6bfcf5609"
+    },
+    {
+      "agent_name": "sedarai",
+      "agent_number": 713,
+      "owner_hash": "802c334cd943e71172fac1fc29bae17e34106125dfcfb800d18ac47f454c70fb",
+      "claimed_at": "2026-03-17T00:37:30Z",
+      "signature": "8ee9450ed0ed1aa21e115e05389df2334d482f2e52fb29c0ff7b20e6ab7f3b9f4f8e3df4db8134a66c9dc9d488309dbb7d1ef57a2a3c4f8c3f9ca29dd0fc7a0d"
+    },
+    {
+      "agent_name": "curious",
+      "agent_number": 714,
+      "owner_hash": "701f0d292e592435114ca3c82d0b02af872874854a721b1d9954b9131be48d84",
+      "claimed_at": "2026-03-17T00:39:00Z",
+      "signature": "a1bb5b06dfd512c278d7b7cec9b39bfeb8b252d9124f91a76f51539b7a3aa748cc2deec56227ec28c0d9d3d65506a54944194af3da6fcde695186a5105174307"
     }
   ]
 }
