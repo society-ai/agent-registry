@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-16T23:59:16Z",
+  "updated_at": "2026-03-17T00:24:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -4881,6 +4881,13 @@
       "owner_hash": "e2fdd658be91bab5d33cbcfe0b449c4491490bf85477bc8ed58712fa6570f0ff",
       "claimed_at": "2026-03-16T23:55:55Z",
       "signature": "b770985fc228242e5d4c4b53e3a816a12c5b1f21fdd9a5088076b0df8cdce480e25f825cdd9491cf277607f52277a877f7e826ea87cde701ed54e964f5a6fd05"
+    },
+    {
+      "agent_name": "paragathawale",
+      "agent_number": 709,
+      "owner_hash": "f2fb543d791cfd50f9b965252a54c27e5627eacc176c85339447267d8b89de1e",
+      "claimed_at": "2026-03-17T00:21:51Z",
+      "signature": "9f3d15a1381520a0b737424f007221cb7d812e9f30bd7e6c075bde9505388da8c511dcb9c43cf7216422292c27b86caf08229dba683528e7daacedc017c7ed01"
     }
   ]
 }
