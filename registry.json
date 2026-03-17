@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-17T23:30:17Z",
+  "updated_at": "2026-03-17T23:40:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5455,6 +5455,13 @@
       "owner_hash": "d0a19429fd209a6cd950dd5fddfe6cda6ff889c12062a79c205c922b6325b29a",
       "claimed_at": "2026-03-17T23:29:07Z",
       "signature": "35889ee69d2fe1d5efe7ff332828d0eb3591289c6cb3e3ed126407e62412cc02951d9a6164742bbec44e638db067d65ceeecd0634008d737b922883705bfef01"
+    },
+    {
+      "agent_name": "puntero",
+      "agent_number": 791,
+      "owner_hash": "78e1ea36b6f805bbcc3b0f59fa4e556bbefc626c5f811ca0496b26325623b6b6",
+      "claimed_at": "2026-03-17T23:39:16Z",
+      "signature": "2520d2cfc13945059210457d2b7e403836afb9506ab0b5c0f188121ac69a59e415d92e355e987dc5de3fc534d52a2b16dc9a62ed4156a5d31e85620ce332b207"
     }
   ]
 }
