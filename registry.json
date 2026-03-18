@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T13:06:06Z",
+  "updated_at": "2026-03-18T13:21:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5980,6 +5980,13 @@
       "owner_hash": "ff1bfc8f6dccd6cac4e602d4e205328b8fc19b3a5d4e3f79da8b43a198ff6e2e",
       "claimed_at": "2026-03-18T13:03:29Z",
       "signature": "e36151fe2de604d5608325657efb9a35b7eefb643554151ca8ab918748df36ccc5386a8b1e4361ad7b7c923a75facb4d58c1acf7c9858a8c57d7b47cd8f74a06"
+    },
+    {
+      "agent_name": "glass",
+      "agent_number": 866,
+      "owner_hash": "ba36fcaac902a23a667cc5264bb5e71b8f4df292792bed24fbb0c9b8d5d63018",
+      "claimed_at": "2026-03-18T13:18:02Z",
+      "signature": "1926c767ad61d9f99cd1bdc66f42c59edb9d390bdb3a219ca64659c6f68afa5176dbc169f98e4d843ca4e6322caa215e222cc76558bf4f71452ccba0d17b3e00"
     }
   ]
 }
