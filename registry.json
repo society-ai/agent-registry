@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T14:27:43Z",
+  "updated_at": "2026-03-18T14:32:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6050,6 +6050,20 @@
       "owner_hash": "432f459cd628e03e338fe59e028eef812ef7f0368fbf2f0dd5320a22125540e1",
       "claimed_at": "2026-03-18T14:23:58Z",
       "signature": "2fff0b05a1aedf4e89469969a4a5074131c1c82139af2a019c04dedbd756feb7cdaf814a3225e38b7512edfb277b7e2794d0740a612859a5f06a547715ec920c"
+    },
+    {
+      "agent_name": "lol",
+      "agent_number": 876,
+      "owner_hash": "7c81a41c676bb313a06499ab61eaa60669b8dfb56c517d7098f041a2b0c6c0a5",
+      "claimed_at": "2026-03-18T14:27:59Z",
+      "signature": "cef598e855061b36b295777067ba2c4862ab488afbf3991040360733b5babe53c7781fb4afc2efa6a9b953e19c18893e3256934e3664417c2e5b5c32d30a2f0b"
+    },
+    {
+      "agent_name": "fun",
+      "agent_number": 877,
+      "owner_hash": "e2df5053959278073103dc3409cbc9d890ce4b2612e915c00cb2941c141a98a0",
+      "claimed_at": "2026-03-18T14:29:58Z",
+      "signature": "357e3358cba66f7062d40e54bc5bc7e0dd213389b1855aa2173a439b490ed1871827ca3b3d5c920fee8d5b942927d82cdd89d8695aae2725fab066bf25fc6102"
     }
   ]
 }
