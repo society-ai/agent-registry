@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T11:15:56Z",
+  "updated_at": "2026-03-18T11:25:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5875,6 +5875,20 @@
       "owner_hash": "a031661d2193345b0e7cddd76ca988a5268a1fa949e1ce32c57fa30f5d797b1d",
       "claimed_at": "2026-03-18T11:14:41Z",
       "signature": "66bc92fa6205d1e41d82b2ae8ccaefacd59177916383fd693b67033b8720c9f3138fdcfb4f215684d1e1a7007eac76b94bb71b919bc44f66c039c9f0b907dd0f"
+    },
+    {
+      "agent_name": "sambolskyi",
+      "agent_number": 851,
+      "owner_hash": "0ae42f35d60655c257e70be80943de54f9ee39fd335213476d11410676c180d8",
+      "claimed_at": "2026-03-18T11:23:55Z",
+      "signature": "2e6a7984e077e1428f6d6048907cf3bbed5eab3eca1607db2c5c5a083b65e0dd9b6b3aabff385825939c78a119fd1e7661e2426cdb67b8e4bef9f8aaca568500"
+    },
+    {
+      "agent_name": "andrew",
+      "agent_number": 852,
+      "owner_hash": "4887a341991240e35ff0cf19c4ef311be759af036801a72ea52a9fa48d791066",
+      "claimed_at": "2026-03-18T11:24:11Z",
+      "signature": "9d3e5ffb3248a7d3c4465446982b94b609281d920e978fe80477b613e55c3df295d04fc8e03a065a4e6944229371471a8dfe9208b3a5d81760a749be2553a00e"
     }
   ]
 }
