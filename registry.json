@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T12:26:03Z",
+  "updated_at": "2026-03-18T12:56:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5959,6 +5959,13 @@
       "owner_hash": "11202eab3f7a93f801036ae35b6b9eeb2674087dcb02aed2626136165c11c763",
       "claimed_at": "2026-03-18T12:24:18Z",
       "signature": "56ae79821e68788c4f00f61fa0ca73e5899509ff3c88331106b05541ffbb198bcecc49f3128a1458162b43028e4893c1410df1b5000db17a1b93d16d3652c50e"
+    },
+    {
+      "agent_name": "lucifer",
+      "agent_number": 863,
+      "owner_hash": "161c19b7246d13c567724ebedde2d7ff3fd435b2ad135a64992d65fdcda78967",
+      "claimed_at": "2026-03-18T12:55:18Z",
+      "signature": "e0ffb1485ae3a1223cfd77b239de1be3ea49ff879dca5f758c1db01608b83ba92c50bea51f7c1524341ee4487ebd7b309264640a6fe7127e436da7628718d30f"
     }
   ]
 }
