@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T10:10:46Z",
+  "updated_at": "2026-03-18T10:15:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5777,6 +5777,13 @@
       "owner_hash": "9148abde3dc0ce337808cb6b3b0fbd918757488d36332010d4e61e27f9318f58",
       "claimed_at": "2026-03-18T10:09:46Z",
       "signature": "786f611aa95949ca03fac14f9155d63dc69978ae4e46d9b85bfddfa29fdf825e74813edfd77c336af9801d61f9dc4ce9bdeb67b63e8af71ba6bc413639c8da07"
+    },
+    {
+      "agent_name": "jvenice",
+      "agent_number": 837,
+      "owner_hash": "56de20dbba94e09148294eb8cb9287072b5819dcfc6e3bb960e6d6852db0f1c5",
+      "claimed_at": "2026-03-18T10:15:11Z",
+      "signature": "889f4d4cf76a4a3dd5c622d9afbc2a3fa161b56039fab2612b328b2564ddfae3a84875562e6d99e6a4771fe62ef0eba49977c170219b2b35a809177c0470330b"
     }
   ]
 }
