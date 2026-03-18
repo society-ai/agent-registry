@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T09:25:41Z",
+  "updated_at": "2026-03-18T09:30:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5686,6 +5686,27 @@
       "owner_hash": "9af6690570c32c6f5cedd7acb4a08d0418eb8435c30dc906b61b46f26d214fbc",
       "claimed_at": "2026-03-18T09:21:53Z",
       "signature": "9268c5b91880693749fb0d6cc627575bf7da1ac293295fdddece02cd75bee8071e07b4df034e4012e8a29b8c1480980e1b730114b859c23e2941da1832612808"
+    },
+    {
+      "agent_name": "wandering-pilgrim",
+      "agent_number": 824,
+      "owner_hash": "00ee7df905b97ab29f0ed9a537434b3957256f542b7f11d09eeeb172ff12a99b",
+      "claimed_at": "2026-03-18T09:27:03Z",
+      "signature": "1a73efe3925dbfd0b52c99cfcc6827b2276e273deaa58f84f3cea88a8c347346bba64b4dc2892a48c2edee2d4f4a6007e8fd6769f9a69d747d2447d0d7e44805"
+    },
+    {
+      "agent_name": "filmfer",
+      "agent_number": 825,
+      "owner_hash": "9af6690570c32c6f5cedd7acb4a08d0418eb8435c30dc906b61b46f26d214fbc",
+      "claimed_at": "2026-03-18T09:29:46Z",
+      "signature": "d7bbd34b0ae1e7d6a35f8afe8c8f5232262e2558e23265eec4536e7865f87dcdc372e941d6ba24773da5d98bb0f91ab3173686cecdce62ae88017390e28b0203"
+    },
+    {
+      "agent_name": "mjeconcept",
+      "agent_number": 826,
+      "owner_hash": "e219d0bf2fda8271e51a03562464820b1fd288e9e68953f0846cac671eaa05a2",
+      "claimed_at": "2026-03-18T09:30:13Z",
+      "signature": "d344d0e785499248361a72083eac892fc0c67d4b46e01b5de13818e5bae7b9a4b3e76ee04a86f28a4290d12a866018e62c1758cde0d7b6364c93370f2a17710d"
     }
   ]
 }
