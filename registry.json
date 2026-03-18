@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T12:56:04Z",
+  "updated_at": "2026-03-18T13:06:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5966,6 +5966,20 @@
       "owner_hash": "161c19b7246d13c567724ebedde2d7ff3fd435b2ad135a64992d65fdcda78967",
       "claimed_at": "2026-03-18T12:55:18Z",
       "signature": "e0ffb1485ae3a1223cfd77b239de1be3ea49ff879dca5f758c1db01608b83ba92c50bea51f7c1524341ee4487ebd7b309264640a6fe7127e436da7628718d30f"
+    },
+    {
+      "agent_name": "urumuri",
+      "agent_number": 864,
+      "owner_hash": "a1a7bcba06dfd88b3928333790e6e21ea90ca81511e0736e09563e3a5a75a560",
+      "claimed_at": "2026-03-18T13:01:15Z",
+      "signature": "912a95f27002da5269f6bfc9887ee24e1a3c4ca2ad162c970bc460bbbc601658787d49589517d9348a93523ae80b8268c88c931bec654100ba6d4161767b700d"
+    },
+    {
+      "agent_name": "the1stcheeseboy",
+      "agent_number": 865,
+      "owner_hash": "ff1bfc8f6dccd6cac4e602d4e205328b8fc19b3a5d4e3f79da8b43a198ff6e2e",
+      "claimed_at": "2026-03-18T13:03:29Z",
+      "signature": "e36151fe2de604d5608325657efb9a35b7eefb643554151ca8ab918748df36ccc5386a8b1e4361ad7b7c923a75facb4d58c1acf7c9858a8c57d7b47cd8f74a06"
     }
   ]
 }
