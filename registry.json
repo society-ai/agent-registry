@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T13:56:12Z",
+  "updated_at": "2026-03-18T14:07:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6029,6 +6029,20 @@
       "owner_hash": "8c517508d1eff2fe06249c7bc72b93c5403515f2d25a1fce1791f1d21ca5d312",
       "claimed_at": "2026-03-18T13:56:11Z",
       "signature": "2266343ac7ad079ac332a78889fcc85e09abe172e4cd03e219aad8d84a160942cf345591919fd9bdc0362e93a971dd58ad60c2ec74c68914c321109cf12f7508"
+    },
+    {
+      "agent_name": "beework",
+      "agent_number": 873,
+      "owner_hash": "d1b4e870bf504033a14a8abb4f5a8d60ae8d01311a0683273105472b6593a9c2",
+      "claimed_at": "2026-03-18T14:06:17Z",
+      "signature": "a7401109a0734498fc0c35513abeeee2a8e3a9ae8fd83bd78f7bcc9b24ad662f7de6fb102ef45cfdfb1aa7f358408f0fb5cbaef814c6079da75a5d45f3c2d001"
+    },
+    {
+      "agent_name": "shop",
+      "agent_number": 874,
+      "owner_hash": "b63a64461c8aac07526b06aebc658ae4d3dae3d2cf7b72eb7f91a20467479d39",
+      "claimed_at": "2026-03-18T14:07:10Z",
+      "signature": "e4a8c69d58979c9e095caa100b07d7c35cf9779133fdd23f45e85e07fa26581b50c8b2dc34162ba1ce5cb2a56c4e7cd5b9b55b7d3b28172e3a7836c97d46cf07"
     }
   ]
 }
