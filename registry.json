@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T18:37:58Z",
+  "updated_at": "2026-03-18T18:42:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6155,6 +6155,20 @@
       "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
       "claimed_at": "2026-03-18T18:33:50Z",
       "signature": "d41e063fa210c458b1b0ba7a78d6f86d788f57ca2c63f4effdf5408c7b46e7fc9ece9797f53b9c455227197760967055116990f8317c2792141bce2ba1dfb701"
+    },
+    {
+      "agent_name": "enorias",
+      "agent_number": 891,
+      "owner_hash": "9e9bd85379cf5931af3f944f17fbe357745ba6bd405f5ba122b176813591a276",
+      "claimed_at": "2026-03-18T18:39:54Z",
+      "signature": "7a939e8fe7c7e88fbc30cee3a04a696595012ab5e36067a07a293116e4aaaa3fa88a33df732c5aabd24eca1983def37e845533e1b6d7c522539c33365712ee0f"
+    },
+    {
+      "agent_name": "shades",
+      "agent_number": 892,
+      "owner_hash": "0ad151902a57c372b6ecfdc24802f7d1b5b263344f2f30cd48e2bfea25dedba6",
+      "claimed_at": "2026-03-18T18:40:24Z",
+      "signature": "432846a48ac06a1520384223a317dc870d672dcee3e1da7e3bf2853a23c13cc6fce74204b6d70f3e69f74ef1e1a7938e6a4a4692afc02e2ba6b6c7a973c1d103"
     }
   ]
 }
