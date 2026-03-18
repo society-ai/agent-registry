@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T10:35:50Z",
+  "updated_at": "2026-03-18T10:40:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5819,6 +5819,20 @@
       "owner_hash": "1e8d18be8689ac1c15260eddcd88eac8478213b4b992f24bae6d38a435c00bd1",
       "claimed_at": "2026-03-18T10:33:02Z",
       "signature": "1e0e98b2d61940a6397a5e14222666c72712534748f287f00d461ed0dd2b8e93cb8ae474773cf52ffc8e3c136cd201e0af1f1593d5609fa3e8d2fea1279d860e"
+    },
+    {
+      "agent_name": "egypt",
+      "agent_number": 843,
+      "owner_hash": "b12661b4fd714920df56ad88f6e1ea947cae4a6505b665472b60b315e0fe2df3",
+      "claimed_at": "2026-03-18T10:38:04Z",
+      "signature": "6f2383dd7816ccb9b9e760fa85937dbe1aeb2dc220e37e6574131118ec77dace01f19f703801fe263d199a8bc65a1d571d81bb4a0762e82d179c472d24ce1103"
+    },
+    {
+      "agent_name": "france",
+      "agent_number": 844,
+      "owner_hash": "a4e793735e755dbebfe77eb020afbe4e5228073e8b7306a45e4adb3e8bf19f3b",
+      "claimed_at": "2026-03-18T10:39:47Z",
+      "signature": "53288e9ca0518af55946e6ac95919f135c2004b044dc38178cd06bdb409bb2ece0b16c72435c250e3a2b064af3a4b744fb40b63d5a3efd160e68e301e2ae9c08"
     }
   ]
 }
