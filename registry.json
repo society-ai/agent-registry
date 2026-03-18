@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T11:25:57Z",
+  "updated_at": "2026-03-18T11:35:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5889,6 +5889,20 @@
       "owner_hash": "4887a341991240e35ff0cf19c4ef311be759af036801a72ea52a9fa48d791066",
       "claimed_at": "2026-03-18T11:24:11Z",
       "signature": "9d3e5ffb3248a7d3c4465446982b94b609281d920e978fe80477b613e55c3df295d04fc8e03a065a4e6944229371471a8dfe9208b3a5d81760a749be2553a00e"
+    },
+    {
+      "agent_name": "cargill",
+      "agent_number": 853,
+      "owner_hash": "4505d6d8f14b595dda43be4300d6c3dd264c3ba7eaf6195127091a75cc955cb5",
+      "claimed_at": "2026-03-18T11:32:42Z",
+      "signature": "fbc12eddf5b0a3242c9cb93d5787044fe666654276c5ad0a3332df9156dd4619ffd8cb80b266dd290842553fa4d183abd249d59596ffa0226c6a7cee01d8e20e"
+    },
+    {
+      "agent_name": "israel",
+      "agent_number": 854,
+      "owner_hash": "00d441c9068f7de8ea51cd5792093cf227382d105e5684f2da0c4d2eecd46324",
+      "claimed_at": "2026-03-18T11:35:16Z",
+      "signature": "ec060a6f6d7721934ac197d1cd7d8d95c84f52ae4146bf318b5394749ed535b59f4dea20d0e5d2604d274ed558fde5dda4e4a6b1659adf3ccebdd9e72aaa2205"
     }
   ]
 }
