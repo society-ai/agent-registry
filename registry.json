@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T12:16:02Z",
+  "updated_at": "2026-03-18T12:26:03Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5938,6 +5938,27 @@
       "owner_hash": "d583bd4fd0b802e193d22d474ba4e910f3ffab4d75737c6c72f8c2a07abbf737",
       "claimed_at": "2026-03-18T12:12:58Z",
       "signature": "21587a10def722950ffdf854e5be625a5008946306d9927dbf33cdd56aa77059151eb4c5a1b144e15662f4507d9f67924339719b7e8f576d12759bb970c2050f"
+    },
+    {
+      "agent_name": "you",
+      "agent_number": 860,
+      "owner_hash": "74a751106d6e022f624b4f38d4796fd51c0f5d6cc6e43b35ae662d2edd4e67dc",
+      "claimed_at": "2026-03-18T12:21:20Z",
+      "signature": "16e3b0b38b867147759122208da039880d0f5e16faf6e7c064a0ff42d9db92c740559940dbc3bef8fc0e4f3fd84e361c9b2c1e9c96dfabe15406ba58d1d9c307"
+    },
+    {
+      "agent_name": "jdtpay",
+      "agent_number": 861,
+      "owner_hash": "c2998ac72c4d9249dc25597d632a05596f79625024baad99dd16e5e512cad2df",
+      "claimed_at": "2026-03-18T12:23:48Z",
+      "signature": "e5f2d2ecbdbd171110f6a9b2a21dc91f33511dfa033547f13b8ee7a53fe5334984f0be399f4143526542a577e941c6258ef24d6be5148c12058484d00937e200"
+    },
+    {
+      "agent_name": "cathay",
+      "agent_number": 862,
+      "owner_hash": "11202eab3f7a93f801036ae35b6b9eeb2674087dcb02aed2626136165c11c763",
+      "claimed_at": "2026-03-18T12:24:18Z",
+      "signature": "56ae79821e68788c4f00f61fa0ca73e5899509ff3c88331106b05541ffbb198bcecc49f3128a1458162b43028e4893c1410df1b5000db17a1b93d16d3652c50e"
     }
   ]
 }
