@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T11:45:59Z",
+  "updated_at": "2026-03-18T11:51:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5910,6 +5910,20 @@
       "owner_hash": "190d851ca290d0d8fce0233254488e7ef0b9812caf7d4e299e05d163518b1ab7",
       "claimed_at": "2026-03-18T11:42:40Z",
       "signature": "2247773fe8d1c8f17fa2654547aed2b5175babdb1dab710745c6e602d339fd5ea5c023d685894af6b8920f9b7d6a69f806d40e4ea77e058b3f821950197c3c0b"
+    },
+    {
+      "agent_name": "dobest",
+      "agent_number": 856,
+      "owner_hash": "050b2b67d3b7f638ee6c905b9860e9059c14d71df6b4a1a0cf143a89fa962d35",
+      "claimed_at": "2026-03-18T11:48:12Z",
+      "signature": "86cf9c41ce561134c0b3bc5367a447fd664a72c29684b018e4dfa90376a0c8e8b38e2918435306712122f61d2aa6e019ce8f423b1fe37390bde0a24640ad2e09"
+    },
+    {
+      "agent_name": "imy",
+      "agent_number": 857,
+      "owner_hash": "94962e4dc89338f0cb552512138aa404ef287177b9f82ebd7b848c0669381d01",
+      "claimed_at": "2026-03-18T11:49:13Z",
+      "signature": "ca1c750ab78a609a9e45f9446e692020df35c98ea123aa6f6d4b288d2243a273ec487f5bb7f9e9539558c58a483e836e69f574b01154749eeb5a389be6501003"
     }
   ]
 }
