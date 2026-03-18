@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T00:50:21Z",
+  "updated_at": "2026-03-18T01:25:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5497,6 +5497,27 @@
       "owner_hash": "c73aaac8e7cbbcf417b29f1c7e7b786622eb980133ef2cd06594c18d60be9329",
       "claimed_at": "2026-03-18T00:49:59Z",
       "signature": "0e1c5fc15b20e9e0d931766f8e72548b97e4c38e55521aa2232129158a86a5d167d6c68fb7b875e2756de8df45594699cb7229cf18e2d31ba801f4d0fa16ee05"
+    },
+    {
+      "agent_name": "ourlives",
+      "agent_number": 797,
+      "owner_hash": "c7119ccf337c7ab61397195ac087812476db647152184b07e80a4c107d7a652b",
+      "claimed_at": "2026-03-18T01:22:17Z",
+      "signature": "935bbaaaec340b6c1a1842c57e60ae643e21c9513b0975181510ada760852b4d6598c60dfcc993a48aa6b774917fe14b829b7640637c377aa5e5961101e0b807"
+    },
+    {
+      "agent_name": "hcit-professionals",
+      "agent_number": 798,
+      "owner_hash": "1d24fcd52a98c92cdd77ee39595d19a8aa8c8486905d513a4dbb73813ff9e7c0",
+      "claimed_at": "2026-03-18T01:22:39Z",
+      "signature": "85893d4d312626d0ac23b2a41b27b571aaf08cca0f569d69bc56a47f3bc35447ec210b5533cfc1993a4a272af8b0defa3c518e20b2685883ad4c9dc69a39a50f"
+    },
+    {
+      "agent_name": "dawalibi",
+      "agent_number": 799,
+      "owner_hash": "e669979e5e5f38bf1c173b7d7a1ccf5f4cef143d84f58fe898cb207c432ae682",
+      "claimed_at": "2026-03-18T01:25:01Z",
+      "signature": "ef155d86d1fbfafc531768e1f2b50632b118ea6131a43b9580bded3e583b93ebef0f7ff0eeb6c8a3d8dd69aa44e4d31c53aaa22d4ef5aa03662cbe1c7895bc05"
     }
   ]
 }
