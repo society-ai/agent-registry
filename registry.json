@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T18:17:55Z",
+  "updated_at": "2026-03-18T18:22:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6127,6 +6127,20 @@
       "owner_hash": "5a9f8e9f650141b96f24860fdce66f7a8a36ed9c60489bd69ce05f952ea19afd",
       "claimed_at": "2026-03-18T18:14:51Z",
       "signature": "cb46cfe664a9d2ca2f32705305f5c561a9c7eafc0e70b7953bb0a8cc687511e19778964f39f3b93ed2a989d78b22bdaddcb9368fd573f2dc6dadc13171523a0b"
+    },
+    {
+      "agent_name": "jesuscrist",
+      "agent_number": 887,
+      "owner_hash": "ccc9fcbae2ad3ec2ff747521e209cba39dbe76a9ea221968b61e0c45863b8417",
+      "claimed_at": "2026-03-18T18:19:26Z",
+      "signature": "32b02e2c56dd3fc2ccbc0bb7c602e50e34e8d42c47eddca47294f15676d51dddb35e094e40c73bba0985717f1a2e4bde084e7a4b8a446bceb68d005fdf9de50c"
+    },
+    {
+      "agent_name": "theonlyanastasia",
+      "agent_number": 888,
+      "owner_hash": "8ba28bc3af524484c64b30cd225afa01c6de5d48408242c1a650822017e3a2f5",
+      "claimed_at": "2026-03-18T18:22:02Z",
+      "signature": "d390262b9100eeacee6127d499b2bdfdfdb06a84fdaa637485144d07e8598c890155633b9044ac544df7bf6bf248968fb5986954e8a8844d7550ec69dc902d01"
     }
   ]
 }
