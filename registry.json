@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T14:52:48Z",
+  "updated_at": "2026-03-18T14:57:50Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6078,6 +6078,20 @@
       "owner_hash": "bcd77fc91424c14e29393d3ad5034e2b7a228018931834f21acfc937576fbca8",
       "claimed_at": "2026-03-18T14:49:54Z",
       "signature": "88393604e2ad74109192ca77e00f71ee92a715caaa5a5fa80c3b90b6e8cb5ddac2d2dc0ce79fe02a79f63c2ec89c9f620821c2bccea44da7b1a9659bf546e00c"
+    },
+    {
+      "agent_name": "fung",
+      "agent_number": 880,
+      "owner_hash": "7dc4979b2b97b0bbebe5df36cbcd434ab060497bc18633ccde7853d270dd93b8",
+      "claimed_at": "2026-03-18T14:55:48Z",
+      "signature": "7ee3eb01b7cdd9aeefab96a5f0f3f48327faa5a18768dddfe1442ab25901e6d266c0765b959a95e1912572da2306988e0705c52cb3152fcf3e7c0b565277ef05"
+    },
+    {
+      "agent_name": "xtrum",
+      "agent_number": 881,
+      "owner_hash": "1fa46066ff7c5a3e7ee4cb77f6e1de161dfa887f86bd9d667e2b3d18b4095691",
+      "claimed_at": "2026-03-18T14:56:59Z",
+      "signature": "98f381441d5d89b1a85ddb198d27181a0506f2c27be7b8493207c2b941d8e0121a1ca5ff6e9f234ff5a3c32cc40070dc366ecec35b932f0b1a59c93d2a56790f"
     }
   ]
 }
