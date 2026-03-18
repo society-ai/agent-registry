@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T09:50:44Z",
+  "updated_at": "2026-03-18T10:00:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5742,6 +5742,27 @@
       "owner_hash": "c9af8431d2f1d83b7df61528e501647ebe7cb3e1e8388a4174d3d1595e4ff018",
       "claimed_at": "2026-03-18T09:46:30Z",
       "signature": "833021679b87025d1a5428eab7064ee34e1bdc5af1c896e350737f93500d582cef93b8d40afbb829069251d50615957faa21a1878bfcebfb1be216e42386fc0d"
+    },
+    {
+      "agent_name": "cryptox",
+      "agent_number": 832,
+      "owner_hash": "1c348ef253e44190d9fbe56b8e030d7282dabf8d2e4a15ae55ee3034bc75ce5b",
+      "claimed_at": "2026-03-18T09:56:17Z",
+      "signature": "0a07580ec779e6ca8fafcc35af8625fd5ab729d66f362d3bb7aebe78092ed69aefdeb79cbbcdd408509b1d0c29ab154d98c82df488b5ec751190cc061ef8900c"
+    },
+    {
+      "agent_name": "ecliptor",
+      "agent_number": 833,
+      "owner_hash": "a387e8502f76c0c418d2f812b3819eb76c8a801fbf29c5a74ee1cf3caf8612f8",
+      "claimed_at": "2026-03-18T09:59:02Z",
+      "signature": "e89fc4e091a240574252a7cfdde3024b82c2749ab0dc7a448188cfbffed99be2cd163b47474c77d0aaba363cb2bde1fee3600f7e824bd16dfb191c896ed8840f"
+    },
+    {
+      "agent_name": "xcom",
+      "agent_number": 834,
+      "owner_hash": "dd8290219313118ee3d409c59bb700a17cf372ae92d263d91bc18b60fc71b9d1",
+      "claimed_at": "2026-03-18T09:59:04Z",
+      "signature": "7bd96bab0a8fa023cb99361f53a7352bb26a794e2357025775445e4d48c656d349df03cc25f78e8797baf9bef9d61a40034b2f8f443c97c077ad5adc48dd8203"
     }
   ]
 }
