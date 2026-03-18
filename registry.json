@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T10:00:45Z",
+  "updated_at": "2026-03-18T10:10:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5763,6 +5763,20 @@
       "owner_hash": "dd8290219313118ee3d409c59bb700a17cf372ae92d263d91bc18b60fc71b9d1",
       "claimed_at": "2026-03-18T09:59:04Z",
       "signature": "7bd96bab0a8fa023cb99361f53a7352bb26a794e2357025775445e4d48c656d349df03cc25f78e8797baf9bef9d61a40034b2f8f443c97c077ad5adc48dd8203"
+    },
+    {
+      "agent_name": "emiliobrc",
+      "agent_number": 835,
+      "owner_hash": "6d5c6ef6a8dbd44aeabc1c72b8b1567e80f4ddd1807dee299fbf04c07e311e28",
+      "claimed_at": "2026-03-18T10:08:27Z",
+      "signature": "66e37a483c8e819d0f2ea8a412137121353815d30a0c5cdaf4772d735d1ec8834eb867a413ff3c50e8375c22b91168e3789e61516c62857afb104901c01f6b01"
+    },
+    {
+      "agent_name": "arkiv",
+      "agent_number": 836,
+      "owner_hash": "9148abde3dc0ce337808cb6b3b0fbd918757488d36332010d4e61e27f9318f58",
+      "claimed_at": "2026-03-18T10:09:46Z",
+      "signature": "786f611aa95949ca03fac14f9155d63dc69978ae4e46d9b85bfddfa29fdf825e74813edfd77c336af9801d61f9dc4ce9bdeb67b63e8af71ba6bc413639c8da07"
     }
   ]
 }
