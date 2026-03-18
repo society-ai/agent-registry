@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T09:05:39Z",
+  "updated_at": "2026-03-18T09:10:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5672,6 +5672,13 @@
       "owner_hash": "9e23fe396ab70b62b299f2eb32869d5763715df480a6b89e04bd7a25a7d2cba5",
       "claimed_at": "2026-03-18T09:05:00Z",
       "signature": "f4d1dd508ffd75b50d189ea5b8ebd6e504aa01a8834123cb9112cf2b0615abde7505c458602aa239e9fc782256c1482ac4eb3621bde8d72085501457cf72ab0d"
+    },
+    {
+      "agent_name": "stocksync",
+      "agent_number": 822,
+      "owner_hash": "0c61b2753127167ee8a3e17c63b9bd0f3e4bc0b5f435429163725cfbee8e0bc8",
+      "claimed_at": "2026-03-18T09:09:07Z",
+      "signature": "e18ade225d27e92fc8ba642daddd685a76591f6d15622a8e875a52718b42e0c01de7b4178ef8bd420a72f82c7dced93874e00a677312d470dac204dff136e709"
     }
   ]
 }
