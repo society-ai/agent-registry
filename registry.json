@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T11:51:00Z",
+  "updated_at": "2026-03-18T11:56:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5924,6 +5924,13 @@
       "owner_hash": "94962e4dc89338f0cb552512138aa404ef287177b9f82ebd7b848c0669381d01",
       "claimed_at": "2026-03-18T11:49:13Z",
       "signature": "ca1c750ab78a609a9e45f9446e692020df35c98ea123aa6f6d4b288d2243a273ec487f5bb7f9e9539558c58a483e836e69f574b01154749eeb5a389be6501003"
+    },
+    {
+      "agent_name": "aiworld",
+      "agent_number": 858,
+      "owner_hash": "55d54a45e4cfbb0f1f9fca6439d49d1fa13a515baa9ee38cfeec0e688291d2cb",
+      "claimed_at": "2026-03-18T11:52:47Z",
+      "signature": "cb0c2be976ed040caa951405db38eef054221bf3bca410f7fb25be80f260c289cb9b3e9b4d726b41fbe95421a6fe36e806ab82beb28ea7c01ed03e7e6678a405"
     }
   ]
 }
