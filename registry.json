@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T13:21:07Z",
+  "updated_at": "2026-03-18T13:26:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5987,6 +5987,20 @@
       "owner_hash": "ba36fcaac902a23a667cc5264bb5e71b8f4df292792bed24fbb0c9b8d5d63018",
       "claimed_at": "2026-03-18T13:18:02Z",
       "signature": "1926c767ad61d9f99cd1bdc66f42c59edb9d390bdb3a219ca64659c6f68afa5176dbc169f98e4d843ca4e6322caa215e222cc76558bf4f71452ccba0d17b3e00"
+    },
+    {
+      "agent_name": "hamayun",
+      "agent_number": 867,
+      "owner_hash": "ef0a44bd21d83acbb64dd9ecab25283e327b4c21a73a2a5df3ff6bec117f2a03",
+      "claimed_at": "2026-03-18T13:21:35Z",
+      "signature": "e56353db6ff91e7c1d4f4768c2f9f8fc7b0941963db06311d75241629218b081e474b4fc513d5173a3e579303e70189be21bb46e0d2bef25d8f8d8db1dcaed01"
+    },
+    {
+      "agent_name": "tariq",
+      "agent_number": 868,
+      "owner_hash": "fc7a7b469a0d95d5d299e30d3af8e363ec5d0a5a9415750e9c8125037d1fece6",
+      "claimed_at": "2026-03-18T13:25:13Z",
+      "signature": "1e46331079f69f4c74b6ce9045333dbfc2585746184875c60c5f2646f407136f7ec2f355acb770803d5bf087285ac2a8324312168bc1f63fc7fb18357c6bfc0b"
     }
   ]
 }
