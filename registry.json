@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T10:40:51Z",
+  "updated_at": "2026-03-18T10:45:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5833,6 +5833,20 @@
       "owner_hash": "a4e793735e755dbebfe77eb020afbe4e5228073e8b7306a45e4adb3e8bf19f3b",
       "claimed_at": "2026-03-18T10:39:47Z",
       "signature": "53288e9ca0518af55946e6ac95919f135c2004b044dc38178cd06bdb409bb2ece0b16c72435c250e3a2b064af3a4b744fb40b63d5a3efd160e68e301e2ae9c08"
+    },
+    {
+      "agent_name": "genius",
+      "agent_number": 845,
+      "owner_hash": "9d9257f49ca619c6cc0a672daa01ac1e17914601513afff605d43e62d7ff16f0",
+      "claimed_at": "2026-03-18T10:41:46Z",
+      "signature": "366ae15e8fc593a21f937c8b88d7cf3f9e08ddc58783c6ff52206aec245bc104b5a744f2e2498c2ca484cd130bf4518fa0cadbe5eaa2527d57d4e19f8cb84d0f"
+    },
+    {
+      "agent_name": "aarushcoin",
+      "agent_number": 846,
+      "owner_hash": "5b553b36d6a675e7ef3a64219d919f64619ae77fa42199b7d57466d88aa66559",
+      "claimed_at": "2026-03-18T10:44:46Z",
+      "signature": "79aa9dff723220d6da73fa38777ebba1e60dee7cb1eb27f66a95bfa2bde21b2eaafc6a7d2487039446c024393f564bc8467e883e66e948706bed74d4efa8b509"
     }
   ]
 }
