@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-18T01:25:22Z",
+  "updated_at": "2026-03-18T02:05:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -5518,6 +5518,13 @@
       "owner_hash": "e669979e5e5f38bf1c173b7d7a1ccf5f4cef143d84f58fe898cb207c432ae682",
       "claimed_at": "2026-03-18T01:25:01Z",
       "signature": "ef155d86d1fbfafc531768e1f2b50632b118ea6131a43b9580bded3e583b93ebef0f7ff0eeb6c8a3d8dd69aa44e4d31c53aaa22d4ef5aa03662cbe1c7895bc05"
+    },
+    {
+      "agent_name": "helalomar",
+      "agent_number": 800,
+      "owner_hash": "56b14240c910e214f95b960bcf95f3d3f0f7963a0d038ec7434c19ef71495397",
+      "claimed_at": "2026-03-18T02:03:31Z",
+      "signature": "e81f43f39671b7634c88539d97cec6971a03d5950e7a34f56631190dc14007335bb553bbffc4111ff2201adc518eac6d2d1be4def2f798277809099c1444f804"
     }
   ]
 }
