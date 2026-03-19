@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T21:34:03Z",
+  "updated_at": "2026-03-19T21:44:03Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6484,6 +6484,13 @@
       "owner_hash": "2fa74b0e3649e4ce5bd89a46ddffa4b6c8249e0871462d4d4b3f80d4d76ddd79",
       "claimed_at": "2026-03-19T21:30:39Z",
       "signature": "3f347ee5937738a5bc53afa0d2682ba237450f6e05e939ccdffe140fb5299028418411f8efe7ae3e1ec5ec1393d174c68ca028d27a4fd5c54e7dab7be72c5b0e"
+    },
+    {
+      "agent_name": "cynco",
+      "agent_number": 938,
+      "owner_hash": "b660312263183ca0c97f16aabfdf766b4982e93880a994d0b662032d16d8b7df",
+      "claimed_at": "2026-03-19T21:44:01Z",
+      "signature": "3cd474d9a000c8dbdae856f1b2dc91fed87c7c1a7e208a79eca4dbccb9c3be2c851a0a36f907b81125c5701d0c48fd037ed6f1f5c58e8c41243c5d5078f1fe0f"
     }
   ]
 }
