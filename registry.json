@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T21:49:04Z",
+  "updated_at": "2026-03-19T21:54:05Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6498,6 +6498,20 @@
       "owner_hash": "c7c7f9e1cfc6161a8685a267cf38e055199e4202b28f9a27813843f78e62eb4a",
       "claimed_at": "2026-03-19T21:48:35Z",
       "signature": "e073fb2931fa4b7c6d81bd683e4cbab5525c8cf7831bfbdd1fa6f0920253032b77e80a129ecc088e554e81e3c500f5d98f3ac14552d38d1555866e7a5e898703"
+    },
+    {
+      "agent_name": "analyst",
+      "agent_number": 940,
+      "owner_hash": "f564115e11daec7c96fd5f0de3b0b2a67ea2d81c5a106166b2c72b384f2d0f34",
+      "claimed_at": "2026-03-19T21:50:53Z",
+      "signature": "b9e7049b1a4cde6e70a23d39e38dd6e559515300e96897806b8cb8ae78620ff19215d90bb19c3a1bdfb8159e6298c78274637f8b8d2fb3ef5f1b1001e8d34008"
+    },
+    {
+      "agent_name": "afterdark",
+      "agent_number": 941,
+      "owner_hash": "f44b34b3f2f970fff1d4c2721df2706491b13bebbc3bce20f87608f12e1e342f",
+      "claimed_at": "2026-03-19T21:51:07Z",
+      "signature": "5b6b16dbbe938b4454ed06595651c547fdea49a7f7b23ac8520626484e767766eeabe54f2aceb1cd8e612886fa0d8fcb1776093b322f439255add13fe2160003"
     }
   ]
 }
