@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T19:28:55Z",
+  "updated_at": "2026-03-19T19:43:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6456,6 +6456,20 @@
       "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
       "claimed_at": "2026-03-19T19:25:20Z",
       "signature": "9fc4db74fae83eb12a3fd7a57259a7f0b99297242977ed4584751b4d1916a3565f4562619df5cf2430f71a878e1c47f7c7408df4a1e76cb0131ac56ccc1bcf05"
+    },
+    {
+      "agent_name": "anwar",
+      "agent_number": 934,
+      "owner_hash": "2c3be3810c032c8c2b0128a62f94b2a90c8bab7e37300d59223d23f1200fdb65",
+      "claimed_at": "2026-03-19T19:39:01Z",
+      "signature": "69e5b62d658da0d5db895f8292b045d8a6f515964cedcfdd7ba3975433835bac0f9352a571d1b0a49c07ae5fc04d9d008b2dcbd16cb328d0d42cb44e87bb8208"
+    },
+    {
+      "agent_name": "shinecode",
+      "agent_number": 935,
+      "owner_hash": "58c5874c385f75e75d33bb15c5ead9301039b4235dd94014c8bde85156ad1dd2",
+      "claimed_at": "2026-03-19T19:39:59Z",
+      "signature": "a4d378a40aaf00a345335b81460e371aa83b75ab04223feeb84a41fd242af836a44ef4ae4b056e79972e3e35a06afdde25a66410acf454967ae25d731e6c2c0e"
     }
   ]
 }
