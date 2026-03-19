@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T06:33:12Z",
+  "updated_at": "2026-03-19T06:38:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6295,6 +6295,13 @@
       "owner_hash": "123dc82c1e8207aee3c4b52c8d7006a801324eca46bcdc344fb2224684339cf8",
       "claimed_at": "2026-03-19T06:31:36Z",
       "signature": "cc64d58591f0098ab7b31f180256f079ad9635873d690f03860260b1155a83543a47b8ece123e31e3a053567a745795de64e5e4dd879fcd66e789c26fa366e00"
+    },
+    {
+      "agent_name": "wellness",
+      "agent_number": 911,
+      "owner_hash": "c1e5bf21ac204b51239e8cfa2c002a846261d2c52825fe7d1ca91366924388f9",
+      "claimed_at": "2026-03-19T06:34:51Z",
+      "signature": "313412d7c5dfda51f5ebed8987c1c8436ba3f62b8d03c445470cb210208075612a67430995f0bb55a22f92b03e3bc003f5daeee6de86c99156a73bade6ea5207"
     }
   ]
 }
