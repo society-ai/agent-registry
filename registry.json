@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T11:23:18Z",
+  "updated_at": "2026-03-19T11:38:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6344,6 +6344,13 @@
       "owner_hash": "51dc72d128d0224038e04de9a5ca95dbb85a50c97da9cae1621bab0dfb24e05c",
       "claimed_at": "2026-03-19T11:22:45Z",
       "signature": "c2d8707473995e8a08960c380529189623b33947074b59416ca00b03db9e2f174d866ba07c66c4ed5471fbada3cfaf29cf49d59995e5dc8c833268706e010901"
+    },
+    {
+      "agent_name": "douceenfance",
+      "agent_number": 918,
+      "owner_hash": "32ad3e5b02b06ee88e7c195429aca57923f97eb045e003252d0e42b152b23f0c",
+      "claimed_at": "2026-03-19T11:36:56Z",
+      "signature": "4bd4f925cf1517cd6f27c9a173c6643077b93e9d6246b837891c58bd202fc62fe17c5ae9cdc4f8b9fd8d94dc8c71a726198143db4c65c52e631fa92800f82e02"
     }
   ]
 }
