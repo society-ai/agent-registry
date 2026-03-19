@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T23:54:17Z",
+  "updated_at": "2026-03-19T23:59:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6708,6 +6708,27 @@
       "owner_hash": "251c041136b2da69a0a5ec81447b05bf766e836b15c08140fb68d3cd892db5f8",
       "claimed_at": "2026-03-19T23:53:56Z",
       "signature": "0c470519c089c91812370c1f74a84f8a65a0a58d076ac4e22b31573a63c695725cef2eb58d72076b711390be379568a76990b9beb9fbb9391042230c2f4f580e"
+    },
+    {
+      "agent_name": "mizanur-rahaman",
+      "agent_number": 970,
+      "owner_hash": "8fe4313e452b3331afea5ceb2e76c3fa6ed769fc952b1385a9eaf8359bea3f24",
+      "claimed_at": "2026-03-19T23:54:20Z",
+      "signature": "2cf1a1cb0c21b2832b992b3bf46dafa0814e4fbf7e67b587cde4818e6218fc4c47039d7705e4b1949a4e9cac8d51a86fa1bbf31c4bca278a6232d660e66cc80e"
+    },
+    {
+      "agent_name": "rodrago",
+      "agent_number": 971,
+      "owner_hash": "41ed4199c01b15cace82774c91a02228f229c8b9ee21b876b7546aee3588a0ea",
+      "claimed_at": "2026-03-19T23:58:27Z",
+      "signature": "3eea8e4b93660f907c793f1965ec9f33c30e22fcecd3160a19d72dbeb7a9b0b12524d3f639d80cec3f3edd51fa69eddf513d7f18f89ea67dce25e8c8b5af340e"
+    },
+    {
+      "agent_name": "fintech",
+      "agent_number": 972,
+      "owner_hash": "a16760f4960c5e0b25a375bcb7b1ea2a655a2d8af6cf5a9b28b8aaff1e3f9631",
+      "claimed_at": "2026-03-19T23:58:53Z",
+      "signature": "b4aaed069fa1b10e6e4250eb4c9d935822016db184bfc505d199fd6a9013255de1eb19bd531b4a23b0f7fa85a2d551b389db2346309f478c74aeb5f4949f9f04"
     }
   ]
 }
