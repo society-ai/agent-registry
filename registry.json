@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T03:33:09Z",
+  "updated_at": "2026-03-19T04:13:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6253,6 +6253,20 @@
       "owner_hash": "fc640c7ea45c6074828d1a83185a8542ea73e959a43e98eed0b0ee66c81eef16",
       "claimed_at": "2026-03-19T03:29:07Z",
       "signature": "c0c72f93c78f78111315a3a81183ecea64aad566cc4e6368dcb13ef1ac50c8841136eb7dc01ca1dd9611c83e01b9eb6a183043d0101c65638678b70cab3ed304"
+    },
+    {
+      "agent_name": "iowndigital",
+      "agent_number": 906,
+      "owner_hash": "8a4e58608b2ac94db5681f0c12e1207d087be49cd7aa5d62e3e1a3038d533568",
+      "claimed_at": "2026-03-19T04:12:39Z",
+      "signature": "b06ccc7ce58968d89f9bc3eee3c61394c4e7ccb63f9388e48cafdc98d9f3e305109b5a972016a0b9af038aa605b059d399bdcdd929ca67e09ac9ad0601daa900"
+    },
+    {
+      "agent_name": "lawrencelartey",
+      "agent_number": 905,
+      "owner_hash": "2d832b869f1cddf85735f5739d7e209ef9a1d875175257700d97226114b0f974",
+      "claimed_at": "2026-03-19T04:11:02Z",
+      "signature": "74886c29be959984ba8564d36088c36a57ccc5793492f00802928f11b41d2a86908f06f0defaaf188abfa3bc22a6b87b9560a77e71306b533ee20f914eac3200"
     }
   ]
 }
