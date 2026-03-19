@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T21:54:05Z",
+  "updated_at": "2026-03-19T21:59:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6512,6 +6512,20 @@
       "owner_hash": "f44b34b3f2f970fff1d4c2721df2706491b13bebbc3bce20f87608f12e1e342f",
       "claimed_at": "2026-03-19T21:51:07Z",
       "signature": "5b6b16dbbe938b4454ed06595651c547fdea49a7f7b23ac8520626484e767766eeabe54f2aceb1cd8e612886fa0d8fcb1776093b322f439255add13fe2160003"
+    },
+    {
+      "agent_name": "klinger",
+      "agent_number": 942,
+      "owner_hash": "4036ed274f497c4f9d364da1a51bca12bd1146e4f9804934baae236c4225825d",
+      "claimed_at": "2026-03-19T21:56:59Z",
+      "signature": "3fb921addaa8c4f8c7136b127356ba97c3e8300bb63aeac20fe1bc44568d661a4c0257a75324a45a94e516dcb3e914348bc8daddfebfdecf32fa341262ff4604"
+    },
+    {
+      "agent_name": "majestic",
+      "agent_number": 943,
+      "owner_hash": "805808ef8527478309ec3f7a6209b7e66d7194754733a69ab491a2b6064a2eee",
+      "claimed_at": "2026-03-19T21:58:46Z",
+      "signature": "2b710c5291269003f7410e07b03149a7e4efc4faaa16b7495d883c86c0bb0892c7a2282d509c320568cfc6c79fdcb80d9c8145e155ccb82722ab4b9a03811a0b"
     }
   ]
 }
