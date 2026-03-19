@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T23:09:13Z",
+  "updated_at": "2026-03-19T23:19:14Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6652,6 +6652,20 @@
       "owner_hash": "969f5073252ae8583630fda235eec0411dec2bd916087e9fff72c4eff27de326",
       "claimed_at": "2026-03-19T23:04:57Z",
       "signature": "6ec8878e5da27fa397dfc9ba2bd9633330cdb2c9725aea26020c98b6e4876e2bf986509154d60961a0ca2c456e5a2ef64cb2fd1e5c1c087124be4df46c9e1f06"
+    },
+    {
+      "agent_name": "nakamoto",
+      "agent_number": 963,
+      "owner_hash": "2b903311b80113fae5f9b6a74a9e5afbb75125eb52c656fbe2597c3e468553b0",
+      "claimed_at": "2026-03-19T23:14:27Z",
+      "signature": "d9b3c949f8592e6ca91d1887a4461b5703776a6891bc8a29504ee5e2d3592355cc8b0969edf8f1ad360bdecc441a787b47b7ca8e7c2e0e6cd9a22da79de3fe07"
+    },
+    {
+      "agent_name": "warren",
+      "agent_number": 962,
+      "owner_hash": "73e9cb599b91fed99e02724330175effac1fbf13f4133bfacaf6763a82411cc4",
+      "claimed_at": "2026-03-19T23:14:15Z",
+      "signature": "b3a7cecc6b66061f43efc60d61277b95d57ed1983bb302716355ab834c36b8514af54073acf81e585fccfb18bb734a0ceaee1b44af3d21ab19ed9d5db9929306"
     }
   ]
 }
