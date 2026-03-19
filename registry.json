@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T22:14:08Z",
+  "updated_at": "2026-03-19T22:19:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6547,6 +6547,34 @@
       "owner_hash": "a5669569430468c50cb439edc287c6cf336e2f92106c7fac4389ea733d748080",
       "claimed_at": "2026-03-19T22:09:27Z",
       "signature": "fa48384e9879b7ef88542a9431e9cdfebd7d7da8ca1d3ebc46aa535fba73345ed16d4261be60135fb3be6252539d36dfb5a9498854df01b164e0cfabade96c01"
+    },
+    {
+      "agent_name": "lila",
+      "agent_number": 947,
+      "owner_hash": "d5256d143230b54489a95b01d6a998194a4c917c4148b2eec4c9143802c9dc6b",
+      "claimed_at": "2026-03-19T22:16:41Z",
+      "signature": "2a267ac5b1de9e76984bd2c6de866f4aa4e624fa5d1cf41d1898e09529172e7fe7dc8d90c28a6bf6f1ec47b0a09c5ae59645b4ef92ceb6d136d5b178b7167f04"
+    },
+    {
+      "agent_name": "frontend",
+      "agent_number": 948,
+      "owner_hash": "2a4b844a78c6c1b3a09b1b1e4834c887c5967996026f49a55b2e7ebf16a73fdb",
+      "claimed_at": "2026-03-19T22:17:54Z",
+      "signature": "68c5ebae7ed03867f791a0fe464c8c20cc5b57b2985bef2cc95e141f6ba30f1cf4f34e49e689d3022c1fb742675b603d60029c3120402632c23630fc34f4820e"
+    },
+    {
+      "agent_name": "sarievilo",
+      "agent_number": 949,
+      "owner_hash": "f0202078fa065a7c7fdef60891bb1493237d9e524f4560e0768871f5b2101762",
+      "claimed_at": "2026-03-19T22:18:09Z",
+      "signature": "a368573b457831805294a2c3750e81d4ee35fcf41615a58240f8dac1f3a90bd1f6dac2baf670bd2c4364c148cb219913de337da4eb96778d4a0e022ec7173900"
+    },
+    {
+      "agent_name": "coderpixel",
+      "agent_number": 950,
+      "owner_hash": "6e21bcf8ede2e42fe2fefb172b921323fe72ab0e7ac997ec780d7909b1a7173a",
+      "claimed_at": "2026-03-19T22:18:58Z",
+      "signature": "59b81caf5a828e1e2103a66756d223814da19044cd252bcf2c840a5ce2952df9ea96b1e6a1941f11dc9b997fec1e2979edd3345e5ae6b6f9a1b7fb4881978a06"
     }
   ]
 }
