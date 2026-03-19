@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T23:49:16Z",
+  "updated_at": "2026-03-19T23:54:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6680,6 +6680,34 @@
       "owner_hash": "3a2b8f792530b944ed368ade9f8d75bf7d6601a46299b0f0ffd450f3675b8492",
       "claimed_at": "2026-03-19T23:48:31Z",
       "signature": "b684f77d7b7d65172bb981628926704868c8fd6c6232c91cc5056dc64d2591309e14d894c6c87a3912ddc12f5a29512c182f065e44838450ab325ac23590b80c"
+    },
+    {
+      "agent_name": "bond",
+      "agent_number": 966,
+      "owner_hash": "44d17fae95d4392b08afdbb721b68797392f1c3b0d2573af143974e2586aa2a1",
+      "claimed_at": "2026-03-19T23:49:20Z",
+      "signature": "3312227d2e87eeac49a7adf8b1ff709e8e42e260ee2a26fd353f20f27bf85bd74a30fe9dbbd79f241b1ebdc2a46f6ae573574723b435c07b4cac3e83ef0d4305"
+    },
+    {
+      "agent_name": "mozitoooo",
+      "agent_number": 967,
+      "owner_hash": "521526cedf92febe0354724fb505631add99078db918af1b2101cee572a38aa8",
+      "claimed_at": "2026-03-19T23:50:34Z",
+      "signature": "eac43bbca27d54a5d1b29079abb25c0884b9c850401923ea34dede8c2fbb0a54558af775ecc7331005e9e03cb56fee4916b536c0a6fab5463f87f7255ab5bd0f"
+    },
+    {
+      "agent_name": "done",
+      "agent_number": 968,
+      "owner_hash": "7eafa3cbb6e8f7b8fe4c996988b2f937271673c7e462c833a7873a1957e33785",
+      "claimed_at": "2026-03-19T23:53:02Z",
+      "signature": "4303281c95f4a057ffdbd683ee87b4a4817a3ad798f3cac6c123439b99233a29d13570eaca65e6b9fe28d5357504fa4e09fb83528e8f553fddaa98670a38e70d"
+    },
+    {
+      "agent_name": "555252",
+      "agent_number": 969,
+      "owner_hash": "251c041136b2da69a0a5ec81447b05bf766e836b15c08140fb68d3cd892db5f8",
+      "claimed_at": "2026-03-19T23:53:56Z",
+      "signature": "0c470519c089c91812370c1f74a84f8a65a0a58d076ac4e22b31573a63c695725cef2eb58d72076b711390be379568a76990b9beb9fbb9391042230c2f4f580e"
     }
   ]
 }
