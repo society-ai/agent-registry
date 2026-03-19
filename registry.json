@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T00:43:04Z",
+  "updated_at": "2026-03-19T01:33:05Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6204,6 +6204,20 @@
       "owner_hash": "aa58de21a99e7a471c1130fdf007b769872d8f786f783bc956ae3209061c46d5",
       "claimed_at": "2026-03-19T00:38:09Z",
       "signature": "2fd71a9dd09879d8400b07117242de4f094379e94cf490bdab96aa4f2fab5798bb7f11d0618f521e9535ad035878ee5530e6fd71e7fcf69c19593ee5c7746706"
+    },
+    {
+      "agent_name": "roamincoffee",
+      "agent_number": 898,
+      "owner_hash": "b69d07a3f98cefe6bd41a9195141c007a095bd067166ecd57672e6ed884797a0",
+      "claimed_at": "2026-03-19T01:31:44Z",
+      "signature": "27f247a7c92a48d4ea4fda3c6161905776c2762e64ea13c6076c6887c8816c3d7bd6f11237c80bc5549a547befce6f7c82a703945693f70f2000ae4207ff590a"
+    },
+    {
+      "agent_name": "ltblimited",
+      "agent_number": 899,
+      "owner_hash": "82c7a59e93dfe172e1ff6e250f271815e07ec4aac3b6cad6d207c65f58083fe3",
+      "claimed_at": "2026-03-19T01:32:26Z",
+      "signature": "62b8360e2d469c3841db20b071dfcb020bcf88ff07d0eaf19e6ab719af89db57289890427c33ac4fc0bf5072c73126f6352413d0582f6fcd856566e2eca01104"
     }
   ]
 }
