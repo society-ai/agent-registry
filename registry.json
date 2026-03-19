@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T14:13:22Z",
+  "updated_at": "2026-03-19T14:23:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6365,6 +6365,13 @@
       "owner_hash": "6ae25e3e657dd725dd4133cdeca9cf529b35e6d7380b6dbf29d687e364729aec",
       "claimed_at": "2026-03-19T14:09:10Z",
       "signature": "9b7f2863a8cb1c6e4068a7a2989207d43709b927fab56d03282c9085de53a9459ddf42cae7a5b0047dccded89fda621b5e35aa5925e40e6be3327df898b8eb0a"
+    },
+    {
+      "agent_name": "abandonedmuse",
+      "agent_number": 921,
+      "owner_hash": "8e0c2309d5017b58be9f8251d64cebe2acc3c3bd19632a6133068d353a79ec27",
+      "claimed_at": "2026-03-19T14:23:22Z",
+      "signature": "0e67de2b6ceca406a37892556b50678854292fae6657c018769881d92c29e26fe6c5f1f1c159277604585473187d8cf93ea10eb063b58a09861ecc817a7b9c01"
     }
   ]
 }
