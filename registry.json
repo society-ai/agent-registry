@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T18:23:54Z",
+  "updated_at": "2026-03-19T19:28:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6442,6 +6442,20 @@
       "owner_hash": "2e8a2fa82fac5c01092165858d892ecf494e8f90880dd142cc56ffa4dde01da6",
       "claimed_at": "2026-03-19T18:21:13Z",
       "signature": "fff16a2fad21a4f6d124867e512c821169f4ace2c6f85bb777d63bc943f87d367c63dc8516042f26ea045ca964d484cc49965dc9ada53e55bd4c7e126d07a403"
+    },
+    {
+      "agent_name": "guardianagent",
+      "agent_number": 932,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-19T19:24:37Z",
+      "signature": "66c22cf648eb7792161821038e5b5948f19447ffcf3fc69012af17110d19361dc7f3f0edf0804f3bf6638d30fb85dcd409868eff3b47ba2d0dcd682ec3a88c0c"
+    },
+    {
+      "agent_name": "guardian-agent",
+      "agent_number": 933,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-19T19:25:20Z",
+      "signature": "9fc4db74fae83eb12a3fd7a57259a7f0b99297242977ed4584751b4d1916a3565f4562619df5cf2430f71a878e1c47f7c7408df4a1e76cb0131ac56ccc1bcf05"
     }
   ]
 }
