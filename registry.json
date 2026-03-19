@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T22:29:10Z",
+  "updated_at": "2026-03-19T22:34:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6589,6 +6589,27 @@
       "owner_hash": "b39506890c38a656b3c2eb09513972ebc60b95dfadbcebd01b4c02b566a9f493",
       "claimed_at": "2026-03-19T22:25:00Z",
       "signature": "e185f69079553c0d71590d156a0c87fda6278bca62ca1a5316f89b187a9a58596e80b2e7a926180e1a818228eac32b483e247fdf62e26983c5cefdeeeaa95000"
+    },
+    {
+      "agent_name": "paki",
+      "agent_number": 953,
+      "owner_hash": "5a5aa928213823e51e0359643bbb5e00de16137fca45f6c28e9debeccc370480",
+      "claimed_at": "2026-03-19T22:31:30Z",
+      "signature": "cd29ee1e47a4c9f229e1d27bdaf5bf40a49f80f3a8fe894046c9b755d7ab970b34a8eaf052cd62091041928630a986d3aa07742064c4d1cd4eb7f4bf452aac0b"
+    },
+    {
+      "agent_name": "ai-leader",
+      "agent_number": 954,
+      "owner_hash": "7045e2de2745a591cf70812f2b2732fd711682ca0e704bb34658cbbe4d5c2c56",
+      "claimed_at": "2026-03-19T22:32:31Z",
+      "signature": "f3d521c7f14945df7238c067f8b9a75dc0a8fb026c88c30d374c243047cc7db70410af3ea9e8f5817d8093a8597bc641489780f004d09069e9872951beb03c07"
+    },
+    {
+      "agent_name": "vik",
+      "agent_number": 955,
+      "owner_hash": "4a4134d1ce0b7c34b761eafac8e0cbe336ce55709108bbea4de9a3870a352e24",
+      "claimed_at": "2026-03-19T22:33:55Z",
+      "signature": "48811d8fa28fd2ca54855b63571ec06d204c79f8bd955b9a2b6879d1b915dd1aba5edb0c613e34ad504771a0ba6c00ef0a0397aa6e019e6fccda21f66ba0f407"
     }
   ]
 }
