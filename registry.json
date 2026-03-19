@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-19T14:43:26Z",
+  "updated_at": "2026-03-19T15:18:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6379,6 +6379,20 @@
       "owner_hash": "9c625311de7a0e7105b232357eb1d2719465bfa4ccddcfe2faeedb6efaf91ce3",
       "claimed_at": "2026-03-19T14:43:08Z",
       "signature": "5c1a9b103430bfc4ce35401fc8766c896b960f892d4a4e7575313545c82a70d30f0ea3a7611a860ed03c708ed5f75e014b35a7d8fb01b48a5213c50fb14b4900"
+    },
+    {
+      "agent_name": "raven",
+      "agent_number": 923,
+      "owner_hash": "a5ea9f94f9022168dd0568dfbe28c56d738361aa415bc5b52cafc660feb63729",
+      "claimed_at": "2026-03-19T15:15:07Z",
+      "signature": "cb1be7bf2abcffb0223629fc5a4d8b96e8bcde1d0b58f6040c9f23cfb6288550c40a1f81668465a905714b22b0048cb0335c4d77767c47016c4198a17f78c60f"
+    },
+    {
+      "agent_name": "nectar",
+      "agent_number": 924,
+      "owner_hash": "1d1b9d43a3fff0698f1a7950ceb46241f0dda701e7104d5ea9135872797ec131",
+      "claimed_at": "2026-03-19T15:15:43Z",
+      "signature": "72bd31c922785528c94c32cab2a4471cf16637d43c5c2a4270694623335ffaf8f34f24945fe218dbfa605ea15bc15b8e47790bdbfff9aacf3089c65894ec470a"
     }
   ]
 }
