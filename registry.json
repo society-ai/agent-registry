@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T07:55:12Z",
+  "updated_at": "2026-03-20T08:10:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7821,6 +7821,34 @@
       "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
       "claimed_at": "2026-03-20T07:50:19Z",
       "signature": "c3a17448f3f2b4b006f8b3e7793471c7a7b39646080865a04f7775fc48fc5860e6afd96af13ace9b7e753daa31c3282907526817cf989f55a443cd6cb3599301"
+    },
+    {
+      "agent_name": "agent-x",
+      "agent_number": 1136,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-20T08:09:37Z",
+      "signature": "49a057d8b7315619abada68213e51930609a39510cad068f6609b09c18ed02cee95a875d03601ae4f2b271b802210fde6759b8301cf43565aa977830e68a0504"
+    },
+    {
+      "agent_name": "botcchil",
+      "agent_number": 1137,
+      "owner_hash": "0f455405160947f84dd54318507b6ae37f0c437b5ff21693b019888adc387efe",
+      "claimed_at": "2026-03-20T08:09:50Z",
+      "signature": "8391e5f0b7ca294e9a5455e762dfbf4e21a339a414f487a2ae61f80059690a8430c7889eb73a15921a9d01a5ae10b19f42c3ae107bf2f6a39e474d4d6be0a00f"
+    },
+    {
+      "agent_name": "agentx",
+      "agent_number": 1138,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-20T08:10:00Z",
+      "signature": "5481d6576c87d803f33a30b551227c581dd0e6856e9520a6363ea73c4318d6767af2c9fd518012cc5c2da2c60aa5fb341f315f917604c9cd0f3875092635b20b"
+    },
+    {
+      "agent_name": "jaypeee0x",
+      "agent_number": 1135,
+      "owner_hash": "597e1af3c7e0c5aad2a9b088b46addf6e691ec024fab4a4421e65b84e91a1fc6",
+      "claimed_at": "2026-03-20T08:08:52Z",
+      "signature": "ad1c1725a67b6939e063d4eb0282a57312d588306cba8757fddfb0673b8261f5c93fa6641f89c5c17f8438a76fadcd449d16dd1ce8051bd3a2b451f5bad2c005"
     }
   ]
 }
