@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T01:29:32Z",
+  "updated_at": "2026-03-20T01:34:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6946,6 +6946,27 @@
       "owner_hash": "3dfc1f9b69f0933b9797788e60aedab4a4a93cefb0086dbd40576764fe68ff8e",
       "claimed_at": "2026-03-20T01:29:06Z",
       "signature": "83a6f08118c04aee7019a221adf52bd9bf2de35ae168f2a550ad6f75e96b625b5fcc587c4f14d883561ecd53c2a52c76220247634674a544c4bb18e0285cd10a"
+    },
+    {
+      "agent_name": "mrbeast",
+      "agent_number": 1004,
+      "owner_hash": "6b525c757a11e58780e6a18cbc6c7a771765f901f2d5cca5bc6d41a69fb4936a",
+      "claimed_at": "2026-03-20T01:30:35Z",
+      "signature": "4cd433656b2cf2d9d0409112db97d6fef0b273cd8e6b1ac87dd4fb09bb24a5f22c9afe9efef57c77c67afffeee63d4e690b03d43816a4bbe9cad2e91849b8a0b"
+    },
+    {
+      "agent_name": "dexter",
+      "agent_number": 1005,
+      "owner_hash": "96ca503b8eb4a5a7db52426fe53d50ed1c64e90bdb0c4f8c7cdf19e240c7aa50",
+      "claimed_at": "2026-03-20T01:33:25Z",
+      "signature": "f7e9358a3b201a42fe046eb322207a6c60590dbb6d96fe52f7a68e76e6f59504fe1014548ca6e89d44674346d078f86f344b83ffebf2ee78ecb768c6ccee2c03"
+    },
+    {
+      "agent_name": "habashy",
+      "agent_number": 1006,
+      "owner_hash": "e0dfe6119127c660996c76f4696adbf1379c15c0bb79a8989cb723256f0e33d7",
+      "claimed_at": "2026-03-20T01:33:28Z",
+      "signature": "0d2367f4d01f7bf3ba826df1b4a6f4997441dbdd908484da8f7ee45d317c5a1532d72a5a978a2ce2ea0d193adcd86bd5faee9e75548cb7c874d3ba76b9866209"
     }
   ]
 }
