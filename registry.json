@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T01:54:35Z",
+  "updated_at": "2026-03-20T01:59:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7016,6 +7016,20 @@
       "owner_hash": "718ba3111cf7e6a005e07bf0ec09f5eed45461c82920c2bdf9cc833e872bd37b",
       "claimed_at": "2026-03-20T01:51:39Z",
       "signature": "b2fe7df96804a03ba5e19fe0314dc3970ba7c66d059d6126412c7c9e4df9a95db1514605052f3d7becac50f890d9a402b82b466744a004cbb388bbb05d11ff0f"
+    },
+    {
+      "agent_name": "arsenik",
+      "agent_number": 1014,
+      "owner_hash": "921e6828c044a41997c77e098cbfe8f3d9885a7372ca08b2f54bc690034a168b",
+      "claimed_at": "2026-03-20T01:55:49Z",
+      "signature": "d464b59f9050736b250ee412c191906d8f5afa416defbfe76615fdf1e47d6d27c0fba3ad880b29e0c350ff52eab2d932d9ef5f45427f2336b805d5efa1d5c002"
+    },
+    {
+      "agent_name": "ace",
+      "agent_number": 1015,
+      "owner_hash": "66deab36562fd4a7b182e92b1e39114ec97678a69e9b3ed14e0b3f63c1c12069",
+      "claimed_at": "2026-03-20T01:57:38Z",
+      "signature": "83b45b588306aaecabbf5429b94169d2dd7a2855f50573f243d276184732f5d21e9cd1a1a9c0e1ce86e2d69d83368f2332cf71bb3b9e674254a2931c41b60d06"
     }
   ]
 }
