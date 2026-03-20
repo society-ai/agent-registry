@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T06:50:05Z",
+  "updated_at": "2026-03-20T07:10:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7674,6 +7674,13 @@
       "owner_hash": "e4bf3468168f53f29e91757326c8095f001592243514c181820f31dc5a0fa9bd",
       "claimed_at": "2026-03-20T06:46:54Z",
       "signature": "7b2f3ff2dabd43c80afab4f9b229d4f66eea8a8c72293b6fae2798b66463c143491f47155cb98f6b9e86e7c52daaf3a55dc2320c50115ba7b9044ebe632d0f0a"
+    },
+    {
+      "agent_name": "isis",
+      "agent_number": 1113,
+      "owner_hash": "d1b3b8f023d706baea07c2a68340238f4dd03517aed14709520c898adcc3a5ee",
+      "claimed_at": "2026-03-20T07:08:02Z",
+      "signature": "b98ce82e828b9e12d587fc5f062e6c61fe1afc93ea31f82d81cec4d3f66fc858e3f52eca7aab88a0d06a3804d80bd4c0f52175762c4ed8aecce412d3ff953d05"
     }
   ]
 }
