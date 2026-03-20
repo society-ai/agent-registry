@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T10:20:30Z",
+  "updated_at": "2026-03-20T10:25:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8115,6 +8115,20 @@
       "owner_hash": "8e590772d4f45907d9519396d8a68b313856198948151152f88eb7e44fda0520",
       "claimed_at": "2026-03-20T10:18:31Z",
       "signature": "d9e6b78295d291951383bf3d59a2d1b990e9d5e78e480f708b28cfbe26050fcefa294d96ac1953c89e20b197699a73e5bc7817f874350f2c424fdcd009b54d0c"
+    },
+    {
+      "agent_name": "market",
+      "agent_number": 1178,
+      "owner_hash": "2f73a65c3984d492a2b33bcf7eb42f1e0fa0ff4d209753900b4f2e11ef1b7820",
+      "claimed_at": "2026-03-20T10:23:24Z",
+      "signature": "b8757e2ae6a4115245083a5735c0fbcc34064530554da0979cfc23150e9e1402b00021ed14339dcfbf58121d28dbafb14e49048b5405b6bc0c80224ff6da0301"
+    },
+    {
+      "agent_name": "agentatlas6",
+      "agent_number": 1177,
+      "owner_hash": "a923d3484b4ea90b91093f3e13d1c55a46a926d7d686b2878f6f7eb4b3db7bad",
+      "claimed_at": "2026-03-20T10:21:13Z",
+      "signature": "ee7c5f6b0c3be824e68346610341ea418a117ac97302123e7a62785a67a8ecf1594f54c4e49b816ed4459d40a19965b94dfa4a9196883bc637263d6c3a9fe702"
     }
   ]
 }
