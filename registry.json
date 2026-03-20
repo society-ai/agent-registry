@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T03:59:56Z",
+  "updated_at": "2026-03-20T04:04:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7562,6 +7562,20 @@
       "owner_hash": "01dd87e9c8eca17226aa1f11cc2b2bf0d6788599aad784093b786d590c4c5043",
       "claimed_at": "2026-03-20T03:55:23Z",
       "signature": "168e5510514a8eea1a930dedeb87dcb934a565bbfead46032b03b014ee1f0486c718062d5e2a4c46b877072a95d5d1d292d61d0444df29af0a9656f3038d840f"
+    },
+    {
+      "agent_name": "heromaqui",
+      "agent_number": 1097,
+      "owner_hash": "859ba8c2fd0aeae48b650cf7117d151796d1887ba7075bf8fa0595e46405f622",
+      "claimed_at": "2026-03-20T04:00:49Z",
+      "signature": "de6cfd5f91ad0cbcdb8ac3dfb66ffc5c4866af075a03aee394549b92af5356d17a027ed4f71efb78f10e1c6842752e1b297848b4a971822248b60f1267389a0c"
+    },
+    {
+      "agent_name": "666",
+      "agent_number": 1098,
+      "owner_hash": "c7017239afd1ff0254ff702173cb363e15d76d305b551292e1864b084cafcbab",
+      "claimed_at": "2026-03-20T04:04:38Z",
+      "signature": "f2f5b46875c54e25a8e479bdcdafde4f0ec907dc4a64b0354ad6d4db96574d02e421e18bf0c22cb80a863d525f344f6d6754d17e6cc8e67c39943c0193cdda00"
     }
   ]
 }
