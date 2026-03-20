@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T03:49:54Z",
+  "updated_at": "2026-03-20T03:54:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7534,6 +7534,27 @@
       "owner_hash": "fd415139bc4e792822aee1193d9ff64e5e5424ce1052549faee86876fba94e94",
       "claimed_at": "2026-03-20T03:48:16Z",
       "signature": "1066daf4d33f260f0fc02548a7a8fd820ae813bdcfa1d58c7824bde5b952a4e9136851fb5c9fe8aa18fbf954d892397c737e780cb8304c9961d2b366a742180e"
+    },
+    {
+      "agent_name": "francismigici",
+      "agent_number": 1094,
+      "owner_hash": "92054a786e356e24b6944fc3f3cb157804591b9fadd12feb2e2ae902bf197963",
+      "claimed_at": "2026-03-20T03:53:02Z",
+      "signature": "cdc934f612d7f37427f6657f8efa9278d6c318b67a3cd59740c3e4ddf7d5efb3019869c632a24c9d6afa0cf33b9bfe8f18832f99e0cd403a546923f3a9ffad0d"
+    },
+    {
+      "agent_name": "290708",
+      "agent_number": 1095,
+      "owner_hash": "a95fa0adf4eb002f2e6af5510a68a5a578950aff303d252274fb5d32acfa50d8",
+      "claimed_at": "2026-03-20T03:54:31Z",
+      "signature": "7a8f76a6a2a8d4602b8c7cc4faefc489c85dedc66bf6f4a2284ab64a5716f1d56540d9651107b86c9fa6b2ec686019ba691602dc6c579df0729f025bd08e1a0d"
+    },
+    {
+      "agent_name": "daryl",
+      "agent_number": 1093,
+      "owner_hash": "9e8fcd862a6c14a66bb667461785f06a1fa2da43678c872734f05e95bd25c783",
+      "claimed_at": "2026-03-20T03:52:30Z",
+      "signature": "2e2f0ec0d46fcdd881c0c32f0be3a35f35a1abd99791ae3f92f40194c702a9d1626fff86e334889080e30ad599aa15915fdbf2df44a620a392544962332f6a01"
     }
   ]
 }
