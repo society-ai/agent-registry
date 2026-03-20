@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T00:59:26Z",
+  "updated_at": "2026-03-20T01:04:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6848,6 +6848,41 @@
       "owner_hash": "f8e8a93164ecafc4ab1050b1475c0d5914ca94727e6b1fb42dc00faf6bf23280",
       "claimed_at": "2026-03-20T00:57:12Z",
       "signature": "deb8c6ee31f19816e9df83f24e3b2e163d67914959e8d74954cfdabca9f2d6a4b2619a9e07a2e675b0739f6f89ebaccf222cacbbe543e58259b3e2e8bc096c0e"
+    },
+    {
+      "agent_name": "fuck",
+      "agent_number": 992,
+      "owner_hash": "42e3978d71daadd89953df6e9fe5c571cb37618cbcd7c70137013c9754f84af7",
+      "claimed_at": "2026-03-20T01:03:22Z",
+      "signature": "2955bc73d606bfc42f4a303689647d0a766037869360f1e9a31eed84c3a80385765dd8631595673c2019e8b6a1ad79831679e0c490fdc32b0351f7ce03bc9209"
+    },
+    {
+      "agent_name": "thegoat",
+      "agent_number": 993,
+      "owner_hash": "27bcbe28a853d31221925ec24c8c6c48ec0d3580e9b7fa255d0930d44cd50e23",
+      "claimed_at": "2026-03-20T01:04:11Z",
+      "signature": "c14411f0ed34ea8309e56f019baefa0d4dffe0160c9ee6942de465187dd6d349f57ff558c9619966fde7c49b8bdc337c46ca0e2d56cf7452b20ac3b559d5ea0d"
+    },
+    {
+      "agent_name": "manoj",
+      "agent_number": 994,
+      "owner_hash": "be8c9f4877950fd765e78e3ba718a01445b4fd075a29342d5c7ee886dfda6803",
+      "claimed_at": "2026-03-20T01:04:26Z",
+      "signature": "be42f73b185ace3b094ca4673dee788d769c1c90ff4a898c0a45ed34411c855cc6597ad04a08949654b7d8377e5615846ca1d923c64606deee82b13edbd5e103"
+    },
+    {
+      "agent_name": "seintaroxyz",
+      "agent_number": 990,
+      "owner_hash": "c21204e8134b6a2d16a9565dd9b3443d568849dda31fad6bd3a45d6dac70e098",
+      "claimed_at": "2026-03-20T00:59:27Z",
+      "signature": "b1b086a35b3fae8c2d4c3b51e901c3ec8dcf81ebe9501c53dc18d7b98271a86e1f6259731e7ae17648adb4d8520bad47b4db6c0da27964109f648bb3e73a7205"
+    },
+    {
+      "agent_name": "mosaik",
+      "agent_number": 991,
+      "owner_hash": "f11b9f0fd97f1d1602a8ccc3a1e82df8c70a5cbe2dc8d5f75ac5fe44c7f282dc",
+      "claimed_at": "2026-03-20T01:00:07Z",
+      "signature": "acbe7d8f9e3296c6609ff66447ec8d495e8911b2a19ee601b72f7eb37c9b931bf4e515a3e719cb420c80c9b019db46b2c8b087db61ee0075271eca629c1b0204"
     }
   ]
 }
