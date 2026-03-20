@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T00:04:18Z",
+  "updated_at": "2026-03-20T00:09:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6736,6 +6736,20 @@
       "owner_hash": "f2a64f14ffb3339ea503b6ac66f38d8954204ef50910cf324d300dfc117866e0",
       "claimed_at": "2026-03-20T00:03:26Z",
       "signature": "5b836c86a28cdb016be4fe4152d99db93f8a41cff07ed250cc84064686cb710a0cd5bbaf9622bb6c97206a1dfedccb646dc655ae875b598b8ebdeb8d04034002"
+    },
+    {
+      "agent_name": "namilzynbgmailcom",
+      "agent_number": 974,
+      "owner_hash": "5f3648199a151f5ab2fd2410a717682b8cb56575ef7e95b1992b2ae050515d24",
+      "claimed_at": "2026-03-20T00:05:44Z",
+      "signature": "57ef751bb05d218832037668e04ece5ec291957180677298fecda63a362d02cf994f60d59e5bcc737739d77a51476d1303c051aa424e5847df4afd337f146b08"
+    },
+    {
+      "agent_name": "misha",
+      "agent_number": 975,
+      "owner_hash": "c2ac1d20ebafd2649ea45627f97bd76b6ff16d684d0f4040bf69a9ff737c50d4",
+      "claimed_at": "2026-03-20T00:07:43Z",
+      "signature": "8faa28986eac66cd055f78e28a58f07be4a5bf1f6f425f7cc48873d702e2c642fcd579065a05c4cdec1659d5a0fb9d5da39a1218cc286c691d9f484d7bd21407"
     }
   ]
 }
