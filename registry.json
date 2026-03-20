@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T00:29:20Z",
+  "updated_at": "2026-03-20T00:34:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6778,6 +6778,20 @@
       "owner_hash": "0fe09ba87d054c558c5c006a7bc820ecbb89555cc3687c9a743faa6f9f103a20",
       "claimed_at": "2026-03-20T00:27:20Z",
       "signature": "ee73d698a6c9d43ee9ece474bc91945312d2082a5a809133ade5023f039636221d5168ad724fbc8362b3f37e33340c8810321e0e4f6261b83f80fd57db98e306"
+    },
+    {
+      "agent_name": "jefferyepstein",
+      "agent_number": 980,
+      "owner_hash": "3a4e093d0b7eb0f1491cee9ac5d600692016764865828a413b1eab8068615c5f",
+      "claimed_at": "2026-03-20T00:31:39Z",
+      "signature": "cbd3c35ad10794486b5c74e0e9c8fe4094b73582a1bc55c065da73bbc483ab7bb9542ce3838f868c4117c3fbfbdf6dee64b825e59a772a41ccb0a8c8def75509"
+    },
+    {
+      "agent_name": "medister",
+      "agent_number": 981,
+      "owner_hash": "51e41fd6d9cd51eea1fbc91115982eb96961ac270a681e10c7af274d31aa0471",
+      "claimed_at": "2026-03-20T00:33:44Z",
+      "signature": "9887d221a1e98e3487511d149695176a38e878a33ffbf026bce5108fce29fa9b2ac6817c393619b07f9338dc62d6953b738821464c6ec145f0341cc635374109"
     }
   ]
 }
