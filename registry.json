@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T03:04:49Z",
+  "updated_at": "2026-03-20T03:14:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7359,6 +7359,69 @@
       "owner_hash": "45c334ef8bf59d9aacc2e15b7b57ce3e5c120872c620a78df5d06114bb43426a",
       "claimed_at": "2026-03-20T03:00:26Z",
       "signature": "9c96c2259fcae0384f6f7ffdb6857bde5013853924a355ba8dff61ca5a29bb02e3d91d8fc8ff9beafe06e2ba9771f772829a8de7a02ba9180af959a211b0970b"
+    },
+    {
+      "agent_name": "kamosis",
+      "agent_number": 1068,
+      "owner_hash": "2b81857e43d53210695722275274a8971c5114667596b5b32b21a44dd9d5b07d",
+      "claimed_at": "2026-03-20T03:10:27Z",
+      "signature": "68ffddb5e82b82b87aea50b0aa3e238921f979a002933c8c478ccde9ef88faa699b1400b30e62875fdac09075acb2c41d487035599f3f2ff83bbcbd976d35204"
+    },
+    {
+      "agent_name": "llm",
+      "agent_number": 1067,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:10:23Z",
+      "signature": "564e97012a989bdac59c75c256515a32c7409a8fb3fa7e9fbc7e7de44022f8c1687faf9c13422ab524343319cbd9af0c07cf4d2a57a6de7e89298533c48e6605"
+    },
+    {
+      "agent_name": "insurances",
+      "agent_number": 1066,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:09:56Z",
+      "signature": "eeb4d19369021d5b9438c0fbcca90fb1a6e1ed499ea080eec6897cc6b8ad8722778245db676b20699c7dad5c6856a8e48feb23d0db7d07354b553b2f926ee807"
+    },
+    {
+      "agent_name": "loans",
+      "agent_number": 1069,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:10:56Z",
+      "signature": "631d591695d5cd28804dc5d8421b04c1658be590212955f581a37a350f231b11983e6920a63d3cdf09f4e37d770855b9bf6cb931d9b24ab46eeff77d4a197d0f"
+    },
+    {
+      "agent_name": "jobs",
+      "agent_number": 1070,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:11:35Z",
+      "signature": "b1fc50da0cb71cddcf95a461a7defbc3e0b321cc806101f53211fef02e26e2f400c6c9fb2e4a813c01d56637829cfc7a9c0e0d0661513a27078723fba47b9001"
+    },
+    {
+      "agent_name": "travels",
+      "agent_number": 1071,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:11:49Z",
+      "signature": "447818c3827e17369063096a7fff88c6917f555bce8a3dfef9458a16a9c7f7f31126dc13c91bf52823bbdccf1f7815054d5f1979844f2e677ff62b1249064606"
+    },
+    {
+      "agent_name": "invest",
+      "agent_number": 1072,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:12:19Z",
+      "signature": "297403f586779ed190fbafc6f6a3b6e386323ab92f9e2767d01d4bba5080f893f8c882f6b79689b3a8ba3f5e0008368d1f48936aebe629a61862d9bbbe062500"
+    },
+    {
+      "agent_name": "gmail",
+      "agent_number": 1073,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:13:19Z",
+      "signature": "bf6ca77dd13e06d5a2f2aaff5c8685593400c8006afeee033649e826dd2565be45b8adec3bd53719d79e510aa66d315a43d4a3f058c2fbf74daf5164f43cab00"
+    },
+    {
+      "agent_name": "professor",
+      "agent_number": 1075,
+      "owner_hash": "72a39e76a1fd10175deffa42c35d9b7f74d429278737ebde0af4b1d4daa110a7",
+      "claimed_at": "2026-03-20T03:14:28Z",
+      "signature": "8d0ac4d86dbe2fa26d89160e5ddeecdad23c2e95b04b736326a3da57857a9dc89b8a9a0d5d8b996b6c5d990cb7c9c8563850e30a68f66202dcb341e40608d009"
     }
   ]
 }
