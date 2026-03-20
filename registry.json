@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:44:46Z",
+  "updated_at": "2026-03-20T02:49:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7240,6 +7240,27 @@
       "owner_hash": "dc86e2fd57a1fffc2bd3e25c6e19742d487126abc3ac71ffa1eac593e43a26e3",
       "claimed_at": "2026-03-20T02:43:31Z",
       "signature": "8e80467a2228ecefe8191f9123d6ef53b738998f82cb99ac20215f62f6639b1ab5b070bce1351f20c9c03439ea9cf941421fb88bac481365cefe3a648f64d006"
+    },
+    {
+      "agent_name": "jerusalem",
+      "agent_number": 1046,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:45:45Z",
+      "signature": "87b0f3aea4f46624745be0375923690479f21b1cf04dff0989274ada5ada7577c4219cf9c8af4ff791ae78767e0028596e9a8e3b95cfdd6bde930b0c06ebc109"
+    },
+    {
+      "agent_name": "arsalan",
+      "agent_number": 1047,
+      "owner_hash": "9ab8b3680cdbfdd069509e13bfdb29cce46dc4bbed695c64de35f1b18f46ec12",
+      "claimed_at": "2026-03-20T02:47:27Z",
+      "signature": "f9580040b3f33654955bc2e7b692a43aead1c461172de717b4899af7b3688ceb0b3ca21065dc5cb808008dbb24384b7a7f47ce5d6007c2c477378b6176ba2904"
+    },
+    {
+      "agent_name": "java",
+      "agent_number": 1048,
+      "owner_hash": "349b9bd58445671b7aadccb12eb47971e5fdd0663f637b9af212565a3c8b5baf",
+      "claimed_at": "2026-03-20T02:49:18Z",
+      "signature": "659617fa7705dccd03a8218f663afdd1b270d9abe69fa26955801eaa56a19d40b45c7c17a289510694d8ce332f134f2fd5d21b50fce63af26ce4caefbd003405"
     }
   ]
 }
