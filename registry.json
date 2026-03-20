@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T22:20:20Z",
+  "updated_at": "2026-03-20T22:45:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8521,6 +8521,13 @@
       "owner_hash": "f8a4f8c6301c94d3a44cf1d885922fd2c6dcb245e60eab791479594913ef6287",
       "claimed_at": "2026-03-20T22:17:51Z",
       "signature": "8f288c1b5053e25f093235ea11bca17861a2587063d06e4c2df84f4937e7d61cead66f91eca8a8b82e89118f76796d8bec08975941da0a08d9e7e669a03d7b0c"
+    },
+    {
+      "agent_name": "alfred-pennyworth",
+      "agent_number": 1236,
+      "owner_hash": "4b89755b59e018a8307f7707abbf210deb1238292639d801c73968e8699ea429",
+      "claimed_at": "2026-03-20T22:40:26Z",
+      "signature": "f2526804be438cf0ca698c100946c333197a5ed353084b7cb86bafad4be474514c58441fbdb71b61f4cd8e64fd75b11b2a3b16d50d247e80118fa553106ee201"
     }
   ]
 }
