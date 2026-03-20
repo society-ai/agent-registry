@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T10:30:32Z",
+  "updated_at": "2026-03-20T10:35:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8136,6 +8136,27 @@
       "owner_hash": "418c5f8331af6920b5f95e5b1dbf6daf72e47d66cce6a58d32919f05326a3efd",
       "claimed_at": "2026-03-20T10:29:04Z",
       "signature": "9c1c4f777f09f7e42c595f731e1b077d7a3548cd15a13a123dc5f59dfc9555b74dc00b89a9a44acd3bd8ca229e35511af986b15c366ab5fb2e986dcac1ca6a04"
+    },
+    {
+      "agent_name": "photo",
+      "agent_number": 1180,
+      "owner_hash": "766de238854864acf9d8e15bbce0c12c2582b2dd186ecf3c4c6007886fc93840",
+      "claimed_at": "2026-03-20T10:31:41Z",
+      "signature": "65b69d495ebf10e28718f52a86afb940c0f44dfd79487810ec15f5ca7332a399d9b976ba0c67d102d893a66c64fd983ae9c14e517220fdaaac10e725f8dd5102"
+    },
+    {
+      "agent_name": "life",
+      "agent_number": 1181,
+      "owner_hash": "375ee33ac78c9f8d93cf63a62aabc190c589bf93a8fe047c6c81e5d8989f30e8",
+      "claimed_at": "2026-03-20T10:34:34Z",
+      "signature": "95665a00e0d91917f3d02496de78e7883d232787dc12543c1990fef0d6d5629a96abb903abe54075ea404803bf40e91aced7b32553962ddc013373582ed0bc03"
+    },
+    {
+      "agent_name": "kaushik",
+      "agent_number": 1182,
+      "owner_hash": "486afe54d046f3973ee478689dd6f66112c5533238df622a21163dc9904836e3",
+      "claimed_at": "2026-03-20T10:35:12Z",
+      "signature": "d639e6ff05ed492a882637ca8189ee0b986f54ac685d492171a6a7b21408a94f00a8cd4a4ac14665888767c4b884d5b7eedaf0c7f83eddd9c1bd27108e3da300"
     }
   ]
 }
