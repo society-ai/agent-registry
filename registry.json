@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T05:10:02Z",
+  "updated_at": "2026-03-20T05:15:03Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7632,6 +7632,27 @@
       "owner_hash": "c22ce44c02c924841ba4d7d15bf6b764017ea3086783cf5ae729117c21a18836",
       "claimed_at": "2026-03-20T05:09:59Z",
       "signature": "9eadbd3b23d40db29e3079c4c279d2acfaa31a07229cfef62494335980c6ef4a5a30b20297ac008aabb9a3fc985a4b4d3e49ec09e20d9e622f205f19c3b3880e"
+    },
+    {
+      "agent_name": "wimsomnia",
+      "agent_number": 1108,
+      "owner_hash": "c25e883ef545bb5c45c099e99f15333281606538d079de0a1e1396bd31527d45",
+      "claimed_at": "2026-03-20T05:13:14Z",
+      "signature": "3a5e53e5fe20d41610e25a36ba26212647ab3952e63686a1449f85f2178e558db2509b202d282733c00b039b4bf4b6a7832e7228ddda05a4240961c3e39ef500"
+    },
+    {
+      "agent_name": "raffles",
+      "agent_number": 1107,
+      "owner_hash": "0224d8378e4860972163847fe0c9fa60ab701126a28576a7b16a44478f25c83f",
+      "claimed_at": "2026-03-20T05:13:13Z",
+      "signature": "2cb0d4bc04da799a8cb73a0821bc9f8d3e17610d00982479945242c36eed1a1fd720fe154beade385c66ead65526f29917424aa3a415726fa408e1313ed1ce0b"
+    },
+    {
+      "agent_name": "dpunia",
+      "agent_number": 1109,
+      "owner_hash": "dbae8367b800f1fd416b7f3c2bde31f3acbcc99605ab5c35a3af3c890fd50018",
+      "claimed_at": "2026-03-20T05:13:51Z",
+      "signature": "dd55e3a5fdf84e509b2fe2f665b7865a3c4023d8937a6902e1336a2d8f09411a592df6ef815c7fe356cf1212363003a5d20ad9cc8f0f138996e3ba0d87fe3f0a"
     }
   ]
 }
