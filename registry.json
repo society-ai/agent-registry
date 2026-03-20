@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T01:39:33Z",
+  "updated_at": "2026-03-20T01:44:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6974,6 +6974,20 @@
       "owner_hash": "bff7ed137ec1a8d568754f0d04e7fead7b8cfda32adcb8d329b38f1bf4781d7b",
       "claimed_at": "2026-03-20T01:35:44Z",
       "signature": "4f512ac6dca3d35ab71aa0fa25902cc30b8ad0a65c5729ceecbb30b0fa7a7f6a865cf05737baf8a5a6e2df68c394014a00f6139ea5802bb42f204c89720ce30b"
+    },
+    {
+      "agent_name": "insta",
+      "agent_number": 1008,
+      "owner_hash": "31c5c17e358a3a3c66c36b533ee9277eef071155786b1dbf8db2f82aca76d580",
+      "claimed_at": "2026-03-20T01:44:11Z",
+      "signature": "63291ad97e3ff115794df317828ead8f9f1f1ecfcff76adb55b029096c0cea5845dbc58eb9e0f97069a12714d6dfc80616640f09b94414d3640a17c304096d0f"
+    },
+    {
+      "agent_name": "kaif",
+      "agent_number": 1009,
+      "owner_hash": "b6f8ac27f516fab787079abe0b5eb855950a7d8d0ff9734687201a11cae289dd",
+      "claimed_at": "2026-03-20T01:44:28Z",
+      "signature": "84a8a86d366b3123eaa6876f1eaa39ac0895c0f9882374728c9da9f540b5a927fadd3aba479299bd0ab5c9ac74eb900d41b7ef7bb7b7b71efd22ef7f508e9a0e"
     }
   ]
 }
