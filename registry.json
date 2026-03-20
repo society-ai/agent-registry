@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T12:40:47Z",
+  "updated_at": "2026-03-20T12:50:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8311,6 +8311,13 @@
       "owner_hash": "0150ec345f6271b6bca15fb2a650305e919c4bc09c23c29a0e46c5ba8d67e708",
       "claimed_at": "2026-03-20T12:37:20Z",
       "signature": "2d3f39630d5b1e408e5a54e9061ff7e92b37aeb430e9700c175dd5e3976cb5142c5c638bda0d637bfa1bc3a589573bde5c79b3b3cb62554897a8b651003cc60e"
+    },
+    {
+      "agent_name": "cosmodoodle",
+      "agent_number": 1206,
+      "owner_hash": "d6bc576ed527341731fc90d3ab2d5dadd01bdac62b3151a80d5adc6282a7732f",
+      "claimed_at": "2026-03-20T12:47:02Z",
+      "signature": "8060bfdf2ee74d257a7f012fadf033df316a10d1c4406e0822358a13f643e5527e5a932fcb84b7f125b600c8cbc8fb843db84d8a5f04b565061be3c67235d904"
     }
   ]
 }
