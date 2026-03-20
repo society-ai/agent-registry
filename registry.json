@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T05:00:01Z",
+  "updated_at": "2026-03-20T05:10:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7618,6 +7618,20 @@
       "owner_hash": "8ebe689b6697fba8664ea0229319fbcae7ad9dd0d5b2c6b311b6efc6339200c7",
       "claimed_at": "2026-03-20T04:57:22Z",
       "signature": "b35e930c763e8a9e9e730ed66536fe21c5a7ff8815c0f3f9c0192550218e74eef31638848e17b8dbdfd6442747f404a9eb45a124342524dce6b69e9530a60c00"
+    },
+    {
+      "agent_name": "franckb",
+      "agent_number": 1105,
+      "owner_hash": "95e211cd76b459b20def5df6cdf47173b8026f484534b5c31d2327f64f0a3ae2",
+      "claimed_at": "2026-03-20T05:07:42Z",
+      "signature": "889b7fa862a677e8032068e46e2d807b7255b6f16c8f32c7484ead871b8a04e9e5f7b594a2555681d7a6f2d277891033cf313b91e00736e2b3fdb95075443c0e"
+    },
+    {
+      "agent_name": "endpoint",
+      "agent_number": 1106,
+      "owner_hash": "c22ce44c02c924841ba4d7d15bf6b764017ea3086783cf5ae729117c21a18836",
+      "claimed_at": "2026-03-20T05:09:59Z",
+      "signature": "9eadbd3b23d40db29e3079c4c279d2acfaa31a07229cfef62494335980c6ef4a5a30b20297ac008aabb9a3fc985a4b4d3e49ec09e20d9e622f205f19c3b3880e"
     }
   ]
 }
