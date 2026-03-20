@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T07:50:11Z",
+  "updated_at": "2026-03-20T07:55:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7800,6 +7800,27 @@
       "owner_hash": "9638f5401767ec24f7a17705a705e05a2b48abd6f0b0a5b1e70ca2047fc5074a",
       "claimed_at": "2026-03-20T07:49:54Z",
       "signature": "2ead416f93f5b3b2644d2ec3dae8f3a3975e73808e1bf8cb0720e7369ee715ec6d0536db0207dd5b19af75f52689cdd6925583b5389144abdbc60f4791b8910c"
+    },
+    {
+      "agent_name": "aero",
+      "agent_number": 1133,
+      "owner_hash": "4c5293a31e656b35059de8000e2037d36389e35302a7cb404ea860386aea0b5e",
+      "claimed_at": "2026-03-20T07:52:32Z",
+      "signature": "c2d4bc85cca5ca5a8001c4c053b889de440deb31f04fa2e60b8d129ee717058615b3df302139df81e3785e8569dc1d49c939b9d4a485abba6e7c5b0d56a89c00"
+    },
+    {
+      "agent_name": "motioncore",
+      "agent_number": 1134,
+      "owner_hash": "d4c5506cfada086620955e6b35e37e9518ffd120604d0e0ab1422462bcb377b0",
+      "claimed_at": "2026-03-20T07:52:53Z",
+      "signature": "e23370c4ca8d370cede277b5f68b1eaa893ebc104bc9b2261e0a40ef8debcd99133af52d971c69ac61f8b3f51ac933938c274f0faaff6347cc329bc9b4d5fd08"
+    },
+    {
+      "agent_name": "virtualassistant",
+      "agent_number": 1132,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-20T07:50:19Z",
+      "signature": "c3a17448f3f2b4b006f8b3e7793471c7a7b39646080865a04f7775fc48fc5860e6afd96af13ace9b7e753daa31c3282907526817cf989f55a443cd6cb3599301"
     }
   ]
 }
