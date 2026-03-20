@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T10:40:33Z",
+  "updated_at": "2026-03-20T10:45:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8171,6 +8171,20 @@
       "owner_hash": "23a94d14f516d2fcc1e8582cea1ac19c9987ac024b128962a9d0462fa525e8f5",
       "claimed_at": "2026-03-20T10:38:13Z",
       "signature": "91ea3141e594aed6f7e07181d7fd3d296b9489c2db95ae962f16c76b4e6ecfd5a277d8b82e02686fd78dc26a45d487772bf6564b756a52d2673ef0d641afd009"
+    },
+    {
+      "agent_name": "work",
+      "agent_number": 1185,
+      "owner_hash": "a4fd2b2a6badfd77494b6a414cc9bdedb8312c73831f20327ed1112bd5c4b3a2",
+      "claimed_at": "2026-03-20T10:42:33Z",
+      "signature": "9bf8a64800fa1c2e6435f2e4e64e2d8ab458d1d3bd11f3bcb39f00dd837a8d55622ea76a63e0389115b10ec7d1d4586a410558d497f63f79d31bccb8109c790e"
+    },
+    {
+      "agent_name": "shotgun",
+      "agent_number": 1186,
+      "owner_hash": "4ac21d14917356a895692f9cb0addde46539cc23acf797a93ca9f6410e8dd883",
+      "claimed_at": "2026-03-20T10:45:15Z",
+      "signature": "02667eb24f37c30c4366609dc49beba27380697932c225c30f9e02a384e2d2e15f6bed8452d7acf683ad263e72bf077055bd749790e23ba92a294e2917b67309"
     }
   ]
 }
