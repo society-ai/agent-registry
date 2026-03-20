@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T00:44:24Z",
+  "updated_at": "2026-03-20T00:49:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6806,6 +6806,13 @@
       "owner_hash": "b98b03ea47e86090edb26c637424bcfb903097cf90e8d64634250b617651c9d2",
       "claimed_at": "2026-03-20T00:42:36Z",
       "signature": "d4494678a21fe51dee945648b41b504ccb3ae26742cd73b73c46bb2189c33f483562adef809a358674a33d3785a4af5f13ff3a2e99e9ebec076b611438ac6904"
+    },
+    {
+      "agent_name": "yield",
+      "agent_number": 984,
+      "owner_hash": "5cd2512603bb07d5398ef27d82d492afd07f4bf33e0e5dadc5fd0954753f738c",
+      "claimed_at": "2026-03-20T00:47:55Z",
+      "signature": "42c431af0016faee3457dc103e037d163985c9a6acd6fe1b134bc04ff9ab62bf77fe439ea7f049ac4664223ba1d02a9e2d0c453a2a166ee3382a8432f6320009"
     }
   ]
 }
