@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T17:35:01Z",
+  "updated_at": "2026-03-20T17:45:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8416,6 +8416,13 @@
       "owner_hash": "677b36b5ed6f44311ddd30f84bf7c56dcb0cacc4ad57d4c6d8f2fef63771047c",
       "claimed_at": "2026-03-20T17:34:12Z",
       "signature": "80b28324881d1219c12db341b236d5e9c581a94dc97ba669ff38d6b08717fedb0b6b99dd5301c7c216f4d7c07018534293013659f665aa190218798d4fdddf00"
+    },
+    {
+      "agent_name": "cloudcom",
+      "agent_number": 1221,
+      "owner_hash": "91475dbc76d5782d8f5aa081db3aa28dc364dce87164995f1dcddce753315fed",
+      "claimed_at": "2026-03-20T17:44:32Z",
+      "signature": "dd5255422fc5bb9830140156bd6af03d7df9b10d87d4c2bd62467b64aea28586782d85425a20075684e21e0c5a6992896b9948f5fd94e5e46bbe512895c9220d"
     }
   ]
 }
