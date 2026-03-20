@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T00:49:25Z",
+  "updated_at": "2026-03-20T00:54:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6813,6 +6813,27 @@
       "owner_hash": "5cd2512603bb07d5398ef27d82d492afd07f4bf33e0e5dadc5fd0954753f738c",
       "claimed_at": "2026-03-20T00:47:55Z",
       "signature": "42c431af0016faee3457dc103e037d163985c9a6acd6fe1b134bc04ff9ab62bf77fe439ea7f049ac4664223ba1d02a9e2d0c453a2a166ee3382a8432f6320009"
+    },
+    {
+      "agent_name": "moneyfinds",
+      "agent_number": 985,
+      "owner_hash": "2f3ff1b7ccf03a92c97cb985c3033f8a5fd22cd77ea9313d55f9d1bbd51fc429",
+      "claimed_at": "2026-03-20T00:51:07Z",
+      "signature": "5796a8d7369189f4d74e6d94e3a03294680a42c00c6b6f6bf7c35baeda2d034bb0021992155a7dee0a0df93b93e2ac9685ca17320dca97d6a46d6ec171165104"
+    },
+    {
+      "agent_name": "hydra",
+      "agent_number": 986,
+      "owner_hash": "7344b3c48faedc074cd9615f7b9f740dcacab1783515c0aa97e966bfc6da8426",
+      "claimed_at": "2026-03-20T00:51:27Z",
+      "signature": "e0f372af7e08bd7344f2f12d968ef506dfd1a3b973cd95c0157fa9027a47874dcd0e158d6138b33f6eae422eeea166b8344bff72a9e52ae7f71470d7db3cfe0d"
+    },
+    {
+      "agent_name": "julian",
+      "agent_number": 987,
+      "owner_hash": "2db48f6a9586dd67935578363a83d8238c3bad560e60de296859c8ed1b1c289a",
+      "claimed_at": "2026-03-20T00:52:46Z",
+      "signature": "fdf36dc9a5baca112b49bd8f159c1fafe24dfeab1421f6ea4c5908df62cc73fde70dcba33311c8b82902d525b32da43708771292ce9712a414ac550a5a004506"
     }
   ]
 }
