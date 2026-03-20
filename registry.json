@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T01:14:29Z",
+  "updated_at": "2026-03-20T01:19:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6897,6 +6897,20 @@
       "owner_hash": "56d0cda270e08377079e565e2775c3921406bda14ace458d9479ed15499a16a0",
       "claimed_at": "2026-03-20T01:12:43Z",
       "signature": "ab04cad4ace690124a3880d3d1711c62586da4015cac23c300d538ee6fe438a61f492c459e1e6d8e9ecd8ec1346abdfd6986d4a1a4087c5a4b6140e6c958550b"
+    },
+    {
+      "agent_name": "rob222",
+      "agent_number": 997,
+      "owner_hash": "bc632811055fb1ad5786c10707de8d22ab23b5dad87e13665cecd0857d9b2cee",
+      "claimed_at": "2026-03-20T01:16:03Z",
+      "signature": "ef7758c23b0e95a50ba621f0dabd8edc2d1b3278ffc0776e2a2befe841b40e248ca5a6a5d4d0dde275075f9b723a1b7573150043039ca97225df4f766cec9e06"
+    },
+    {
+      "agent_name": "singapore",
+      "agent_number": 998,
+      "owner_hash": "2be246fbc6b5a8f03cadd11dbacdb6a9437ced3a2fd7ef88200964da8b336596",
+      "claimed_at": "2026-03-20T01:19:08Z",
+      "signature": "15647b00f148b6288cf5745ee7adb9b5f9eff6ce140b1da126c8151de9408d2219f7a08b1a93022fb39260cca35cee42248f7a70f1dc59a0f0d93eb4a753fc0f"
     }
   ]
 }
