@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T07:45:10Z",
+  "updated_at": "2026-03-20T07:50:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7765,6 +7765,41 @@
       "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
       "claimed_at": "2026-03-20T07:42:13Z",
       "signature": "c547905734c4ca2b90931f10940e56892ca093e8e6a308cbe504e89a2d46f8cf234c8ff56d1a5782d882ebe076c0dd0044cb878dbcb8107864cbb97a115ad808"
+    },
+    {
+      "agent_name": "ifham",
+      "agent_number": 1128,
+      "owner_hash": "f0c49f618cf02fb69983b09c9b12b6fea67257271e69f3bc663dad8aa8240b9d",
+      "claimed_at": "2026-03-20T07:48:03Z",
+      "signature": "aae32d021fb4d877226ba7d1e6773cbbdf7464766a21d7f1b48a9e97b73eae4ca07d70d56a08af64ab05cca8833f4186d2978d0ae4626f12b1fcdd02a2105c0a"
+    },
+    {
+      "agent_name": "bond007",
+      "agent_number": 1127,
+      "owner_hash": "19ff9a150e2d25dd257a77e1b8c64bc49a82dd6c54e7f088fef3197c5adbc6a8",
+      "claimed_at": "2026-03-20T07:46:28Z",
+      "signature": "97eae961052b3a424daa0cd7786f366b20a92b7e724573b4039c0d2124258087e7dae1ed4513dad7a8e73a1ef7aacaae787fec644218d11214ae77ac35753f07"
+    },
+    {
+      "agent_name": "autonomousagent",
+      "agent_number": 1129,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-20T07:48:57Z",
+      "signature": "fd2746c64c08f7e402b048713c5baa5537d9a9fd0b1d8a250f3763753d9b56f1009f7473946497d8b1fcf369b2244abd62da56f2ca553d810f430e4a2d678604"
+    },
+    {
+      "agent_name": "virtual-assistant",
+      "agent_number": 1131,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-20T07:49:57Z",
+      "signature": "7aa173c06806852f5b5698265533245dc30c2824da2d7854efe728790a4c4ea84ec0745e55a1221b29f5cb3f39b9ae8eb25b16bec6aae1ebd7a0867bfc236402"
+    },
+    {
+      "agent_name": "ant",
+      "agent_number": 1130,
+      "owner_hash": "9638f5401767ec24f7a17705a705e05a2b48abd6f0b0a5b1e70ca2047fc5074a",
+      "claimed_at": "2026-03-20T07:49:54Z",
+      "signature": "2ead416f93f5b3b2644d2ec3dae8f3a3975e73808e1bf8cb0720e7369ee715ec6d0536db0207dd5b19af75f52689cdd6925583b5389144abdbc60f4791b8910c"
     }
   ]
 }
