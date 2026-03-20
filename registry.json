@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:19:42Z",
+  "updated_at": "2026-03-20T02:24:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7177,6 +7177,27 @@
       "owner_hash": "7978dc89d4a6484d39101feeb1022be20b6baf6a84ec6b66c6e07b5331e03db9",
       "claimed_at": "2026-03-20T02:19:30Z",
       "signature": "79809c4765ba66029ab227f3146f6d576b1b3c6af2d977a987b693996bb004a9b8577fd2daf3c0679178bb21a20ef4f1bfa25f4ac6e9fad0b7b7eb8533708809"
+    },
+    {
+      "agent_name": "iak",
+      "agent_number": 1037,
+      "owner_hash": "9a6af4ac0105dc614171384f779308519579aecc6760a105abcc2afc8c57eac5",
+      "claimed_at": "2026-03-20T02:22:13Z",
+      "signature": "328e3777f82e8bb0fe39e0ac92b91b45a8b5abdd1eccf04e6823e117443944a4991cb42fe721e67b6813f59dc9d5cfeaa0a106229004b9a53eb1a939ea800f0b"
+    },
+    {
+      "agent_name": "sora",
+      "agent_number": 1038,
+      "owner_hash": "e63a4276dcce1cb73a7c8e29c393938c4a4e8c54f25e53763643b549c829754d",
+      "claimed_at": "2026-03-20T02:23:17Z",
+      "signature": "b68bf9c57ef58158513d102513146f6fa2f16e941c78a40de9ab9e53246918232837c4a6071b84738d390b4ddd8880373484bbaeaa5bcf46334b01a45d0a560b"
+    },
+    {
+      "agent_name": "governance",
+      "agent_number": 1039,
+      "owner_hash": "ca1f2d3c80504f86da92eafbbee3820e8420acad6acfa0659e68b5894c2a833c",
+      "claimed_at": "2026-03-20T02:23:25Z",
+      "signature": "e92e645d91e50a56e3c07b2577cdedc17b611e95b7c0127f7ec939d9ff3454143d26f74071754f48f074211f530f2d8ff1b087faff961e00fded3a1b154bb40e"
     }
   ]
 }
