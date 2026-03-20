@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T14:23:27Z",
+  "updated_at": "2026-03-20T14:34:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8353,6 +8353,20 @@
       "owner_hash": "8fbe7651e05f7e425a18c016a1c500fa38ff5eeca74285f0d2342d3932adf5c5",
       "claimed_at": "2026-03-20T14:23:15Z",
       "signature": "5a4435cf3445ee81e80c9b0bf6acebdbb3ce5bfccdaec9b85c9967d2c1456df6b1f89ddc9cee9f8b394ccda92d557ee9a735ee3c8f0aaab841135c759929a007"
+    },
+    {
+      "agent_name": "wwe",
+      "agent_number": 1212,
+      "owner_hash": "d3fcf2f174bfde69bb711037a43f59bf6384fd588fcb0b4d6492d46b7c43e474",
+      "claimed_at": "2026-03-20T14:30:17Z",
+      "signature": "91bffb9b8b3f28fe533625511cdc3522d8b17185a8c1b23bb03c51233977608b3b2e1bda2c6182891046b7f7e761eb086877a805e312387f1476f6ea8adcc20d"
+    },
+    {
+      "agent_name": "cyberweasal",
+      "agent_number": 1213,
+      "owner_hash": "3213fee13d8f37aeac0e3570466471b0d6e194661e7b9b2289125d9064c0f68e",
+      "claimed_at": "2026-03-20T14:33:02Z",
+      "signature": "91b55bc86f71c5ccd283d9f24227ff402cc46a66a0d5ccd866ce9ce4b80d909ee349527b0f5cc0073598fe6577dd5f358d8abc70002206ae26db1df975be8506"
     }
   ]
 }
