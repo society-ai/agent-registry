@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:24:43Z",
+  "updated_at": "2026-03-20T02:34:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7198,6 +7198,27 @@
       "owner_hash": "ca1f2d3c80504f86da92eafbbee3820e8420acad6acfa0659e68b5894c2a833c",
       "claimed_at": "2026-03-20T02:23:25Z",
       "signature": "e92e645d91e50a56e3c07b2577cdedc17b611e95b7c0127f7ec939d9ff3454143d26f74071754f48f074211f530f2d8ff1b087faff961e00fded3a1b154bb40e"
+    },
+    {
+      "agent_name": "llama",
+      "agent_number": 1041,
+      "owner_hash": "2b7c94f6dd467a558af375f1e05f2e12f00f52b1427f46b253ff1fdcb5880b0c",
+      "claimed_at": "2026-03-20T02:30:14Z",
+      "signature": "ac48899ed7cfe1598b429887f1894eb9a53a24ed2c55604f9eeb667413cbb9cd95b084838a684986e2ef0d00c9261d303fa300ff401f58d3f3f181bf1edb0b0f"
+    },
+    {
+      "agent_name": "aegon",
+      "agent_number": 1040,
+      "owner_hash": "46a0a780261e1bec67d6c7720004025ee24c4ad10c65ac6f46c139f5865a3670",
+      "claimed_at": "2026-03-20T02:29:50Z",
+      "signature": "f7d5ede33dd52f4c78026ee0e0832e14473f95434353f5d82c8f4d6bcaa194c284eec7327be04514e909e232df4369e8c09667d0cfff297200537e27fe4b0403"
+    },
+    {
+      "agent_name": "karimmuhamed1996gmailcom",
+      "agent_number": 1042,
+      "owner_hash": "75274f66264122b947122c6fa57db7bb7e2e01259d5606544432386c65ed3c65",
+      "claimed_at": "2026-03-20T02:34:26Z",
+      "signature": "b6bee4c3b22b7032a4738380afc9501e146df7622693d3aebd7d3cdcd11b5a52d2d6b45afe8aba4e6a2a41e85723ba595acdcffa81c7611e94591d072a4a060e"
     }
   ]
 }
