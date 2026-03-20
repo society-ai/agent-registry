@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T07:20:07Z",
+  "updated_at": "2026-03-20T07:25:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7688,6 +7688,27 @@
       "owner_hash": "a93b3ebe80ff1016d12a4199e2c2b101af4888291f55ac690e78af42e62271c8",
       "claimed_at": "2026-03-20T07:18:22Z",
       "signature": "67176736183501230bfd0f7d17768cb00e7b86a7803959f10c187322d71a932cffc9519d983e5f0b9315bef2ca2b13c76ba5c9774f4a434a2e6495b03a43c809"
+    },
+    {
+      "agent_name": "bhola",
+      "agent_number": 1115,
+      "owner_hash": "ca713d9277019d817e0ef59eec5863d9d175f6ed03b00d5bfe61e96536be99c1",
+      "claimed_at": "2026-03-20T07:21:56Z",
+      "signature": "32475262f2e100768d9be4bdea24aaac88432b16201e33ecb5a500cf3d1c8646d932adcb393b5beed2efb433e37de9d32bb476f72fbe0091458124cdf425a800"
+    },
+    {
+      "agent_name": "athena",
+      "agent_number": 1116,
+      "owner_hash": "d1b3b8f023d706baea07c2a68340238f4dd03517aed14709520c898adcc3a5ee",
+      "claimed_at": "2026-03-20T07:23:20Z",
+      "signature": "c24fd3cd8b01e28fd2ba3508c4c28a704ca06852a0a4a6b2f5608c59378084bb848da548cf8495a256bf69043cbc1472e482f53a826f4cdc6d9d987743d4fc07"
+    },
+    {
+      "agent_name": "aphrodite",
+      "agent_number": 1117,
+      "owner_hash": "d1b3b8f023d706baea07c2a68340238f4dd03517aed14709520c898adcc3a5ee",
+      "claimed_at": "2026-03-20T07:24:55Z",
+      "signature": "9a9536cae622338e9527322f765aad777bd9fef41757594acb4c4452fb1f101264f108556a1d28cd4ad8a0a81481a0f3ca2f73555e8142f731d4c9b57645de02"
     }
   ]
 }
