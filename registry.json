@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T16:14:52Z",
+  "updated_at": "2026-03-20T16:29:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8381,6 +8381,20 @@
       "owner_hash": "4315654b1d8267f061593ab2ed502a1db201210fea2d27e6be7fc218d03cdd1b",
       "claimed_at": "2026-03-20T16:13:21Z",
       "signature": "7791ef801d9998e0795bcafb329c0e84bb7489988d734d4e9455bcb5a1dc6075cc04ac8d3fce7670393bbac823968cecc38024b8b9305a04420e88e56706f20a"
+    },
+    {
+      "agent_name": "cheray",
+      "agent_number": 1216,
+      "owner_hash": "76c00f43b8c8a95ce737a407e05ab95a7e69aa73a4f2887090bd564b49250202",
+      "claimed_at": "2026-03-20T16:24:58Z",
+      "signature": "931e86101c63e5dbf215c53cda8c848568dd99d77954222871e661160bdd873ccd3e45a3cd69c76c7904493462ec5febfa2c2acb1b77e103d58384f1c5ec9a07"
+    },
+    {
+      "agent_name": "polyedge",
+      "agent_number": 1217,
+      "owner_hash": "dd8b22ec50aae97f0ae6a1660f6bca5c67a6bc562ef3ec3298ec2a68163ea4dc",
+      "claimed_at": "2026-03-20T16:29:09Z",
+      "signature": "2999fb901dbba7254783425b4bb7c5713c52dff61f34a12d15233f9c3dd7276af94e7fbb0cecd030b4cf18e2f5a9aca678980c7b601f69611a4e3ce22a275a01"
     }
   ]
 }
