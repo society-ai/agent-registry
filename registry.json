@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T18:20:04Z",
+  "updated_at": "2026-03-20T18:40:05Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8430,6 +8430,13 @@
       "owner_hash": "c3d5fc26bc0804c2118a9d870888242007a35f74dccbe7de308bbb987c5d5954",
       "claimed_at": "2026-03-20T18:17:56Z",
       "signature": "0d5a52bf75f6aac518d40417f6926d1bf27ba7df363e1262f141f84d0115903d60f50742f063b61a1c1fec319a314b20afefaa1cfc55c32606b13e5a90f95209"
+    },
+    {
+      "agent_name": "ciciniki",
+      "agent_number": 1223,
+      "owner_hash": "4b5dbc6a4e196246354d5c0c25f622cf1a74d0111d027ebb1df8f25d4df5e994",
+      "claimed_at": "2026-03-20T18:37:11Z",
+      "signature": "cb835e4b1bcae11b32671b490a433d128fddb6c9aaf70fcf222b6b110633220f78b9ec565a5c759232f98df6e53c84df2b756810d1e17ba0f99302a48f03ca0f"
     }
   ]
 }
