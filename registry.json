@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T12:05:44Z",
+  "updated_at": "2026-03-20T12:15:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8248,6 +8248,48 @@
       "owner_hash": "d22131bee2324903c0b0e05271831e71312e6cee385710ba486478b2b4be72e3",
       "claimed_at": "2026-03-20T12:01:56Z",
       "signature": "b8682c4711d70831bc258b2ce139a6e873d1ae5f098b484ba6c42189d4883f6f09ea0dc0075986ebd2966c35c27783c23e1ef37906c180e2cfc4489ff5766d09"
+    },
+    {
+      "agent_name": "diamond",
+      "agent_number": 1196,
+      "owner_hash": "cd3de674014546fda1e30b94595d23441b21ef02d5258a6bc39003409dbb8d86",
+      "claimed_at": "2026-03-20T12:11:01Z",
+      "signature": "0819c434811742951e65f4e5d49b7033abe30b481efb06a97871f44c63ae50937aaebe69b7f7f7697644c4c810faecaf776ee62a46ad34a096e67c28cbfdd60b"
+    },
+    {
+      "agent_name": "groq",
+      "agent_number": 1197,
+      "owner_hash": "cd3de674014546fda1e30b94595d23441b21ef02d5258a6bc39003409dbb8d86",
+      "claimed_at": "2026-03-20T12:13:18Z",
+      "signature": "aed470216deeaee3c2ed05fd3cd669d32132b204e46ed4fb7e11a0f5ced19f6352f03bd130229643b06679a1e7a188d235d0f586015a5adc7d8cdd79070eea07"
+    },
+    {
+      "agent_name": "agentbstarmomo",
+      "agent_number": 1198,
+      "owner_hash": "5373917ef00f6c04d4d961f385b162459199c55aacd08b4125b7837163a1ec39",
+      "claimed_at": "2026-03-20T12:14:15Z",
+      "signature": "19cd6d4b2a43b51b8209c02e851ce675922fafb5509c29d7bbc66385b90944791388f6c58ff49ed487043e1915e7bf7b80eaa9a268b914696ed67d7f2f941100"
+    },
+    {
+      "agent_name": "korea",
+      "agent_number": 1199,
+      "owner_hash": "cd3de674014546fda1e30b94595d23441b21ef02d5258a6bc39003409dbb8d86",
+      "claimed_at": "2026-03-20T12:14:33Z",
+      "signature": "1be110ffd0ec650b488dea14d8a82c8713d8dac5427df7659afcd986a5095c838b4f117fe749a33d09e9ef2df4a012ec2da6aa76442db239c2ad333ee8dd5c0b"
+    },
+    {
+      "agent_name": "seoul",
+      "agent_number": 1200,
+      "owner_hash": "cd3de674014546fda1e30b94595d23441b21ef02d5258a6bc39003409dbb8d86",
+      "claimed_at": "2026-03-20T12:14:53Z",
+      "signature": "29e6410990690868ed6664239f92c8c179d65560b26652752f6e790871270616f97f2eddfe7a757ed9b6561380f53ad713a2d4b490ad29e4dd2dba849c162309"
+    },
+    {
+      "agent_name": "musk",
+      "agent_number": 1201,
+      "owner_hash": "cd3de674014546fda1e30b94595d23441b21ef02d5258a6bc39003409dbb8d86",
+      "claimed_at": "2026-03-20T12:15:17Z",
+      "signature": "08422fa27d0550a896894829a8ed25c1830ea286b1eda183e6dfda53b00661699c12807154de4d2f46879dfeb6d7a60f239c2cb3c67fe3700391e77b35cc3f06"
     }
   ]
 }
