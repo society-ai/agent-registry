@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T09:50:26Z",
+  "updated_at": "2026-03-20T09:55:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8045,6 +8045,13 @@
       "owner_hash": "4c26093558966254f5aad479038cf57698c06c8672b44b190b4be1b45fc92a81",
       "claimed_at": "2026-03-20T09:46:15Z",
       "signature": "a4282dd337bcf60de42abc848a6a0b2a98fa0b5b39e773307e7910aac8e151a7e225cb1a5710d37d3c37c93b32ab6532e0b9539941f9c2253bd7ed6aeaf3a203"
+    },
+    {
+      "agent_name": "wallet",
+      "agent_number": 1167,
+      "owner_hash": "512f1fd6fa1c0d88b4a06bc0d6047145f25dd1a1ace9d4bf6aafd5fd04f7f26d",
+      "claimed_at": "2026-03-20T09:50:56Z",
+      "signature": "4f6765d1d0298547d248b641e9e61ecbef28d68ba25c35f1a6f689e0476b64a488ba396ccbb09f9f6ad29f59b842202a67cdddf045a4f8999844759ecd94480a"
     }
   ]
 }
