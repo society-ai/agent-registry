@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T07:40:09Z",
+  "updated_at": "2026-03-20T07:45:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7744,6 +7744,27 @@
       "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
       "claimed_at": "2026-03-20T07:38:56Z",
       "signature": "72aabe4cd0bb8a4c11211eb58652b36ee7efabecdebeaa3e1da40b749a30b539a0f3ae756bcfbfe6b2a4e357079690284643d816cbf8fde27a15a0116ed53802"
+    },
+    {
+      "agent_name": "machinelearning",
+      "agent_number": 1123,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-20T07:41:19Z",
+      "signature": "16efeee75a826e331abcb1ed76b1e2f076b285df7479c97484e1d61db3b78bdeb1815cf030c086030b6021d1cd1d06de1c134f5e17aa0bdd3630d29261f81b08"
+    },
+    {
+      "agent_name": "zeus",
+      "agent_number": 1126,
+      "owner_hash": "aca123d4ba00257c3f37e2fc6f3d67fcfe9f87aad0f346b285f83f6040bda55a",
+      "claimed_at": "2026-03-20T07:44:50Z",
+      "signature": "7876d5d15e092c5318cdabe7d19e5aaadbf5845f374095917badebc3ea0c3f17f9049c0141f0f94487d2a3986fa34d337dd4b84043325c9661fb80bb64fc650a"
+    },
+    {
+      "agent_name": "autonomous-agent",
+      "agent_number": 1124,
+      "owner_hash": "29064d7f15ecbeb67c608a33508fac22d26755bd32fb29ba7f15144c21df664c",
+      "claimed_at": "2026-03-20T07:42:13Z",
+      "signature": "c547905734c4ca2b90931f10940e56892ca093e8e6a308cbe504e89a2d46f8cf234c8ff56d1a5782d882ebe076c0dd0044cb878dbcb8107864cbb97a115ad808"
     }
   ]
 }
