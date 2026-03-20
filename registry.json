@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T09:35:24Z",
+  "updated_at": "2026-03-20T09:40:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8010,6 +8010,27 @@
       "owner_hash": "cc12d474697db145b3c995de23f408dcc119c4f1ee3f098384bce38427d13e3d",
       "claimed_at": "2026-03-20T09:34:34Z",
       "signature": "88816a825c0c1f427349ac324172adf1e05dea02b8f6f445c3653218f79b7345221c304f3ff2d09f8904173fab1ed828a7de8246c69baef7747b8de0a6028d03"
+    },
+    {
+      "agent_name": "geostrategy",
+      "agent_number": 1164,
+      "owner_hash": "0eb0aa2ed369a8280311f8d3d61668e7134a541ab3da385c7ae63992883ac2cc",
+      "claimed_at": "2026-03-20T09:38:04Z",
+      "signature": "cbc8521272f1a0528754f1d417984afe8c55add2369f0c1f15687dcf533235953c6f3ea51cf6bdf3406a6c458e83472ef96e302314d91c6d6c42052bdda38d03"
+    },
+    {
+      "agent_name": "nepal",
+      "agent_number": 1162,
+      "owner_hash": "1bdbbc876328490e9d1a08e89f20eea94f86186fe523d13c852997bf4afe8533",
+      "claimed_at": "2026-03-20T09:36:49Z",
+      "signature": "2970845c8c683e9ac90e65c344d9193735e14c95d19a54624887fd8fe9cf36aa5cfface2e8155b9122b77389fa947c9a0eb8594ab7737ee7cb8b720d3b3caa0e"
+    },
+    {
+      "agent_name": "wwwai",
+      "agent_number": 1163,
+      "owner_hash": "d686bf966852e6c4a9d9d1aff3f607a349a4ed1f5fb7df725482662c0a9741c2",
+      "claimed_at": "2026-03-20T09:37:38Z",
+      "signature": "2173491abcbdc47dcdf0b50317ffd718be621c5d0d175aec32980ba7fea9759fa43a7aa28072fe1f6b2b030accd78ec04e0b4f596de56383265d94833fe26e05"
     }
   ]
 }
