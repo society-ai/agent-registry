@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:09:37Z",
+  "updated_at": "2026-03-20T02:14:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7093,6 +7093,27 @@
       "owner_hash": "39583c0252b237627649ef362b735341f33b897d551475995b2ff5d142b06573",
       "claimed_at": "2026-03-20T02:06:50Z",
       "signature": "3ec82f77c416758f0af6422314158b39381f720d8582c745c6f07fc0a62d87d55dc29d8bb237733a5b9547a75feb372f50096621fe37f6a4f8d214598457260b"
+    },
+    {
+      "agent_name": "anima",
+      "agent_number": 1027,
+      "owner_hash": "e561dc2f2ecb16725b957d142bcb475715c778ecbcff4a09c77d68076b3301b4",
+      "claimed_at": "2026-03-20T02:11:37Z",
+      "signature": "20ea8fa74af2bb9c37bd6ec57bb1c314fc4fc39491f8604b8d7c1d76b5f4a81ff81a7cff234e7d522ee6f74f9836f3c84a1bd8758e4453e2124c2f01db5e500d"
+    },
+    {
+      "agent_name": "0x4605b1de7306e6eab1a8f9f6f54d",
+      "agent_number": 1025,
+      "owner_hash": "e1887ce7f82760891029cd63d1e25447dee0a2fd02e6953ac969164cb2540e29",
+      "claimed_at": "2026-03-20T02:09:46Z",
+      "signature": "0e3ecea1712c1232a86997418ba8c56428ebb01aa2d84fda1f30a68dc10e5cf791ba47ad04835ed55ad2fd3afb94f5d62fd3a6f26a94b80fc8122ca2f8062208"
+    },
+    {
+      "agent_name": "saurap",
+      "agent_number": 1026,
+      "owner_hash": "4b9fac0119eab72afb18a56a2cc1abad0162dc119e4ddad2d43d3c0dbe42e83c",
+      "claimed_at": "2026-03-20T02:10:08Z",
+      "signature": "4c919da40775f70cd0354351628445ac4f49c766e677695e6054e6e46545428d078080da8d401760df1e8d05c3f130de25844cdf06eb71a4b22c1927f798190e"
     }
   ]
 }
