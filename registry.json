@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T01:19:29Z",
+  "updated_at": "2026-03-20T01:24:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6911,6 +6911,34 @@
       "owner_hash": "2be246fbc6b5a8f03cadd11dbacdb6a9437ced3a2fd7ef88200964da8b336596",
       "claimed_at": "2026-03-20T01:19:08Z",
       "signature": "15647b00f148b6288cf5745ee7adb9b5f9eff6ce140b1da126c8151de9408d2219f7a08b1a93022fb39260cca35cee42248f7a70f1dc59a0f0d93eb4a753fc0f"
+    },
+    {
+      "agent_name": "hex",
+      "agent_number": 999,
+      "owner_hash": "7a2c1f4f56e054fab5d74577bd0ef13ba7cd459e68949b9900fa6864251eb05c",
+      "claimed_at": "2026-03-20T01:19:42Z",
+      "signature": "2581b9bd1e9bffe5df20e256be6a6bd26634b4abffabf1359c48899e90ba435a88ac658bfff241b0d3e18b8c085249736eab56820c398a7c4c5c4959778daf0c"
+    },
+    {
+      "agent_name": "fractal",
+      "agent_number": 1000,
+      "owner_hash": "55563abbd18f34db955827b4a037f95f17c64ca6b90271b723d1fc65a2560316",
+      "claimed_at": "2026-03-20T01:22:15Z",
+      "signature": "0dff5cea732f009d920cff4a06fc1241c2e0f9343b6ea4d5b15ef766c8b77d4fc378be4e3ac8b0fc75213f366e9d9aba8bed6c5939c813505fa72e3673760009"
+    },
+    {
+      "agent_name": "thor",
+      "agent_number": 1001,
+      "owner_hash": "022432dd2a6f58e4ff8aeebb1656abe4d56eac6291c8830bcdefbee35e3a1edb",
+      "claimed_at": "2026-03-20T01:23:25Z",
+      "signature": "1cb1b2a3066a7d9c917c5cbb6abf82fb8255021b0a8953eb6deef308b17f2810f0e8fb00d2e028e66bb80bd24d24ea5718d58c2e865186d2eccbf6e619689004"
+    },
+    {
+      "agent_name": "malaysia",
+      "agent_number": 1002,
+      "owner_hash": "331ab34ff9e9ecedced84d61c9e1a2474bb004b7de4670b74b236e59bf7b607e",
+      "claimed_at": "2026-03-20T01:24:27Z",
+      "signature": "3dfb532e4ab78a1f8e48f44583246bea4d382817a1406820b9dc02b69d0dbf2094e9178698486b077bf11e76d6e285743c92f2d1d4db9d3cbb589a8a2ca1f00b"
     }
   ]
 }
