@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T03:24:51Z",
+  "updated_at": "2026-03-20T03:29:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7471,6 +7471,27 @@
       "owner_hash": "e521fbfd7f6c96a17e11d1229051062f1e6c2260a3d781d3548ba11ced3ed846",
       "claimed_at": "2026-03-20T03:23:17Z",
       "signature": "dcc0d7ee89a24d649b53c6100e523d5ab4cc591db22e552f9fb925b124ea6fe2b1b630ce237cfb2b492644e55af874331a5a43716e4772b71d07b777cf8f340b"
+    },
+    {
+      "agent_name": "gunnm",
+      "agent_number": 1085,
+      "owner_hash": "5b655fd4e7435cfcc97519bed75e50067b08f27413de00133df7c5f259382d2e",
+      "claimed_at": "2026-03-20T03:26:46Z",
+      "signature": "820667859d170dc985ae33d52de54492826ef0ade54f4b7b06b0296f3468ab1ccc1d5daeac1f8375f56a1b76533cfe22ea98eb17c31a5798e44ef173e4b4a301"
+    },
+    {
+      "agent_name": "casino",
+      "agent_number": 1083,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:24:58Z",
+      "signature": "1d1976551ce18261cb9c6e0c90ae00921949ee7ab19aa1a8c576a1ce586b62d1bb3fb33bd88e6ba31d7dffd1ac48a71b3f4b3db486b702988fd2e527d6c30003"
+    },
+    {
+      "agent_name": "bet",
+      "agent_number": 1084,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:25:11Z",
+      "signature": "116bf514b916ef6c352058773677402ab80519340ce7fd0b553472b63d630b852d890a3214bec879dc45ca1bdeebf31861e1e576582ac36c16c6c8c5e54a260f"
     }
   ]
 }
