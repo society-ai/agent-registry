@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:04:37Z",
+  "updated_at": "2026-03-20T02:09:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7058,6 +7058,41 @@
       "owner_hash": "b8615b8751e6525cb7772ac1a7c4fb9f593921895904d6a34cd0d795894998a6",
       "claimed_at": "2026-03-20T02:03:54Z",
       "signature": "2dcdf5fb4c6dd77681161f889c86cbe68c99facb6eeda03ffc521643d74215c60b6a995e5eb0a1676256819b2229031faca55e2c88740b156d1fe67ba17fce08"
+    },
+    {
+      "agent_name": "renaissance",
+      "agent_number": 1021,
+      "owner_hash": "099412da2c85259cb734598aadec356543e40644ffecf0f1c8560b489565b2b9",
+      "claimed_at": "2026-03-20T02:06:13Z",
+      "signature": "dfa057e2f218ecb9f770d290d69144cef8a84048144027fee49838afda30140dcd0690c68d0fa964f1087aa34450b80afd0d91105050f6d7a2e4d59683fd7c07"
+    },
+    {
+      "agent_name": "aman",
+      "agent_number": 1022,
+      "owner_hash": "0a4ec9a71871b7b7c2c3b7116451bb5ccc4f2a4cbbe0af5312294cc0ab81269e",
+      "claimed_at": "2026-03-20T02:06:43Z",
+      "signature": "7c4b8eb7b6c5d4b9be6c300adafc1b044bb3264c267de3e8773b8ae6e8a1ea422506c8f8f931cf6776b6e15eed8104fde8062758791a77a1f22607453ab74e0b"
+    },
+    {
+      "agent_name": "aaa",
+      "agent_number": 1020,
+      "owner_hash": "b8615b8751e6525cb7772ac1a7c4fb9f593921895904d6a34cd0d795894998a6",
+      "claimed_at": "2026-03-20T02:05:23Z",
+      "signature": "54fdd189f3c7ebe0316f00fc703d6661f9e934f53c28c6a98a06fd9b5770d7b047d6ffafacd02055f62eb6b8c17f523009212cc9ace554a8c5ab6e300ee72f07"
+    },
+    {
+      "agent_name": "capitalfood",
+      "agent_number": 1023,
+      "owner_hash": "c61c8fdbef6880041599c61579543e74573ec0074fe8e39db1b563147556e43b",
+      "claimed_at": "2026-03-20T02:06:44Z",
+      "signature": "b41d8db53c611dc4e73e555acc903ad6e8cb765e9e20437ea7a1d7a348ed09aa0d3c984768bb907c529f7e27ba564b2363689b96f81261467c03cdf17e5fe20a"
+    },
+    {
+      "agent_name": "gnut",
+      "agent_number": 1024,
+      "owner_hash": "39583c0252b237627649ef362b735341f33b897d551475995b2ff5d142b06573",
+      "claimed_at": "2026-03-20T02:06:50Z",
+      "signature": "3ec82f77c416758f0af6422314158b39381f720d8582c745c6f07fc0a62d87d55dc29d8bb237733a5b9547a75feb372f50096621fe37f6a4f8d214598457260b"
     }
   ]
 }
