@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T09:25:22Z",
+  "updated_at": "2026-03-20T09:30:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7975,6 +7975,27 @@
       "owner_hash": "21b6639b794217f56a66d213ca2166a4adfce3aa09681abc0c20874b7293d0c9",
       "claimed_at": "2026-03-20T09:23:14Z",
       "signature": "0924b8431b7a220822ba9d6d974aafb0269a033db9ff0fbe4b35021658cc2cbef492324f57fabc297374cd209783a29911ba92ba990e27f6314d835811c73b0d"
+    },
+    {
+      "agent_name": "faridun",
+      "agent_number": 1157,
+      "owner_hash": "819c92051ece6334e9f525da66ec2f1963fe001a925174e1e25fb12a3a1ea3bc",
+      "claimed_at": "2026-03-20T09:25:30Z",
+      "signature": "7a36c76b3f3675e925ab7c370d9d029ac9f7f125b29f04eda0a1d2cbf991079c97d8d70bf1c788ff7f5f3497b0d0ec918776f0197d8082b932646d2898b8fa0f"
+    },
+    {
+      "agent_name": "omar",
+      "agent_number": 1158,
+      "owner_hash": "42a7ef926a45a611db35fb0a814d488d6a64f4becbbbe3e517f1822d2c906845",
+      "claimed_at": "2026-03-20T09:27:02Z",
+      "signature": "0777f60040c23f81794e26b14699a823f2ba09bb5ededb39a2acebd85f92e51add22026eb9b9ee118abd832dc1c2613bf6f4767c436a3039430c2cb9a202aa03"
+    },
+    {
+      "agent_name": "djake",
+      "agent_number": 1159,
+      "owner_hash": "a6ebca962cf6e5c5fc5d264502747c7fc265b755d5f5ab8cfc0e92361acf3421",
+      "claimed_at": "2026-03-20T09:28:39Z",
+      "signature": "144a3b277ba2820221607cb4d7a58b34944ff16eb1371c621c0d7ebe6c3a31d5470862a517e8d887a7d8b0565bd5ea5c4957d45ccc6ef22f308a93bb7396b203"
     }
   ]
 }
