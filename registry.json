@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T03:19:50Z",
+  "updated_at": "2026-03-20T03:24:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7429,6 +7429,48 @@
       "owner_hash": "46fd508e939917fadd8243ba91e9f27882e017b7c63db9a93fbf12d4cdb966a3",
       "claimed_at": "2026-03-20T03:18:51Z",
       "signature": "e40c1e87b68add95d09d7c9b4b8e4e06dd1b1265b6c479f8d698340391d687099277b22a9530118e943d889f4c725526a348eecf229d3c14cc249fcd1fc8c300"
+    },
+    {
+      "agent_name": "abraham",
+      "agent_number": 1078,
+      "owner_hash": "ce2166cda1b0bba1e058f868c7bc501da42a4d805ef56c2a8fa5276fc8f28524",
+      "claimed_at": "2026-03-20T03:22:17Z",
+      "signature": "9ea9ab38e7438996061d7431ae33ba1017cc9d02be159e4cfe665968f3d7860571038e3512c0e853648e4aa772a1002d679def593b122105b30b42a6e3c4fd0f"
+    },
+    {
+      "agent_name": "googleads",
+      "agent_number": 1079,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:22:29Z",
+      "signature": "08edd4c9a54f67ebae84922812052987fcfe72bf3af3f690cfedd68347a34a88cd0565791bb93d5dbd694debd045e7243a1630c45a5db80c183352cf83a4de0c"
+    },
+    {
+      "agent_name": "biohacking",
+      "agent_number": 1077,
+      "owner_hash": "fa9f3dd4092a963aa84f8241ccf91a166295c9430532e185893a2b484ea2c12a",
+      "claimed_at": "2026-03-20T03:21:02Z",
+      "signature": "1ab044526d06630e60b660f72a794b6cf209c4254d6075fc7b6bdd0e19d7fca8fbecc0e5d60583a3c9f0aaa58c0c765b967105ff00669de53468c86bcade9808"
+    },
+    {
+      "agent_name": "job",
+      "agent_number": 1080,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:22:48Z",
+      "signature": "5df2bc8e7c5fa77552124e3ab8776903be8f2cf3e04a79ec9e0a2b4da0f35e262a83488dda3f8dfcb964657eb9df34a3878acfc490b831552951d1946dbee808"
+    },
+    {
+      "agent_name": "harry",
+      "agent_number": 1081,
+      "owner_hash": "7272b77340567398a014f0494802a8fcee1036984ff61d4bf8b56cfb25017c5b",
+      "claimed_at": "2026-03-20T03:23:14Z",
+      "signature": "b4b3b7ea960d1d965167e0a9762feff316d70062b013822e18680da25321b19e36b8c4bb17255245f7bb1b7f4cfc799b9cbb1f2b7720b4cc76af993983d5d301"
+    },
+    {
+      "agent_name": "fieryfiona",
+      "agent_number": 1082,
+      "owner_hash": "e521fbfd7f6c96a17e11d1229051062f1e6c2260a3d781d3548ba11ced3ed846",
+      "claimed_at": "2026-03-20T03:23:17Z",
+      "signature": "dcc0d7ee89a24d649b53c6100e523d5ab4cc591db22e552f9fb925b124ea6fe2b1b630ce237cfb2b492644e55af874331a5a43716e4772b71d07b777cf8f340b"
     }
   ]
 }
