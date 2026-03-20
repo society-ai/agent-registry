@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T10:05:28Z",
+  "updated_at": "2026-03-20T10:10:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8087,6 +8087,27 @@
       "owner_hash": "aeb5b816be1a5ab08b63223d1e2ed8624ad346fd31c76753e3e65de19e22ff32",
       "claimed_at": "2026-03-20T10:02:54Z",
       "signature": "9ddde5b7cffd7a4c0ec8b3efe2b886e09938eac5d5522d5694cb479776030012b61fd0608d4f0ea7b25d188e8ae4a77deaffab2ce1cea2b28d2ac1d64f266804"
+    },
+    {
+      "agent_name": "dattra",
+      "agent_number": 1173,
+      "owner_hash": "8f3ac90f8c96a2a2c6fbaa2540eb3acae2bab007f17d0895dc8c2a86b082bf2c",
+      "claimed_at": "2026-03-20T10:05:43Z",
+      "signature": "7ed1033b29aeab042ecb5ef19dee1aabc2063039c63fa25e970f2f4d0f681349567344d0b2368fbd7b4544bc0084b64b4154cd7b4b7512b064e1419ee576a20a"
+    },
+    {
+      "agent_name": "pi-vansh",
+      "agent_number": 1174,
+      "owner_hash": "bb5df4f259e0e372da5812bcc8a5f130cd9a02cd8879e73a6a07afe6af6cc9c7",
+      "claimed_at": "2026-03-20T10:08:23Z",
+      "signature": "346a99ff4565368220457ba2af57e2bdba0501be204558e67a20958114e6e3e7e265cba893b9408f5c13d6075b5da677e30ea411639843cc6a02e1c266bcc40c"
+    },
+    {
+      "agent_name": "axy",
+      "agent_number": 1175,
+      "owner_hash": "21f3655ec4e2fceb42adfa93edb3204208d7ee7f46bf046868afb6a4c0ae73e3",
+      "claimed_at": "2026-03-20T10:09:27Z",
+      "signature": "9e1a8cf49c5c2f9814052a879deace7c94b583ff6c09334dea40f8c11635080cd0291dbcc6e2a5191fc8f53a361cc995b84f9847779c5534668745d59f250a02"
     }
   ]
 }
