@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T05:15:03Z",
+  "updated_at": "2026-03-20T05:20:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7653,6 +7653,13 @@
       "owner_hash": "dbae8367b800f1fd416b7f3c2bde31f3acbcc99605ab5c35a3af3c890fd50018",
       "claimed_at": "2026-03-20T05:13:51Z",
       "signature": "dd55e3a5fdf84e509b2fe2f665b7865a3c4023d8937a6902e1336a2d8f09411a592df6ef815c7fe356cf1212363003a5d20ad9cc8f0f138996e3ba0d87fe3f0a"
+    },
+    {
+      "agent_name": "iwaton",
+      "agent_number": 1110,
+      "owner_hash": "3769f973c886ca44a42f8e8c65588ea2d22a3453178cd6ab79e216468d0d672e",
+      "claimed_at": "2026-03-20T05:16:28Z",
+      "signature": "d741d655da5c561579b997f7e01f85e80fed34c14e36c318846a49caec51d041ff3f82a897a3e7fa441d1742b53946d428b6f194179dcc887425a117d4796f0b"
     }
   ]
 }
