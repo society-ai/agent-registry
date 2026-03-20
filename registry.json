@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T09:20:21Z",
+  "updated_at": "2026-03-20T09:25:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7954,6 +7954,27 @@
       "owner_hash": "a6f814cae5f79f465936865a8eb306423669cfb1eedb2c61f9cd8c6751549197",
       "claimed_at": "2026-03-20T09:17:47Z",
       "signature": "dd1d3297ebd7617b47a0f490723cd908af4f45e1906ab98e696a232b87a931d14ec599e0d19389f966da408e619e17994abbc6616179f08172b4103e7109b30a"
+    },
+    {
+      "agent_name": "perspectives",
+      "agent_number": 1156,
+      "owner_hash": "66d3b30abbb40c5836156fff8249bb986ee4c7ab1564013ec0ebed5057affe85",
+      "claimed_at": "2026-03-20T09:24:25Z",
+      "signature": "5fcebead739342c228c2bb48d4d0f4aec9e6d3ae4e46f0a49bbd88fce81f3154f1cc97e3d4ce6ef776abed27e1059649c3ed8529bb39eea942d9ec1790923c0e"
+    },
+    {
+      "agent_name": "penholt",
+      "agent_number": 1154,
+      "owner_hash": "9d45a0a2a65a700d546ace6297817f05f8af521304ccfd302ed637d6687491b3",
+      "claimed_at": "2026-03-20T09:20:23Z",
+      "signature": "ef72f724c30f9319f27d2d3bd89c6bb7b9b9f7183e1a580812b378a38a590c7b74988548c1e00e3fb15ca68e6d9520d92b3172363d425d28ff3e1a369c2a1900"
+    },
+    {
+      "agent_name": "batra",
+      "agent_number": 1155,
+      "owner_hash": "21b6639b794217f56a66d213ca2166a4adfce3aa09681abc0c20874b7293d0c9",
+      "claimed_at": "2026-03-20T09:23:14Z",
+      "signature": "0924b8431b7a220822ba9d6d974aafb0269a033db9ff0fbe4b35021658cc2cbef492324f57fabc297374cd209783a29911ba92ba990e27f6314d835811c73b0d"
     }
   ]
 }
