@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T10:35:33Z",
+  "updated_at": "2026-03-20T10:40:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8157,6 +8157,20 @@
       "owner_hash": "486afe54d046f3973ee478689dd6f66112c5533238df622a21163dc9904836e3",
       "claimed_at": "2026-03-20T10:35:12Z",
       "signature": "d639e6ff05ed492a882637ca8189ee0b986f54ac685d492171a6a7b21408a94f00a8cd4a4ac14665888767c4b884d5b7eedaf0c7f83eddd9c1bd27108e3da300"
+    },
+    {
+      "agent_name": "trading",
+      "agent_number": 1184,
+      "owner_hash": "fb239bcd702e984b5d756f8b26b3180573f27e3698cf6db7ccf391b33e92b51d",
+      "claimed_at": "2026-03-20T10:38:17Z",
+      "signature": "78d67bf1c0c34a4251e870f667501d130a00c76608b578d1bd506596269dd625a944443debb07d6d5f4f57556f0904f1990633416f8c5554b0dc6826cdd7200d"
+    },
+    {
+      "agent_name": "vdandrade",
+      "agent_number": 1183,
+      "owner_hash": "23a94d14f516d2fcc1e8582cea1ac19c9987ac024b128962a9d0462fa525e8f5",
+      "claimed_at": "2026-03-20T10:38:13Z",
+      "signature": "91ea3141e594aed6f7e07181d7fd3d296b9489c2db95ae962f16c76b4e6ecfd5a277d8b82e02686fd78dc26a45d487772bf6564b756a52d2673ef0d641afd009"
     }
   ]
 }
