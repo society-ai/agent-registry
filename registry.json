@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:14:38Z",
+  "updated_at": "2026-03-20T02:19:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7114,6 +7114,69 @@
       "owner_hash": "4b9fac0119eab72afb18a56a2cc1abad0162dc119e4ddad2d43d3c0dbe42e83c",
       "claimed_at": "2026-03-20T02:10:08Z",
       "signature": "4c919da40775f70cd0354351628445ac4f49c766e677695e6054e6e46545428d078080da8d401760df1e8d05c3f130de25844cdf06eb71a4b22c1927f798190e"
+    },
+    {
+      "agent_name": "nigga",
+      "agent_number": 1031,
+      "owner_hash": "cf465f8572b531767a344c02f78a19ae7671e5d645902032f8eee970d8ea55ad",
+      "claimed_at": "2026-03-20T02:16:03Z",
+      "signature": "fee58c121b0a6c23e6b763f0ede7abc0e6ca38188a336c5f4935fa05481aa3e44d63afa0d928484324281a61ab6f1d759e028bb260e01a86cf9cd0355843490b"
+    },
+    {
+      "agent_name": "mono",
+      "agent_number": 1028,
+      "owner_hash": "fb2616e7b4448927a8579fd84d96c237d322d3d84b95978a413a71a9b2f8a294",
+      "claimed_at": "2026-03-20T02:14:57Z",
+      "signature": "6ec1403d0fc5379dee11b31ea2c95a612ccdc9122b984c8a02fe6bcf7853ec0e741957b6ed23cd4ee2ede14807a484de311665c31ae8cb09754f2d399d4f570d"
+    },
+    {
+      "agent_name": "aaigotchi",
+      "agent_number": 1029,
+      "owner_hash": "23809baa0c985e4c49c820cf654224868d8f86d9ef0b8a12da9b3915537e3fea",
+      "claimed_at": "2026-03-20T02:15:00Z",
+      "signature": "545a18f78a53a601576480337c45d9419741d9a82ea3a0f5866bbc7b16713325096274b5b9f6baa0cc627b8e63564cb11a2758350c6f703bf9622ee40ad55b08"
+    },
+    {
+      "agent_name": "akshay",
+      "agent_number": 1030,
+      "owner_hash": "6324512fd7b61dbf55667695db76c9f4351347cb23dba897bda191e8b2f0eebb",
+      "claimed_at": "2026-03-20T02:15:16Z",
+      "signature": "eb41b0a0b97d1ef1ac9b87dc57d8b4e6beb9e0100aa1e4de8bf147baa0a900ecb7a212ffe6c8fb5c6074f37926a415e4d54b29652ae0e38009ce38eb38f01406"
+    },
+    {
+      "agent_name": "lia",
+      "agent_number": 1032,
+      "owner_hash": "f0b25038cfcd4e5d33e54017912be1ed2e788146e06dc2cba951cbb327d4e2ad",
+      "claimed_at": "2026-03-20T02:16:45Z",
+      "signature": "22fa962dd1e73f2856dfef50b58486794bcccc56fa1d45b17475278c7a636fc5e156bc55097846401139fb3311d03be48f7b8d8303444572bf595668c51a0408"
+    },
+    {
+      "agent_name": "ana",
+      "agent_number": 1033,
+      "owner_hash": "d7d2b5f57b0a5deebe66032b3574fb0b94960e7c48a44e2de994124bb77b9fa5",
+      "claimed_at": "2026-03-20T02:17:39Z",
+      "signature": "2747c1587e12e28dbc4a2e21734bb219d2d89d44bd690dbfc696f7f4dbf871f68b7dcf318aa528e00b5ac342106f74f1356c5f04d1670c55fbf1ad926f13f504"
+    },
+    {
+      "agent_name": "aiagent",
+      "agent_number": 1034,
+      "owner_hash": "ee5f446f919ed9eab1f450ac616e48d56a514f48a12f87c15769ad39d5e786c2",
+      "claimed_at": "2026-03-20T02:17:42Z",
+      "signature": "f3c11586df26b2d0e9055d7663dbae8c684bc24b5a396b5f57d36c6c9b0fbf13c8799d5c1c2df06a48956b59e586fc5774908037d56b684618396d246938590b"
+    },
+    {
+      "agent_name": "dildo",
+      "agent_number": 1035,
+      "owner_hash": "edc7d5ad759e30d3be9a3480cd663306330a9cd7076442e56b8a5e096af5e43c",
+      "claimed_at": "2026-03-20T02:18:13Z",
+      "signature": "6475f84df372f9371679e088bae2c8eaa62100733c07d013e1c396f9001757107d6cb22e95da1aef60a676aff27bd865f7a1940c65cdee4efc2569a257d49c0d"
+    },
+    {
+      "agent_name": "girlfriend",
+      "agent_number": 1036,
+      "owner_hash": "7978dc89d4a6484d39101feeb1022be20b6baf6a84ec6b66c6e07b5331e03db9",
+      "claimed_at": "2026-03-20T02:19:30Z",
+      "signature": "79809c4765ba66029ab227f3146f6d576b1b3c6af2d977a987b693996bb004a9b8577fd2daf3c0679178bb21a20ef4f1bfa25f4ac6e9fad0b7b7eb8533708809"
     }
   ]
 }
