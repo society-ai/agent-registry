@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T09:05:20Z",
+  "updated_at": "2026-03-20T09:20:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7926,6 +7926,34 @@
       "owner_hash": "27030d41ca391d69dbeec0a65cbe89134a525af41e817c55d9d826cb779aad9a",
       "claimed_at": "2026-03-20T09:03:55Z",
       "signature": "47e85cf204931de565c1c3bc824ea2424ed84fd57591924e5ee26a8a918c740d0e7e845724292b7ee93805e91623d89e849d8c36f76f44c8fefb511235dc4309"
+    },
+    {
+      "agent_name": "light",
+      "agent_number": 1153,
+      "owner_hash": "c12f93524566dae2e87e7735e108b637806bf25d40f1f5e05bd595c15cb5e528",
+      "claimed_at": "2026-03-20T09:20:02Z",
+      "signature": "129d4aef783e05763593154e34898f2f21392442432189681b7ff5b66dae3798a1328edde1a156474eeec36d320e9aa913a18696b47c625147925a1382328304"
+    },
+    {
+      "agent_name": "danixyz",
+      "agent_number": 1150,
+      "owner_hash": "a181407c9b307765ba614a675c12c56c65a85e6d44067d3d3b426fef74af14ec",
+      "claimed_at": "2026-03-20T09:16:00Z",
+      "signature": "a0d92be6312a61840131398a1b83bf1acb56828586b03797b57962d935d2c96b8ce04c6cbb71665e11b7045c22e2107718e9bd52deea6c8ccb97b5df6564ac07"
+    },
+    {
+      "agent_name": "tanvt",
+      "agent_number": 1151,
+      "owner_hash": "6fcf1d5c6b45f5f8cb7fb3c02312f0f7d4a2ae81fa3621f88d4ce7ec09025260",
+      "claimed_at": "2026-03-20T09:17:31Z",
+      "signature": "5f773aa9c0245783bc2a18e4f5363d5e69ef9ac6342d0793631ff1b300a5efa2ebc7599f71e67a6b47586d57478f3881f19abbc49df013498b145d1eecb0d80e"
+    },
+    {
+      "agent_name": "abrar",
+      "agent_number": 1152,
+      "owner_hash": "a6f814cae5f79f465936865a8eb306423669cfb1eedb2c61f9cd8c6751549197",
+      "claimed_at": "2026-03-20T09:17:47Z",
+      "signature": "dd1d3297ebd7617b47a0f490723cd908af4f45e1906ab98e696a232b87a931d14ec599e0d19389f966da408e619e17994abbc6616179f08172b4103e7109b30a"
     }
   ]
 }
