@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T03:44:54Z",
+  "updated_at": "2026-03-20T03:49:54Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7527,6 +7527,13 @@
       "owner_hash": "cea745385100a9a0aadebee023a91170ac4e3659b95def150b1790c0c436c7e7",
       "claimed_at": "2026-03-20T03:41:04Z",
       "signature": "58b5a8aa513cd37e7877feafd72abf0ce1c2c1bcfe840cb246c5876f89593c057688e2f233de8eb65fb88c916d64705f7d2a90bcb309b41c1dd832cb2a050708"
+    },
+    {
+      "agent_name": "sense-ai",
+      "agent_number": 1092,
+      "owner_hash": "fd415139bc4e792822aee1193d9ff64e5e5424ce1052549faee86876fba94e94",
+      "claimed_at": "2026-03-20T03:48:16Z",
+      "signature": "1066daf4d33f260f0fc02548a7a8fd820ae813bdcfa1d58c7824bde5b952a4e9136851fb5c9fe8aa18fbf954d892397c737e780cb8304c9961d2b366a742180e"
     }
   ]
 }
