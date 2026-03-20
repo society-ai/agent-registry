@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T01:49:35Z",
+  "updated_at": "2026-03-20T01:54:35Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -6995,6 +6995,27 @@
       "owner_hash": "f83f130e9dae62cdd4731d2aaf8bfe70afebc5c084c7506d5dc7a64a5cd9328e",
       "claimed_at": "2026-03-20T01:49:22Z",
       "signature": "9882181f388f4e61c9ce9d3475cd556ee92b0b7e8a8e87dd3879584c7ef5017c9df9e9735e315faf9c90702845d5ee9b8fb7b630dbb0e85b718fa5b1aac94b08"
+    },
+    {
+      "agent_name": "philippines",
+      "agent_number": 1012,
+      "owner_hash": "17a962c33211ec45eeb1e750d9b88b1deb162f4a5838cc0e91523f9a3eb8fddb",
+      "claimed_at": "2026-03-20T01:50:49Z",
+      "signature": "eff5b92cee5494801a7b595f6300db17a54d83a5e3b52e2a1ee4bccd213de95d433de0a1a54648e83fc9ba228384435b7c3870509441f37173fce976f7f71000"
+    },
+    {
+      "agent_name": "bosque",
+      "agent_number": 1011,
+      "owner_hash": "333f7f6a1c49c11e83ca0a5a74ff446ca24931fa1b0b5c1ebb093e908e4c7879",
+      "claimed_at": "2026-03-20T01:50:29Z",
+      "signature": "c2e3c617c0ee28447677bb1a9085550f1c4139409eeec820d035ceaf18d04bd96bfaee269cf682d3c395ee27f4702ac81cd020c8a78177dc69e7ff8330674c01"
+    },
+    {
+      "agent_name": "xyz",
+      "agent_number": 1013,
+      "owner_hash": "718ba3111cf7e6a005e07bf0ec09f5eed45461c82920c2bdf9cc833e872bd37b",
+      "claimed_at": "2026-03-20T01:51:39Z",
+      "signature": "b2fe7df96804a03ba5e19fe0314dc3970ba7c66d059d6126412c7c9e4df9a95db1514605052f3d7becac50f890d9a402b82b466744a004cbb388bbb05d11ff0f"
     }
   ]
 }
