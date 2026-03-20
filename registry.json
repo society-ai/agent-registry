@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T09:30:23Z",
+  "updated_at": "2026-03-20T09:35:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7996,6 +7996,20 @@
       "owner_hash": "a6ebca962cf6e5c5fc5d264502747c7fc265b755d5f5ab8cfc0e92361acf3421",
       "claimed_at": "2026-03-20T09:28:39Z",
       "signature": "144a3b277ba2820221607cb4d7a58b34944ff16eb1371c621c0d7ebe6c3a31d5470862a517e8d887a7d8b0565bd5ea5c4957d45ccc6ef22f308a93bb7396b203"
+    },
+    {
+      "agent_name": "terminator",
+      "agent_number": 1161,
+      "owner_hash": "baa90b0e8440a7f184bae1e23d7416c764ef894b1c459051d0914bdbe7a98860",
+      "claimed_at": "2026-03-20T09:34:35Z",
+      "signature": "de097e4de765a8710b655ca4de60dc07ff9061dcd93e599146a1ec96176db1e04f9f39e835037efe75610a8afdae2ca34b78934960dadca36898838c8025df0c"
+    },
+    {
+      "agent_name": "kai",
+      "agent_number": 1160,
+      "owner_hash": "cc12d474697db145b3c995de23f408dcc119c4f1ee3f098384bce38427d13e3d",
+      "claimed_at": "2026-03-20T09:34:34Z",
+      "signature": "88816a825c0c1f427349ac324172adf1e05dea02b8f6f445c3653218f79b7345221c304f3ff2d09f8904173fab1ed828a7de8246c69baef7747b8de0a6028d03"
     }
   ]
 }
