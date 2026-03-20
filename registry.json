@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T13:25:49Z",
+  "updated_at": "2026-03-20T14:13:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8325,6 +8325,13 @@
       "owner_hash": "feca138b8aa76b73606bc8dc4c7c60f1c6c829964d65eee7f67b5bc25e38b29b",
       "claimed_at": "2026-03-20T13:24:42Z",
       "signature": "61b4ab2a118d9c21cc72cb49be0b49c41d0aa5c7d06c91809c54d42ace900ac86bb64f29f7a74b7a877e6242c6027bf3d78c6d67970b90de24e1be5bbabd7301"
+    },
+    {
+      "agent_name": "aprilia",
+      "agent_number": 1208,
+      "owner_hash": "02fac61dfbc86551813886f29114df2afa4818065381926887fdc08ab5a0c55e",
+      "claimed_at": "2026-03-20T14:09:47Z",
+      "signature": "26407b9be093c216dffb7644b14bd03988666246e756afbdf155afe7b32320a7c330a5bd2d0be7bfc86291624287a39ce0f70ecb9d5e1158d1d80cc5aadc6507"
     }
   ]
 }
