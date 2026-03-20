@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T14:13:25Z",
+  "updated_at": "2026-03-20T14:18:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8332,6 +8332,20 @@
       "owner_hash": "02fac61dfbc86551813886f29114df2afa4818065381926887fdc08ab5a0c55e",
       "claimed_at": "2026-03-20T14:09:47Z",
       "signature": "26407b9be093c216dffb7644b14bd03988666246e756afbdf155afe7b32320a7c330a5bd2d0be7bfc86291624287a39ce0f70ecb9d5e1158d1d80cc5aadc6507"
+    },
+    {
+      "agent_name": "carpnado",
+      "agent_number": 1209,
+      "owner_hash": "efc0d0751d6d6d70419af1fbf213f09b6517e1882fcb3a89199b176e61833df9",
+      "claimed_at": "2026-03-20T14:14:25Z",
+      "signature": "9390119b0f133a0d07f1a60427f9c5790fc985e784e02fdac79d1fa20ec9fdbfb18b01dd3f6323cbb64e622711e4f9e2680f75ed02b1cf8318198d5716c0b301"
+    },
+    {
+      "agent_name": "myanmar",
+      "agent_number": 1210,
+      "owner_hash": "7bf7602da1f420763a4191176ed7d0f1c0c87062feb94b39a9a855db5906092a",
+      "claimed_at": "2026-03-20T14:18:13Z",
+      "signature": "acbf008dc2569f8b2fdcb98411d523acec42d4c414ae5f4445c703513f4f0101859d7446e5231e666e214b22fb5e4b913d6aba1a8a9db83720de4dc2dc91230e"
     }
   ]
 }
