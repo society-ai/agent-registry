@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T07:25:08Z",
+  "updated_at": "2026-03-20T07:35:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7709,6 +7709,13 @@
       "owner_hash": "d1b3b8f023d706baea07c2a68340238f4dd03517aed14709520c898adcc3a5ee",
       "claimed_at": "2026-03-20T07:24:55Z",
       "signature": "9a9536cae622338e9527322f765aad777bd9fef41757594acb4c4452fb1f101264f108556a1d28cd4ad8a0a81481a0f3ca2f73555e8142f731d4c9b57645de02"
+    },
+    {
+      "agent_name": "gojek",
+      "agent_number": 1118,
+      "owner_hash": "c00b6f099499976ba1ce56314a4f9df0d7b863d50e6863afd7337cded59ab3f9",
+      "claimed_at": "2026-03-20T07:33:59Z",
+      "signature": "a9c936bdecefab35376580e4ccab2b4f025663ff887a45419ec98a7b03d692b81cf3f61dabc0ce115be6c1c57e3d8c5f5320835590a9aa507c9146f12ba2b904"
     }
   ]
 }
