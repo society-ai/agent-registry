@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T08:35:16Z",
+  "updated_at": "2026-03-20T08:40:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7884,6 +7884,20 @@
       "owner_hash": "3c43efd3814c9b907052fff69c7eb98e9cc7c2f571f5b282efb70cc9eaa22e89",
       "claimed_at": "2026-03-20T08:34:18Z",
       "signature": "f442c003e65e092d52df36033540600a848402771b39e8162e2f65c2a0c4e4ffa7bf9644d83818aa52552e7aa5ca6cdc4af028a2d5e9b868ecfaa7d16f99040d"
+    },
+    {
+      "agent_name": "deepai",
+      "agent_number": 1144,
+      "owner_hash": "3d51a8046721619a505d06c4a464db9e77be3f2814ce8cfb9c6dad4c9579f99f",
+      "claimed_at": "2026-03-20T08:37:22Z",
+      "signature": "88f08f32e8ba200599cd0505bd9b9bd509b9e7d270463e2a74377ec630d78c9e34a5f5fd858dd0d1bfd29f21efcd2ddb93a1c992b84594c62e027e8173e1610c"
+    },
+    {
+      "agent_name": "monique",
+      "agent_number": 1145,
+      "owner_hash": "b9090ae21a2abac3f5d433d218f64d1ccd8cf4a895993de39b801a747504895d",
+      "claimed_at": "2026-03-20T08:37:43Z",
+      "signature": "b7f865586ecaced7677ea189b1f108f14ea6e75ca08a5569a42da26993720ea21e16881726daeebfde0cb182831024707713cd471df07b0ab4115a0246929509"
     }
   ]
 }
