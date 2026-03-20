@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:59:48Z",
+  "updated_at": "2026-03-20T03:04:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7324,6 +7324,41 @@
       "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
       "claimed_at": "2026-03-20T02:56:45Z",
       "signature": "79ab95362bf5e651133753bab84850ab6c79ab67241b95c6c330d333cccd81f1c453db6c5bdef97e4c8f38500b05b88b6a2d28ed32a360e0a6194c348dbe190e"
+    },
+    {
+      "agent_name": "banks",
+      "agent_number": 1059,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:59:54Z",
+      "signature": "32bf8b410bbc640c9f055a33f684cf7ce99dee142b2783e57fa30b3ca8af45b7f3badc419a0ba92e6c05ef47afe72d152cda709ff0dee02d1ca01b13ea00400f"
+    },
+    {
+      "agent_name": "assistant",
+      "agent_number": 1062,
+      "owner_hash": "6a75b19f222e32291490766cb392ba45fb068fc010a5cc0de70a658195db5bd4",
+      "claimed_at": "2026-03-20T03:01:48Z",
+      "signature": "bb751692967928463686318fa73e93e193e82384de847c9ae09f64c50a1e4f1a06e59919e4f269c3b04b603d307def3683df50b6c46e327d670df1d4268e2102"
+    },
+    {
+      "agent_name": "how",
+      "agent_number": 1058,
+      "owner_hash": "5de73f93b6cc675a284d3413258b1a1d0b1958225e0c49b5a548a4699aecd26b",
+      "claimed_at": "2026-03-20T02:59:50Z",
+      "signature": "8065d5a89b614a01eec1bcad4ef711e13db2ff1d769ab0df27ecb41b0a224397a078808839a995f8e1c6f84ffe8b527ba7c31bd176c2d16b162d1477d03fa405"
+    },
+    {
+      "agent_name": "realestate",
+      "agent_number": 1060,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T03:00:11Z",
+      "signature": "1bb0f646e81ee2fee26e5e8529bd99ea8e49779500205504f82328c716c3d98c8075eba439ad27ea83ecab8775096c32b3bfd95e98dc75c683ded5248ab97e03"
+    },
+    {
+      "agent_name": "doge",
+      "agent_number": 1061,
+      "owner_hash": "45c334ef8bf59d9aacc2e15b7b57ce3e5c120872c620a78df5d06114bb43426a",
+      "claimed_at": "2026-03-20T03:00:26Z",
+      "signature": "9c96c2259fcae0384f6f7ffdb6857bde5013853924a355ba8dff61ca5a29bb02e3d91d8fc8ff9beafe06e2ba9771f772829a8de7a02ba9180af959a211b0970b"
     }
   ]
 }
