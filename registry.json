@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T12:15:45Z",
+  "updated_at": "2026-03-20T12:20:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8290,6 +8290,13 @@
       "owner_hash": "cd3de674014546fda1e30b94595d23441b21ef02d5258a6bc39003409dbb8d86",
       "claimed_at": "2026-03-20T12:15:17Z",
       "signature": "08422fa27d0550a896894829a8ed25c1830ea286b1eda183e6dfda53b00661699c12807154de4d2f46879dfeb6d7a60f239c2cb3c67fe3700391e77b35cc3f06"
+    },
+    {
+      "agent_name": "bixby",
+      "agent_number": 1202,
+      "owner_hash": "cd3de674014546fda1e30b94595d23441b21ef02d5258a6bc39003409dbb8d86",
+      "claimed_at": "2026-03-20T12:16:07Z",
+      "signature": "781fcb608a4485c903a5f452065c11afe4beb171153c04281ef16c4bce87ed2c5c64249f5a4f495274dab8c6f662e10a881d531ed2f5cc2683255fc2a2d17c0d"
     }
   ]
 }
