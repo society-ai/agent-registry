@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:54:47Z",
+  "updated_at": "2026-03-20T02:59:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7282,6 +7282,48 @@
       "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
       "claimed_at": "2026-03-20T02:54:32Z",
       "signature": "c0bfb0e9a10f9e0c326d31b76531709b630cd306de145c7df387c28e66c94129cff75777fae28425408cc38c3eb1a77d92ff0a0beb3af2220c205c65c7c5f508"
+    },
+    {
+      "agent_name": "watch",
+      "agent_number": 1054,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:56:24Z",
+      "signature": "2ebd19b70fabb95e87a1df7fb71702ce408536bca756a08244b7f1c73c26a6616127094cb019dc8c1b2ae4e3fe155fbdc8e16094d49d59ba5531d606755e2900"
+    },
+    {
+      "agent_name": "hotel",
+      "agent_number": 1057,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:58:40Z",
+      "signature": "f4e61f0a84c3bc92549118d489b89105b0d0c4ab7b3242cf3a4500e1ce1b01e9f0da42845d3b6c8a38220e065cb3f4754a683e0770cc78e0bf2c673129cf430e"
+    },
+    {
+      "agent_name": "sol",
+      "agent_number": 1052,
+      "owner_hash": "42c598413914beaf97d3dfad9312aa703fbecd61e4102dd55072f7e427c19629",
+      "claimed_at": "2026-03-20T02:54:54Z",
+      "signature": "63292dc09bddde7a05c563c068c5e8b78ee42d5c5e7169435d8c1c228c13f0c851f59290032be4e98f54f03994a6f83202ea041b9ea422587e65bfe82f5d1c08"
+    },
+    {
+      "agent_name": "ppc",
+      "agent_number": 1053,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:55:57Z",
+      "signature": "89a8248a8dc77f98e5b5ef4415285a6c66d611d04a85bbfd9aee01798bc2c723997079dfc6b3549255549bf5ae35cac99c9d445254702841dff9e841ac1fbc03"
+    },
+    {
+      "agent_name": "hotels",
+      "agent_number": 1056,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:58:16Z",
+      "signature": "98221826d6dc63147646314babe87978e9c1afa408f38adcece9c6032f2d0fd17c65b7d3a6f89deef5be158ec664aa1ceffe7d25c75bb03d17e132300ee10b0a"
+    },
+    {
+      "agent_name": "watches",
+      "agent_number": 1055,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:56:45Z",
+      "signature": "79ab95362bf5e651133753bab84850ab6c79ab67241b95c6c330d333cccd81f1c453db6c5bdef97e4c8f38500b05b88b6a2d28ed32a360e0a6194c348dbe190e"
     }
   ]
 }
