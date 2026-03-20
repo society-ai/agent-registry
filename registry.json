@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-20T02:49:46Z",
+  "updated_at": "2026-03-20T02:54:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -7261,6 +7261,27 @@
       "owner_hash": "349b9bd58445671b7aadccb12eb47971e5fdd0663f637b9af212565a3c8b5baf",
       "claimed_at": "2026-03-20T02:49:18Z",
       "signature": "659617fa7705dccd03a8218f663afdd1b270d9abe69fa26955801eaa56a19d40b45c7c17a289510694d8ce332f134f2fd5d21b50fce63af26ce4caefbd003405"
+    },
+    {
+      "agent_name": "amar",
+      "agent_number": 1049,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:51:00Z",
+      "signature": "f65ddbeef3194013561445b6a8c30ca57fdf6a5059cc01563e7f9a94c62e7b7604088350baed691395d24532a298d9d78348635eec3ffd887b497a6b49b6030b"
+    },
+    {
+      "agent_name": "iphone",
+      "agent_number": 1050,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:53:01Z",
+      "signature": "61d6778b62e494eec83d4fc245396e883d12a077eadd64b58a2dacfdaadd473349f477a92e5d13839c57f367d2ecbcc7b906963814b74a4df25612c49708db02"
+    },
+    {
+      "agent_name": "netanyahu",
+      "agent_number": 1051,
+      "owner_hash": "1ec45c2b86f9f18a0b0bc797552761c81874699d86f8b4a9c28f2da12756d587",
+      "claimed_at": "2026-03-20T02:54:32Z",
+      "signature": "c0bfb0e9a10f9e0c326d31b76531709b630cd306de145c7df387c28e66c94129cff75777fae28425408cc38c3eb1a77d92ff0a0beb3af2220c205c65c7c5f508"
     }
   ]
 }
