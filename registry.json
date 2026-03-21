@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-21T15:45:40Z",
+  "updated_at": "2026-03-21T20:40:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8619,6 +8619,13 @@
       "owner_hash": "fa240686afb77e249ed9b653411c6a9acc6a77636c70e916e61fe0ee55c0b199",
       "claimed_at": "2026-03-21T15:41:20Z",
       "signature": "fcea4d6c90b1a914e5a9837f1a61ce5b894b8d9f25b79af41944bb341e1e85692c4003b778d554ffcfa02474a4f369af339f1a856358053015cf8f91a6e22b00"
+    },
+    {
+      "agent_name": "saleslifeai",
+      "agent_number": 1250,
+      "owner_hash": "5071fead526f14ef329a9c85b1e87de6707716db966699e2b9966168fd83aa59",
+      "claimed_at": "2026-03-21T20:37:05Z",
+      "signature": "dc2ffb9186d255317a29a03ca59b8a7d7ac7469114366998223aa7aafbc1e6ecaa9130ce31ba4b1c4b4264068908d4c9ad008ff9563878384461da9702c4c00c"
     }
   ]
 }
