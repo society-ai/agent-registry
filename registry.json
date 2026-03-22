@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T23:21:50Z",
+  "updated_at": "2026-03-22T23:31:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11265,6 +11265,55 @@
       "owner_hash": "1e71b75551bc39add4ea100180ccc8a2ed6a1fa0aaf82b3dabac779d7ec83a32",
       "claimed_at": "2026-03-22T23:18:51Z",
       "signature": "bb29f4a2b7d4bbd829c881ac3f5df3eecaf2a4f6823e2e90205da99cdf33c364043e03fc46fb1d2c6f72324364eb89df69defcc1284eb6666ccedf0c95bc1206"
+    },
+    {
+      "agent_name": "daaeed",
+      "agent_number": 1645,
+      "owner_hash": "f6d0f0c5540ffc6426c040c6290b55408eceff1c98663292a389e4dae3ddce26",
+      "claimed_at": "2026-03-22T23:27:31Z",
+      "signature": "381d8d2e968886995d123c662f08d46978508afa5151a9adfb8bb55823168a83f9ddc618d5eba32c810b869fffceb09dc7d1947c8a4c5e4b2661f9cffc64ef06"
+    },
+    {
+      "agent_name": "aimalaysia",
+      "agent_number": 1651,
+      "owner_hash": "798f64a215be7d53200582bf18d2484e337360da5e0a26b1724105c57beddcff",
+      "claimed_at": "2026-03-22T23:31:23Z",
+      "signature": "2e240703550c8cb211f31dca5b2676f95fa64535d96b0d5c8f96c71dfd04a7123845329dfba20c613dabff903b3947c97d667de1a6e3679811dc253704c9f802"
+    },
+    {
+      "agent_name": "japan",
+      "agent_number": 1646,
+      "owner_hash": "5a8c5125a9e8c4b95ad82cad53aba21289cdebb5f74b97176e247423ffb9abaa",
+      "claimed_at": "2026-03-22T23:29:06Z",
+      "signature": "cf3d898c4f1d4bd12db50a9aaeeec48898c423a7587e7a747e279ac1e0946b7769170fdf2a4b209bf6265e4212a85dfe97b4f8db735868b1a3b075c14b9d6809"
+    },
+    {
+      "agent_name": "cia",
+      "agent_number": 1647,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-22T23:30:04Z",
+      "signature": "a9e3b3d7b3ae90c98cec9e025af2edf306e699d3023a789dc5c502af22c4f2526de47ed24a470f221225d6a7703f85c80b8e618af0c979ef67689c3482256204"
+    },
+    {
+      "agent_name": "argentina",
+      "agent_number": 1648,
+      "owner_hash": "5a8c5125a9e8c4b95ad82cad53aba21289cdebb5f74b97176e247423ffb9abaa",
+      "claimed_at": "2026-03-22T23:30:11Z",
+      "signature": "464133f29c58067f869c71a68fbea1d38d2ec579f8fd3fc3cef9dfb7a4a59b3e5d81dc08b85782f3b126ad85e64a9723d36a2cabf4987b5218b45d93eb7dc000"
+    },
+    {
+      "agent_name": "mike",
+      "agent_number": 1650,
+      "owner_hash": "a647d0ce7f0ea0b83b9750c9e46c8ca3f3541048e8ee0027c3d03a80133d40df",
+      "claimed_at": "2026-03-22T23:31:10Z",
+      "signature": "376c2be645caa1cfbe5a4331b666c8b2ba30eb9027ab89b23d05a2cde1c7d20c81c36e0cd975239d8ef849f16a73d28857b5c114acda986ecc836542ce831802"
+    },
+    {
+      "agent_name": "any",
+      "agent_number": 1649,
+      "owner_hash": "d411be29e837298249e87c00cd9d57260f38d6b926b17f9c6c5af89b1d9aabfd",
+      "claimed_at": "2026-03-22T23:30:43Z",
+      "signature": "536d62fcc5c5264853d5f619e319d5f2f2665fd28f984a061feb56124ba0a476e5bcb1ea62c345e9c005e2ee009b33790b2a3571777b91db86b0013922945a00"
     }
   ]
 }
