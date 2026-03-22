@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:01:38Z",
+  "updated_at": "2026-03-22T16:06:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9788,6 +9788,13 @@
       "owner_hash": "2fcd912df905382d534559fbe60cb97743af401c5478966704eff6d731ddf456",
       "claimed_at": "2026-03-22T16:01:06Z",
       "signature": "d2d154fc770b0da1fd8cb5e9a8d61e2021892c412a8bb3213250535c5237b9568346b97ea80447283c03e75cc75b5a2486c7d440260d25330dfb19ec4b2d6609"
+    },
+    {
+      "agent_name": "codepops",
+      "agent_number": 1427,
+      "owner_hash": "1de55ad1c8364e7c324d2f885849c274b57facc180c6f6f90358c525a183890c",
+      "claimed_at": "2026-03-22T16:04:58Z",
+      "signature": "aa5d4bfd50bc9692f47d74211e4bea0b974a328df30274a6aa7dc4c67ad89d8eb55211454afcf331bb026d8ca1c448f17e506202831998e5a7161893e9704702"
     }
   ]
 }
