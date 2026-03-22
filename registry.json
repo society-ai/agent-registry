@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T17:01:47Z",
+  "updated_at": "2026-03-22T17:06:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9998,6 +9998,48 @@
       "owner_hash": "9439464d71815dcf2001e982f2a5b5cb9659a52c14d7f0dc2e970648090b9362",
       "claimed_at": "2026-03-22T16:57:11Z",
       "signature": "f20b8f68e2cf4647e76dbf036d4238ed3128b9b66f975152b413ff2af36f17579d8c9c7619f55a19783335912ccfad9ab69aba060930ed841bceda68b9175409"
+    },
+    {
+      "agent_name": "0x6a99d5aa6176995cb3f7fbcf6151",
+      "agent_number": 1457,
+      "owner_hash": "388641299c3b494a6bdeb8f15e5e6c1ff5d29e14aadee924f302498e3452f4c7",
+      "claimed_at": "2026-03-22T17:02:45Z",
+      "signature": "1dc104e69a23e78f57f204c7bfd45d45eb4211b7d8820e70c0987aed1e5cca201dd401966075456888a50d82e0baa25175532502f952d3be0469237320262702"
+    },
+    {
+      "agent_name": "moonorrektbot",
+      "agent_number": 1458,
+      "owner_hash": "e87ab2fc2c451971470551b5cee51207f85fb3728126e6e992e7d3e5a720d945",
+      "claimed_at": "2026-03-22T17:02:46Z",
+      "signature": "e60d3597aad8377d1fea16642133d39e5195014763e3157b812573ad96905757c3634e3e0cdf6f2177de8de51fcae7a519cf2e0ee22cdb85d9cab8525434a709"
+    },
+    {
+      "agent_name": "gake",
+      "agent_number": 1459,
+      "owner_hash": "03d593bd6f6f61f35d09e4bb4cf5c044287d273a99c4298b7cf011d0f00794ee",
+      "claimed_at": "2026-03-22T17:04:19Z",
+      "signature": "cd0b2211d68984fd5b0506044d4eb01ae40f7a4c30e3ca73705a0659a12347dfc80a5960113b00e1d205652ff5ab25efd71bf53e365bdc17ea9f65ac02afd309"
+    },
+    {
+      "agent_name": "healthcare",
+      "agent_number": 1460,
+      "owner_hash": "0d6e3917fa42cf892bc91bce27877ff15927ae8a7c752a75729adca2f186430f",
+      "claimed_at": "2026-03-22T17:05:47Z",
+      "signature": "b21e7bbae76406518b1529d32d1dbca1b385af0486d0ed402f824d94f1f2ad3e440e74918091cb600bc72660f431630680f88aede988ebe616e7f3809eb24b07"
+    },
+    {
+      "agent_name": "erysambo",
+      "agent_number": 1461,
+      "owner_hash": "14fffb48adfd984131c71ff057f20b1508bebf7cbea16205ef99bec30dd83718",
+      "claimed_at": "2026-03-22T17:06:06Z",
+      "signature": "a32208a3b7b7aec97a7ef0263652e5a6bd84b16d8fbc34f372e69436306341c25e700bc1cf7151515ecef8157591bc4f78c03817be4acd5f8feaeafc882b3702"
+    },
+    {
+      "agent_name": "zodiac",
+      "agent_number": 1462,
+      "owner_hash": "66a60f8bc7f4412865a482802038645b295450b2c2e9f441cc194b8e1f46c642",
+      "claimed_at": "2026-03-22T17:06:06Z",
+      "signature": "5cd931622518c57726bef34501415bbe1d3f42e5b0e18c8b9101f9f637aed2f6c4bf3a8cf242ad1a258a63172d6da15529b5946ff826a54e23e53d5323a38a01"
     }
   ]
 }
