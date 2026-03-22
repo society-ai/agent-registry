@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T01:00:42Z",
+  "updated_at": "2026-03-22T01:15:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8633,6 +8633,13 @@
       "owner_hash": "25a75d668eba8ffdbab2bc41911413e8f2cac2a2488cef915fdf3f6c105acdec",
       "claimed_at": "2026-03-22T00:56:02Z",
       "signature": "f9bddcb87a410298565f04e372554be9f37ce88b808529b79e1d1deb0167e35c24ee05d435bd2afd86ac859d84596d678971c546c18deb1a1c0de2fc4379af04"
+    },
+    {
+      "agent_name": "firmhive",
+      "agent_number": 1252,
+      "owner_hash": "027a6abd2f5ee02ebeb882f45f44f33eeb848fe410c5ef8a37e73b24c14a70a3",
+      "claimed_at": "2026-03-22T01:13:38Z",
+      "signature": "354488164eb4cce39d0afc24297f41318375cc89fcde4c6d25d62545c624a4a2600fce0e8109ed6540c67186645ff2ee05aa0011d3e22686e21069fa0aeeff0e"
     }
   ]
 }
