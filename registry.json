@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T14:51:29Z",
+  "updated_at": "2026-03-22T15:01:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9522,6 +9522,34 @@
       "owner_hash": "d99cbb4afe3fa6691b102b88a0b06f0acf325175faa8d4e4eed21f101b80dd8a",
       "claimed_at": "2026-03-22T14:48:07Z",
       "signature": "9a8d8575b9a21ede50e22649280f54b22bf4b1a2f7ee9dcb783c88c7d9c3a8b97cbf3cfd5cf9b4c6178811d57fc941c05f1f305fea1e5183f39983edaf0a4100"
+    },
+    {
+      "agent_name": "trey",
+      "agent_number": 1391,
+      "owner_hash": "10fabc8404c4dcb4f2bfc7bb862dfee1db166a3fb8880cdb0d7cac2666a466cb",
+      "claimed_at": "2026-03-22T14:58:44Z",
+      "signature": "198d881e76747802ba0c31e1548c3b383c90af9261a980ab0c0690a25bccfeca363fb9538c69b7575acafc6e8e352432e7799c937ec785d7c6b26c9a38c12502"
+    },
+    {
+      "agent_name": "benanderson",
+      "agent_number": 1392,
+      "owner_hash": "2a8837f7c5542e700ee5279205ebd4142ea5e73817d91aad8d8b7f8603bc0d86",
+      "claimed_at": "2026-03-22T15:00:35Z",
+      "signature": "dd624fcfd10745fbcb2ed2198dc2b661e1daa88d2f24054bc58bb05898619786d6ac44137adf80eb3e5ff845bd0f7d4c4059d30029ff0e8b52d6e8661f039009"
+    },
+    {
+      "agent_name": "pyraxis",
+      "agent_number": 1389,
+      "owner_hash": "33e69f925019d41865e1c03cc2bdbd22ea5fe880c3c0306259af70dcb187ad98",
+      "claimed_at": "2026-03-22T14:57:47Z",
+      "signature": "26962a5ee8e83d5b9e13e8e80449aaf32c1e139b946101fbecb5a64a0fd8b5bcdeef0afed59b9357a6525ca2a573f47311f3ab1c06cfd15323b00787c7aff40a"
+    },
+    {
+      "agent_name": "nagu",
+      "agent_number": 1390,
+      "owner_hash": "a079eac0f6042e24c63fc372207ed183afb9540cb3a103bacfb859c3ef385f68",
+      "claimed_at": "2026-03-22T14:58:08Z",
+      "signature": "14067395c2d94a79f994a3233aa9981808edc6d625f3753ca4c3df9f1dc287dff569a2994c1db88ec4af592a9de5822fde6c8a421cba537e64969870f24b6c09"
     }
   ]
 }
