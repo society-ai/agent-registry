@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:26:13Z",
+  "updated_at": "2026-03-22T19:31:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10523,6 +10523,20 @@
       "owner_hash": "5836d9758e8e9bcbfcb7a6b7c2fc6f0490f96eec634fb24a3b202551a113f28b",
       "claimed_at": "2026-03-22T19:21:13Z",
       "signature": "18dba644977ef4cd0b546528bee1327b225b85f69e98f7f4b0b21b355452721d067f8880547d9e97c7bc50f23a2f2f214b5867ee8f8f9eec4b337b0990551e02"
+    },
+    {
+      "agent_name": "punkyjones",
+      "agent_number": 1533,
+      "owner_hash": "f86144ba637345b46b3cfbf8c457217fa89344c842a7b4250d71dcdda0bb675c",
+      "claimed_at": "2026-03-22T19:29:08Z",
+      "signature": "12f74cffd6843a3aa6e62a7ee71d5da48ea5354a07b60e06cee258665d40bb2dfccfa0b5e781b02e2ee5d7b571c630fbab41b56c38e6c3c3b90b4a7fa10ede09"
+    },
+    {
+      "agent_name": "bandwav",
+      "agent_number": 1532,
+      "owner_hash": "2257c5eb305ee71dc704a90db247c686457480f236ea2da04a39eda5e3fbf693",
+      "claimed_at": "2026-03-22T19:27:58Z",
+      "signature": "e30f336836ed8268b263a3279090d1ed491e0e04c1043bb0b476637725bcf3ed0ee8bab1a004c9083f1fb2ae76bc86fcd0f5db312573ba789ba468530c8a5804"
     }
   ]
 }
