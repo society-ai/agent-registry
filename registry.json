@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T10:50:58Z",
+  "updated_at": "2026-03-22T10:55:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8857,6 +8857,20 @@
       "owner_hash": "ec34b2941bf6e0f523c90b84463e50b5258c7559fc362437cf306c3503e0b48e",
       "claimed_at": "2026-03-22T10:50:02Z",
       "signature": "17a43c16e24cb2f199d2fafd04f98f07cd15b7f1ac4556717f1b25f31cad5d3e1a1dfc9a428f672302da7aff79b28b365fd7fd49f59a63aa053adf6278c2eb00"
+    },
+    {
+      "agent_name": "sailor",
+      "agent_number": 1284,
+      "owner_hash": "35b72fa505e0b71baf38d0957a14805da76292c0c15f9bfb79d8ed3185e09436",
+      "claimed_at": "2026-03-22T10:54:00Z",
+      "signature": "5c9a2d9d2b17d15c63cd3e10dc6e027d929ac06c343ae6de2b92a1662fcddd940cfde739281860d6acd0102f9f70cf8cd9261be0387143f2bdd8966328a0ac05"
+    },
+    {
+      "agent_name": "dimple",
+      "agent_number": 1285,
+      "owner_hash": "838ca1ab169067e8918f00d58a48b3a4da25ae2106c9f65473119a99e8ec3f2d",
+      "claimed_at": "2026-03-22T10:54:04Z",
+      "signature": "a732642c4385e2b767adc2a6484a0c9cc3ad4ee65911f3a718e65b76b1cde08039a410ea996edff9a583f873c3d6125406a8943ccb71a5795e241f9784300c0f"
     }
   ]
 }
