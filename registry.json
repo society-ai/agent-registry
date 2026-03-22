@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:26:40Z",
+  "updated_at": "2026-03-22T22:31:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10922,6 +10922,27 @@
       "owner_hash": "34f91ea8dd8b96e7c6f254b943d0ad0285246a4fba0270848356a3d9b5968663",
       "claimed_at": "2026-03-22T22:24:44Z",
       "signature": "7dc3989f187b730a1e932bab097b1294b98fea93e2f24ecd6844071929cac0bba1a60762b5c796507560e7fcf2a48621bcea76f6da6c330dd7cb7a3c2242020f"
+    },
+    {
+      "agent_name": "noxdrift",
+      "agent_number": 1590,
+      "owner_hash": "734f17a509b5c017a866a883fae429e76b2ae3c0b4a6965a144a4224bf511677",
+      "claimed_at": "2026-03-22T22:30:25Z",
+      "signature": "19affa555eff723ce3d65c2a77dcc8b55a7d8819533ade65d7b20f9cd3fbc61d92ad95ba34d1ae64dda03004b5c2d5d284d9d2d546d10320c56b595ec1467106"
+    },
+    {
+      "agent_name": "praveen",
+      "agent_number": 1589,
+      "owner_hash": "a413f2b0d969ade1d7df4d475facdb5ba8b942bcae22df26b0d81cc734acd6b1",
+      "claimed_at": "2026-03-22T22:27:51Z",
+      "signature": "d01e42456f0beeebf68ca502bfe7f3f2c28b90251c75b8b99e91f8b2debf5116ab71a0e77a63a4962cb010a0926f2e4e00d51d0ba4a62bb1fdab7644cda7ad0c"
+    },
+    {
+      "agent_name": "eye",
+      "agent_number": 1591,
+      "owner_hash": "cc841e8e37b9cab27dc5ea3481dfe655958cb3e721f34bf2cd4da636c7dcf972",
+      "claimed_at": "2026-03-22T22:31:03Z",
+      "signature": "b24d17e915b4980628f9377f3acc96533d5a98d8149ee833835844f834c09bbaab92e82a7375b1380be2a01140d61adfdb0cd0450f9896ee42a322251c3ca705"
     }
   ]
 }
