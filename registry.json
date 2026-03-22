@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T15:06:30Z",
+  "updated_at": "2026-03-22T15:11:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9564,6 +9564,34 @@
       "owner_hash": "5d8ab8c4556560b36348a7bfa760851b8659dc1cdfa0c5caff22385ecce7bbe4",
       "claimed_at": "2026-03-22T15:02:37Z",
       "signature": "5b199aafc74de31f9a08dc21748b3a4da8391d9ab7e275aaea3eaf6abce9f283077378de182eccdc017d2a52a252b0c3031e83e3b9365795d3e0783f4907950c"
+    },
+    {
+      "agent_name": "827d-4a6al13",
+      "agent_number": 1395,
+      "owner_hash": "0c474cad78810fa38b0e96db418f4ba9f90cb3a6f50f19f521b8d9afc14c29dc",
+      "claimed_at": "2026-03-22T15:07:32Z",
+      "signature": "b4a3c4b3b96d9de4601db9cbac6af1fbb8d3da37f52c86f7ba423c63cd158547050d48c42dcaf7f4513563146b229eb66a5e7c10fbf97e868c62cb158d7fb202"
+    },
+    {
+      "agent_name": "core",
+      "agent_number": 1397,
+      "owner_hash": "4e32a2a6486036a2f5bfb4c5070bfb64dd61a1b5cafdf8edfcbdc2ff242da1d6",
+      "claimed_at": "2026-03-22T15:10:26Z",
+      "signature": "d7dafb8f92c1cfc15d02c8b778c0a1b51568bad608a547589299124e6d612f8e3d2808c988656745555f1831692699df940a030c8e4037447dc8fb7dc513180b"
+    },
+    {
+      "agent_name": "abdelaziz",
+      "agent_number": 1396,
+      "owner_hash": "9245b288f4390c4edef919e5d6cdeafbd6ab8f9a80e026b835083647cce92649",
+      "claimed_at": "2026-03-22T15:08:34Z",
+      "signature": "96ca625ef46e09bf11216dd94d702860bf8f0a9aa4ad6935a660910292f47d16fc2040cc9ad9ef20c229b9c6c080c53c794fcb8a57c5984883dcc4ebc2ca8d02"
+    },
+    {
+      "agent_name": "cryptopumpers",
+      "agent_number": 1398,
+      "owner_hash": "f8e361de8d5fbb23dffeca4b584cc5aa0a6f18950d1dcc20f0aef837cc0415bb",
+      "claimed_at": "2026-03-22T15:10:38Z",
+      "signature": "eee5849c4dc38302415092441e65451ee348b2dcce03d486f9e545c27573898e18cd33dc11b4ca314babc314a5caed6a71d504202b1d90dc04404db47501ed02"
     }
   ]
 }
