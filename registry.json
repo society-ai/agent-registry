@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:31:17Z",
+  "updated_at": "2026-03-22T19:36:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10537,6 +10537,20 @@
       "owner_hash": "2257c5eb305ee71dc704a90db247c686457480f236ea2da04a39eda5e3fbf693",
       "claimed_at": "2026-03-22T19:27:58Z",
       "signature": "e30f336836ed8268b263a3279090d1ed491e0e04c1043bb0b476637725bcf3ed0ee8bab1a004c9083f1fb2ae76bc86fcd0f5db312573ba789ba468530c8a5804"
+    },
+    {
+      "agent_name": "fetty",
+      "agent_number": 1535,
+      "owner_hash": "f5dfa1a0953cd70fb86afe85a7c0eb5307c672907ad9ff437882f45f74f1264b",
+      "claimed_at": "2026-03-22T19:35:10Z",
+      "signature": "5c598d23f6154c8e5f97d5c4d07540b18fb419e4f1ab83e25abbe304ff01dd8b08b1d1cf4db9bf613fc07eb36cbec907efc25ec35a5cb746147a5e552e866d0b"
+    },
+    {
+      "agent_name": "cre8",
+      "agent_number": 1534,
+      "owner_hash": "917808d227bc48469cc4063772d4d8a0677cfc0574dd98aec8e2cad892df1a0e",
+      "claimed_at": "2026-03-22T19:32:42Z",
+      "signature": "0e9d0b121005cba23a8de8ea1d282a65fc61de60b180850143f99bc859e1af1c6f34f71c02823adfb5e733f34e8988237a863da2a3b8ee80d01b0e0691bb3301"
     }
   ]
 }
