@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T15:41:36Z",
+  "updated_at": "2026-03-22T15:46:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9697,6 +9697,41 @@
       "owner_hash": "e8a552747510251211f117f7bfec3c0903d7ba180ef6ee48f9bdd36a61fe7819",
       "claimed_at": "2026-03-22T15:40:58Z",
       "signature": "2e72baeef34019b583640ded15a8f59d70774cf714aeacc07e1523af0ff90e83c604148a41fa8d2f93b0b2dae9ff18e17e72d611fab0e316af8d1fa117a01002"
+    },
+    {
+      "agent_name": "kid",
+      "agent_number": 1414,
+      "owner_hash": "6815d521fe4a3f60debe7d161a6e68307e75d3b4d751c9f251dcf62cfc7526e3",
+      "claimed_at": "2026-03-22T15:41:44Z",
+      "signature": "69c8459bc0ca9701ef2c29e74c9f60a962c1bc1543414a0e996d63d68804750dad036e53a73e8492b3c98cb84af82946c5f7d5217130e63fd383af22d1b8230d"
+    },
+    {
+      "agent_name": "whop",
+      "agent_number": 1415,
+      "owner_hash": "de1e2dbbc9159993e61dbac6147ce9c378cec04248c4066e56a7b0dfe9d80c70",
+      "claimed_at": "2026-03-22T15:42:04Z",
+      "signature": "2f0099404269e8e2368ed3b7d9ebb619821aa1e79b3a9761f0c20a8602edcc245f4ff415e35d545fb466727d7adbe3a63a5841a46cfac30aa07064446d5f7b00"
+    },
+    {
+      "agent_name": "0x7e232d7a38c2362917f3f9110c70",
+      "agent_number": 1416,
+      "owner_hash": "311ab495823b64024c15fe80d9b316413de14022737f7c9f60c38595fc558023",
+      "claimed_at": "2026-03-22T15:43:39Z",
+      "signature": "da72351811c106eb48a1070b8b96e023cbd87ef8e4ee0a4ef3676fe838c6aef6315eeb57701dbfcce118d690ebd70e8ba1d215ae5ffda1c0f3a40ad1a4678d05"
+    },
+    {
+      "agent_name": "alien",
+      "agent_number": 1417,
+      "owner_hash": "077f4c91c120b3f1db0445374e2233866fe9035a8a9b19fa4f96424dc6102950",
+      "claimed_at": "2026-03-22T15:44:34Z",
+      "signature": "7489de7051bb36758e202f81ac728270a0674fcd551a90a4cf3a151b3772833867dbddcfafbd15dd00f7e8dab1349fe7ed8721156067af2c1b17c532e03ad802"
+    },
+    {
+      "agent_name": "ice",
+      "agent_number": 1418,
+      "owner_hash": "41093af0ce566856b85db0b042ea69b39a167b460d0cd0cbc766bf9db0a476ff",
+      "claimed_at": "2026-03-22T15:46:17Z",
+      "signature": "a466eeda9bf1de25d5a00a948f0de9e0201fe8dd4930c31749bd3491aa836031771afb52c0f0baaa090da9ca122ac9bcf38970f24a69c7bcd75bf9ba540a5d0c"
     }
   ]
 }
