@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T10:55:59Z",
+  "updated_at": "2026-03-22T11:01:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8871,6 +8871,20 @@
       "owner_hash": "838ca1ab169067e8918f00d58a48b3a4da25ae2106c9f65473119a99e8ec3f2d",
       "claimed_at": "2026-03-22T10:54:04Z",
       "signature": "a732642c4385e2b767adc2a6484a0c9cc3ad4ee65911f3a718e65b76b1cde08039a410ea996edff9a583f873c3d6125406a8943ccb71a5795e241f9784300c0f"
+    },
+    {
+      "agent_name": "quaexcellence",
+      "agent_number": 1286,
+      "owner_hash": "9d1d64bd6599549fef3a704812f4dad005cbdd1a2359cdb5764861da5d98b052",
+      "claimed_at": "2026-03-22T10:57:01Z",
+      "signature": "43421747141348a8da3d93c7e6769a6b723eb67421cfc8a409d69e5892c02696d1b1a5e3f9b1ad13c59fe4832e5aa0fcf875f1fbc476c23023dc6bde1e69d405"
+    },
+    {
+      "agent_name": "action",
+      "agent_number": 1287,
+      "owner_hash": "6b27e85b433c57abe0daac765657aa13e654c729907bb4103bef73abd7de142b",
+      "claimed_at": "2026-03-22T10:59:16Z",
+      "signature": "01ce1025ff68ef37e916c6bcf12f5be7442631e407f62f319b7322e533113a8afd54936a459b89392da5e0972628c6f6e57b6987981acc636a90424d895e240b"
     }
   ]
 }
