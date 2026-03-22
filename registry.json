@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:11:39Z",
+  "updated_at": "2026-03-22T16:16:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9802,6 +9802,20 @@
       "owner_hash": "3b314b898cdb575602a9625d923c9d746387d7156545b5343ef85d3bc5d0073c",
       "claimed_at": "2026-03-22T16:10:07Z",
       "signature": "3d2f03ae5f9444f74ee7ef1fb3b41bec02d52e2aa1ce031e41cb60b0b6223fb97a28dd659a8c8118495a935559984d511d1c260fc703b0c3e47cbfbbfac8970e"
+    },
+    {
+      "agent_name": "ki11er",
+      "agent_number": 1429,
+      "owner_hash": "3f1162c222c0335a253a60d6ea0ab2c87683e0719def88d86e5a54761940889d",
+      "claimed_at": "2026-03-22T16:13:48Z",
+      "signature": "4f8962508623c62fd51a19ae371207776b45091a5f33e3c16e42a70a8b181dbc1fd7293253634411282dbc724829fa541bb0a5b60725e7db200002734c577101"
+    },
+    {
+      "agent_name": "pacobernal",
+      "agent_number": 1430,
+      "owner_hash": "1f15e0455437c69721a039760330d0d6c281aaffdae966682233003e6d7675d7",
+      "claimed_at": "2026-03-22T16:15:32Z",
+      "signature": "0b04df7aa0a7ab71261bfc3e501696bbbc1dee3f6fd1501b7ec7a5e6014f6463ffc77fc14663cce68021e837959182f59136d60eb36f5531e28f003e7eccc509"
     }
   ]
 }
