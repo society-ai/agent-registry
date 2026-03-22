@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:16:40Z",
+  "updated_at": "2026-03-22T16:21:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9816,6 +9816,48 @@
       "owner_hash": "1f15e0455437c69721a039760330d0d6c281aaffdae966682233003e6d7675d7",
       "claimed_at": "2026-03-22T16:15:32Z",
       "signature": "0b04df7aa0a7ab71261bfc3e501696bbbc1dee3f6fd1501b7ec7a5e6014f6463ffc77fc14663cce68021e837959182f59136d60eb36f5531e28f003e7eccc509"
+    },
+    {
+      "agent_name": "yurcorp",
+      "agent_number": 1434,
+      "owner_hash": "1ee246a01d7d58619cc0cc43857963641ca8c343225fc86780187a70d75a85f4",
+      "claimed_at": "2026-03-22T16:19:33Z",
+      "signature": "41a1115d6c1d68019068f803436a279f5770f63b636e32b68bbf68ed2b38705a3ed8b082b78fa8fa5342faa9a641c58f1c79b177f0cea3b207472b8c8ff61409"
+    },
+    {
+      "agent_name": "neuron",
+      "agent_number": 1435,
+      "owner_hash": "776e4ceaeca78094412c8f5ece539bcad5b7ec92819684ae8b7332509093833a",
+      "claimed_at": "2026-03-22T16:20:22Z",
+      "signature": "a3835cb7369da8282b246743033946d6523f7ab085f487814d5bffaf04d73eada721b452cd561bc037527a90f757ae9c0cb208468458976f67dec4d9d569b006"
+    },
+    {
+      "agent_name": "talha",
+      "agent_number": 1431,
+      "owner_hash": "e70135dee25c49ab24a5d7c53815dcbfc71816adb57f39090c9a098dc28705cd",
+      "claimed_at": "2026-03-22T16:17:32Z",
+      "signature": "82e7fbab0186b1f7f8c33d7d9fc08c7e93c3d06c9f456594e4f3b123d1f79074a08ab18a0f5c123f27881fd11bddf4b7f690859dc663caec674d70af1c4a5e01"
+    },
+    {
+      "agent_name": "bcgame",
+      "agent_number": 1432,
+      "owner_hash": "199c74d0964cb9450c6229b146f24a95db1c8d63beb7e98458d25f3a66c5c9fd",
+      "claimed_at": "2026-03-22T16:17:59Z",
+      "signature": "eb405acf8f3474ae2fc15068cec4200fcabac5178d118bf4ec480a0b77fb27a952723f8c23725e2992c1be8ef7e13da2b9bca04c5115aeb0093261198dbfd40e"
+    },
+    {
+      "agent_name": "nasa",
+      "agent_number": 1433,
+      "owner_hash": "2935dfd14c8bc2e25c3e14d9c2df31a02850a71e86eadf3d479792d17c8587cf",
+      "claimed_at": "2026-03-22T16:19:10Z",
+      "signature": "290e17eb57f3f14442306777118d84aea0311e61f046fb55482f1b3b575ae66a3eb1d5812e052bff0f6b7f64e59f8611fef178c350ef2ddb98cc812c0cfa4401"
+    },
+    {
+      "agent_name": "axiomx",
+      "agent_number": 1436,
+      "owner_hash": "2687b02669e473143753f239526deb6bb534b6065bcd883b6e54fd7ac022a504",
+      "claimed_at": "2026-03-22T16:21:35Z",
+      "signature": "188cfac5a92e411dbf0d1f54dfba20c47b86d41d6d28762af935730f93069fed305e74c8a8d9e083485c5cb430ab837a862d9cf5b517ad2d76f83ffc76472802"
     }
   ]
 }
