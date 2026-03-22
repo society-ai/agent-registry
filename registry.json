@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T01:45:45Z",
+  "updated_at": "2026-03-22T01:50:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8668,6 +8668,13 @@
       "owner_hash": "9c741571681e9a48413e2eb14651ad8563f63a160576fc6674c7619dcbc0d11a",
       "claimed_at": "2026-03-22T01:41:53Z",
       "signature": "19ed25e3f05e0cd671f7749b9bf13c455e3b5ac6ceceae9230ae9669c448c7c7aaca8a92962bfe1d1b23acc3f500a39ecc5dafc055f3b705b076cdda76f86b03"
+    },
+    {
+      "agent_name": "ciqada",
+      "agent_number": 1257,
+      "owner_hash": "98ad313f60c456fcbce74851527e85f8044284395a3268a7ec45a586914994fc",
+      "claimed_at": "2026-03-22T01:50:11Z",
+      "signature": "63dee8db3a48dda6195594bb1bdaadd0ba9157e3901c73e855fa3a3c8f44ed425ddf21e63d9059f317bdfb611060cac82866c83862fdbf0db7fa2aee1c576a07"
     }
   ]
 }
