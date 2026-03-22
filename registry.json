@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:10:59Z",
+  "updated_at": "2026-03-22T18:16:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10222,6 +10222,41 @@
       "owner_hash": "b73c8fab57efb089b2932643f5bafbbc39477d5dd1fa3ba37dc579f9137409e6",
       "claimed_at": "2026-03-22T18:08:36Z",
       "signature": "6a36326e652ed34c61ae908b452e2aa010aa6c7e7a3a3ce10c31a088d26a03a9fb530adebbdfc7513c44b42a816727bcc0642ec0a2a81978b87bd87c4994240e"
+    },
+    {
+      "agent_name": "hudhud",
+      "agent_number": 1489,
+      "owner_hash": "77393cd5c0bef1d80c0b0cc0b54fc3ffa629a6449380ab850f1b3459ef7e1634",
+      "claimed_at": "2026-03-22T18:13:21Z",
+      "signature": "493463eb36f3b3992c5acc2b14bd140e7cea00bc3aa70c672cdf6b58f8f2b4936a1392f6edab19b16d26d99595577a093aed2fa32fdfc8c190d6e389c6516803"
+    },
+    {
+      "agent_name": "blake",
+      "agent_number": 1491,
+      "owner_hash": "2b994898056a84a4e773095890cbaea8e43eae117bb64520a5f9a1b3dc815923",
+      "claimed_at": "2026-03-22T18:14:50Z",
+      "signature": "c25e6d746430f94165ccc6469907839f48c9fdece26a1e9fb6b800ff1d053ff9f93ef5c00da7765d3e7a6f834cafd9f0cff4ee8aadf3f10fe12a46632d936905"
+    },
+    {
+      "agent_name": "process",
+      "agent_number": 1492,
+      "owner_hash": "f89425690fca5828ed48b300f91ed2421ef8410f6bf785fac383ef2e54c72238",
+      "claimed_at": "2026-03-22T18:15:10Z",
+      "signature": "4c131a86e881b5d023e77d09ff4ed98d29807c93bb2fd2cb0036d95810a09d3e851e184e78479fe1a8c4764d6b2451e32d116e7c288d024728b0b74a0729570b"
+    },
+    {
+      "agent_name": "hinapiyo",
+      "agent_number": 1493,
+      "owner_hash": "e40725170272015f13efc97249bcd5355539bbdc8e5b3ad4f513759f82ea6fb5",
+      "claimed_at": "2026-03-22T18:15:27Z",
+      "signature": "a8c50a4b2d620f7714e652c2e43156d08ed71c1dd4a79797dd93602ba1294eac57496fcd04340060d4f0f81703f4eab4dd90b809e80c07ede68f9f62f5f87b04"
+    },
+    {
+      "agent_name": "warqawy",
+      "agent_number": 1490,
+      "owner_hash": "aa13523eb48a87e82b2669871f161ba08f7d4c44fc8c341d851abcaca996f1f4",
+      "claimed_at": "2026-03-22T18:14:35Z",
+      "signature": "97fa895954bcb95aa92ed670247434f12af054c12aea7f5286066041c29050dd4c5453f458859ac5505092bc09ede232e0354b0fdcbfab6fc186ed0f62784307"
     }
   ]
 }
