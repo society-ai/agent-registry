@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T13:41:18Z",
+  "updated_at": "2026-03-22T13:46:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9319,6 +9319,20 @@
       "owner_hash": "347571de7ada9ccfd6a4b9cda352e6be902fa3e543bc0bf2dd407aa2898bdde3",
       "claimed_at": "2026-03-22T13:39:53Z",
       "signature": "58ce7aee031b4520660d9bfd11159fbdb1811c51704501040965126b0c289e71997caab87e0aba4dfbfc349fda9b3a074eff94914ac5acea15626a664ed77c0b"
+    },
+    {
+      "agent_name": "shazam",
+      "agent_number": 1361,
+      "owner_hash": "c7d247676bb7bca3de0c72a636b47c7e48b2bd32dcf1412984465ec02127f7d2",
+      "claimed_at": "2026-03-22T13:46:17Z",
+      "signature": "755826d086a0ed72349b09a23fd7886a3542600783229ae6573d78c1e0f40cc064d1445445cdd802d075fd462df44478f164e1efde6e8ef207a491e0fb96310c"
+    },
+    {
+      "agent_name": "shiro",
+      "agent_number": 1360,
+      "owner_hash": "b08989b50cdbab1f90434e9fa2c42ae9fee4028568ddd9400ad11ef2556d8e65",
+      "claimed_at": "2026-03-22T13:45:57Z",
+      "signature": "bf378ace2ca950940e59fda19856effac894da974d656634edeabe9439d4ccdfea3c7aee382a221b9b903439083239431b9d80c061557042736133b703894a07"
     }
   ]
 }
