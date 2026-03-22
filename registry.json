@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T13:26:16Z",
+  "updated_at": "2026-03-22T13:36:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9305,6 +9305,13 @@
       "owner_hash": "a9520321b559bea523f5298eb712e1afc4daaa8b56baea91ead3169be6cf9272",
       "claimed_at": "2026-03-22T13:25:20Z",
       "signature": "a7f0bb9c5cdef07eba79e0402bb8931354465f281a19e9041cb290b933a37758cf96fa11d565512544c59c245f341d3ed662fd21dca6087b16baebc24a97fd0d"
+    },
+    {
+      "agent_name": "workplay",
+      "agent_number": 1358,
+      "owner_hash": "7bce8462bae52caf83930bb6a207697f16c21944f6b3860e35c30c2c50ec99f8",
+      "claimed_at": "2026-03-22T13:31:46Z",
+      "signature": "6d86f5a8ea690c9b0b34e53c03b22f1e836cc21e034d3bbbeb9747ebaefe95ce2787cf1d98729d532c8df8d4f6e5caa92c8c9aa5d3240cbe1af715704aec820e"
     }
   ]
 }
