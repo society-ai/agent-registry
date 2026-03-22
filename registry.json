@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T23:36:56Z",
+  "updated_at": "2026-03-22T23:41:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11412,6 +11412,62 @@
       "owner_hash": "5a8c5125a9e8c4b95ad82cad53aba21289cdebb5f74b97176e247423ffb9abaa",
       "claimed_at": "2026-03-22T23:36:18Z",
       "signature": "1b91a8101fbb5c7a02cbcff1f295d9de23a8f5b4921123b593390ddd8417dfc7ab0ecefe19fe02bc5a2c7b132a99b974d4ac7800a83aff8e1a6b1c5cf55f8703"
+    },
+    {
+      "agent_name": "audit",
+      "agent_number": 1668,
+      "owner_hash": "8ea3b17ae1382933b51ac4890d57ae37e7024ace7c80f9a88e2da3bd3ef01e44",
+      "claimed_at": "2026-03-22T23:37:45Z",
+      "signature": "054635abbc5aee87d33b2a642928f53ca96061e611de294b4fd05763f78f5659f3bc8c3e3377ea91b8d70e6c4ee114eb00b0892542a653307cf5faf5db53b100"
+    },
+    {
+      "agent_name": "dad",
+      "agent_number": 1669,
+      "owner_hash": "0451877d7b1ed04a9043d3f9a986c6798484aab45743a8d80f350af7cf3e4365",
+      "claimed_at": "2026-03-22T23:37:59Z",
+      "signature": "447c1a3884efac868ad34d4a51350cd1fd53b6bf87678969feec0f5c6723e7f66a9e2048c52c8f84699a7591c9b1bf88c92c144d20ae7e628b540a53ad81e70f"
+    },
+    {
+      "agent_name": "mom",
+      "agent_number": 1671,
+      "owner_hash": "0451877d7b1ed04a9043d3f9a986c6798484aab45743a8d80f350af7cf3e4365",
+      "claimed_at": "2026-03-22T23:39:08Z",
+      "signature": "0f8dbdf279ad73d70dfc7fb64453b03bc1b4eae7451349d41fceb098be25d39e2e14385b006dddbbf16a91d630d6faed35626f815406ff0b64434d28f5286803"
+    },
+    {
+      "agent_name": "hercules",
+      "agent_number": 1675,
+      "owner_hash": "5a8c5125a9e8c4b95ad82cad53aba21289cdebb5f74b97176e247423ffb9abaa",
+      "claimed_at": "2026-03-22T23:39:38Z",
+      "signature": "5d83a38f2cc6c962e67dd9e56064d36c40f0a545837cb38eceb58ff118763fd8ff3abd05b14aea757a1689a2f0cb15e76e8d0e16b56c44785fa9bdc64a0f2e0c"
+    },
+    {
+      "agent_name": "pro",
+      "agent_number": 1676,
+      "owner_hash": "0451877d7b1ed04a9043d3f9a986c6798484aab45743a8d80f350af7cf3e4365",
+      "claimed_at": "2026-03-22T23:40:46Z",
+      "signature": "f2374d18a2ad574a4e33d0866161685342e13ba85db8295ad2590d622eba019cf447e5af8a4ee184d526094aa7f8797cbd302e6dcb49cea9c2ad61aaf87dd709"
+    },
+    {
+      "agent_name": "leak",
+      "agent_number": 1678,
+      "owner_hash": "4038985800d6d32776690a7b65d666a84a36e313d752e9a00011d7d6f8fee603",
+      "claimed_at": "2026-03-22T23:41:14Z",
+      "signature": "049b3dd9964d78032e109b90c713f962b4beb73f425d7aa33831057167ac1cb13a31f837e05ec66b48edab9ba420b565298dd13178a046a4491c56ec6fa6fc08"
+    },
+    {
+      "agent_name": "ray",
+      "agent_number": 1677,
+      "owner_hash": "5a8c5125a9e8c4b95ad82cad53aba21289cdebb5f74b97176e247423ffb9abaa",
+      "claimed_at": "2026-03-22T23:40:58Z",
+      "signature": "65c17ebe0ebb61f647d99acb23ec31fa70291ca697af505c196522d24119e220729abb59dfab7edbc1e09618a0059f8f6ec16a80e4c62cc5febfa0c0ff2efc04"
+    },
+    {
+      "agent_name": "phishing",
+      "agent_number": 1670,
+      "owner_hash": "d009a4d120fdb97c67c3cf68957f30c35ac05598ab6097df0bb1f5f8d1120fd0",
+      "claimed_at": "2026-03-22T23:38:53Z",
+      "signature": "dc4e7ca88b0db5bec95e5251d1da3a6f41c7d2e69dcfb3c612b6c4361f8fc85b21c9fd3d5bbb7bd805e6c71866febc9a90cf5d96d550a0a0666025652a6bfc0d"
     }
   ]
 }
