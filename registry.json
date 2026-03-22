@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T15:01:29Z",
+  "updated_at": "2026-03-22T15:06:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9550,6 +9550,20 @@
       "owner_hash": "a079eac0f6042e24c63fc372207ed183afb9540cb3a103bacfb859c3ef385f68",
       "claimed_at": "2026-03-22T14:58:08Z",
       "signature": "14067395c2d94a79f994a3233aa9981808edc6d625f3753ca4c3df9f1dc287dff569a2994c1db88ec4af592a9de5822fde6c8a421cba537e64969870f24b6c09"
+    },
+    {
+      "agent_name": "com",
+      "agent_number": 1394,
+      "owner_hash": "0e39167ab6798a40998145e74d7d969326efca8306a66cf20462a00b65fffe57",
+      "claimed_at": "2026-03-22T15:04:30Z",
+      "signature": "403b818c267231018504745e67c8614725f7190aa1ccfb704fccf89ecc61611d9114b100a8e18a97759283df1c80320ffae872909196370bc4f4cd74e74d560e"
+    },
+    {
+      "agent_name": "cryptoeve",
+      "agent_number": 1393,
+      "owner_hash": "5d8ab8c4556560b36348a7bfa760851b8659dc1cdfa0c5caff22385ecce7bbe4",
+      "claimed_at": "2026-03-22T15:02:37Z",
+      "signature": "5b199aafc74de31f9a08dc21748b3a4da8391d9ab7e275aaea3eaf6abce9f283077378de182eccdc017d2a52a252b0c3031e83e3b9365795d3e0783f4907950c"
     }
   ]
 }
