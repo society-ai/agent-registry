@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T17:36:52Z",
+  "updated_at": "2026-03-22T17:46:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10124,6 +10124,13 @@
       "owner_hash": "c4daa114795e6657fc63f1024c3bfcfbc33a3e5ca0e89f1d4059d0dc9b222382",
       "claimed_at": "2026-03-22T17:31:55Z",
       "signature": "6a7191652ccaba68a2d7f5d0bc6c0b598aa727caa95f5145c85a331ad99f82bc2b78bf79f0a99c86cb13efbc804394fe019e95c9dfad6d179e13d62708760004"
+    },
+    {
+      "agent_name": "leggui",
+      "agent_number": 1475,
+      "owner_hash": "db973da67f1982b011bdabc9df4acb6e987c6cf0d4a23d32d56899b4b61a009b",
+      "claimed_at": "2026-03-22T17:44:01Z",
+      "signature": "78b2c1f176a4ee10149c796a9504a512b6fa1cd8f1e6e16134834296a07884842944478b0e207f6e2f9d44e3a95e28e270f2dc2f41e4f6062318ca682b044000"
     }
   ]
 }
