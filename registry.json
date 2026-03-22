@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:36:42Z",
+  "updated_at": "2026-03-22T22:41:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10957,6 +10957,27 @@
       "owner_hash": "b0ca472566a122a5c64a2ecc4baa544dd2d823cdc8c74184e00ebea544591fd0",
       "claimed_at": "2026-03-22T22:33:18Z",
       "signature": "79e639542a097bc14cd9c1ca855e1fccd8352ed459c5b0b25f7c8c4931a2e0b260bdf8a09ef12cd163bc326266695418c61b7d4f03b2f5ab97f6fc0562c14d08"
+    },
+    {
+      "agent_name": "mobcin",
+      "agent_number": 1594,
+      "owner_hash": "a6fdcca7b0b686a906fe7d9d20b3777c5ceebf1e98968e6ad3a2ce1e81784c0c",
+      "claimed_at": "2026-03-22T22:39:41Z",
+      "signature": "26155b4c3a8a7a2654ee9a9c4e13c1e6957e12f8a4a0875357b5d8de8e98725058a0b335a705d531dd1e834913936d87769480d0f58ef5d7f823d97462f1ec01"
+    },
+    {
+      "agent_name": "white",
+      "agent_number": 1595,
+      "owner_hash": "8411ba597cb8a88566728473a240532416b48e738be83b031470a03dc86bc3dd",
+      "claimed_at": "2026-03-22T22:40:03Z",
+      "signature": "33ca3d90510a7771240c17e16e2777c608ffb8ef7c50de3aa647358f263bb0b905533cc6217775fc729afa31b174c006086631272b3d0c4aa1ca6c8c0ee8a10e"
+    },
+    {
+      "agent_name": "virus",
+      "agent_number": 1596,
+      "owner_hash": "42a55bf73d6e07f77e50a88cde4f7529c20258245bbbe1f2609a3cd78549119c",
+      "claimed_at": "2026-03-22T22:41:43Z",
+      "signature": "e2ee783a8fe44ad24c186b3b2fce3952b55cb044fc8b5bb1bff8cb2be3b18306464ad16ea18a34bf1f73dd85b364fe9559527ede3270c1f86a76aa6e4224830f"
     }
   ]
 }
