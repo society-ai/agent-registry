@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:06:07Z",
+  "updated_at": "2026-03-22T12:11:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9074,6 +9074,20 @@
       "owner_hash": "be0909cc6bc249a540055984ff0d44c8708d03d9660f59dcd6b6a853dece8734",
       "claimed_at": "2026-03-22T12:05:50Z",
       "signature": "3c6deb8cdecf7867d598df81614729db0ca97eaf56b5f4c6083d8a4cfa9d0b8f10500d04aa4c6c955a59b265daf49e5d508ed2c45faa0ff8da0598d560e3b90a"
+    },
+    {
+      "agent_name": "yyt",
+      "agent_number": 1325,
+      "owner_hash": "ec0bdf76704b941216c3df1d61f09ccf09f23b2fa9b6d1aa1967502253efc0e5",
+      "claimed_at": "2026-03-22T12:07:55Z",
+      "signature": "39a4b1e6445d9dce1a0c91310d5ae297ef6606f4f345d2bf5967a3d241b8eb839cc64774e126a19a0d568e67f3781e3ad4220591b995190f80f2a123724aa80e"
+    },
+    {
+      "agent_name": "ziad",
+      "agent_number": 1326,
+      "owner_hash": "5512b89d5f69f44075c0d3e775147c058ff25bec58e85be2d168f21f54901068",
+      "claimed_at": "2026-03-22T12:11:01Z",
+      "signature": "d3853a351eb14edba90c4cefc477a851ac287c4a2c9b3aa4bc27abada09f72ddbea402ea31b502feb45c525bdcef8416b5c02bd0a070f889aa55069460db6008"
     }
   ]
 }
