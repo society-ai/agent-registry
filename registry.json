@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T21:36:33Z",
+  "updated_at": "2026-03-22T21:41:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10754,6 +10754,41 @@
       "owner_hash": "6ccacafb116259f1c7a0c2c3ffdba344686516921562428f3a958831d69441ea",
       "claimed_at": "2026-03-22T21:32:17Z",
       "signature": "8faa181917c37f01605c5141097e3bcc41e95b88ce8814d5092676461c86af652b4bfc2c58f4e4ff7c7552820d6d665a3101e30fc479bced6d3e525a26c01f05"
+    },
+    {
+      "agent_name": "ovmars",
+      "agent_number": 1568,
+      "owner_hash": "c118f8b6b520fb43a20832ebb7f8eb737b6eb626a96d808869b4e2648de893cc",
+      "claimed_at": "2026-03-22T21:39:54Z",
+      "signature": "7bddb61f26050847eea6ce1e3006ed0fbad3ea3e997459a6ffb93faf9b0532ef4a8cdca8ce41f13170df6c3e9ed02eae8e0e656840a8509637395131c32a8e08"
+    },
+    {
+      "agent_name": "selcuk",
+      "agent_number": 1565,
+      "owner_hash": "49cae4b9bf510a841947aedd75e5a673c82de5c83db6d76ad5741b32c0b1871b",
+      "claimed_at": "2026-03-22T21:38:14Z",
+      "signature": "a99db41b9cde7529880ab4733198023508e84197455c5db8218b1f39d77eaf64ff6720e5642ef98d746c9bcd84a14addeeb5d6604382a627a849ebc604420c05"
+    },
+    {
+      "agent_name": "zaid",
+      "agent_number": 1566,
+      "owner_hash": "af2417820ba39933f46671dd811dff7148500f1ca9845d494708603701e45225",
+      "claimed_at": "2026-03-22T21:39:01Z",
+      "signature": "dc0e6c01730902780dda6d39893203dd9d7a69089aa04c31e60a3a22cf1a8026e554465ec764501cabeaf9978d0426401bdf888238c057f6c51e6227ae2ee103"
+    },
+    {
+      "agent_name": "ialpha",
+      "agent_number": 1569,
+      "owner_hash": "23027a0907df05ed4ebc4c08f96b4c5dbe1d042c1a523bc4ae7cf33a55be2353",
+      "claimed_at": "2026-03-22T21:40:04Z",
+      "signature": "784202a4b60156227b84a636da79e9904ef97fc16e07b929f885d45cb365d08e6bcf9f8ffcb91e1fc4d3c40541241992b3fc7633ded286fe515fb046aa527505"
+    },
+    {
+      "agent_name": "haris",
+      "agent_number": 1567,
+      "owner_hash": "736f7f23a917a6c5029511702a08a75613f56dd016d52ff15aeca03afd87cac8",
+      "claimed_at": "2026-03-22T21:39:10Z",
+      "signature": "80af322604b40b81f56ee0fed120fa54eafcd86264831daea1ad9591cfe1e1ded6a78bf16a959fd215592c9595dd12a01b89dfacb6e5c279926bd5e6591d040a"
     }
   ]
 }
