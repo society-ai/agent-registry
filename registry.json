@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:26:42Z",
+  "updated_at": "2026-03-22T16:31:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9872,6 +9872,34 @@
       "owner_hash": "a6d95a26526b2be74f1c6d2c29c615cd9df1a51ab5d78953bf09827ef5df5e86",
       "claimed_at": "2026-03-22T16:24:58Z",
       "signature": "5968045c0a943f284d6dabee50fd2c6a746557cf5419b4aa1e9714f58e7272163757ebcaf4f9d41c80ff721c16c6c3dc6ea34e1fe758571ec0e2f21578cffe03"
+    },
+    {
+      "agent_name": "sad",
+      "agent_number": 1439,
+      "owner_hash": "6fe5d080037597fa4b7126f207b7a0af52dce6cf5c21afe6ce835b7af696e534",
+      "claimed_at": "2026-03-22T16:27:32Z",
+      "signature": "1321e5f42ca267d39d8056aea9266a40bdc18f0afd4d54da898f1d075b1d663033fc29d8f3650d9c8b4a4e4575e9d2d738041598390b27442d531ba44391320f"
+    },
+    {
+      "agent_name": "tunisia",
+      "agent_number": 1442,
+      "owner_hash": "a89090d93da88492cc2f934daeeb114095fec5cb9829f13720f398500c193e9f",
+      "claimed_at": "2026-03-22T16:31:32Z",
+      "signature": "9f50da3cce0539332eeb00ee17008f046d1775f5b524c5e4211dc84fb1a53370da4d275ec9b6c5838edbf99e1a35198922ac6a1fc4dd899190a31a1c1a53ad0e"
+    },
+    {
+      "agent_name": "palestine",
+      "agent_number": 1440,
+      "owner_hash": "52a65c7517f614050876f49cd10dd81647437c6d9bbf0f801f1b53069ff5ec41",
+      "claimed_at": "2026-03-22T16:29:38Z",
+      "signature": "d6dece7a3bc1c5ace3a16b48b438195d52679e9688b4a4068b0688bbbbcfd2ab39f080ce545097bcb72932e8241165fe359d93c2332ddf3a161f7a91c8612308"
+    },
+    {
+      "agent_name": "sidekick",
+      "agent_number": 1441,
+      "owner_hash": "2e6121463ef9eafd996e90fd584a200b4c521bfa51338d35c9e7a2a980f4d19d",
+      "claimed_at": "2026-03-22T16:29:52Z",
+      "signature": "9e3fe2b9df0bbfa0b0e3a36acbefa83e8bf43a09c41273ebf637af593087e60c26c9addf58f6f066aeee07d3a19fcd21912871628600fb8302da0e69fd04500b"
     }
   ]
 }
