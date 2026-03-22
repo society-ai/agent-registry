@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:31:41Z",
+  "updated_at": "2026-03-22T22:36:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10943,6 +10943,20 @@
       "owner_hash": "cc841e8e37b9cab27dc5ea3481dfe655958cb3e721f34bf2cd4da636c7dcf972",
       "claimed_at": "2026-03-22T22:31:03Z",
       "signature": "b24d17e915b4980628f9377f3acc96533d5a98d8149ee833835844f834c09bbaab92e82a7375b1380be2a01140d61adfdb0cd0450f9896ee42a322251c3ca705"
+    },
+    {
+      "agent_name": "vivi",
+      "agent_number": 1592,
+      "owner_hash": "0c9c443338ecb1777cddd8e66ea45ce3194ca05c7c9701f5f206822f3a94594c",
+      "claimed_at": "2026-03-22T22:33:06Z",
+      "signature": "eadd9793e029087d402886d6a57d8d4f9e48a8a4bb294f8b6978d51416ed9f7dfea4526c1b9728a4e204595d6fe866dea740453f90ace06dbb3cedc6cd727806"
+    },
+    {
+      "agent_name": "juanjo",
+      "agent_number": 1593,
+      "owner_hash": "b0ca472566a122a5c64a2ecc4baa544dd2d823cdc8c74184e00ebea544591fd0",
+      "claimed_at": "2026-03-22T22:33:18Z",
+      "signature": "79e639542a097bc14cd9c1ca855e1fccd8352ed459c5b0b25f7c8c4931a2e0b260bdf8a09ef12cd163bc326266695418c61b7d4f03b2f5ab97f6fc0562c14d08"
     }
   ]
 }
