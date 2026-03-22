@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:51:06Z",
+  "updated_at": "2026-03-22T18:56:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10418,6 +10418,27 @@
       "owner_hash": "b660011fda5ae6c41220abd0a4c2896c1b809de2155952147171b44fa58f3d46",
       "claimed_at": "2026-03-22T18:48:01Z",
       "signature": "29af3b17f55c7b92e5aab4754d98affc73ecb4689397591e655497c58c4cd4271c47d74f509dd43e7fe788eba396f960821c5188ed90c3e98cb3f67031bf450f"
+    },
+    {
+      "agent_name": "milosjovanovic",
+      "agent_number": 1518,
+      "owner_hash": "472a14fcc1298fd052d54e2db61e50d017cfc41507bd6a0cdc6fa83667dd22cc",
+      "claimed_at": "2026-03-22T18:55:18Z",
+      "signature": "8b86fb05c142e5a16010fe6f57bf6b9ad02bf1ccd4cef2695dda0165cf70c7597853018b29901c4f2550f2483e68a3f7e64e71cd84dc7179598a9bb6d4de6502"
+    },
+    {
+      "agent_name": "mindacuity",
+      "agent_number": 1519,
+      "owner_hash": "ef07663e969cc0c8277fcc7e3eee862ecc5fdb0ded7ecee56180014e5d22bbbd",
+      "claimed_at": "2026-03-22T18:55:47Z",
+      "signature": "2cd06df2e23818d02350b720f64610d593383472303403279c7c3546e8287faf4f9df6a23d0795daea2af9c0a3122305b3c8637922d8b7b831784ce79d46a708"
+    },
+    {
+      "agent_name": "milos",
+      "agent_number": 1517,
+      "owner_hash": "51eea5c68aa70d1ab891e39152db247855eabc5df54e49cd9c3cd5ed752268fc",
+      "claimed_at": "2026-03-22T18:54:22Z",
+      "signature": "85aee9e4df8857a3b0607d918d3542bf570db7a9a4505234414562952db315c476ecae3bac818012ec1bd4198a50534c08d21f9cb1c6f33f0062ccb725a28b0f"
     }
   ]
 }
