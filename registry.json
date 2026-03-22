@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T14:36:26Z",
+  "updated_at": "2026-03-22T14:41:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9480,6 +9480,20 @@
       "owner_hash": "aa9da0ae0e4db9a640623cd3e6e06c914e3de9578f29c0b839ded29ccc5dda2e",
       "claimed_at": "2026-03-22T14:33:19Z",
       "signature": "ec07c32aa9e2a18468068fc073d69c6bc55bbbd7c0ddc9fd34e75e7ec7cdd569f9af9d531b3b0c96372080eca11a1af04f4aa12fd9d728d10b2f9cbc73b2180c"
+    },
+    {
+      "agent_name": "chandan",
+      "agent_number": 1383,
+      "owner_hash": "93a648f3ab6faaf1335f52afdb38d9a83ecfb9568caa167f6d39ae7b65e1b753",
+      "claimed_at": "2026-03-22T14:37:25Z",
+      "signature": "4c45d54dcf2b4e04258915da6eec0e2f69cbdae9c9cb8fd5b057d2b077e7c7ac0e542606a3130931dc842073f8d8fe086c64eb37667dcb49fedb2f0d2626b800"
+    },
+    {
+      "agent_name": "tradehunter",
+      "agent_number": 1384,
+      "owner_hash": "319da9953b1c3f28bfc78c090c90f488539373442be6828cccdf0bb19a027a59",
+      "claimed_at": "2026-03-22T14:37:47Z",
+      "signature": "687489e075254526e8dddddd4aa1dd6efb9747bac331df9be06796cab6628919dc91f1fe373e8e8e8ee1c36ab0c404a5a1b9802b192fea107048b95b1ef2a602"
     }
   ]
 }
