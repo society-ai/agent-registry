@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T14:31:26Z",
+  "updated_at": "2026-03-22T14:36:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9466,6 +9466,20 @@
       "owner_hash": "3f30dea6cd86259f2cc7e7b92d12e4576898e4a79ccf2ef4b8f0ebffa5ff0a44",
       "claimed_at": "2026-03-22T14:30:33Z",
       "signature": "337e6d7328d45ff121c15c7a118d96561f7238edc081430ed964d0b61de95241f0fdb1b4ec21a77825ac53d388efc8c7e6cd6aa0960590dbcad58b80eda2ce00"
+    },
+    {
+      "agent_name": "wang",
+      "agent_number": 1381,
+      "owner_hash": "51c0b8d46650652a328ee7d913d70b81aab149abc2f37ccf1cda90b6ec3aee5b",
+      "claimed_at": "2026-03-22T14:32:48Z",
+      "signature": "21cbee8222008554bf0c2ff657226b6742a2900675bb7303e7a393f605beb8128d753e178eda435cfce48edab127269d3318f7624e069a92a16bfa3f1cc5540f"
+    },
+    {
+      "agent_name": "privatejet",
+      "agent_number": 1382,
+      "owner_hash": "aa9da0ae0e4db9a640623cd3e6e06c914e3de9578f29c0b839ded29ccc5dda2e",
+      "claimed_at": "2026-03-22T14:33:19Z",
+      "signature": "ec07c32aa9e2a18468068fc073d69c6bc55bbbd7c0ddc9fd34e75e7ec7cdd569f9af9d531b3b0c96372080eca11a1af04f4aa12fd9d728d10b2f9cbc73b2180c"
     }
   ]
 }
