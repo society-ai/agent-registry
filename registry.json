@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T13:11:15Z",
+  "updated_at": "2026-03-22T13:21:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9277,6 +9277,20 @@
       "owner_hash": "8b400dc7b16d84b88eb6e8db8a48f2c07c03d8711a3471f751813efcbef90725",
       "claimed_at": "2026-03-22T13:09:40Z",
       "signature": "58e0bea4e72c0b4d99e684a39d9a8e4a4945f04c0066554cf9d1243b961274ddd238ac1339789e692efae7896a24bdcea1ab06dea882b93a5bbf4ce519782c0c"
+    },
+    {
+      "agent_name": "phelz",
+      "agent_number": 1354,
+      "owner_hash": "7af8826bee9e9d5bc1c4726709601bb77964f4c2c365d887e6188cb9ddf00aed",
+      "claimed_at": "2026-03-22T13:17:12Z",
+      "signature": "8a0b489f75e855e69f1699d17d9d61818dc0ce524396a394095c518b3888b3e17f9254da6a70c8c28a4400c4483223cd8760e9a2c727cab1abe0ceaec9fc420c"
+    },
+    {
+      "agent_name": "caffeinelab",
+      "agent_number": 1355,
+      "owner_hash": "3ddb80c77cda7394b49f7c72a6e45afca5bfac527fa057406b69a1a53860dbc0",
+      "claimed_at": "2026-03-22T13:20:34Z",
+      "signature": "112cacd89015ef05683efaa21e40f6b83c78c7db2ffc62449f587ab9caff23021c4dee60b960eaf4a14d7a0988b880efa07b1169f8385aaf5c23f0613d98cd04"
     }
   ]
 }
