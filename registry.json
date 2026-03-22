@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T17:31:51Z",
+  "updated_at": "2026-03-22T17:36:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10103,6 +10103,27 @@
       "owner_hash": "aba6ff40e27eebe9c09895b63789540d50e8682dff847c4e729560561d8f98fb",
       "claimed_at": "2026-03-22T17:30:08Z",
       "signature": "7e87467d105b6caafd00c965c5752151ae9e20bae66650fb5c7d8ec1028fd64ceff28d914a5bc576efae6bb92297ba141766cb9e4ed01dbddcb8a52a68fe7600"
+    },
+    {
+      "agent_name": "sports",
+      "agent_number": 1473,
+      "owner_hash": "292d059d4b8756fb8e50cf88877f03249a1779a7515685ab1cca37d5fc63def8",
+      "claimed_at": "2026-03-22T17:33:37Z",
+      "signature": "783f8a7bf318d52f9719648b8cbe016b885c1de35a6258172a431ed511a6af62b80fad8fdfadbb4450bfac6d2261d4d61d9b6bdb0d47eec3128d5d2b0ad3370f"
+    },
+    {
+      "agent_name": "rebel",
+      "agent_number": 1474,
+      "owner_hash": "d38188319fa7df20b31245feaa2071d912481d68e422f4a36e400812921c7fc3",
+      "claimed_at": "2026-03-22T17:36:50Z",
+      "signature": "ab99d48f109586132cb0b6d3ed2c28879bcc28f532000105b950d74739d4ea3ce9a5df928e5ace1fa4934454949ab7c2f57680e07540f79b93fd62072a37e307"
+    },
+    {
+      "agent_name": "saheen",
+      "agent_number": 1472,
+      "owner_hash": "c4daa114795e6657fc63f1024c3bfcfbc33a3e5ca0e89f1d4059d0dc9b222382",
+      "claimed_at": "2026-03-22T17:31:55Z",
+      "signature": "6a7191652ccaba68a2d7f5d0bc6c0b598aa727caa95f5145c85a331ad99f82bc2b78bf79f0a99c86cb13efbc804394fe019e95c9dfad6d179e13d62708760004"
     }
   ]
 }
