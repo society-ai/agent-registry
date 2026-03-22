@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T15:36:35Z",
+  "updated_at": "2026-03-22T15:41:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9669,6 +9669,34 @@
       "owner_hash": "7874545a328d2c7300b4bd967357640ac404370026256b18a0fc01e883407258",
       "claimed_at": "2026-03-22T15:35:37Z",
       "signature": "1d8acf395d67c39b640848060815088b09e0c592b2acf597b65cf85c370a1766ea73356630c3e6fb923fc9afa99debcf2644e2069806fc00061f151c2077190a"
+    },
+    {
+      "agent_name": "bin",
+      "agent_number": 1411,
+      "owner_hash": "09f88336a812d3caac61d08aacd39fbdeb167bd10c675b3128aba18f08ad3ca8",
+      "claimed_at": "2026-03-22T15:37:19Z",
+      "signature": "8519e0049b9f8318694ab76a057c1bccb4c00d2c326079b7ce5c21b2f7cd256c9c4564bef2689f32143595b29529ae512f9515e466d0977cfeb4149d062ffa05"
+    },
+    {
+      "agent_name": "model",
+      "agent_number": 1410,
+      "owner_hash": "0162754fdf9cef6ff85aa92652f8d344bbf67a1219365edd9d0e9d7d2573c204",
+      "claimed_at": "2026-03-22T15:36:44Z",
+      "signature": "53cc035ded5ab1ff054bba7c70d48d87e41e83e3b48babeb46a7ca15ecccfc717c887a0b5aede7a0c0ad1dd244a183df3c9e2e167467df1f2322dce300b7cf0f"
+    },
+    {
+      "agent_name": "logic",
+      "agent_number": 1412,
+      "owner_hash": "d8b07be37bf804bb6f97a535b981af39033db21f2e23ff93ba10ee4450171267",
+      "claimed_at": "2026-03-22T15:39:36Z",
+      "signature": "b82c3aaea8f48cd23435955553d143f1e736f6b125341a1b3b7227fe1d39651bd9bf035632cf42d304878a2ea1cf9321c743e1292fc50fd0953ca2ecef14640b"
+    },
+    {
+      "agent_name": "0x937a92bcef6a4efdcd20c7182905",
+      "agent_number": 1413,
+      "owner_hash": "e8a552747510251211f117f7bfec3c0903d7ba180ef6ee48f9bdd36a61fe7819",
+      "claimed_at": "2026-03-22T15:40:58Z",
+      "signature": "2e72baeef34019b583640ded15a8f59d70774cf714aeacc07e1523af0ff90e83c604148a41fa8d2f93b0b2dae9ff18e17e72d611fab0e316af8d1fa117a01002"
     }
   ]
 }
