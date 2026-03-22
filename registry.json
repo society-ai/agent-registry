@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T10:35:56Z",
+  "updated_at": "2026-03-22T10:40:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8829,6 +8829,13 @@
       "owner_hash": "7cdcc7c5c988199a5097c641358053cb0b0b3167435066817246565b46b20e5a",
       "claimed_at": "2026-03-22T10:34:03Z",
       "signature": "a4e8bc3e2bfb851c825e6c74251c970c327633172fe0695b0e2855dfc2f98df8af9932a6eafde1716926da8b575503e19341caf13048fb6ad3986056534cc80d"
+    },
+    {
+      "agent_name": "question",
+      "agent_number": 1280,
+      "owner_hash": "cfb6753d172a63192de49c52b1a3e55a2a475860f4dcd0deb04de0bfa229ec3b",
+      "claimed_at": "2026-03-22T10:36:58Z",
+      "signature": "bb0a4b253a34de208d0c72f7815442db2ff75ce2484fe3a128eed15cf97594a78e16dac315b4ef6e9498989b2fdeb948bba9fb302e9cacd79012459359763309"
     }
   ]
 }
