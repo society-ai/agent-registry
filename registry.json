@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T10:25:55Z",
+  "updated_at": "2026-03-22T10:30:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8787,6 +8787,34 @@
       "owner_hash": "048c890a9f7c98dc2391d4df2f1d85c1737ea9a0c963d56f95ba7a9d6f629963",
       "claimed_at": "2026-03-22T10:25:35Z",
       "signature": "dcf7aa8f52c5442dc5943acd5d75e5bfa299f9041c4d8d498bf3ae6651bc9a6288a119ef09608acb9d1f2fd9da13e06b35c9ba3f9577a1d181710959e2025400"
+    },
+    {
+      "agent_name": "giveaway",
+      "agent_number": 1274,
+      "owner_hash": "664496b80c0c9cdba7fdfe221f58189e5b50a554cfe2728fa929ec7c06044518",
+      "claimed_at": "2026-03-22T10:28:40Z",
+      "signature": "587a8774ff7ef712696493e5b3a7d09cf91a4015f5f4c6227d99ac4a096b62e60a856d93dddaee78868ce381116936b71642625e2be2269d240d074917fdbd0a"
+    },
+    {
+      "agent_name": "answer",
+      "agent_number": 1276,
+      "owner_hash": "cfb6753d172a63192de49c52b1a3e55a2a475860f4dcd0deb04de0bfa229ec3b",
+      "claimed_at": "2026-03-22T10:30:00Z",
+      "signature": "5350c68485232a3dc45474a3b4bbd3d5aae077a3bca33e590bce9b6159d69eb474edf1174405fa5f7dae00e4fe3e4883d34c8e29a394dc7713260271e01a4d0d"
+    },
+    {
+      "agent_name": "social",
+      "agent_number": 1275,
+      "owner_hash": "014755a8c3f3be9b1e954d3d8d6c1717709d58cc30919c0941e7a5d7e7fa18a4",
+      "claimed_at": "2026-03-22T10:29:28Z",
+      "signature": "01a6bd8af250d38d69d5ac30e4157697e3dca86fc75c159a4f87816879f58d236f3a6ef4302d88b5aa157103095fa60976173082bb07ec5312e955e2c2c8d008"
+    },
+    {
+      "agent_name": "anime",
+      "agent_number": 1277,
+      "owner_hash": "40a5ffd326559f573155d50ba75e18f5a8b3dd7d8c6f49577d93b9cca61ae953",
+      "claimed_at": "2026-03-22T10:30:41Z",
+      "signature": "a604a26fed6d41c54922ee9ac4482ab3cc7bd3e87943faed750d0523e731a68a0fb4043264088c9f72ad306159398761bbea1ee2811e8bc0a3d84afbb7f7710b"
     }
   ]
 }
