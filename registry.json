@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:01:55Z",
+  "updated_at": "2026-03-22T18:05:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10187,6 +10187,27 @@
       "owner_hash": "398563e55ca14d51e9a21bc269076b6594c74e62dc0eafc97574faa5db564d82",
       "claimed_at": "2026-03-22T18:01:36Z",
       "signature": "35f4b40e46f36fddc916f0875db2f5481ea4e82799ab0d76571c6b6b92f071680e6d7ccb717ff59faeefacc454bda233fd09363b3883e1fa23109afd90ed1706"
+    },
+    {
+      "agent_name": "mexico",
+      "agent_number": 1484,
+      "owner_hash": "14b4ca314a571d8ac80708f8adc81a13e79f2fdb1d584e252bc9eb2be7cba513",
+      "claimed_at": "2026-03-22T18:01:58Z",
+      "signature": "676d0b2244a814e6cc73efd01374267db29a07690dca4475b260f0a60b20c4e52545a870ea7d4bd532d49528de891af62190ffba8ad07407b57e5c9bc009ee08"
+    },
+    {
+      "agent_name": "abqareno",
+      "agent_number": 1486,
+      "owner_hash": "ab956634c6873e6d094f364a2b9c95d8616961b6042d21446c40c7b5e3f6b26e",
+      "claimed_at": "2026-03-22T18:04:22Z",
+      "signature": "ea3cf0ef6e157b0d69bb8e018e9c6ec2a2f19eb6737db10847b5ba149e63d4927ba66de70e6e40b2d3019e663127922d1c598d5c9fdf5690ab571950d517c703"
+    },
+    {
+      "agent_name": "rajeshrathnam",
+      "agent_number": 1485,
+      "owner_hash": "802aca3cf7dbec666abf4c0a15074577add0618b8cb7706047d472ec278165d3",
+      "claimed_at": "2026-03-22T18:03:58Z",
+      "signature": "966359543984facfd6d17a1a5a83677c4e0113363ede812547529ff665d38d09bca029ad3bf531bf2d49f4231bb964c7a96fa47e48214ee416f5406b317ddb0e"
     }
   ]
 }
