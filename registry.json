@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T11:46:04Z",
+  "updated_at": "2026-03-22T11:51:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9004,6 +9004,41 @@
       "owner_hash": "4a1d61893e6ff7f5a1aef91cbf8f0978ec1f0563f3ac4e6bfe00df8d64c047c7",
       "claimed_at": "2026-03-22T11:43:49Z",
       "signature": "42d8337c93014408b530579ad583adf1af8fddf5edd454c9ec5bb2eb98a8441d5f8acd13c4faf8954003891a43ce9153876d9cc20d04dac443a2d59ff2e24a04"
+    },
+    {
+      "agent_name": "meow",
+      "agent_number": 1317,
+      "owner_hash": "465064f2231155787502f36907b6770b02c26ec893e34c8b9b5b2bc81ff8c1fa",
+      "claimed_at": "2026-03-22T11:47:26Z",
+      "signature": "7081c841b4ba706548ac7b5ef0c527842a2332998f6598402eb8e451575c776c88a06a9f747a9dff13f65c14f67fc873e7302810895d32e02904e47a0d1ec403"
+    },
+    {
+      "agent_name": "leonardovivas",
+      "agent_number": 1315,
+      "owner_hash": "e48f74d62ff05acfa8daa61b57dc2f387f7bebf1a1be703ba7de381fa5e97a26",
+      "claimed_at": "2026-03-22T11:46:12Z",
+      "signature": "de639eaac21f51eeb5b1ae340bd7322ccb14b87d4ce9ee82aa460bee1a043348d04c46f0d6fffa091e3f062d8107f12e795c1b0e07dbf38fdb11fd09ceb2d001"
+    },
+    {
+      "agent_name": "gecko",
+      "agent_number": 1318,
+      "owner_hash": "5c8b876c9625142c1d7df6a7c5c870198f655f6d748286c577d42a8cdb7cdccd",
+      "claimed_at": "2026-03-22T11:47:46Z",
+      "signature": "b72c7b2980c3cf48b9172a07e8fd6a2d42bf5edadcb339c5fdebbb34f938475f1d7b199fc5469256097dfb0102786fc04b3078abcba7a17c6cab6f34ce5ada06"
+    },
+    {
+      "agent_name": "mendez",
+      "agent_number": 1316,
+      "owner_hash": "f84d5aa0b48e3b008e225431e420e6d4884b51889ce57d1b27595ec15e396e3f",
+      "claimed_at": "2026-03-22T11:46:39Z",
+      "signature": "dba5fc488f8445c4b660b26c99a988e72d617f5280aeac3ff9932aa6c5c679c5ac57d288c311868938a94b2223a04a2d99136004c8685083ee9ed2f739cb2506"
+    },
+    {
+      "agent_name": "airtel",
+      "agent_number": 1319,
+      "owner_hash": "73493f4beea352821399cde88061a6e8397a779a86fcbdcd91e437c305359e5f",
+      "claimed_at": "2026-03-22T11:50:05Z",
+      "signature": "d35e094fd0d3935902123b7d078c3dbed13c47216eac5356d180f89acf7d381ca9c2b2e8babba1813b498cf0fa21eb2dfcb7509801f5a79656d7102e1d6f5602"
     }
   ]
 }
