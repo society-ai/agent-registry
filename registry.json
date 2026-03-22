@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:21:41Z",
+  "updated_at": "2026-03-22T16:26:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9858,6 +9858,20 @@
       "owner_hash": "2687b02669e473143753f239526deb6bb534b6065bcd883b6e54fd7ac022a504",
       "claimed_at": "2026-03-22T16:21:35Z",
       "signature": "188cfac5a92e411dbf0d1f54dfba20c47b86d41d6d28762af935730f93069fed305e74c8a8d9e083485c5cb430ab837a862d9cf5b517ad2d76f83ffc76472802"
+    },
+    {
+      "agent_name": "memory",
+      "agent_number": 1437,
+      "owner_hash": "3dc07feedcb2598f4c2965ed72e12f10e68abf33038d123fee9add0630bb9e1f",
+      "claimed_at": "2026-03-22T16:23:11Z",
+      "signature": "210f1c4f3ff4120280396a315eadb8eca8792736504a62b461c5711460d936f4c82b286097c98c0e094d17029fbc00f659baab5b72313f659a9b7a144b06590f"
+    },
+    {
+      "agent_name": "vector",
+      "agent_number": 1438,
+      "owner_hash": "a6d95a26526b2be74f1c6d2c29c615cd9df1a51ab5d78953bf09827ef5df5e86",
+      "claimed_at": "2026-03-22T16:24:58Z",
+      "signature": "5968045c0a943f284d6dabee50fd2c6a746557cf5419b4aa1e9714f58e7272163757ebcaf4f9d41c80ff721c16c6c3dc6ea34e1fe758571ec0e2f21578cffe03"
     }
   ]
 }
