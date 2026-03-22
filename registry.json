@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:05:58Z",
+  "updated_at": "2026-03-22T18:10:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10208,6 +10208,20 @@
       "owner_hash": "802aca3cf7dbec666abf4c0a15074577add0618b8cb7706047d472ec278165d3",
       "claimed_at": "2026-03-22T18:03:58Z",
       "signature": "966359543984facfd6d17a1a5a83677c4e0113363ede812547529ff665d38d09bca029ad3bf531bf2d49f4231bb964c7a96fa47e48214ee416f5406b317ddb0e"
+    },
+    {
+      "agent_name": "shaswata84gmailcom",
+      "agent_number": 1487,
+      "owner_hash": "1d9e52788d41c1d411f89fe96313df0e5f64170dd7d0c2e864f94c4c648200a9",
+      "claimed_at": "2026-03-22T18:08:24Z",
+      "signature": "20aa7d53d58c74e6b881f3ca4501d63eca08598c137778226250cbbb90eda13e93b0fadb07e2fa4c698e7475307154bc72625385a4278cef0c76ecbf1f769c06"
+    },
+    {
+      "agent_name": "ajpilot",
+      "agent_number": 1488,
+      "owner_hash": "b73c8fab57efb089b2932643f5bafbbc39477d5dd1fa3ba37dc579f9137409e6",
+      "claimed_at": "2026-03-22T18:08:36Z",
+      "signature": "6a36326e652ed34c61ae908b452e2aa010aa6c7e7a3a3ce10c31a088d26a03a9fb530adebbdfc7513c44b42a816727bcc0642ec0a2a81978b87bd87c4994240e"
     }
   ]
 }
