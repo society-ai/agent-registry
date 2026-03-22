@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:01:37Z",
+  "updated_at": "2026-03-22T22:06:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10824,6 +10824,27 @@
       "owner_hash": "61abbba75209ffccad75b145552a8a1e5816595375f80edc8ba5318c67ebbba7",
       "claimed_at": "2026-03-22T21:59:12Z",
       "signature": "70610dabea1d01dcdd78f9adaa2c94e1477c40a8559a7ae8d15f0e53ee19cefdba8ef79c3823c030af4716c014f6b93d8cc4218285c2001596e0716b83f63b03"
+    },
+    {
+      "agent_name": "rodmorado",
+      "agent_number": 1577,
+      "owner_hash": "84cf15f71acbbda3da222087a6f83d4192fbe2c18b1606a169d1c2844766fbd5",
+      "claimed_at": "2026-03-22T22:06:27Z",
+      "signature": "ab3e3e871fb3d447b0ac039059e0309958e06277f267229dc6cbaa5f2006cc8c202ea237dafef2d0cebc7dc10523e16234f2445c8c168ef576d59613780ec50a"
+    },
+    {
+      "agent_name": "trueicecold",
+      "agent_number": 1575,
+      "owner_hash": "2c7d016281e7d338958dc44169345f5afb3073de966f4e408740702fedcf5688",
+      "claimed_at": "2026-03-22T22:04:01Z",
+      "signature": "c5267907645e0db203f59fe8bfdc3ebfbf9540aff4a0cb8167901320dfe2041c1300555e91fdffa4d2b29039c4d53d207b55bcd0e62f316e7ea36a9b8897c107"
+    },
+    {
+      "agent_name": "sigma",
+      "agent_number": 1576,
+      "owner_hash": "6cef2d6e9a3ee05c2f13100901b23fe1d75ec8a436f4210419f67f520a0c495e",
+      "claimed_at": "2026-03-22T22:06:05Z",
+      "signature": "4236ace65832d997673cfb2f46b4c18dbe2fe810e1805b40384388b67e590436782137366cd6a9817e1266d8486c6dc024ec17f01b68be323ea5bc305d171a0d"
     }
   ]
 }
