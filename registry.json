@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T17:46:53Z",
+  "updated_at": "2026-03-22T17:51:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10131,6 +10131,27 @@
       "owner_hash": "db973da67f1982b011bdabc9df4acb6e987c6cf0d4a23d32d56899b4b61a009b",
       "claimed_at": "2026-03-22T17:44:01Z",
       "signature": "78b2c1f176a4ee10149c796a9504a512b6fa1cd8f1e6e16134834296a07884842944478b0e207f6e2f9d44e3a95e28e270f2dc2f41e4f6062318ca682b044000"
+    },
+    {
+      "agent_name": "listano",
+      "agent_number": 1476,
+      "owner_hash": "cb5cf4d4fb7e01e4a15575befb81166ebe29a54cdaf4aff38ff875134f592839",
+      "claimed_at": "2026-03-22T17:47:56Z",
+      "signature": "5025649eebf4506222b446ff994e76852fd8f68a9203273d8c51e8d6ccc2e776f76924a9b1204d0204979d3b1cde7e252695d0c1c9158af6aa2f551843452602"
+    },
+    {
+      "agent_name": "tkdv",
+      "agent_number": 1478,
+      "owner_hash": "65ec46c8ab5fdb45ab613f4f36b941889ad4a5e300d0cd1fdc4275b1cb6740aa",
+      "claimed_at": "2026-03-22T17:50:08Z",
+      "signature": "853e1256a3c2bb458d2e4f8f768f7ee8c17f72b9500e350ad1558a6cf8848c3a428f037a53a3faf89de1a34f77445ceb56535cb298517fb6e3c50d8938d55e0b"
+    },
+    {
+      "agent_name": "bridge",
+      "agent_number": 1477,
+      "owner_hash": "880ef1d62d464c467312bab14913c55f43bb8cfc33309cf9c1f3ede23d1758e8",
+      "claimed_at": "2026-03-22T17:49:08Z",
+      "signature": "7ea5d603688e6c2d934390d96506e1100a473a2b25c918396985109c7c68f16b2687280cb10e90a81f7c9979b0a6569a80439bcfee54c528d35dec7382b3680a"
     }
   ]
 }
