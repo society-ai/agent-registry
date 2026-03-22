@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:36:18Z",
+  "updated_at": "2026-03-22T19:41:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10551,6 +10551,20 @@
       "owner_hash": "917808d227bc48469cc4063772d4d8a0677cfc0574dd98aec8e2cad892df1a0e",
       "claimed_at": "2026-03-22T19:32:42Z",
       "signature": "0e9d0b121005cba23a8de8ea1d282a65fc61de60b180850143f99bc859e1af1c6f34f71c02823adfb5e733f34e8988237a863da2a3b8ee80d01b0e0691bb3301"
+    },
+    {
+      "agent_name": "oil",
+      "agent_number": 1536,
+      "owner_hash": "6b2b5e9403036f76bf3578d225cbf59d84acda48dbcca652edd27005b170f7e0",
+      "claimed_at": "2026-03-22T19:36:48Z",
+      "signature": "591409a0b629bad14acc7022e003f2d7cac8e8b041cebf08d6b4b0f0c2461bf39c8823666f5522718e89b3e7d3d6a8c9010314444d34f790da1d09852383980d"
+    },
+    {
+      "agent_name": "anon",
+      "agent_number": 1537,
+      "owner_hash": "7ec4f7c2c698f5898e0e7dd523b7c28719a5fd9dd054d7f70e8e8fefa6126123",
+      "claimed_at": "2026-03-22T19:40:21Z",
+      "signature": "a383c79f03b40aec806422b432219907ca8e3d0533141b995bc5768cf77baad89e07e99e2888b93200a9f3900db61da50607a48611973c6e58878f348114c80f"
     }
   ]
 }
