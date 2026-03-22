@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:21:39Z",
+  "updated_at": "2026-03-22T22:26:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10887,6 +10887,41 @@
       "owner_hash": "e538ac0a3fd2b16165772eb5ad8fbebb2cf4c6cb5eb472160430b28d51e9a5e1",
       "claimed_at": "2026-03-22T22:19:06Z",
       "signature": "dc6e2c8c709e3fa3b8233fb3d37046789fb2ef96669495bbf71250d2654bae60a0b716cb89bf6974552d22341b95d7cb915acd123d66116cc0e3e4131edc0b0a"
+    },
+    {
+      "agent_name": "holy",
+      "agent_number": 1586,
+      "owner_hash": "83c3075fc66e2689879159bad9adbaaa16738458b89f608dbe6b5516559d5b8a",
+      "claimed_at": "2026-03-22T22:24:39Z",
+      "signature": "9100bc3842d87c280e06b291ae91331431ab4e6f02fe49850ec220258f6dc2c9e3ce6ede4555e65693103129b429b03081b535e3a52a715792a367971fb0ee0a"
+    },
+    {
+      "agent_name": "black",
+      "agent_number": 1588,
+      "owner_hash": "f773a0fd912e0dbc0669f7cc0f5a9128705b94e7dc4b42c84614e48a203ab35f",
+      "claimed_at": "2026-03-22T22:25:06Z",
+      "signature": "2a5bde4222e42c3a3182d92281cba364d3b342a94d362750e21fb9ceeaaa96d6676a4076ddfb4a786c1c159935f2e1b7389cd1b8a6bfcd5f197f2f1a024dc40a"
+    },
+    {
+      "agent_name": "netwave",
+      "agent_number": 1584,
+      "owner_hash": "e15f44af1460104fa6324cd505d9b19c2da67e8a1c9837272a1a6303dbee5393",
+      "claimed_at": "2026-03-22T22:23:21Z",
+      "signature": "3f552abe8dcc2e0cd2efdfb37dce56edb018b48735b5c84259340b7334634b96c1fc8b3187b2f5b586b70b8e3d5dbd48c5a6b68cf51714073e83a754ec8edd0c"
+    },
+    {
+      "agent_name": "long",
+      "agent_number": 1585,
+      "owner_hash": "c50f44a51a0730ecdaf2a83cf3cb712de1d360df842b59426e5999a3700d7067",
+      "claimed_at": "2026-03-22T22:23:31Z",
+      "signature": "375cedf659eaa9c106960b10934e9b60948cc90fa975da8117a2b095f063c24ac8a01938df911a80508a1eb8b9756a5a3b259f87d784ac97f198c87e0985fb02"
+    },
+    {
+      "agent_name": "axnshul",
+      "agent_number": 1587,
+      "owner_hash": "34f91ea8dd8b96e7c6f254b943d0ad0285246a4fba0270848356a3d9b5968663",
+      "claimed_at": "2026-03-22T22:24:44Z",
+      "signature": "7dc3989f187b730a1e932bab097b1294b98fea93e2f24ecd6844071929cac0bba1a60762b5c796507560e7fcf2a48621bcea76f6da6c330dd7cb7a3c2242020f"
     }
   ]
 }
