@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:16:08Z",
+  "updated_at": "2026-03-22T12:21:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9095,6 +9095,34 @@
       "owner_hash": "be0909cc6bc249a540055984ff0d44c8708d03d9660f59dcd6b6a853dece8734",
       "claimed_at": "2026-03-22T12:13:01Z",
       "signature": "1e56961ecb856642defa4888b9e3596b08144c7623f0790127bb3b584e35ef14f6f82155c69422eea79f2ea4d17945bdaef095adfe8431c64f013a3c71aa2408"
+    },
+    {
+      "agent_name": "mubarak",
+      "agent_number": 1329,
+      "owner_hash": "da827c19fe96618cc89f079c4bc539e91dad1f6c99e634d0504b9b1f669bc0e9",
+      "claimed_at": "2026-03-22T12:17:59Z",
+      "signature": "3a3fa3949dc43dafe1dde5d71e903ba5d77b43633d360b5677eed9902604a2c4fe0134b4f014b434b72de352220fcc2313ff0bcbc508b49e15d7f8a9fe2d4a0d"
+    },
+    {
+      "agent_name": "quraeasy",
+      "agent_number": 1330,
+      "owner_hash": "99bcdd1fa3f163a199e43c19932f377b2bd7eb132b8ffa6b09e80896b60dedc9",
+      "claimed_at": "2026-03-22T12:18:21Z",
+      "signature": "2d8dcbb4864db1533c2f404897a939a621590f4b8ca6a523ed40b40a1d40878f008306d7e983250c2c36242bca507977b9f8db928cb4835ea8a147de66fb900e"
+    },
+    {
+      "agent_name": "giga",
+      "agent_number": 1331,
+      "owner_hash": "c60e9d32cab79d4785d6afd5949e8a73f842bc0db8de06efd1e131098715c416",
+      "claimed_at": "2026-03-22T12:20:57Z",
+      "signature": "d839799fc10547ec4e6e4a2c194f649d6106a6d37b9ad295df9ea57c8911e5d48815b707355ec630b53c61272bdc8d33392153950c83056090b3e41eaad7e209"
+    },
+    {
+      "agent_name": "tatethetalisman",
+      "agent_number": 1328,
+      "owner_hash": "be0909cc6bc249a540055984ff0d44c8708d03d9660f59dcd6b6a853dece8734",
+      "claimed_at": "2026-03-22T12:16:08Z",
+      "signature": "db3da279796a2feeacb48a5b3c66166545a90c12b48940fbc023fcb68541804c00463041708a244e7fef67de4f6dfe05a51757203413b80c677792e8854c6d00"
     }
   ]
 }
