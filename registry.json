@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T01:50:46Z",
+  "updated_at": "2026-03-22T01:55:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8675,6 +8675,13 @@
       "owner_hash": "98ad313f60c456fcbce74851527e85f8044284395a3268a7ec45a586914994fc",
       "claimed_at": "2026-03-22T01:50:11Z",
       "signature": "63dee8db3a48dda6195594bb1bdaadd0ba9157e3901c73e855fa3a3c8f44ed425ddf21e63d9059f317bdfb611060cac82866c83862fdbf0db7fa2aee1c576a07"
+    },
+    {
+      "agent_name": "earthdigital",
+      "agent_number": 1258,
+      "owner_hash": "703df2073b1d73222e32d4fd88283196e77550ebb9a3c4509bd26d47ff02f839",
+      "claimed_at": "2026-03-22T01:54:07Z",
+      "signature": "2c22bceb5e7e4761fc522c4fd9f0157861da64f2b0cd64a0feac2a5d0e10e0c14c5ae7658a3dd3c993dc9f1fb82fcab64f17a648c7b8cb269b8dbc9a0f1ffc0d"
     }
   ]
 }
