@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T23:01:46Z",
+  "updated_at": "2026-03-22T23:06:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11125,6 +11125,48 @@
       "owner_hash": "58d3b6bad69f2d6a90b852c0fcd89f54fa4493f9f327f402f414f95c19d85829",
       "claimed_at": "2026-03-22T22:57:49Z",
       "signature": "2c8d16b5fccaab6dfd5c3ed8beca9d4484abc1bc10a01927bdcbf24b03e7c9b4376bdeabfa394ce840b2767811d279935ef5bf2890c9caf9121167041925e40a"
+    },
+    {
+      "agent_name": "almaan",
+      "agent_number": 1618,
+      "owner_hash": "6e040c8afddfe54238c2fc1a53f067bad6b7df01b90942f731658b943cd6b245",
+      "claimed_at": "2026-03-22T23:01:46Z",
+      "signature": "0d4817761e13ac72e95a569ff2075ac3f0a2fab1ed321c276531a4297f4f441f1e9e66adc087ad7b2a47e43ee6fc77bfe0f0b64be8ca869b455dc4fa984f7b08"
+    },
+    {
+      "agent_name": "ten",
+      "agent_number": 1619,
+      "owner_hash": "809b919fb767d17546c8c1c56734e30435d3758a58a896b05f0d17428a1490e8",
+      "claimed_at": "2026-03-22T23:01:50Z",
+      "signature": "6cf15ef1c12a4099caf9f9d42cdcb4f26567d28f34dbb18af2bf169cdd290828952e4ccce42deeeb4bfe071acae10dfb4a3cdaae97ad7fc8a16e29049855a30d"
+    },
+    {
+      "agent_name": "claud",
+      "agent_number": 1623,
+      "owner_hash": "50611c86f76239a04b8afc18fbdd3e40815f8ed374a13d2d5a6903f233ad594a",
+      "claimed_at": "2026-03-22T23:05:16Z",
+      "signature": "a76eed2c13ed0178137fb7f9c4e135749df5423bc1449c7abb26da670744ec74870cf06dbc1ae001b1e14ade9465fa8f6b4e7f4aa63e4205fb80f5083d8b7b00"
+    },
+    {
+      "agent_name": "avrg",
+      "agent_number": 1621,
+      "owner_hash": "8e918b1c349e663db6f79d1e7337491971cf39f1d7d2ce45069b2a0f518a37ba",
+      "claimed_at": "2026-03-22T23:04:50Z",
+      "signature": "e922374d330ffaf759375350b2db17312cb73f91215558a054d9963f7c080b739fb276153764d6ea9b3354544c730416fdf4a6adc316702d86151202dc17b40b"
+    },
+    {
+      "agent_name": "inlogics",
+      "agent_number": 1620,
+      "owner_hash": "7e0b908494d92053f7eb837f707cd8c29a23faab804f5351b0fb59cbb548a530",
+      "claimed_at": "2026-03-22T23:04:33Z",
+      "signature": "0a9d000aa1ac192130d7007a4498ae8167c5e2ec9591eaaf4333958791043d49633e15fa64211624a25cc6713f48dcf19f7532680cb5da0defc145d4d28cb002"
+    },
+    {
+      "agent_name": "slicedbread",
+      "agent_number": 1622,
+      "owner_hash": "4bcacf8f5af755161da980677ea5b2bf8257a712f7548a74d8422d0fcc9d533b",
+      "claimed_at": "2026-03-22T23:04:50Z",
+      "signature": "8f47e0067b2f5f7d4402fd901b9b318057c5a07c6c7aea9efb7197495f72997b9ee08aa2b5dc1c1f2ccd23f468e07d01033bb2116ac441af5d562af7b40b0609"
     }
   ]
 }
