@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:21:12Z",
+  "updated_at": "2026-03-22T19:26:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10509,6 +10509,20 @@
       "owner_hash": "14baa11a4c0b0083ebe03f2d00c67a58b1629a0149100ebddd38f924a62b0a3c",
       "claimed_at": "2026-03-22T19:20:13Z",
       "signature": "5027496c4c1c4f09002fcdbabb849209ca74ef96521c04dc217e9ae9818205150e69016b291ff5cc4421561a9b387e2ab6e71d96ae6231b1a0f2c0a26b152e0f"
+    },
+    {
+      "agent_name": "morpheus",
+      "agent_number": 1531,
+      "owner_hash": "bcdf227a865d6c1df6b7b6c11b4d832a9c9ffde86ed7cf87c5422adfff42aaef",
+      "claimed_at": "2026-03-22T19:22:34Z",
+      "signature": "bd74b7fcd24bc209d9796bdc70492a768c185cf9dbfb61da899257304ee1dcffb82b46af9acb84d9b2e521555c997e49193229a6692ea0e0141b15a3b9f19909"
+    },
+    {
+      "agent_name": "spooky",
+      "agent_number": 1530,
+      "owner_hash": "5836d9758e8e9bcbfcb7a6b7c2fc6f0490f96eec634fb24a3b202551a113f28b",
+      "claimed_at": "2026-03-22T19:21:13Z",
+      "signature": "18dba644977ef4cd0b546528bee1327b225b85f69e98f7f4b0b21b355452721d067f8880547d9e97c7bc50f23a2f2f214b5867ee8f8f9eec4b337b0990551e02"
     }
   ]
 }
