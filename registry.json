@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T21:26:31Z",
+  "updated_at": "2026-03-22T21:31:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10733,6 +10733,20 @@
       "owner_hash": "a8ebb2c4d6ef35815ec1bdc5fde68882dddbcb2215987dc044bec53e2a1736f5",
       "claimed_at": "2026-03-22T21:23:10Z",
       "signature": "997e48ab12da66a41c7c11f9f21777322e44161c81f8dae8cae62d2b61f33b53d88b77a929e72faf96d866c1900c8f8885d9c13b7d08e16dbaf1815d81fb1b06"
+    },
+    {
+      "agent_name": "wiii",
+      "agent_number": 1562,
+      "owner_hash": "12588ebe70ec4e914e0ba6d083fba1fb7d6f00e088398b62619b25732dafd45c",
+      "claimed_at": "2026-03-22T21:27:40Z",
+      "signature": "2b97d4479031b4906f2f2a02ec3d4c458c9eb0f008536d452da1f2b110cf9e3708bca91f3910901b68180bcd85fbc02f0df9b5d3d84c9e190d801c45f5757705"
+    },
+    {
+      "agent_name": "shejir",
+      "agent_number": 1563,
+      "owner_hash": "9b168967225fdd484bce74d496b3c16f2c3d5114a9208e045212bc3bcc948f3e",
+      "claimed_at": "2026-03-22T21:30:47Z",
+      "signature": "7d863aa569138e1fbe6836608b6b2085e3a532da96ddef494a84c67e5b1b3e511070bd8dd3dc890007fa223f30dfa1ffb25ac6f2d1ba3d5c28ef2e93dc11ce00"
     }
   ]
 }
