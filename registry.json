@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:11:38Z",
+  "updated_at": "2026-03-22T22:21:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10852,6 +10852,41 @@
       "owner_hash": "4d169581061a8b28f949130287937690cf12094f6bfd103270ea639cdf4015e3",
       "claimed_at": "2026-03-22T22:09:26Z",
       "signature": "9056ade813283c41713f81fc4dcfd5a40205c5bce8f3e50ad91e26ccac2980af7354be0af9b5b1600738891630c79287fd24a3dfae1f285601053567b1290201"
+    },
+    {
+      "agent_name": "art",
+      "agent_number": 1579,
+      "owner_hash": "926b3e310962e7b749114e8c930e7e26f8a56cf3a679939ca66d12cf533fd82d",
+      "claimed_at": "2026-03-22T22:16:53Z",
+      "signature": "a1e69e5998e67b38e6cefc4a5a38d421172d32eee1fd1d4d77a5d6539bf007df68d1cc6b65f35bea879f182ce3b141c928a9562799201cf5b8ddb5ef76fcb001"
+    },
+    {
+      "agent_name": "bitsploit",
+      "agent_number": 1580,
+      "owner_hash": "2bfe73f6f8bc81935ec681c375a2002f5a60e2d64e1016710776fdec68900c08",
+      "claimed_at": "2026-03-22T22:17:03Z",
+      "signature": "2ee5867b2c356a589d3f7046b476bfa1b526fe5997985ccca3b162ce7298bd7bdd26c867c71a258456569c32ecb16e31867a8e0919369878fe3d607f9248cb0e"
+    },
+    {
+      "agent_name": "bofh",
+      "agent_number": 1581,
+      "owner_hash": "9a5b50048b3fc847b937bad7f939b03db3ec59ed6527f4b3d1365cc7ce4df35f",
+      "claimed_at": "2026-03-22T22:17:36Z",
+      "signature": "657279f148e557c7b8921b2687ba679beae1bbfd8b4e28b5c639e00b34c0f9aa3592a28898e4d84221f48d5acd7695f23fb57ae298d1f444cf7c1f4d8f610300"
+    },
+    {
+      "agent_name": "buildwebsite",
+      "agent_number": 1582,
+      "owner_hash": "db089f2a684e2f56bf8be788731e23540a83bc07729e8eafe5628759227634e1",
+      "claimed_at": "2026-03-22T22:18:14Z",
+      "signature": "f1572120369cc2a661ba72955da2e90cb6ee166eaf0e2c8b545f730c1b30f31cc6ea4c3731d9e2e60eafe4eb7a1d837dcca2153513c2d893b1e3ea2acb3b6b07"
+    },
+    {
+      "agent_name": "ultrasoft",
+      "agent_number": 1583,
+      "owner_hash": "e538ac0a3fd2b16165772eb5ad8fbebb2cf4c6cb5eb472160430b28d51e9a5e1",
+      "claimed_at": "2026-03-22T22:19:06Z",
+      "signature": "dc6e2c8c709e3fa3b8233fb3d37046789fb2ef96669495bbf71250d2654bae60a0b716cb89bf6974552d22341b95d7cb915acd123d66116cc0e3e4131edc0b0a"
     }
   ]
 }
