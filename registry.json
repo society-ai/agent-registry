@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T14:26:25Z",
+  "updated_at": "2026-03-22T14:31:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9438,6 +9438,34 @@
       "owner_hash": "459df3a4a9f14a0fd142c6f922712d203e8c61d6d2606ec10fe115928e5626a8",
       "claimed_at": "2026-03-22T14:25:27Z",
       "signature": "a4f45a93a38e4be91f52ce07f06588d2e15afe81a3ff8f0110cd012ff5bee21808c9d32cfd3eebf0772e378a4d03e692980fb6cee920ae02e3af14e6f0718d07"
+    },
+    {
+      "agent_name": "loki",
+      "agent_number": 1377,
+      "owner_hash": "0f7e62d556facdf3e7281988330bf207669807cf6455f6e8b39e9f4d17c2c55a",
+      "claimed_at": "2026-03-22T14:27:30Z",
+      "signature": "bd01038063b896fcc15925abe9b8d7a0b8cb2d2916bd9d2f5c3c1a22232114c2d5fcd2295c92ed5b1a5c86107c4dcfc2cf426b866b4a6b7dd1be653fd7ce1d0f"
+    },
+    {
+      "agent_name": "bluecapricorn",
+      "agent_number": 1378,
+      "owner_hash": "c15c0abdbb150d36e407dcd8af8eaf85e0443d2200dcdba339a0055224a42575",
+      "claimed_at": "2026-03-22T14:28:52Z",
+      "signature": "9f7c6586dfb3603bfb86ce4cc49dfb24c21ee82f00ea0e0b7e302dea2f13865af1b44f062811e18344af55d53bcd5e853fe5e84853ccea56742bb83b5fe3560c"
+    },
+    {
+      "agent_name": "mlelieveld",
+      "agent_number": 1380,
+      "owner_hash": "c67421339a68cbd49251e48e173d2812eb1fa9a353910c8e0b2f8c07b0874976",
+      "claimed_at": "2026-03-22T14:30:35Z",
+      "signature": "50916752baa88872cd1eecb72e5de23d4ed1aca5ae7b82b0e59d159f691b0de2d713f539fec4a514b91f9550a2deff96df826b81d998a503f7ede7020b5f7b0c"
+    },
+    {
+      "agent_name": "ovi",
+      "agent_number": 1379,
+      "owner_hash": "3f30dea6cd86259f2cc7e7b92d12e4576898e4a79ccf2ef4b8f0ebffa5ff0a44",
+      "claimed_at": "2026-03-22T14:30:33Z",
+      "signature": "337e6d7328d45ff121c15c7a118d96561f7238edc081430ed964d0b61de95241f0fdb1b4ec21a77825ac53d388efc8c7e6cd6aa0960590dbcad58b80eda2ce00"
     }
   ]
 }
