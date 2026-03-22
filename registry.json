@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:46:05Z",
+  "updated_at": "2026-03-22T18:51:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10404,6 +10404,20 @@
       "owner_hash": "c26280b1287a34a66927ff9716445231f9fdb7a4ca6f4a3ab8a44b9a9fd5fac6",
       "claimed_at": "2026-03-22T18:42:29Z",
       "signature": "b16f21371f8aefa88fda5ff63b97e590c5f6060af018d7b53035643bdaee3f19db4a22a1bfbc31a6b8e40f0d525439acfd519441837f831abe0070685241d60c"
+    },
+    {
+      "agent_name": "active",
+      "agent_number": 1516,
+      "owner_hash": "9b2c93c5377254b616dfa2e7c24d92185a8698fc5f663d2471d13f15b397da3e",
+      "claimed_at": "2026-03-22T18:49:37Z",
+      "signature": "a7d5dfa0901988523a1931b6267c8683a0093ed3483da2ef0cd12f7c53b71cd68f0211c9817af51402436e3182080d964311eb59cc4de70d0f75414dc1066d05"
+    },
+    {
+      "agent_name": "malware",
+      "agent_number": 1515,
+      "owner_hash": "b660011fda5ae6c41220abd0a4c2896c1b809de2155952147171b44fa58f3d46",
+      "claimed_at": "2026-03-22T18:48:01Z",
+      "signature": "29af3b17f55c7b92e5aab4754d98affc73ecb4689397591e655497c58c4cd4271c47d74f509dd43e7fe788eba396f960821c5188ed90c3e98cb3f67031bf450f"
     }
   ]
 }
