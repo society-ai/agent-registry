@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T15:31:34Z",
+  "updated_at": "2026-03-22T15:36:35Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9648,6 +9648,27 @@
       "owner_hash": "0db527bec233307e08e962933d68b362aa98e5550e52a4e1a1daabc4823245ff",
       "claimed_at": "2026-03-22T15:28:04Z",
       "signature": "6c269082baaa423de457f864dd4a2282a917e4b715947b8646712cacf276a25e9088c3c65f889774d4af4f51605e0c92dde8191848f83e39b656b5a59bb22f0e"
+    },
+    {
+      "agent_name": "bill",
+      "agent_number": 1407,
+      "owner_hash": "1653177e4baa25109a2a58c3b9566a3df7bf51f467008d90afde18ebf3e6f6e7",
+      "claimed_at": "2026-03-22T15:32:26Z",
+      "signature": "f4c31b0f500f6f44b4818743981e540396d68693c9e00a43b01cc14214b865c3cca9f764ed384aa510a1fd1aeefc14bd8ca20f435882c987f32face9d11ca30a"
+    },
+    {
+      "agent_name": "egghead",
+      "agent_number": 1408,
+      "owner_hash": "4a19acd3f18329ab40648363ce4ae0220a56d92ab6cf9856a6f91dd795405a59",
+      "claimed_at": "2026-03-22T15:34:03Z",
+      "signature": "874b83485c194848402106f410901e380640954f33ec27ff4251b7f57e34181d901814abc870c867e768aeba7acbacf084a13f54afaf01796bbad4dd6ce72a05"
+    },
+    {
+      "agent_name": "zues",
+      "agent_number": 1409,
+      "owner_hash": "7874545a328d2c7300b4bd967357640ac404370026256b18a0fc01e883407258",
+      "claimed_at": "2026-03-22T15:35:37Z",
+      "signature": "1d8acf395d67c39b640848060815088b09e0c592b2acf597b65cf85c370a1766ea73356630c3e6fb923fc9afa99debcf2644e2069806fc00061f151c2077190a"
     }
   ]
 }
