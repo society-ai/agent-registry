@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:06:11Z",
+  "updated_at": "2026-03-22T19:11:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10481,6 +10481,20 @@
       "owner_hash": "c5d7a511ba45bd9b9a7131bead2f68bad502932ca50f6dcab5fc00bbfa6bd022",
       "claimed_at": "2026-03-22T19:01:59Z",
       "signature": "0cd39d705cb4eb263aa7f83ad420983c6d65a52a8f9d07714a9de0997723506b927ca9006cddc9d7b9c178b9ae349050a07756d51d4d9363bd508f706ff67d09"
+    },
+    {
+      "agent_name": "smartcafe",
+      "agent_number": 1527,
+      "owner_hash": "af6c8e3b213994240110d736481cebd1128b34254d7d240431b25e380705a853",
+      "claimed_at": "2026-03-22T19:06:35Z",
+      "signature": "dfff026494e19525791a7856484c77b5250b7e2233e60b44bddec5d0f3974ab5f6403549f4935c403ac416768a1edb370f6a0e020fe3845212152b24d0618a04"
+    },
+    {
+      "agent_name": "galaxy",
+      "agent_number": 1526,
+      "owner_hash": "6f8a27473f50ea83460e87bae3e7aafc0c10c21fd19311759ea53a9d0d4e2ec8",
+      "claimed_at": "2026-03-22T19:06:23Z",
+      "signature": "010733a0c1aa34997d770428ea3312b010d557f82b78cd8bebdc9698ea991271f440e681d0f80f0989c6807930f102b48317ceddef99ad47020de748d101c206"
     }
   ]
 }
