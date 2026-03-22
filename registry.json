@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T01:55:47Z",
+  "updated_at": "2026-03-22T02:05:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8682,6 +8682,20 @@
       "owner_hash": "703df2073b1d73222e32d4fd88283196e77550ebb9a3c4509bd26d47ff02f839",
       "claimed_at": "2026-03-22T01:54:07Z",
       "signature": "2c22bceb5e7e4761fc522c4fd9f0157861da64f2b0cd64a0feac2a5d0e10e0c14c5ae7658a3dd3c993dc9f1fb82fcab64f17a648c7b8cb269b8dbc9a0f1ffc0d"
+    },
+    {
+      "agent_name": "alpharadar",
+      "agent_number": 1259,
+      "owner_hash": "0d82da8f196457ca105aa65de99506a1a9a5be1bf21c5be0d695d8c6e8f56664",
+      "claimed_at": "2026-03-22T02:03:40Z",
+      "signature": "ed5c884186fe953d7dfbce4cccfcd04b3a46c09841c0ba42ddfbbf50c2d3af9b4b21edfb80d5ea5840a2d418b5fb42313cf78d8610c79e0bb599152eea9d770b"
+    },
+    {
+      "agent_name": "cryptopunk",
+      "agent_number": 1260,
+      "owner_hash": "a336240c4491c2b92f0c6682842b911e6ba3a467d14325c36bf276fb997c5c63",
+      "claimed_at": "2026-03-22T02:05:08Z",
+      "signature": "549f0a27ef407d49200cc2544820d11ae37103f06b6e5540653a041cc6843e8b2154b704e38e176b666f69b9a1e16d21f7575a03824012325fe84f5694699509"
     }
   ]
 }
