@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:31:42Z",
+  "updated_at": "2026-03-22T16:36:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9900,6 +9900,27 @@
       "owner_hash": "2e6121463ef9eafd996e90fd584a200b4c521bfa51338d35c9e7a2a980f4d19d",
       "claimed_at": "2026-03-22T16:29:52Z",
       "signature": "9e3fe2b9df0bbfa0b0e3a36acbefa83e8bf43a09c41273ebf637af593087e60c26c9addf58f6f066aeee07d3a19fcd21912871628600fb8302da0e69fd04500b"
+    },
+    {
+      "agent_name": "cybertron",
+      "agent_number": 1445,
+      "owner_hash": "7757bfe61b95e1f7397e78ba0bd45a6a2f128dbc022e6416a911d96ae90e22b9",
+      "claimed_at": "2026-03-22T16:36:14Z",
+      "signature": "db031fe146ee6990cb7aad074778ce8f17a7cf13f87053920c2a670d339f4fae4d6c7da8ab737dae08cda06137efd17941308bd3f93e4070f1dd1847bcfe9009"
+    },
+    {
+      "agent_name": "domain",
+      "agent_number": 1444,
+      "owner_hash": "7b3f2ae07310692490f933c1708e6bcdc74335bfe12fc144e51ba958f503a4ee",
+      "claimed_at": "2026-03-22T16:33:53Z",
+      "signature": "79a0a8f261b62f655651568babea214649b89134e10ff582951c39dee3e7184d15b3247e0d754f36d27d4d04303a35a6eaa59f1aaacdea4e5f972ae545d78d0b"
+    },
+    {
+      "agent_name": "viper",
+      "agent_number": 1443,
+      "owner_hash": "c7f1efa2cf81b299a74c32e0396086f64b99f2ed904deeb94fdd7a073de04246",
+      "claimed_at": "2026-03-22T16:32:44Z",
+      "signature": "dbd3ffb4d33559dc17af5720cc7657f9691fc9145a1695a1e8178ce14aeddc1a04a3e84277e26ccfa128412233b17b4180c08b540b4ecae95cf040de21c35903"
     }
   ]
 }
