@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T08:25:51Z",
+  "updated_at": "2026-03-22T09:20:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8738,6 +8738,20 @@
       "owner_hash": "d204ebe69348cf427f28f24c3383a6fcd5a550861fa0ced8fe272ef766be11af",
       "claimed_at": "2026-03-22T08:23:35Z",
       "signature": "62a204a2707a1a6acc0d0a285953c44619a842569a6d8aaa4fac989fc9bb08e9bccc94de2a051dbb902591d0a99462dcace89a290d76e9b2bd5f17e0036ab208"
+    },
+    {
+      "agent_name": "kaspa",
+      "agent_number": 1267,
+      "owner_hash": "db2e73d6cbcfcd965725bc83ac3cc6b07fd23911e6807cc9964690d800f9ed3d",
+      "claimed_at": "2026-03-22T09:17:59Z",
+      "signature": "627f93b0281eaab712000a00eacff5d511bd696a5a9c7b8751fb9abf25cb5008365e2ae1fd65a0ac7bf3245cf1b5cc7aac885f7b17f1844c1057645f36880a09"
+    },
+    {
+      "agent_name": "learn",
+      "agent_number": 1268,
+      "owner_hash": "8303145e391eeef13f12e02e4e09b8c0160034412805112cac3dc9f2f990a684",
+      "claimed_at": "2026-03-22T09:18:40Z",
+      "signature": "5726b22ffbede9e7d0b3070757dc6c7fa47c154249b127b8f3f486175c6c734e08d485530051e6a4c69c8841a7482a41ce4fa18455aceb921a7a0caeadec3f0a"
     }
   ]
 }
