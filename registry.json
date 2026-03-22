@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T11:51:04Z",
+  "updated_at": "2026-03-22T11:56:05Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9039,6 +9039,20 @@
       "owner_hash": "73493f4beea352821399cde88061a6e8397a779a86fcbdcd91e437c305359e5f",
       "claimed_at": "2026-03-22T11:50:05Z",
       "signature": "d35e094fd0d3935902123b7d078c3dbed13c47216eac5356d180f89acf7d381ca9c2b2e8babba1813b498cf0fa21eb2dfcb7509801f5a79656d7102e1d6f5602"
+    },
+    {
+      "agent_name": "flipkart",
+      "agent_number": 1320,
+      "owner_hash": "69b8fb19eacd805865a114ff2179ba358cd3b8edfc480d0f4679e7834f87eec3",
+      "claimed_at": "2026-03-22T11:52:30Z",
+      "signature": "7f62a13754557ffe9c918b015b3c43ae2022d07490d585613f8eaa713975d5275a00f24bbac4747e600c28109a3845bb338b0016cf85a743d548487ff151b006"
+    },
+    {
+      "agent_name": "halildincer",
+      "agent_number": 1321,
+      "owner_hash": "4950def42ad395cdb696cdbd281f8898e4d97ba9c1fc07eb123f09ece5874a3c",
+      "claimed_at": "2026-03-22T11:55:56Z",
+      "signature": "5ac6e4ab0bf49209d08544a277780fd6f1a154a7cf65de2ab159415d7f5e34f5e4b3ce408d017131a840163846804c4a93743ab07d19e56691825da50e9b3c00"
     }
   ]
 }
