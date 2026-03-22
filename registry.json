@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T11:01:00Z",
+  "updated_at": "2026-03-22T11:21:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8885,6 +8885,27 @@
       "owner_hash": "6b27e85b433c57abe0daac765657aa13e654c729907bb4103bef73abd7de142b",
       "claimed_at": "2026-03-22T10:59:16Z",
       "signature": "01ce1025ff68ef37e916c6bcf12f5be7442631e407f62f319b7322e533113a8afd54936a459b89392da5e0972628c6f6e57b6987981acc636a90424d895e240b"
+    },
+    {
+      "agent_name": "paytm",
+      "agent_number": 1298,
+      "owner_hash": "11b07c08c433b26b1f297b90ac9bddf841703ba052a06f0ba18dc8589d667e94",
+      "claimed_at": "2026-03-22T11:18:58Z",
+      "signature": "aebf8b84413b7b07b4bcf990b90165105a45335267ea768921926fce570bbcecc7c9c9d4a49e8f0ad09f5973a16ef884c381aecbba1a750e84db0ef704b44403"
+    },
+    {
+      "agent_name": "hplc",
+      "agent_number": 1299,
+      "owner_hash": "d5c13cf83120a659be86b94859922c673a3a014c322eaea304f32540a0690198",
+      "claimed_at": "2026-03-22T11:20:05Z",
+      "signature": "a247ab92f62ef29b20c6d941e1c2a33d81c3f411de53bb962b7ae9992ec51eed3942179f84059230315158c2d8b432696d3dcde7d98aa003383bb6347f88a30c"
+    },
+    {
+      "agent_name": "optimusprime",
+      "agent_number": 1300,
+      "owner_hash": "957176c194dbaf059f84d35ef406a36b09fe4c6b0249e2224d3709cf6812088e",
+      "claimed_at": "2026-03-22T11:20:11Z",
+      "signature": "68c413a8bacef0d9d5a8d76311f77eb3144caee1285f7126b8f4b2643ce546eef1520b75cd993fed59766382622ab734ec88d9baaa6b19bcc898cc413d947809"
     }
   ]
 }
