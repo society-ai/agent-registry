@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:36:11Z",
+  "updated_at": "2026-03-22T12:51:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9179,6 +9179,27 @@
       "owner_hash": "3c6ca411fb07a261ba3576762868fa38c6158bf28741fb65229e191f1ca1a78d",
       "claimed_at": "2026-03-22T12:35:50Z",
       "signature": "6b8f68c4ffd35c2cab3e1ebed63003d39b2c37c16e31d28825ef727d8c99faac1d9c04e6ec8a1011ee1c8047871e8770178099b08deefa42a1fc9b58e7c7e005"
+    },
+    {
+      "agent_name": "ship",
+      "agent_number": 1340,
+      "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
+      "claimed_at": "2026-03-22T12:49:13Z",
+      "signature": "fbd5c8724955cb39808851ae520c6435fb725645b8cb68406949accffb2b3e1bac1eaa1f83775517962b09d4b7ff20126f003778bcd9740146fc4ef4c62cbd01"
+    },
+    {
+      "agent_name": "piero",
+      "agent_number": 1341,
+      "owner_hash": "9afd9b54472c83b55f9223377040539339af6a8fe83cd161c7fa2ada935e1a66",
+      "claimed_at": "2026-03-22T12:51:00Z",
+      "signature": "45106b3e3794afeaf49f749b06da123067b6029b35493a134c5011a260cec733d6b5a762daefee4ccc9c28e70a3600c70c41507fa6ce1e4becd76e088edb2609"
+    },
+    {
+      "agent_name": "tax",
+      "agent_number": 1342,
+      "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
+      "claimed_at": "2026-03-22T12:51:06Z",
+      "signature": "60fd4a958378ee51be97f8d077bff12dd7e369f05b515d97e43f7f9ac9e9f4fb9baaccd68d01d08786f7b828a4e02991350f083c9761aeb6bd930a1f91789b03"
     }
   ]
 }
