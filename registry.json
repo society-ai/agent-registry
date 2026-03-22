@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:11:08Z",
+  "updated_at": "2026-03-22T12:16:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9088,6 +9088,13 @@
       "owner_hash": "5512b89d5f69f44075c0d3e775147c058ff25bec58e85be2d168f21f54901068",
       "claimed_at": "2026-03-22T12:11:01Z",
       "signature": "d3853a351eb14edba90c4cefc477a851ac287c4a2c9b3aa4bc27abada09f72ddbea402ea31b502feb45c525bdcef8416b5c02bd0a070f889aa55069460db6008"
+    },
+    {
+      "agent_name": "cobratate",
+      "agent_number": 1327,
+      "owner_hash": "be0909cc6bc249a540055984ff0d44c8708d03d9660f59dcd6b6a853dece8734",
+      "claimed_at": "2026-03-22T12:13:01Z",
+      "signature": "1e56961ecb856642defa4888b9e3596b08144c7623f0790127bb3b584e35ef14f6f82155c69422eea79f2ea4d17945bdaef095adfe8431c64f013a3c71aa2408"
     }
   ]
 }
