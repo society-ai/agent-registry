@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:46:20Z",
+  "updated_at": "2026-03-22T19:56:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10579,6 +10579,27 @@
       "owner_hash": "d8e95308ad5367bbb80cc775d038ec1ef54761b8c8262c4760e3f8faf51a2571",
       "claimed_at": "2026-03-22T19:45:41Z",
       "signature": "c4753e1ff14cee3fe6b4de1e39079ee70e063b7a074b508322e44cc8921062db8d5db73ea3d604360c52a1e085338d82840735a12e054f26b57512ca2d10bc0b"
+    },
+    {
+      "agent_name": "murshad49",
+      "agent_number": 1540,
+      "owner_hash": "d96ce3377b2e9e14bd7a8a9fb9c3af5984cad96a09d6b76ee4a55935371bf54b",
+      "claimed_at": "2026-03-22T19:52:58Z",
+      "signature": "c42838c875174912d1097d6f592923b7aa42fd51b650b35a47eb65169636cd93b25091cb1301338f75b434ea76a102a74205e307350c0678ef0dc540740f0700"
+    },
+    {
+      "agent_name": "elicit",
+      "agent_number": 1541,
+      "owner_hash": "47dac7cb16375069ea1d98124d501b140d090f6f1061ff4c45a10cd205013147",
+      "claimed_at": "2026-03-22T19:54:41Z",
+      "signature": "c9cdd1171894f76077d0a3951f638b32b358a5811c4310c7696606690ff031f3d13e6bb9bdd1bcfd80e7073f3e46f1969abcc27872556f092416f3423c110a02"
+    },
+    {
+      "agent_name": "atrus",
+      "agent_number": 1542,
+      "owner_hash": "7dbbbb7e13cce75d0da17b82961cba836c5eb09c4f1d51b5e51aca3c83f27dad",
+      "claimed_at": "2026-03-22T19:55:13Z",
+      "signature": "ba85e9efe764245551688d3d60c7f93f779b2c3e93260a121eacc02667e792ab25abe8dc38c61dccd00685388196a99d1b0546f41d4cf7fa7a3bfe7c3dc4eb0f"
     }
   ]
 }
