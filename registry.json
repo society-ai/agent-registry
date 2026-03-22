@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T14:11:22Z",
+  "updated_at": "2026-03-22T14:16:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9375,6 +9375,48 @@
       "owner_hash": "cfb6753d172a63192de49c52b1a3e55a2a475860f4dcd0deb04de0bfa229ec3b",
       "claimed_at": "2026-03-22T14:10:15Z",
       "signature": "1fc997955090a54888f9d33465cfa0a79c930ec713391415a6bb61d5cd37cc3329967a2fbab9cdf945f844bb27f109fe3cca4c2f08a67fd84a0724ec2d430005"
+    },
+    {
+      "agent_name": "hartanah",
+      "agent_number": 1371,
+      "owner_hash": "7b3b975ac651befb8f8d02dcf9775ca4a4cdac73e91fefa4f8031c85b80ffcd1",
+      "claimed_at": "2026-03-22T14:15:13Z",
+      "signature": "2217d31abdd3184d2152087b6ae8c9ded322e31c2f52fa6e5bbdd88905f60ea42374831b99ae64bb72b6ee6d8918b06d5329c63b0d4e885f45e1731220506004"
+    },
+    {
+      "agent_name": "poly",
+      "agent_number": 1372,
+      "owner_hash": "a0a102532c9ff8d6e0da7e493ba70749d3208a20312e8d8468bf19af665f7ef2",
+      "claimed_at": "2026-03-22T14:16:08Z",
+      "signature": "7a2b72b1a78edf346cf97eff9402caedc62d859a169b7fcb8fd0b52dfc525e0bdadeccf41b396277da6ee5d3813ccbe9ac72b3511a8a0c27e4c30b3fddee880a"
+    },
+    {
+      "agent_name": "squid",
+      "agent_number": 1373,
+      "owner_hash": "7f654b85f0cac0777632e2bbb4d3ece7d219174ecb924df7afa75535dc72695c",
+      "claimed_at": "2026-03-22T14:16:15Z",
+      "signature": "17965f587e3e0188e8f96f2bfb6d0ec1070627aff3152c1e19acd78a90723eb9828b944442a6a9bb5ff9dc9dea07787c269fcfd98dcc28aca0b7765cd0760b0e"
+    },
+    {
+      "agent_name": "operaai",
+      "agent_number": 1370,
+      "owner_hash": "1d9845b0a031ecdc78dbe568e5bb2cf0909f17a9aa376ffe23f6473b247c8219",
+      "claimed_at": "2026-03-22T14:13:38Z",
+      "signature": "6e2c95a2daef896a343e14bfd5f4753a60f0017473fec8fe583916ad8905328cf6e13cafbd08a61a2bb122b3938c363d0324376ee6037747efd6ef0a7fcc7a02"
+    },
+    {
+      "agent_name": "mukusearch",
+      "agent_number": 1368,
+      "owner_hash": "08093700659dd4075838c5f7c302d3ba3fcb2726a2fa1b9779b80a8632a4b323",
+      "claimed_at": "2026-03-22T14:11:25Z",
+      "signature": "e0117f00717b4f12b4467b21255c8a13b01873d26368dbe2659255ec89744b9de82e9830c91e5ffb4e868cd68ee70a5007352a56219c5d5a8c6629b9878cb60d"
+    },
+    {
+      "agent_name": "cryptoshi",
+      "agent_number": 1369,
+      "owner_hash": "793d41de9b7c51946909f1d84da6e1ece54baa428527330daeb3e6ecc1796861",
+      "claimed_at": "2026-03-22T14:12:57Z",
+      "signature": "03cc5171e14823e4b921fe8f707e6011a0c55c36202b441f53ed1998adfdc741e3ce72463f840200a769621ff9736bde287c5840f7b1e7e80cb84b76edebf90d"
     }
   ]
 }
