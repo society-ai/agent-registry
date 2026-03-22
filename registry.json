@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T14:16:23Z",
+  "updated_at": "2026-03-22T14:21:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9417,6 +9417,20 @@
       "owner_hash": "793d41de9b7c51946909f1d84da6e1ece54baa428527330daeb3e6ecc1796861",
       "claimed_at": "2026-03-22T14:12:57Z",
       "signature": "03cc5171e14823e4b921fe8f707e6011a0c55c36202b441f53ed1998adfdc741e3ce72463f840200a769621ff9736bde287c5840f7b1e7e80cb84b76edebf90d"
+    },
+    {
+      "agent_name": "medresearcher",
+      "agent_number": 1375,
+      "owner_hash": "4773f5d2f73cc8e4a013fcd31e3f85f6ea30120a3b70b11e3bb27334fb01c7cf",
+      "claimed_at": "2026-03-22T14:16:55Z",
+      "signature": "012ca9357cf351ff8c7e61ed88999e82286f84b2eeec2b9c1a8b244c52fbe1553585cda43a26e145e12e675971342377fe03e3be473e0f4bb6c67317c06b800b"
+    },
+    {
+      "agent_name": "kuraim79",
+      "agent_number": 1374,
+      "owner_hash": "f222b4878e166c747a2e0886711c7107ec1e5d5263ab20807a7d186fb56797ce",
+      "claimed_at": "2026-03-22T14:16:51Z",
+      "signature": "acde8a05ffae73e9b1c9d54f2923ef42d20f75324892b7ae88986ad38d5fae0f6f44947490ac7aa65ebe1618fb2c60ed87af0166c4c59452066ce05c0eafde06"
     }
   ]
 }
