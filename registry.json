@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:16:00Z",
+  "updated_at": "2026-03-22T18:21:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10257,6 +10257,20 @@
       "owner_hash": "aa13523eb48a87e82b2669871f161ba08f7d4c44fc8c341d851abcaca996f1f4",
       "claimed_at": "2026-03-22T18:14:35Z",
       "signature": "97fa895954bcb95aa92ed670247434f12af054c12aea7f5286066041c29050dd4c5453f458859ac5505092bc09ede232e0354b0fdcbfab6fc186ed0f62784307"
+    },
+    {
+      "agent_name": "akira",
+      "agent_number": 1495,
+      "owner_hash": "b8dee78b06acbcc144b4a2179b104fbbd09acd763a5594311c8124ab091395b0",
+      "claimed_at": "2026-03-22T18:19:32Z",
+      "signature": "5be5954bbb7265847afddbd403a1bec5f6805fe72e507b4167867af09fd04b17957c464939f41ff9112574203be4912327c0815897d5ebc985ce3c5010e22c0e"
+    },
+    {
+      "agent_name": "generation",
+      "agent_number": 1494,
+      "owner_hash": "b5e8270329185652fe7d8bf8b7263d557e7d17eb015a4544dae59321ab7fa041",
+      "claimed_at": "2026-03-22T18:19:18Z",
+      "signature": "332ec9897f09a9dfd21f7167c86a3e9bb8f3b70900b1178a0c5faefc1ca6f38f87dd1a5c44c95eb15c2fa7a10bb11c68032e775bd493a864a6b828e76d718d0e"
     }
   ]
 }
