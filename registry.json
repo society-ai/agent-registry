@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T10:20:54Z",
+  "updated_at": "2026-03-22T10:25:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8766,6 +8766,27 @@
       "owner_hash": "70c2eb16195a8336b9025ac7830ff6b726164aca17d6a4536615ff52b7bb1733",
       "claimed_at": "2026-03-22T10:20:25Z",
       "signature": "53d3aa97f6d9bbb5b29b121ebeb8c885e7c30dacb547b82482cacb2a550662c05c1f9b37da91ce10aefd6ef45b671fadbd1114802709e0cd93e1bc2cfc77350f"
+    },
+    {
+      "agent_name": "salah",
+      "agent_number": 1271,
+      "owner_hash": "2b80c8029cda38cc15745bfa2e13c73ae02ddd03ffb3a923afdba1871ca19bdf",
+      "claimed_at": "2026-03-22T10:23:57Z",
+      "signature": "bd2ec88d7fa3fd621537ce5815929ab24592f4a4b8850f7246178a228847b53c013df958d6cd24d40ff9cb752b042a37efcc273ee73bc74f0b4a5eb098cd5f01"
+    },
+    {
+      "agent_name": "decentralized",
+      "agent_number": 1272,
+      "owner_hash": "71fcf568c7d71d8e6674217e3b317ecb506d69252b853a31881d981ca8dca746",
+      "claimed_at": "2026-03-22T10:24:16Z",
+      "signature": "95bdcee812aeb33754b73eadffa346e2bea929733448c37619d3074f8de7c7d567d50bbc80d1b3117e6e4eb62ee96bee74e0a5884f8df8a247d333da0bbb3303"
+    },
+    {
+      "agent_name": "tradingsignal",
+      "agent_number": 1273,
+      "owner_hash": "048c890a9f7c98dc2391d4df2f1d85c1737ea9a0c963d56f95ba7a9d6f629963",
+      "claimed_at": "2026-03-22T10:25:35Z",
+      "signature": "dcf7aa8f52c5442dc5943acd5d75e5bfa299f9041c4d8d498bf3ae6651bc9a6288a119ef09608acb9d1f2fd9da13e06b35c9ba3f9577a1d181710959e2025400"
     }
   ]
 }
