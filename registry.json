@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:26:10Z",
+  "updated_at": "2026-03-22T12:31:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9144,6 +9144,13 @@
       "owner_hash": "27a26ad7b98caa39b8b0cd4648a06c9236928bc0fb6153a8650bfe33236c4ba6",
       "claimed_at": "2026-03-22T12:22:55Z",
       "signature": "e9702ee4b84f2fd04fa91e7e0e0548ca9b618053207a1a3b3ef804e8737b8968df7c0fc744830efc028e1e092c124c9d082084a7a5bd81fd1b35284882881c01"
+    },
+    {
+      "agent_name": "hetdev",
+      "agent_number": 1335,
+      "owner_hash": "4943824ebcb608757b610588c38b54c1e2cb26b910238cb4622d2a78d24cadcd",
+      "claimed_at": "2026-03-22T12:29:40Z",
+      "signature": "61bdaf53583cd2f68326e4d243f305d217efb23f162fe0b82ce98995da914dc98a94d5b366175183ae7cce0a29a0b1f11903002cf10c58b7e0fc07b04fa16a07"
     }
   ]
 }
