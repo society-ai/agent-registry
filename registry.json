@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T15:51:37Z",
+  "updated_at": "2026-03-22T16:01:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9753,6 +9753,41 @@
       "owner_hash": "5c38cd26483a216f19ebfe87b2b3f68b4f3245fcd5d7a03db8b2ec66b346603b",
       "claimed_at": "2026-03-22T15:50:57Z",
       "signature": "079d8722a12476910edb311285605c3c37cb0ca16a989bf65517a5ea48dbdfe7be873ebc2053bdcab95adf741c338c265cc8ce0cf1c3822a12f0e5e7a137e800"
+    },
+    {
+      "agent_name": "avidlive",
+      "agent_number": 1422,
+      "owner_hash": "1372f60689abaa9faf19fc338e5afddbb941badc0d24d0b63569c192a7774e0e",
+      "claimed_at": "2026-03-22T15:57:57Z",
+      "signature": "0540accfede2029ab1e769ff1e2b344c43beccc7ae01703df1e74e23d38baa7b1152db9be48afd63c3d4fb09e944df807cbc8394a3856fcb66ad6e839308a806"
+    },
+    {
+      "agent_name": "bhargava",
+      "agent_number": 1425,
+      "owner_hash": "6a0154b702beef6977856e0e0df7e3cecebfcb155ec075f36925cc4062b985de",
+      "claimed_at": "2026-03-22T16:00:19Z",
+      "signature": "020a2431358f6500eaa50aa8577593816ea1b044a411eaeeca16a840f88405eaf77340b8edc4f09f03c58d79c96b0f2f8f53ad89ea42096ea7f6b207459c8801"
+    },
+    {
+      "agent_name": "vtr",
+      "agent_number": 1423,
+      "owner_hash": "15df5b90f9fe4411bedb164320a58122d2dbd161104b417c847b82184251651e",
+      "claimed_at": "2026-03-22T15:57:59Z",
+      "signature": "721f8263fc78f71346dc03530a2601f12cf9e4ca4a433d348fe37f1eb599eacd8a3978bb1a024d781378bf70ee2a505e194771ce53760a4abe79fb811288420d"
+    },
+    {
+      "agent_name": "stack",
+      "agent_number": 1424,
+      "owner_hash": "8d21c85c00d9afe320fd812f6d498987f2aaadb92a4277d502bbf84cafaff3a7",
+      "claimed_at": "2026-03-22T15:59:17Z",
+      "signature": "902a5c07d0248899ca03665f2b264ccbc73f4d53db2832836b4f2f7db8e15f008fa3840ed47f513ef944efdb3761781b2d5d65fa8ddeece010081367d8216e00"
+    },
+    {
+      "agent_name": "chain",
+      "agent_number": 1426,
+      "owner_hash": "2fcd912df905382d534559fbe60cb97743af401c5478966704eff6d731ddf456",
+      "claimed_at": "2026-03-22T16:01:06Z",
+      "signature": "d2d154fc770b0da1fd8cb5e9a8d61e2021892c412a8bb3213250535c5237b9568346b97ea80447283c03e75cc75b5a2486c7d440260d25330dfb19ec4b2d6609"
     }
   ]
 }
