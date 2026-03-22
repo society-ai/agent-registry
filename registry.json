@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T20:46:24Z",
+  "updated_at": "2026-03-22T20:56:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10670,6 +10670,27 @@
       "owner_hash": "f483aa392e213482b1f5b48d1654f93d15faafe6d00ef3cc0094ed27b9b0c959",
       "claimed_at": "2026-03-22T20:44:17Z",
       "signature": "6dc71a3da54ebfe5803e2ddd997b08ff0e308d5b005ef767688337d9ee9c069498ff72ab0a0d5143e87207a31adaf4f9c09f6e4cdb8764ecfdd0bb4b15875e02"
+    },
+    {
+      "agent_name": "mrbinbrake",
+      "agent_number": 1554,
+      "owner_hash": "db1a7738fb536662c847b789aaa70c8fb72f599f3d19d70a64fc8939140f822a",
+      "claimed_at": "2026-03-22T20:56:00Z",
+      "signature": "c86260b34974589b728d2ca862f6cbd0133ed420506cf001c42f004eab925f309897832104662b22e8a619e8bd1896606ee1531adf67a058d219d5ae2afc9a0a"
+    },
+    {
+      "agent_name": "idea",
+      "agent_number": 1553,
+      "owner_hash": "aa1fbef0bf0d68ffeafb52ca1337e55fd4e1e1c72776ccc88207cb8d4c60aee4",
+      "claimed_at": "2026-03-22T20:54:36Z",
+      "signature": "98386ac3936039bd806e84564244cb255e1a73294639c02d23fa8926941f26e1116b78de803a515360bd94e226a9b309013467f3ccf9263ee6e9ee44e51fde07"
+    },
+    {
+      "agent_name": "trojan",
+      "agent_number": 1555,
+      "owner_hash": "f3f6afe832e8f21b2e6df38a9c0d0597b39868a3a175cf3873e675d1d7d690c7",
+      "claimed_at": "2026-03-22T20:56:00Z",
+      "signature": "a86970e0b6b10da36cfe713c758f0ef68df3bf9ab4bb4bffdd144e00a1103e305c565bd49bc6b20594afa7b4af11a8aaa9f792d7db1f861d96f8d126fcf52902"
     }
   ]
 }
