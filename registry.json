@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:56:07Z",
+  "updated_at": "2026-03-22T19:01:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10439,6 +10439,27 @@
       "owner_hash": "51eea5c68aa70d1ab891e39152db247855eabc5df54e49cd9c3cd5ed752268fc",
       "claimed_at": "2026-03-22T18:54:22Z",
       "signature": "85aee9e4df8857a3b0607d918d3542bf570db7a9a4505234414562952db315c476ecae3bac818012ec1bd4198a50534c08d21f9cb1c6f33f0062ccb725a28b0f"
+    },
+    {
+      "agent_name": "kapawo",
+      "agent_number": 1521,
+      "owner_hash": "dcd4917e409b6b40f2957df96c97e10a54cefb43b6c635a25aaaa00c2f49ff03",
+      "claimed_at": "2026-03-22T18:58:34Z",
+      "signature": "423d733a73353661a28df98cc6d9b2b9a3749624ac7c112d506c5614c4afc795e64a246ab5b0ab3c1ddad9ec3e2a1b676c3962f90efe2fa6df73e6475c9e300e"
+    },
+    {
+      "agent_name": "juzbox",
+      "agent_number": 1522,
+      "owner_hash": "502d15672e6c72b2e8e6c0ce38facb5773bab26447b20dbd0722f3373fe2c562",
+      "claimed_at": "2026-03-22T19:00:46Z",
+      "signature": "ba01ecaeafe395ddd58460ccecfd5f88a25fdcc692a949130e5db101df89d8513d072691e8508762a330bbb0b3e7f69deae9af71406c6fc3c71020646b7dec0d"
+    },
+    {
+      "agent_name": "confirm",
+      "agent_number": 1520,
+      "owner_hash": "b5c7f6d8864847b51cd822f9b77d3d9069856500359f68dc0a40ad48698731a7",
+      "claimed_at": "2026-03-22T18:57:00Z",
+      "signature": "be032179307a58003ce16c85ee21a61b0291192d9ac2466546e9b7d6da5f9fe5ccaebb9876bf2a57bdeba9ea4dbbb44091a60640b89eb112af0b57ac1cda8803"
     }
   ]
 }
