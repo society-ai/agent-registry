@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:56:46Z",
+  "updated_at": "2026-03-22T23:01:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11090,6 +11090,41 @@
       "owner_hash": "6095b06ad9ca871f5e69fbc9f42ed0cd8493ed46e65eb7b377069fa180f4b67f",
       "claimed_at": "2026-03-22T22:55:56Z",
       "signature": "b76dc5770c155c3399643b9f99672ce18ff57169c4889f123ab7b003062f58b049cdafd9533efb13cd5927a19d574dba86794e2320c12835aea95f375296350e"
+    },
+    {
+      "agent_name": "dof-governance",
+      "agent_number": 1617,
+      "owner_hash": "e81ca63e224e2a376adf7e9f37f9a204baff086540b93295a0fb4a3320d60741",
+      "claimed_at": "2026-03-22T23:00:52Z",
+      "signature": "62d80338780b329d69dc362988407b22348efb2a885cbbf3b29de6530e655bc36a25ca7b587b0e69f4a209c4964a7b8b09aefe12805bf116eeb3387f02bd440a"
+    },
+    {
+      "agent_name": "sixteen",
+      "agent_number": 1616,
+      "owner_hash": "59d665d05d32487b3e2295f54480506ca17e09e8ceeefd34ce03483f743b42d4",
+      "claimed_at": "2026-03-22T22:59:26Z",
+      "signature": "54a56dbfa4d59567aacc082ca8e8ccac9a22298b8c7639236597905b6521235575be848813c817d4839b96f42fedfcac3fc6cd99674b681ea25c8653b0328706"
+    },
+    {
+      "agent_name": "doctor",
+      "agent_number": 1614,
+      "owner_hash": "5a8c5125a9e8c4b95ad82cad53aba21289cdebb5f74b97176e247423ffb9abaa",
+      "claimed_at": "2026-03-22T22:58:08Z",
+      "signature": "d187b7d6908eb0b7923aceb3824a90c19b79a65a54f88caa09b90efa2aa44d863e6da83c9e5ddf263593465d34be07a0640f22d8f3cdcf85fc92325cbcae540a"
+    },
+    {
+      "agent_name": "server",
+      "agent_number": 1615,
+      "owner_hash": "b4b54718cb6ebec466276c2b7d29c7430e00be31ca46e09a4b55429d112ccd0f",
+      "claimed_at": "2026-03-22T22:58:50Z",
+      "signature": "e86fdd322377ebbf8eb7a0fffa54d3bd95b5a5ee6d0a4734833717c1bee2780e679093fb22d92c569922ee2aada72b5828f1997bde4ea9cc0018a01710fb7306"
+    },
+    {
+      "agent_name": "true",
+      "agent_number": 1613,
+      "owner_hash": "58d3b6bad69f2d6a90b852c0fcd89f54fa4493f9f327f402f414f95c19d85829",
+      "claimed_at": "2026-03-22T22:57:49Z",
+      "signature": "2c8d16b5fccaab6dfd5c3ed8beca9d4484abc1bc10a01927bdcbf24b03e7c9b4376bdeabfa394ce840b2767811d279935ef5bf2890c9caf9121167041925e40a"
     }
   ]
 }
