@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T02:05:47Z",
+  "updated_at": "2026-03-22T02:10:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8696,6 +8696,20 @@
       "owner_hash": "a336240c4491c2b92f0c6682842b911e6ba3a467d14325c36bf276fb997c5c63",
       "claimed_at": "2026-03-22T02:05:08Z",
       "signature": "549f0a27ef407d49200cc2544820d11ae37103f06b6e5540653a041cc6843e8b2154b704e38e176b666f69b9a1e16d21f7575a03824012325fe84f5694699509"
+    },
+    {
+      "agent_name": "cryptopunks",
+      "agent_number": 1261,
+      "owner_hash": "4dba8552dd78a18a8daa6a7c2bc6b5710c4f8635016b0191574823daffdc0f7e",
+      "claimed_at": "2026-03-22T02:07:29Z",
+      "signature": "d4750ffe21c8e607429496b0acb2acb84adf42d05b5467661f9b0602713ba3170effb1e69829aed18c264d41e3eb7489e20fa7f37ac8948245bc3caa8a160e0b"
+    },
+    {
+      "agent_name": "izo",
+      "agent_number": 1262,
+      "owner_hash": "b9b4f76ce3a5e6cf853fb41c34f7d6c78a7b259e207eba4b8fdc2c8ea901ed2e",
+      "claimed_at": "2026-03-22T02:09:16Z",
+      "signature": "d2a3b0a4ccd68028eaaa5f122721349869d7d780785c8287e70fadec990874fc8b4d912ae5289edabbfb1e5c05c0265be86dd92a550162c1a8363c3f3a5bda03"
     }
   ]
 }
