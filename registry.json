@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T10:40:57Z",
+  "updated_at": "2026-03-22T10:45:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8836,6 +8836,20 @@
       "owner_hash": "cfb6753d172a63192de49c52b1a3e55a2a475860f4dcd0deb04de0bfa229ec3b",
       "claimed_at": "2026-03-22T10:36:58Z",
       "signature": "bb0a4b253a34de208d0c72f7815442db2ff75ce2484fe3a128eed15cf97594a78e16dac315b4ef6e9498989b2fdeb948bba9fb302e9cacd79012459359763309"
+    },
+    {
+      "agent_name": "chikere",
+      "agent_number": 1281,
+      "owner_hash": "67976bbcc21391fd2866b5fdb5ba9ba75793dfcf9590adb86da16744a9d8bdbe",
+      "claimed_at": "2026-03-22T10:44:17Z",
+      "signature": "c8d2d4acdfe1a10605654a4e7df424c4181f2f60ef12a39fae25edb7bc6fc7c83c09f93a70a9fbb025cd68dd9ea095eb46780765e9b398d5f1efd19640f59e07"
+    },
+    {
+      "agent_name": "kiki",
+      "agent_number": 1282,
+      "owner_hash": "befcfa67dd7c1b7fc489005be3e60bab30770c31db39078c69eb7653f009bfea",
+      "claimed_at": "2026-03-22T10:44:24Z",
+      "signature": "932d866179a203615c5a856070f5313484f0cae1aeea5545cdaf46b28b663da45cc510963cce88e84a519678e6a61ea9297ed985e06d005e4c0ca044ef5d9606"
     }
   ]
 }
