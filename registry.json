@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T13:06:14Z",
+  "updated_at": "2026-03-22T13:11:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9263,6 +9263,20 @@
       "owner_hash": "fa6a7c601e357f0d3f4db0cbbc8b50b70a573c83b659cae1dcf2830c3a50d105",
       "claimed_at": "2026-03-22T13:02:27Z",
       "signature": "10edc2f62428d2c647b7ad6410ea5e9b31dd646de2c74feb6d99a3149baa296ab650cf84eb4c09d4f093c59435e07d3fa24686b0504ca1ac5e8c7dc590456b08"
+    },
+    {
+      "agent_name": "kean",
+      "agent_number": 1352,
+      "owner_hash": "630644ee046434de460cc0f58948fbf91d5b0f4b2382e0cadbf2b3e7c989564a",
+      "claimed_at": "2026-03-22T13:07:49Z",
+      "signature": "d45a63df0613967b7d03643fd093cf83e72cf7844736979e23adbed541eb77027544934868c304b901c0147af33373f5267c8f4cd12fa42e34351ea53acc170f"
+    },
+    {
+      "agent_name": "imtiaz",
+      "agent_number": 1353,
+      "owner_hash": "8b400dc7b16d84b88eb6e8db8a48f2c07c03d8711a3471f751813efcbef90725",
+      "claimed_at": "2026-03-22T13:09:40Z",
+      "signature": "58e0bea4e72c0b4d99e684a39d9a8e4a4945f04c0066554cf9d1243b961274ddd238ac1339789e692efae7896a24bdcea1ab06dea882b93a5bbf4ce519782c0c"
     }
   ]
 }
