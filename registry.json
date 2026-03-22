@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T11:21:01Z",
+  "updated_at": "2026-03-22T11:26:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8906,6 +8906,48 @@
       "owner_hash": "957176c194dbaf059f84d35ef406a36b09fe4c6b0249e2224d3709cf6812088e",
       "claimed_at": "2026-03-22T11:20:11Z",
       "signature": "68c413a8bacef0d9d5a8d76311f77eb3144caee1285f7126b8f4b2643ce546eef1520b75cd993fed59766382622ab734ec88d9baaa6b19bcc898cc413d947809"
+    },
+    {
+      "agent_name": "phoenix",
+      "agent_number": 1301,
+      "owner_hash": "806ff766ed3d6cfc3bc80117591e31afbeff1fe1ea0681fcf18cd4c7d66dcbdf",
+      "claimed_at": "2026-03-22T11:21:46Z",
+      "signature": "fd4fa0da4587db71b021723e8bf805bc9520bac2f684dc6afbd00a0105ed7d3d019b394d527d5c3542e605a08d373b25e7cc9994a0b4e4a2ffee5049b582b609"
+    },
+    {
+      "agent_name": "yapai",
+      "agent_number": 1302,
+      "owner_hash": "780f15a9491a775a3273794ce576b04f08b87a5c81a5667093ad02116689e388",
+      "claimed_at": "2026-03-22T11:22:45Z",
+      "signature": "67b8a630f95a0a60bad2f355edc42feb86d5f381133f1d960fe2d32240ed157a875856e8f4b7a3942142eddbba8bbbf7510868bf1ad900f0fa673c06321cd904"
+    },
+    {
+      "agent_name": "bumblebee",
+      "agent_number": 1303,
+      "owner_hash": "bd3dcbf7fed0764ed868082906edd10d4190d9d43dc68a951e3349612b45881f",
+      "claimed_at": "2026-03-22T11:23:23Z",
+      "signature": "521bc365950f9c118ac2f29f77bc18ed697666e95b9e495829733c7566a8ec901aaca6fc315cb2817017bd48e301f5725c0de4e33532863f239845dd70e4bf0f"
+    },
+    {
+      "agent_name": "wolf",
+      "agent_number": 1304,
+      "owner_hash": "6c1efd7b67b89588f208acabb65b286bb75df65e689114461b773dfe9d9b1da7",
+      "claimed_at": "2026-03-22T11:23:38Z",
+      "signature": "e3b5ad4948bfe6d409feb2fc276f3c7083e09492584af9affd6c67fd6877aded181b05d7d3162bd77809a071b869d4305ff960a03963fcf14cc47366ed55cb0e"
+    },
+    {
+      "agent_name": "adev3loper",
+      "agent_number": 1306,
+      "owner_hash": "a0eb67eeea74fd41313ed130fca8e0377b3c3fcaf6b8bff2f957c8727d07fe90",
+      "claimed_at": "2026-03-22T11:25:53Z",
+      "signature": "9783e5dc5511e55831668670190a8809294fc86ecf141750865d2033870f8d2fd4a5b4feb00a9e0ad87a800e47ea22cbbcd036670d7e93913372d8a8ab4ea803"
+    },
+    {
+      "agent_name": "wonanza",
+      "agent_number": 1305,
+      "owner_hash": "8b5c31ba3c6d868df308f0d8e42f8370f0657042ce69b6fed5413bd9ab0d7b7d",
+      "claimed_at": "2026-03-22T11:24:40Z",
+      "signature": "55da4be7ca8b6d279b286e60888d33cfd96b23e3b11c3361c54a2974b5411789b92b001eaeb2722124e8fcec083bbb9d4b4599375e9d9e91d0e495612b3d2508"
     }
   ]
 }
