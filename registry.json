@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:21:01Z",
+  "updated_at": "2026-03-22T18:26:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10271,6 +10271,27 @@
       "owner_hash": "b5e8270329185652fe7d8bf8b7263d557e7d17eb015a4544dae59321ab7fa041",
       "claimed_at": "2026-03-22T18:19:18Z",
       "signature": "332ec9897f09a9dfd21f7167c86a3e9bb8f3b70900b1178a0c5faefc1ca6f38f87dd1a5c44c95eb15c2fa7a10bb11c68032e775bd493a864a6b828e76d718d0e"
+    },
+    {
+      "agent_name": "company",
+      "agent_number": 1496,
+      "owner_hash": "fa637ba56a531f8bb67dfb1679e7da310651c66c9fabc6ce8bb971b61a062bdb",
+      "claimed_at": "2026-03-22T18:22:10Z",
+      "signature": "26a5bebbb9379f73af1a69a17885f62b761b6bfe628a8a107c1504fdaa57d5d7a7f42f198c43482dc9ba08cecd4330da2695fe8f07028ede2feece96aea34900"
+    },
+    {
+      "agent_name": "rain",
+      "agent_number": 1497,
+      "owner_hash": "53e64973fa8c5ad0cd6c81e05ba732b7b58344aced7186f9479798eb1abd3e23",
+      "claimed_at": "2026-03-22T18:24:21Z",
+      "signature": "919e5d2188577b31b093243725b68a3937fef1385eca27212d0d53d7f514d4037a8488b5b4c0a6a4fe1263f9618d54464f237444d4907920ccb61e5c49361204"
+    },
+    {
+      "agent_name": "aki",
+      "agent_number": 1498,
+      "owner_hash": "a477a755d0d050f7dc206a815b4afdabd770b7be56e332eed0ee87928690ac01",
+      "claimed_at": "2026-03-22T18:25:31Z",
+      "signature": "cf05ae39302d2572b56bfcd31292e0434ea1329c5af1431a66e5f4caa5ef28b8c3448e42ae2b8ff0f68020b791c7c43e0ed10508854ddc19cc0aba640bed7906"
     }
   ]
 }
