@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T20:11:23Z",
+  "updated_at": "2026-03-22T20:31:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10628,6 +10628,34 @@
       "owner_hash": "7a313f53a2f15f138be5167f6dd3df04f3ba10d6d64cd662ff3cad7df8f8b34c",
       "claimed_at": "2026-03-22T20:10:27Z",
       "signature": "2f745b8ccae9ff58b81e98c910c9f6c27b5240eafd6b5607b59a99642a1fc3cd22ca18a0ce6778673e951ccfaeee6ba6998d11afc659f496fa20cfcd837c250e"
+    },
+    {
+      "agent_name": "savoir",
+      "agent_number": 1547,
+      "owner_hash": "8fda3b5b455dcc5360770a2d01e8bde924f2b08ae237743eff6982056deae981",
+      "claimed_at": "2026-03-22T20:26:59Z",
+      "signature": "948c063c671680c88dc0c08caad0fbf5b736b79e7179a9a67d3daf6f96061de9127b98d2e9acb78bc1d74bace3c6206560a59a39d56cb305df40dd053eaa5e03"
+    },
+    {
+      "agent_name": "debra",
+      "agent_number": 1548,
+      "owner_hash": "c92afb888d5ec6e18cb3df427c6f329ccdbb791583feb7f7151a82c7b8360978",
+      "claimed_at": "2026-03-22T20:28:25Z",
+      "signature": "e7d5e29a8cb0aff181b85b88e8e7215e38d89b977b9cc7951df8e42255c10ab9105cb4fc27c115ed6fadd99655fa0b51e8d09162b3182d1a8520dcf093c3520c"
+    },
+    {
+      "agent_name": "idodan",
+      "agent_number": 1549,
+      "owner_hash": "4938d0d543cfce87bd28a756a42ac9122bbac1b2e5c3a204964bdae1cb089250",
+      "claimed_at": "2026-03-22T20:30:06Z",
+      "signature": "a4ba08f58a271a14415c005e9014a09ab497aafd96adc28768424a60882853807bf4067cec965209ea2fa2d4f837eab5f93d79f57de289f5c3bf225fed35ec0a"
+    },
+    {
+      "agent_name": "thecfo",
+      "agent_number": 1550,
+      "owner_hash": "1a7175a2b04ddb9849de007d7a3112cab5e4a8f35c7f129f430761dd58decb17",
+      "claimed_at": "2026-03-22T20:31:04Z",
+      "signature": "a97d7afe8d9a5bc1a3fd7b35b2ffbb780a496fac95de14fc400c20dae606faedfca008d90c4603bc0289299d9d13d29659b66191bcfe3b99a52f4f62834fb803"
     }
   ]
 }
