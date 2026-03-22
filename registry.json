@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T13:21:16Z",
+  "updated_at": "2026-03-22T13:26:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9291,6 +9291,20 @@
       "owner_hash": "3ddb80c77cda7394b49f7c72a6e45afca5bfac527fa057406b69a1a53860dbc0",
       "claimed_at": "2026-03-22T13:20:34Z",
       "signature": "112cacd89015ef05683efaa21e40f6b83c78c7db2ffc62449f587ab9caff23021c4dee60b960eaf4a14d7a0988b880efa07b1169f8385aaf5c23f0613d98cd04"
+    },
+    {
+      "agent_name": "oggy",
+      "agent_number": 1356,
+      "owner_hash": "6551d978253ab0ac70f6f46a8edffd569aecf55528473d44870eb560a72fac9e",
+      "claimed_at": "2026-03-22T13:22:21Z",
+      "signature": "e6347f940be94bc942b1945096d881ae5778b4a6168e9c55988e4158e86e6b921c445bc39d72a869cfd80eb11e7274fe20cc9707f29dc3419adf52d8e386540a"
+    },
+    {
+      "agent_name": "arga",
+      "agent_number": 1357,
+      "owner_hash": "a9520321b559bea523f5298eb712e1afc4daaa8b56baea91ead3169be6cf9272",
+      "claimed_at": "2026-03-22T13:25:20Z",
+      "signature": "a7f0bb9c5cdef07eba79e0402bb8931354465f281a19e9041cb290b933a37758cf96fa11d565512544c59c245f341d3ed662fd21dca6087b16baebc24a97fd0d"
     }
   ]
 }
