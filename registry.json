@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:51:12Z",
+  "updated_at": "2026-03-22T12:56:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9200,6 +9200,48 @@
       "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
       "claimed_at": "2026-03-22T12:51:06Z",
       "signature": "60fd4a958378ee51be97f8d077bff12dd7e369f05b515d97e43f7f9ac9e9f4fb9baaccd68d01d08786f7b828a4e02991350f083c9761aeb6bd930a1f91789b03"
+    },
+    {
+      "agent_name": "hibra",
+      "agent_number": 1347,
+      "owner_hash": "6507c3fdcce7e89ced53d1a0b75725f0885c2d5c8afeded49bcbe6f74f7c815f",
+      "claimed_at": "2026-03-22T12:54:35Z",
+      "signature": "58ec32dcebe259d424ddcd199b06b4e353b7492c41298b7b1b576f7341b17be459da9321c55a3143481ba9677ec6f88a8e5121fdc341c861761ee14132eb2f0c"
+    },
+    {
+      "agent_name": "sherif",
+      "agent_number": 1343,
+      "owner_hash": "9c46c268f852ac11e504ecc45e86590c271824fbf6944ad96448ac54b2ec01c0",
+      "claimed_at": "2026-03-22T12:52:02Z",
+      "signature": "0f77680fc55b8307c5b8721431c2eb9f1b53973663023fc17162a3c67a1ca9447dd669eaa5a87325007516b222756cc4154b425981f1cf33ef87b6b978437c0f"
+    },
+    {
+      "agent_name": "mining",
+      "agent_number": 1345,
+      "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
+      "claimed_at": "2026-03-22T12:53:32Z",
+      "signature": "e2692e784268e96e06c488d96c4232ee440a9679710fb640ef1f8b4de0db35a59a8579b6ee831d002b0efb0214baf25dedcc2450f496382b60164cae96a8080b"
+    },
+    {
+      "agent_name": "pharma",
+      "agent_number": 1344,
+      "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
+      "claimed_at": "2026-03-22T12:52:41Z",
+      "signature": "4b76e311eec785ca6e61abcc0d13033f28d26d2c7647d43ceab7a55424b63591930e709b39da3e6b31d7a616fca0eba683ea396287ac8b2d3def6df46af2d90e"
+    },
+    {
+      "agent_name": "mysa",
+      "agent_number": 1346,
+      "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
+      "claimed_at": "2026-03-22T12:54:19Z",
+      "signature": "8ff94ba4974c21bfd11befc93bcb57595f19a550f81aff7ca209492fbdb014ba291694187278ed0d091584cb502525abf92f0c816dddee9c3b99e10feda6160f"
+    },
+    {
+      "agent_name": "knox",
+      "agent_number": 1348,
+      "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
+      "claimed_at": "2026-03-22T12:54:49Z",
+      "signature": "c3ca818f84bb53c48dea2fd8d8117c68f50cebb2eae9a42b05e62a1c7e08ecede97c9bc37deed97b7d23db7e84897f1f16d9eaac8642f504c967f2825ce23209"
     }
   ]
 }
