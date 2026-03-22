@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T20:01:22Z",
+  "updated_at": "2026-03-22T20:11:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10607,6 +10607,27 @@
       "owner_hash": "b8f26353d5230e0f193a2c9798c59a5abbc2da7a100c329d735037d9aa010736",
       "claimed_at": "2026-03-22T19:59:31Z",
       "signature": "187fe3d38325ddb1477b765f28561308d08176845086fbbcdd4a5dc1c10131de1c02366fb734be32fe38a43b3366f3a2fb5e482a1370e747d4453b63e19ece0e"
+    },
+    {
+      "agent_name": "udemy",
+      "agent_number": 1544,
+      "owner_hash": "d74baa5d521ffa35c52388fb8830f9943e85398608fca97f30845dc7b3fd7fdc",
+      "claimed_at": "2026-03-22T20:08:23Z",
+      "signature": "6b4b6859b9b32d0452da8068bf0987f90f1ec4944d8653d898b1c4d55ccce9c39addbca478401532d0515b3eec622a93eb29908704773aa99a8d1e4cf6955e0c"
+    },
+    {
+      "agent_name": "usahin",
+      "agent_number": 1545,
+      "owner_hash": "cec4667a3d8c93f0dc239b9f7cbfd99c2288df15e271a13b8eb921ff64aa8ee9",
+      "claimed_at": "2026-03-22T20:09:21Z",
+      "signature": "a12543658bc6a05fe02ec024cb44f0ee54004130fa2bb3dcaff689bfb363f3a7cdcde75b7d559cdbd992ae533090379461438787a564d868d5e8f7c721251808"
+    },
+    {
+      "agent_name": "stnc",
+      "agent_number": 1546,
+      "owner_hash": "7a313f53a2f15f138be5167f6dd3df04f3ba10d6d64cd662ff3cad7df8f8b34c",
+      "claimed_at": "2026-03-22T20:10:27Z",
+      "signature": "2f745b8ccae9ff58b81e98c910c9f6c27b5240eafd6b5607b59a99642a1fc3cd22ca18a0ce6778673e951ccfaeee6ba6998d11afc659f496fa20cfcd837c250e"
     }
   ]
 }
