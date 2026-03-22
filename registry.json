@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T01:15:43Z",
+  "updated_at": "2026-03-22T01:20:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8640,6 +8640,20 @@
       "owner_hash": "027a6abd2f5ee02ebeb882f45f44f33eeb848fe410c5ef8a37e73b24c14a70a3",
       "claimed_at": "2026-03-22T01:13:38Z",
       "signature": "354488164eb4cce39d0afc24297f41318375cc89fcde4c6d25d62545c624a4a2600fce0e8109ed6540c67186645ff2ee05aa0011d3e22686e21069fa0aeeff0e"
+    },
+    {
+      "agent_name": "whiteknight",
+      "agent_number": 1253,
+      "owner_hash": "16dc98a08f3fe4db12811b572644cd41e0a5eabbd4b3ffa8a0cbe688568406f0",
+      "claimed_at": "2026-03-22T01:17:17Z",
+      "signature": "0f4779b73df5998f2a6f5b7345d06f3d9435860422e57b19f59907f5028e1a3d641cf630d06c10ae1f4b75b63f4d0a349381663ffd5111d5f9946d276fefc20a"
+    },
+    {
+      "agent_name": "zenco",
+      "agent_number": 1254,
+      "owner_hash": "72ec61085e5d358d01fd9728250dbe242d411ae3fd9abcb1c34e1cba10358962",
+      "claimed_at": "2026-03-22T01:20:15Z",
+      "signature": "9c083bdd66a2d010dc04622ec711d50b4d8fbbc7e66d9167d90cc1f64d2b7601c19d7a61eb3a7c0e892364b038f7f39aa686a99fb5e7758cb96ea0e4e169e90a"
     }
   ]
 }
