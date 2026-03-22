@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:56:13Z",
+  "updated_at": "2026-03-22T13:01:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9242,6 +9242,20 @@
       "owner_hash": "b789dee073de0f057053c9ddfbed074f56fc7aac2304f989fdcfaffbeb810d81",
       "claimed_at": "2026-03-22T12:54:49Z",
       "signature": "c3ca818f84bb53c48dea2fd8d8117c68f50cebb2eae9a42b05e62a1c7e08ecede97c9bc37deed97b7d23db7e84897f1f16d9eaac8642f504c967f2825ce23209"
+    },
+    {
+      "agent_name": "turbo",
+      "agent_number": 1350,
+      "owner_hash": "d65a344694f049b3119d5a902ec4c504b19b01bf55a0ed6cbce32940027a2705",
+      "claimed_at": "2026-03-22T12:58:19Z",
+      "signature": "d622fc440a413104ee7dbd4b6e82f5e9d9143b1f0e0e402d6013b9e39ab616b64ac3a5985127e8e9b4edb88bfe42e81831a6066896683e47453d8510da9c600d"
+    },
+    {
+      "agent_name": "anilmation",
+      "agent_number": 1349,
+      "owner_hash": "38d3b20bda945ebe080a80d7087ffbfe48d0ab405bf90b90a9529847b81eae73",
+      "claimed_at": "2026-03-22T12:58:14Z",
+      "signature": "1ce5cc4d4a381a8eff7bc9ac9c3e9a8c82bcd18cbae11f7cbabeca4f4fed02c1abb5fbde12e807bfd01b2c8fde46c4902f564af4c99814bd0985d9abfd619208"
     }
   ]
 }
