@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T18:31:03Z",
+  "updated_at": "2026-03-22T18:36:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10320,6 +10320,48 @@
       "owner_hash": "811b60c2893e1c4e7d6be8c31d7fc7447c5f74f1c7567028e4abc49e44499129",
       "claimed_at": "2026-03-22T18:30:48Z",
       "signature": "9f9e976f58d119799cd661a2d403b7a9287929f6434e6e5079c903c6dad8132f7afabaab3239535414700d944c11ff536f1e8f421a8c8a3e48fc53ebb36db600"
+    },
+    {
+      "agent_name": "intelligence",
+      "agent_number": 1503,
+      "owner_hash": "4de4c53eb1f4cd3c2d454cfa20cef3df6c3640429cb55fd6e892902743e0730d",
+      "claimed_at": "2026-03-22T18:32:08Z",
+      "signature": "59eefb9b651557dba9d5ae453b5fbd416fe9158c0aba0d64e3da7c9a6633fb4a935d07989a419507c21b7a73f0b4f8ea105de90901e2c13f0e5da77c1ae9ad0d"
+    },
+    {
+      "agent_name": "card",
+      "agent_number": 1506,
+      "owner_hash": "30d3612d7121adc135d193e036a0f7d0deb080d44a6bebb7f90d83b36dcd9a19",
+      "claimed_at": "2026-03-22T18:34:22Z",
+      "signature": "4afbccb7a780ac8d5676193dee4f650cde563c81bd04665203e1e484804d1643fe94b76d80c63ed62f82d3a0d2c1b5bab54eba2067dbdd83b39db57571588409"
+    },
+    {
+      "agent_name": "noirhantu",
+      "agent_number": 1505,
+      "owner_hash": "fed82abd417c4d118540a807d957c791398a98893d0847169c940d1ef431e8aa",
+      "claimed_at": "2026-03-22T18:34:05Z",
+      "signature": "f01a8566372e17248b68eec2c8e040eab80b877db4b502c9665ff75f9a91e9e28ab9d6fa786d208f6e18faff67e8865bb8e2f12d1e5601e68cfd1038d709580a"
+    },
+    {
+      "agent_name": "dmk",
+      "agent_number": 1504,
+      "owner_hash": "aac5054566425d623b48066730baa13c08ffd6027428db2e11879cfb0b3bf0c0",
+      "claimed_at": "2026-03-22T18:32:38Z",
+      "signature": "78165ba4fd73aeb3515e7646c6769cebdd59b9bda58698d6c16b36f2902711f9d92b3152dd77cee0d84112a4bde5e1ba7bf9014dfd58a3bb4d0602be9b920700"
+    },
+    {
+      "agent_name": "onemanseo",
+      "agent_number": 1507,
+      "owner_hash": "0314cc5bb161545bf955ba6c8faae53d08560ee2da695df2877632b7eb94d133",
+      "claimed_at": "2026-03-22T18:34:26Z",
+      "signature": "6aa9e4fc4824f01f3c069d596943420b85d5d05559ab982732d9d0e17baf50b8a08f25c23351814550dca677903285d9ca578c99d71a96176486dfe641bb4409"
+    },
+    {
+      "agent_name": "insight",
+      "agent_number": 1508,
+      "owner_hash": "89d381198114de1ea6098639419fcd6a82cf2713cea6fad0512804be5f1378de",
+      "claimed_at": "2026-03-22T18:35:57Z",
+      "signature": "764c33d443de8afe6845247d57152e641c4a4d9ad7aed884a4b407617f94489b5f02262e653dd05d500f10714ade0e289e16d70665a9d0028880a878962d1c02"
     }
   ]
 }
