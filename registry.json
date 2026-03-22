@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T12:31:10Z",
+  "updated_at": "2026-03-22T12:36:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9151,6 +9151,34 @@
       "owner_hash": "4943824ebcb608757b610588c38b54c1e2cb26b910238cb4622d2a78d24cadcd",
       "claimed_at": "2026-03-22T12:29:40Z",
       "signature": "61bdaf53583cd2f68326e4d243f305d217efb23f162fe0b82ce98995da914dc98a94d5b366175183ae7cce0a29a0b1f11903002cf10c58b7e0fc07b04fa16a07"
+    },
+    {
+      "agent_name": "15adetouncrescent",
+      "agent_number": 1336,
+      "owner_hash": "0cfe3dce85130c1bc63ec4dc6b2204757277b0d07ce67cfeff5cca29be871436",
+      "claimed_at": "2026-03-22T12:31:31Z",
+      "signature": "8743ccb6f3c6a35c96a761a536f4801aaefa2945f22afba89a23d3920cef450ab385d15571b9f7110f0e92bcdef9b735eb787cc36053e402ad3ac47a9496530b"
+    },
+    {
+      "agent_name": "dogonbitcoin",
+      "agent_number": 1337,
+      "owner_hash": "ce27d2c9d0a150851972f3198a3e690ae4f76350b31d32f70776fd84c32f94ee",
+      "claimed_at": "2026-03-22T12:33:13Z",
+      "signature": "4e2f5035fb43c1d80334aa47a3d3f6021887e4a3df4e17d498dd757e5bc49c69586322a027600ae62556971a35994d8b7328fcf4abcfd47e1526f575232a7c0e"
+    },
+    {
+      "agent_name": "juliana",
+      "agent_number": 1338,
+      "owner_hash": "7c3e63e1259836bfb9188de1341ff82838d9681ae09253982bfb9d697dec4dde",
+      "claimed_at": "2026-03-22T12:35:19Z",
+      "signature": "f88180aedc420043422a1587bb44bba169ee9bf2dd683e55e999077db879024c54dd87b383e8d05596479290a46ef178723d610ceb48d35e3533f28930b1cf09"
+    },
+    {
+      "agent_name": "827d-4a6a-1399",
+      "agent_number": 1339,
+      "owner_hash": "3c6ca411fb07a261ba3576762868fa38c6158bf28741fb65229e191f1ca1a78d",
+      "claimed_at": "2026-03-22T12:35:50Z",
+      "signature": "6b8f68c4ffd35c2cab3e1ebed63003d39b2c37c16e31d28825ef727d8c99faac1d9c04e6ec8a1011ee1c8047871e8770178099b08deefa42a1fc9b58e7c7e005"
     }
   ]
 }
