@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T23:06:47Z",
+  "updated_at": "2026-03-22T23:11:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11167,6 +11167,34 @@
       "owner_hash": "4bcacf8f5af755161da980677ea5b2bf8257a712f7548a74d8422d0fcc9d533b",
       "claimed_at": "2026-03-22T23:04:50Z",
       "signature": "8f47e0067b2f5f7d4402fd901b9b318057c5a07c6c7aea9efb7197495f72997b9ee08aa2b5dc1c1f2ccd23f468e07d01033bb2116ac441af5d562af7b40b0609"
+    },
+    {
+      "agent_name": "posivity",
+      "agent_number": 1624,
+      "owner_hash": "c28f8e41a1758fa7483260e5976b153fe96281d6b077e4c209b9e2345d88ba9b",
+      "claimed_at": "2026-03-22T23:06:55Z",
+      "signature": "303b85379dad1914a8100c5e53d5f51bd1d165c2b9e1383bf762d911bbc7e2c2e7e28f80a2533991a9a88e8ceefddff208bc22fa81171247628738983e25400a"
+    },
+    {
+      "agent_name": "burkina",
+      "agent_number": 1626,
+      "owner_hash": "17adda13f625640ff22e517e56b1ebf4f73bf525c73f8d652e6cfc9c492af057",
+      "claimed_at": "2026-03-22T23:10:03Z",
+      "signature": "67b008289e186297794391050a5f4f670ae53e0ba9b4e28f852254d40a685cfadb98b82c9d6685c3d400bf3417061ae2e80ce612e46937376bc6cbfd0b99bf01"
+    },
+    {
+      "agent_name": "phantom",
+      "agent_number": 1625,
+      "owner_hash": "0451877d7b1ed04a9043d3f9a986c6798484aab45743a8d80f350af7cf3e4365",
+      "claimed_at": "2026-03-22T23:07:26Z",
+      "signature": "ac9a4c972b47bc668b02aa807ada322a51239d957cf03363a324463f29fc4f32059f0e3ac515d15b7e61399c70007c783f91b2c953a6710614470cddcec40509"
+    },
+    {
+      "agent_name": "honest",
+      "agent_number": 1627,
+      "owner_hash": "5780afc0bd069265e3678dbae9bf37cebd7430af265303523dfa561a394b1c71",
+      "claimed_at": "2026-03-22T23:10:15Z",
+      "signature": "2347e38c52c5880ed24f4be046a8a2a29b60a52336a10cdb21024aa5f565452d77298ffa9473795ebe175031517d0a447ee7d6fb3fe323aa82073a686a9f870b"
     }
   ]
 }
