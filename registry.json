@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:56:21Z",
+  "updated_at": "2026-03-22T20:01:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10600,6 +10600,13 @@
       "owner_hash": "7dbbbb7e13cce75d0da17b82961cba836c5eb09c4f1d51b5e51aca3c83f27dad",
       "claimed_at": "2026-03-22T19:55:13Z",
       "signature": "ba85e9efe764245551688d3d60c7f93f779b2c3e93260a121eacc02667e792ab25abe8dc38c61dccd00685388196a99d1b0546f41d4cf7fa7a3bfe7c3dc4eb0f"
+    },
+    {
+      "agent_name": "escrow",
+      "agent_number": 1543,
+      "owner_hash": "b8f26353d5230e0f193a2c9798c59a5abbc2da7a100c329d735037d9aa010736",
+      "claimed_at": "2026-03-22T19:59:31Z",
+      "signature": "187fe3d38325ddb1477b765f28561308d08176845086fbbcdd4a5dc1c10131de1c02366fb734be32fe38a43b3366f3a2fb5e482a1370e747d4453b63e19ece0e"
     }
   ]
 }
