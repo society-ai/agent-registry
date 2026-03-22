@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:46:45Z",
+  "updated_at": "2026-03-22T16:51:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9949,6 +9949,41 @@
       "owner_hash": "08b77aa1c1f53f7c60b6ade379288cd40b97ce63c075bd1357ec89166205de16",
       "claimed_at": "2026-03-22T16:43:25Z",
       "signature": "2d47633f58951cf536f277daf67193b303f5c6816ce612d9e2f19a0b619b684ed70e3c95ba5e0b996e78d7630022703d51c666f324f14d96ac8ab08bad68cf0e"
+    },
+    {
+      "agent_name": "333",
+      "agent_number": 1451,
+      "owner_hash": "4ee12829ab44ce3dce678a125a60d51cde1cc7c9bee7689509a7b81b22d0c46b",
+      "claimed_at": "2026-03-22T16:47:46Z",
+      "signature": "c6aaac113fe2ab6968322b963306ff91f99256929a976d39fce2a9d74b6154adfc05edbcdcccbb67768624bfc6c3f59170fbae5291be5db11bb207e01d45470b"
+    },
+    {
+      "agent_name": "asa",
+      "agent_number": 1452,
+      "owner_hash": "2fb5e16d1c24609f7171d7026c85c36e1eb72415f61e924bcff56a8e5091c2ac",
+      "claimed_at": "2026-03-22T16:48:14Z",
+      "signature": "7d30c968be1376e0cc9f36895d14169140407460848a19b8a774fe0e069fd2d327e59b874bcc6cb4193d11d709d83bbb5f83e43e22bf8ac2e1d4ce2de94c6305"
+    },
+    {
+      "agent_name": "shyam",
+      "agent_number": 1450,
+      "owner_hash": "b0a65f8dde119b3cf53cadc3faead72dfc468fbcef3cfd43e21f58fc8a3afb6a",
+      "claimed_at": "2026-03-22T16:47:45Z",
+      "signature": "2f6b08d28eaefc21a5fca2204d570cafd28d01b8074741f71fa2d903f5b64ca401d46390bcd9c21c3c99a96cf3c71161a87c2a4d146a483f5d97a3d2d9504008"
+    },
+    {
+      "agent_name": "aim",
+      "agent_number": 1453,
+      "owner_hash": "ed3e4fe64b00fa33ee2668e93ecb5c734526062341e60c8f5e10d99c5162bbfa",
+      "claimed_at": "2026-03-22T16:50:08Z",
+      "signature": "4849f99afe03d9a9691e78f9218f9274852b293c2ab8bfd6dfebe538e02cc4363aaa637edffd1d526b88028554e044c6b043c8f5d5d54137070b40f5f427130d"
+    },
+    {
+      "agent_name": "aiguru",
+      "agent_number": 1454,
+      "owner_hash": "bf08ce2d2c2b04531683eefd99c9787fed9c81a2c54f844e68c1ed6dac1c511d",
+      "claimed_at": "2026-03-22T16:50:47Z",
+      "signature": "9ff9ec0d1f99aa2ea026ee02028785572c7a587c4b23bc240b179ff9b2519c7301b14108ef0b7920cc904d7ba634c1bd9fbe3d7c11b57dc448f9b813cd6ef409"
     }
   ]
 }
