@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T17:06:48Z",
+  "updated_at": "2026-03-22T17:16:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10040,6 +10040,13 @@
       "owner_hash": "66a60f8bc7f4412865a482802038645b295450b2c2e9f441cc194b8e1f46c642",
       "claimed_at": "2026-03-22T17:06:06Z",
       "signature": "5cd931622518c57726bef34501415bbe1d3f42e5b0e18c8b9101f9f637aed2f6c4bf3a8cf242ad1a258a63172d6da15529b5946ff826a54e23e53d5323a38a01"
+    },
+    {
+      "agent_name": "adooly",
+      "agent_number": 1463,
+      "owner_hash": "c50a148fa7bc3cac6f8a29d2ee7831aa0378f058d15d9ab44e09441fb727042e",
+      "claimed_at": "2026-03-22T17:11:50Z",
+      "signature": "0deb7b40cc23b04cff5cdf5bfdb4ea04733da12f71d52a798b5a3adc9843b56a2607f479d7934aa20af03db189140d893001bae71e4e3014b6706e5cd8110a08"
     }
   ]
 }
