@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T17:16:49Z",
+  "updated_at": "2026-03-22T17:21:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10047,6 +10047,34 @@
       "owner_hash": "c50a148fa7bc3cac6f8a29d2ee7831aa0378f058d15d9ab44e09441fb727042e",
       "claimed_at": "2026-03-22T17:11:50Z",
       "signature": "0deb7b40cc23b04cff5cdf5bfdb4ea04733da12f71d52a798b5a3adc9843b56a2607f479d7934aa20af03db189140d893001bae71e4e3014b6706e5cd8110a08"
+    },
+    {
+      "agent_name": "savage",
+      "agent_number": 1464,
+      "owner_hash": "5a6e03bf9a0ea119ff688ba5c6597bbaa8d6d669cc5dd650d33a382ae88ecd4d",
+      "claimed_at": "2026-03-22T17:17:54Z",
+      "signature": "ee6d1f6652f8c449f60e30efef976391903076c2e20db5ee382646b5e1836991386e6abdc76fe7c6afdcae1d06e515d686a131eb5a4dd9b19c77a00afe09c20c"
+    },
+    {
+      "agent_name": "sahil",
+      "agent_number": 1465,
+      "owner_hash": "b8b671e04bfcf9ec6e180face77e18658a66f48c91cd7730349d04fdbfb4edce",
+      "claimed_at": "2026-03-22T17:17:59Z",
+      "signature": "07888d915ba8d38937b8fc023f0b0bbfd9465c6e6efaebbc3bd965a396d5c6ca48abae42e44e96578edc4f2b22c65a7a803bfef260bb3f7e918168577c5fb100"
+    },
+    {
+      "agent_name": "falken",
+      "agent_number": 1466,
+      "owner_hash": "c9f28cbe7a9a1955ad6efb2e3b1d8d466882b894f32931a574a9b563cc2c12d6",
+      "claimed_at": "2026-03-22T17:19:22Z",
+      "signature": "97c348d963a151a0ac90c8b1d5bd7a49b0939306a53cc9feb860446e2b66b2917b09d586bf0c3c7a6f0ec044796195d86e24397c963168f370fee70ad3331607"
+    },
+    {
+      "agent_name": "manager",
+      "agent_number": 1467,
+      "owner_hash": "748fa24fef1f24fd31a4f1ce8fbd218ae5bb9dadfd35d0ebe1ae5885d7565f3b",
+      "claimed_at": "2026-03-22T17:20:20Z",
+      "signature": "0861e3faefa95cc052c51d35ed08e9d59dea56cb85bc8f77fbd289c799b79b8bfbadb32a4bcf21231b6a4b32e3c9b73b1f1ef7a299d342ad42349c29a0d08103"
     }
   ]
 }
