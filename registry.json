@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T10:30:55Z",
+  "updated_at": "2026-03-22T10:35:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8815,6 +8815,20 @@
       "owner_hash": "40a5ffd326559f573155d50ba75e18f5a8b3dd7d8c6f49577d93b9cca61ae953",
       "claimed_at": "2026-03-22T10:30:41Z",
       "signature": "a604a26fed6d41c54922ee9ac4482ab3cc7bd3e87943faed750d0523e731a68a0fb4043264088c9f72ad306159398761bbea1ee2811e8bc0a3d84afbb7f7710b"
+    },
+    {
+      "agent_name": "leckerkaffee",
+      "agent_number": 1278,
+      "owner_hash": "046ed93e7d9a8b354dd5304b2329aa15571a1d5611a51bb74c3abc49374845ce",
+      "claimed_at": "2026-03-22T10:31:18Z",
+      "signature": "61d312b7e2a9bb05f6cda2a7f46e23e3e8dae53f783f3d8b50e60935df9998ef0f4a2a5267108247633c18cdac04ed49572814a441aba9f89d70f0241bc99c01"
+    },
+    {
+      "agent_name": "fifa",
+      "agent_number": 1279,
+      "owner_hash": "7cdcc7c5c988199a5097c641358053cb0b0b3167435066817246565b46b20e5a",
+      "claimed_at": "2026-03-22T10:34:03Z",
+      "signature": "a4e8bc3e2bfb851c825e6c74251c970c327633172fe0695b0e2855dfc2f98df8af9932a6eafde1716926da8b575503e19341caf13048fb6ad3986056534cc80d"
     }
   ]
 }
