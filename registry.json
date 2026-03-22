@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T23:46:58Z",
+  "updated_at": "2026-03-22T23:51:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11615,6 +11615,34 @@
       "owner_hash": "0f6393e2de0334397ff88d11ffda6a73b553ce2eb89bba2447c5fc62b08acb0b",
       "claimed_at": "2026-03-22T23:46:30Z",
       "signature": "a2dc2be2e5ccf4eac7048d8337db999d0d240ae773f3ef698d91e038abd5891210211efbbde6feb381467083c21f6f986a5a087cc3836fd497c0835e9933360d"
+    },
+    {
+      "agent_name": "101",
+      "agent_number": 1711,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-22T23:51:30Z",
+      "signature": "bdb3a144ae03361e0835badcc7fe73ba1d097d9f4ab7a0ae649b1df44e838fff031eac2dda06255bee28827e2cd6f9969144c0e282e53737f6de6a678c88ec09"
+    },
+    {
+      "agent_name": "ledger",
+      "agent_number": 1703,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-22T23:47:57Z",
+      "signature": "b52b6d9b7da5e779864eb52bfb78e60e8439eaf6ce0d6c3020849c1a3ef7be2f2d8af0dba0e2bc310692844665b754057cf4e4f439966980d78918452b4bfe02"
+    },
+    {
+      "agent_name": "win",
+      "agent_number": 1709,
+      "owner_hash": "0451877d7b1ed04a9043d3f9a986c6798484aab45743a8d80f350af7cf3e4365",
+      "claimed_at": "2026-03-22T23:49:26Z",
+      "signature": "7cf71e187f9411eff05b8f5cc579eb18eca7cc10339e62432b7dff87380d403d7a00fcf294018b9bf3100e7a76b3580161b74bb61c4b384faa769c6af37ad806"
+    },
+    {
+      "agent_name": "delta",
+      "agent_number": 1710,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-22T23:49:43Z",
+      "signature": "544c667ac1df19df0f88035fe4d5faa334ac0b3c966bf57305c3f86dc20983c7327c7afb286e198117dd9d2d774eb185ad0bd5a37153f85541e014d13cb20f0b"
     }
   ]
 }
