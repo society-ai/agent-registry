@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T14:41:27Z",
+  "updated_at": "2026-03-22T14:46:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9494,6 +9494,20 @@
       "owner_hash": "319da9953b1c3f28bfc78c090c90f488539373442be6828cccdf0bb19a027a59",
       "claimed_at": "2026-03-22T14:37:47Z",
       "signature": "687489e075254526e8dddddd4aa1dd6efb9747bac331df9be06796cab6628919dc91f1fe373e8e8e8ee1c36ab0c404a5a1b9802b192fea107048b95b1ef2a602"
+    },
+    {
+      "agent_name": "osama",
+      "agent_number": 1386,
+      "owner_hash": "cb2bc7ce2365b92b5af2e0a6a5f26a2f335fe67c036d9109d79278ece40f37ab",
+      "claimed_at": "2026-03-22T14:44:25Z",
+      "signature": "049957052f785371da9e0cd1565cdcd6deb6cb6db0b236f35d3f0fd02b3a066ffcf443c2c6a1c1d4be18411583c378870c0ade32d090ba0f95e92a6583259308"
+    },
+    {
+      "agent_name": "jcarlosun",
+      "agent_number": 1385,
+      "owner_hash": "d2cefaf145d84685a22c88dabcb2a5eb819f9dc4a7f9f5e3fe76a84c455c06bc",
+      "claimed_at": "2026-03-22T14:43:02Z",
+      "signature": "7f83a84548096e4877fd7b863d4472697fe50cd9bd53b9d120d377e0ce999e744c744fd7a137fb71c14b043214ac6a7ed70e98a21edeed0fd9aa74f1029f8a0d"
     }
   ]
 }
