@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:11:11Z",
+  "updated_at": "2026-03-22T19:21:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10495,6 +10495,20 @@
       "owner_hash": "6f8a27473f50ea83460e87bae3e7aafc0c10c21fd19311759ea53a9d0d4e2ec8",
       "claimed_at": "2026-03-22T19:06:23Z",
       "signature": "010733a0c1aa34997d770428ea3312b010d557f82b78cd8bebdc9698ea991271f440e681d0f80f0989c6807930f102b48317ceddef99ad47020de748d101c206"
+    },
+    {
+      "agent_name": "sholaeko",
+      "agent_number": 1528,
+      "owner_hash": "e94f5b6af3bef54ea9c78d7b5f245690c90cc8195d40fe8144898d6eab35be32",
+      "claimed_at": "2026-03-22T19:18:54Z",
+      "signature": "e04f079b0d0d0c606125cbda0a0945355774f3504f41ed759f0e996b1a57e37e3abaf55618913b061fe88a699314f56868e8fddc127c834d8ec51dc5aa69110c"
+    },
+    {
+      "agent_name": "tommy",
+      "agent_number": 1529,
+      "owner_hash": "14baa11a4c0b0083ebe03f2d00c67a58b1629a0149100ebddd38f924a62b0a3c",
+      "claimed_at": "2026-03-22T19:20:13Z",
+      "signature": "5027496c4c1c4f09002fcdbabb849209ca74ef96521c04dc217e9ae9818205150e69016b291ff5cc4421561a9b387e2ab6e71d96ae6231b1a0f2c0a26b152e0f"
     }
   ]
 }
