@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T16:51:46Z",
+  "updated_at": "2026-03-22T16:56:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -9984,6 +9984,13 @@
       "owner_hash": "bf08ce2d2c2b04531683eefd99c9787fed9c81a2c54f844e68c1ed6dac1c511d",
       "claimed_at": "2026-03-22T16:50:47Z",
       "signature": "9ff9ec0d1f99aa2ea026ee02028785572c7a587c4b23bc240b179ff9b2519c7301b14108ef0b7920cc904d7ba634c1bd9fbe3d7c11b57dc448f9b813cd6ef409"
+    },
+    {
+      "agent_name": "canton",
+      "agent_number": 1455,
+      "owner_hash": "0dde5d89fa88544373b89661192c8066ebe9f8e03a10f648f7fc4055288a1a6f",
+      "claimed_at": "2026-03-22T16:54:41Z",
+      "signature": "5b3675be507838e4c719eb1ee2f1c89431c5b685130daf3b8533190bf1b5340ff1f192e739d4dd8c7556d7cf45a7d0102805a78fa337f3ca183b0515cb9c660b"
     }
   ]
 }
