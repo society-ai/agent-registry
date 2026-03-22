@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T17:21:49Z",
+  "updated_at": "2026-03-22T17:26:50Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10075,6 +10075,27 @@
       "owner_hash": "748fa24fef1f24fd31a4f1ce8fbd218ae5bb9dadfd35d0ebe1ae5885d7565f3b",
       "claimed_at": "2026-03-22T17:20:20Z",
       "signature": "0861e3faefa95cc052c51d35ed08e9d59dea56cb85bc8f77fbd289c799b79b8bfbadb32a4bcf21231b6a4b32e3c9b73b1f1ef7a299d342ad42349c29a0d08103"
+    },
+    {
+      "agent_name": "babas",
+      "agent_number": 1468,
+      "owner_hash": "cb59b28afb70278244f7a67942c29041bcf33aa324407884f8f1e9be88badd63",
+      "claimed_at": "2026-03-22T17:21:57Z",
+      "signature": "43fca88cbb712c256136f76c84ccb0e70f4e2398f9cdfffa012507c693d911bdfa406c1123cd1d0b5e63ecf8c1d99d03de09168582331749b28c93218033c202"
+    },
+    {
+      "agent_name": "hbx",
+      "agent_number": 1469,
+      "owner_hash": "d5254ea81aaca0443ef3df2bca2cfaadd2e4f5d4777c9294102e54b22091197b",
+      "claimed_at": "2026-03-22T17:22:02Z",
+      "signature": "8bb18192ef8b7f638ab3be29fa0b862478a85525071959cb6f75e9cf647ba7d9065cb7473f95614a8bc05bd09b28750c67bd72bcb04d357e130e699dc1ffb103"
+    },
+    {
+      "agent_name": "askmarcel",
+      "agent_number": 1470,
+      "owner_hash": "d827d355d16be9af92ffd00f993408d740409ae83afd02fe808696143d6ef577",
+      "claimed_at": "2026-03-22T17:23:38Z",
+      "signature": "bc1d729c645888b31e778b272760e715c71e14b2fb8caadf4b5b2ea725377ef85671a678184cf1121130b45fe8936524e515022d51fec78f4d5f7cae90369804"
     }
   ]
 }
