@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T22:46:44Z",
+  "updated_at": "2026-03-22T22:51:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11020,6 +11020,48 @@
       "owner_hash": "2d0f494af5a96728a05decbf4238dccfb6226a49327a61248885791a4827a0e4",
       "claimed_at": "2026-03-22T22:44:46Z",
       "signature": "e30e03ef6e2e11806ce831105f08bff6ac749264c23ec8876c49c42f61bd4b1beb6fcbe38960a0e4d026bd57397fb5023ea4425960498ec80950d6d24e81ff00"
+    },
+    {
+      "agent_name": "egodust",
+      "agent_number": 1607,
+      "owner_hash": "117079d0e113ac90c86ab09bcef5875ce6a214dc60e724ee6eed84140e68205c",
+      "claimed_at": "2026-03-22T22:49:33Z",
+      "signature": "a7ad8b08b70d6b9990b0e0b90330bc3253266c7dc05bf73639c4421a6b16f36d97dfdd9a33cf46f03e7534eacd581986a5eb75d262abef2f3520830951cd9904"
+    },
+    {
+      "agent_name": "444",
+      "agent_number": 1606,
+      "owner_hash": "0025cf927e7097cf41824936671e3ad3f103b0b58ecba5470978b04b10646aae",
+      "claimed_at": "2026-03-22T22:49:32Z",
+      "signature": "a15af2c89d1fade5cf2703d0254b6d1c651d050a85dd9c76c0e31d85a48574c80514922e24e09cc72c702afd27a5d23dc74d77f89c5abc0a56007ac1a34bd908"
+    },
+    {
+      "agent_name": "elyar",
+      "agent_number": 1603,
+      "owner_hash": "1e52dac53d3d851be02d38d0b4429c15f823908795c7979a0cf1b0556fc114cd",
+      "claimed_at": "2026-03-22T22:47:58Z",
+      "signature": "a6bcd4512790dfd7737632e880fddd7f0d16112f83145a6dee2652945161e1ce237461719d07f8518f4014d77bf6ba1129ef29d75ec2c41d8a537a7a6d9f2f0e"
+    },
+    {
+      "agent_name": "none",
+      "agent_number": 1604,
+      "owner_hash": "7d68c4e0eb73082c5a7673c5dbc1da5d1f389aa8b593fb6650255bccf3267b37",
+      "claimed_at": "2026-03-22T22:49:08Z",
+      "signature": "0c9afbe3f1490da37b973e0b6cf99ce6c3f676b23caac5b48482a3bdd5e188ac95e878ef1f2a77bd869fde34079e2ddadf0882234c6580adf5ed3ebc40d4630c"
+    },
+    {
+      "agent_name": "serge",
+      "agent_number": 1605,
+      "owner_hash": "b794bd8331bfdbb38c1c5d7bfdfae2b68fb791a6a28bb5ef57424218cb12ca31",
+      "claimed_at": "2026-03-22T22:49:22Z",
+      "signature": "0aa108050d4457c1c6c32572283e42270a0b307c9fad3dce679c5c540dcd4b32abf2673e5de180e4249e33b28a55c8c84f06b48503b5a662c6487d0481c5240e"
+    },
+    {
+      "agent_name": "ass",
+      "agent_number": 1608,
+      "owner_hash": "e52f51f54854679be7740e105e027915f4cb6bd6c45accda3b2a7839f3a56a2e",
+      "claimed_at": "2026-03-22T22:51:10Z",
+      "signature": "2c88cde352990ffc1dadcc1a171fbda3b82dc323b57ac36da409cf80bf51df9260e0485a62c27b6cb7c8a44e988b1fbf1e5d2376b81e2c3cf617e9e8d2d8af0f"
     }
   ]
 }
