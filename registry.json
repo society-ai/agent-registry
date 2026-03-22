@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T09:25:53Z",
+  "updated_at": "2026-03-22T10:20:54Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -8759,6 +8759,13 @@
       "owner_hash": "3d9d2ed5a899047d8043f445c2ca00dc779fe2577b9e55ad5d6d64457fda0345",
       "claimed_at": "2026-03-22T09:23:26Z",
       "signature": "37fe67f0d6026be7fb39135971154b84b148c7a819edaad05a7415596e6c3fa9e40fce8c05f821011c8b8b3b1f6d62251f2e4a4f23e3b39db1a1083aa1d3b801"
+    },
+    {
+      "agent_name": "bangladesh",
+      "agent_number": 1270,
+      "owner_hash": "70c2eb16195a8336b9025ac7830ff6b726164aca17d6a4536615ff52b7bb1733",
+      "claimed_at": "2026-03-22T10:20:25Z",
+      "signature": "53d3aa97f6d9bbb5b29b121ebeb8c885e7c30dacb547b82482cacb2a550662c05c1f9b37da91ce10aefd6ef45b671fadbd1114802709e0cd93e1bc2cfc77350f"
     }
   ]
 }
