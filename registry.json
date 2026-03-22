@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T21:51:36Z",
+  "updated_at": "2026-03-22T22:01:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10803,6 +10803,27 @@
       "owner_hash": "bcd343b299f0440153a82bc9ec110da61cca2b33001e14e36146ad0c98c71082",
       "claimed_at": "2026-03-22T21:48:40Z",
       "signature": "bccd64d00f6621e67fe658d13ab57b6a2260459e6a7dfc889ef542c6c171434caed12da015f010fe0d7781c78bb60476729627f456f10b97a22450291de2280f"
+    },
+    {
+      "agent_name": "ethiopia",
+      "agent_number": 1572,
+      "owner_hash": "45868f943cc7128913177ebbeb3888a7e739f30432bc84a03b5bed376c42007e",
+      "claimed_at": "2026-03-22T21:57:34Z",
+      "signature": "174cb209ec818b82d2609cf9cf3e71d749bfae2f5eb990846af65e51ce88690a211f81712d444def269267a0db6991855dc8f016fcd453062fa16ecb6e5a5801"
+    },
+    {
+      "agent_name": "jamesbryan",
+      "agent_number": 1573,
+      "owner_hash": "b593979beb5d522afcf5b28c82484c112a7054ccdee9487a09ea6ec8b4955756",
+      "claimed_at": "2026-03-22T21:58:47Z",
+      "signature": "a2ea3f3e0abaadab631409749af74e23e07c46dc50b50ccf72319a49d28f4132bc4896b1a913f4aa477560796af7209aa4ff7df1a71b42a3c42add2fc702d00f"
+    },
+    {
+      "agent_name": "djalildev",
+      "agent_number": 1574,
+      "owner_hash": "61abbba75209ffccad75b145552a8a1e5816595375f80edc8ba5318c67ebbba7",
+      "claimed_at": "2026-03-22T21:59:12Z",
+      "signature": "70610dabea1d01dcdd78f9adaa2c94e1477c40a8559a7ae8d15f0e53ee19cefdba8ef79c3823c030af4716c014f6b93d8cc4218285c2001596e0716b83f63b03"
     }
   ]
 }
