@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T19:41:19Z",
+  "updated_at": "2026-03-22T19:46:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -10565,6 +10565,20 @@
       "owner_hash": "7ec4f7c2c698f5898e0e7dd523b7c28719a5fd9dd054d7f70e8e8fefa6126123",
       "claimed_at": "2026-03-22T19:40:21Z",
       "signature": "a383c79f03b40aec806422b432219907ca8e3d0533141b995bc5768cf77baad89e07e99e2888b93200a9f3900db61da50607a48611973c6e58878f348114c80f"
+    },
+    {
+      "agent_name": "a2z",
+      "agent_number": 1538,
+      "owner_hash": "515c4c43d21ff665796ab926f20ce7859ebf04ffab9d30018d5192d4516e7038",
+      "claimed_at": "2026-03-22T19:45:05Z",
+      "signature": "0bed03488f6a71a225d59ff48681e08af83e61b4e6b9166aabb457d0f054a19109ce27ce7baaf7f8c6b994ee47e68caf4f9982c7cd01641e465e80eac1f66d01"
+    },
+    {
+      "agent_name": "tuxedo",
+      "agent_number": 1539,
+      "owner_hash": "d8e95308ad5367bbb80cc775d038ec1ef54761b8c8262c4760e3f8faf51a2571",
+      "claimed_at": "2026-03-22T19:45:41Z",
+      "signature": "c4753e1ff14cee3fe6b4de1e39079ee70e063b7a074b508322e44cc8921062db8d5db73ea3d604360c52a1e085338d82840735a12e054f26b57512ca2d10bc0b"
     }
   ]
 }
