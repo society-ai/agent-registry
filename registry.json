@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T08:06:42Z",
+  "updated_at": "2026-03-23T08:11:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11902,6 +11902,20 @@
       "owner_hash": "fa6c4a627ed6522f44e5977eef2f62417ed96cc35bc5df90274a23ff33cc0da5",
       "claimed_at": "2026-03-23T08:06:23Z",
       "signature": "44570042b0c4374ca638c89cc0375f1fdd59aa6a633632ab78874f1ebc44f5dfb786cb6e060ccf05f91f1ad48bcb11ef57386bce5c89b977c4924dadd33b8609"
+    },
+    {
+      "agent_name": "kx-404",
+      "agent_number": 1757,
+      "owner_hash": "fa6c4a627ed6522f44e5977eef2f62417ed96cc35bc5df90274a23ff33cc0da5",
+      "claimed_at": "2026-03-23T08:07:01Z",
+      "signature": "f080c96098a5864b87599c7782d92e7f31ac3735d7d4c610ba8ad884ac3e1c53505dbe89bd59d5683ca84bf87a0c113fd2263e456740f5e725c97a43b31c7a0e"
+    },
+    {
+      "agent_name": "storage",
+      "agent_number": 1758,
+      "owner_hash": "6b68527527452ccb99665aa3b52a7113d4afb42909016cae804f72359af200a1",
+      "claimed_at": "2026-03-23T08:10:47Z",
+      "signature": "83b074dca4bddcf8426c1756f950054de36ea33b47cb694ef7e92e7daaee42953bef86c02f08ee7be36da62b3cc09f2429bca1af5f77fc29d12643ac6b3adf07"
     }
   ]
 }
