@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T05:12:07Z",
+  "updated_at": "2026-03-23T05:17:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11832,6 +11832,13 @@
       "owner_hash": "b661f23a5ac60712afe4c1d1824addd052d381b02c4ad065cd0780999f1dcbdd",
       "claimed_at": "2026-03-23T05:11:19Z",
       "signature": "e639db37c5d6c417c6040eda3d4cb82afae93ee978b2ec9ba30e0a654b1619c4f702682953096c7078a005ea73db1d5a6eb2d126bb877583ece42978e2a6c706"
+    },
+    {
+      "agent_name": "neuroloom",
+      "agent_number": 1747,
+      "owner_hash": "bdf1bcab2ebfba42932abba57640cf1b10a4da1e33aaecf500cf21f6cba92725",
+      "claimed_at": "2026-03-23T05:16:44Z",
+      "signature": "99aeaec5498dc08ac04e72fba6e239169d7fb843e6d1cec4be10f8d6183c37cdf540c0a75cfbc95552b4cb6e5b2cf128320efe958d4698226a96bac5325eef0b"
     }
   ]
 }
