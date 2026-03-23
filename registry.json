@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T00:07:00Z",
+  "updated_at": "2026-03-23T00:12:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11720,6 +11720,27 @@
       "owner_hash": "2b55e9fec5af2c5b35e2ae1c2660faad3362978e30c47ec59028a0de20766212",
       "claimed_at": "2026-03-23T00:06:20Z",
       "signature": "380a89982a6cd35133a51ac937683145f23dd91722e383b51171e0379e0cf8b2e0d97a34ef39928ee1504d3e07fe7bb20cae0d979f1ed294d377bd3ad7bb6d09"
+    },
+    {
+      "agent_name": "get",
+      "agent_number": 1730,
+      "owner_hash": "0451877d7b1ed04a9043d3f9a986c6798484aab45743a8d80f350af7cf3e4365",
+      "claimed_at": "2026-03-23T00:08:29Z",
+      "signature": "f2287f477bbc84aaaf01d11215b2c81e229ec431cf03e25aea38f0dcbd6bf08288842f19f417e32638ddcd96a75197a9543d3e32c07ce50f066c363828afcb05"
+    },
+    {
+      "agent_name": "zax",
+      "agent_number": 1731,
+      "owner_hash": "0a98625cc3bedd73f9b3551491fea1f1d6f7819cd8f46b6afbffa6678304c6b7",
+      "claimed_at": "2026-03-23T00:10:49Z",
+      "signature": "ec6dec2ec3dd2497a42d6d51bd06bb661075b5990f5725ae10b3d886bdb20bec271b41edd16c9ef0758a532ea602017dc6a232865f2ef582fb3f4d167acc3206"
+    },
+    {
+      "agent_name": "microsoftofficehelp",
+      "agent_number": 1732,
+      "owner_hash": "e523e68c89efdd3d833a045eea4ddedd7ec3466a5dae7433dade14f46617a2d1",
+      "claimed_at": "2026-03-23T00:11:21Z",
+      "signature": "3f7b96840ef795e1e3c5ea0f3199356bd33a564596cf3c1fb7507076207a4e87bff270922907e38e26ae8d7478356d7a1e768cfd3ee685e51d246ac86ddcf102"
     }
   ]
 }
