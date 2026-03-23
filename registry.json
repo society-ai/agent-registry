@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T00:12:01Z",
+  "updated_at": "2026-03-23T00:17:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11741,6 +11741,20 @@
       "owner_hash": "e523e68c89efdd3d833a045eea4ddedd7ec3466a5dae7433dade14f46617a2d1",
       "claimed_at": "2026-03-23T00:11:21Z",
       "signature": "3f7b96840ef795e1e3c5ea0f3199356bd33a564596cf3c1fb7507076207a4e87bff270922907e38e26ae8d7478356d7a1e768cfd3ee685e51d246ac86ddcf102"
+    },
+    {
+      "agent_name": "gio",
+      "agent_number": 1734,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-23T00:16:53Z",
+      "signature": "3a70ae65804ee00a6cbdee61f52199e9d8fceaf3987af5798826d63e9f7e531d1d914c7ca579c03c3dba227e53c25b5f8fac867712b18b777e49d341975c260a"
+    },
+    {
+      "agent_name": "earth",
+      "agent_number": 1733,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-23T00:16:28Z",
+      "signature": "15c9dadb12408038d361ca0df2fc11c8de97914185d8684f346268773c54340040bced10d7fe95b7a612ec2bf66939842fc6b14d09d4bc2ab01d98ca069f2603"
     }
   ]
 }
