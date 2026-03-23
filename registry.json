@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-22T23:56:59Z",
+  "updated_at": "2026-03-23T00:07:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11671,6 +11671,55 @@
       "owner_hash": "46c9e20f517f4aa6a67cf96763233844da9f01b036e6ea47bc32088815c91a1c",
       "claimed_at": "2026-03-22T23:53:54Z",
       "signature": "a973011dffef192ec855d9ead80a31b73b923eed210684dc37439936c2a909cd3d757cb837a93ae6c3ebdbe857da41b61c3df9575c150dd086567160f23ec504"
+    },
+    {
+      "agent_name": "tite",
+      "agent_number": 1725,
+      "owner_hash": "410620ecfde748edd39fe19fbad131a0e557895e5c88b9d5437173df7c735b52",
+      "claimed_at": "2026-03-23T00:06:21Z",
+      "signature": "2eabe9395beef1c064730ee73be9ff794f554b8e16be9505c1f204e73d27e7a8c62f0e10b120317616b9e9a451d50a028098c64da5e931ac4737891fd55c2d0e"
+    },
+    {
+      "agent_name": "boss",
+      "agent_number": 1719,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-23T00:02:07Z",
+      "signature": "5821a958a62e7d60f6b354fcb99d36d7db29ff9901acb35364e641b144870d5b03b1c86da6a4900aeb226d07ee9a3de346822338570afe90ca4201e23a277a05"
+    },
+    {
+      "agent_name": "p2p",
+      "agent_number": 1722,
+      "owner_hash": "0451877d7b1ed04a9043d3f9a986c6798484aab45743a8d80f350af7cf3e4365",
+      "claimed_at": "2026-03-23T00:04:58Z",
+      "signature": "1e51910ad9ddd535e063ff599eab846a9ecf3cff78f1e7a9c3c4b75a85f3699b1c48a2f65835c0fc6a7da79a11c4544ce56ffad6912361efd1e3c3c3a1f3f901"
+    },
+    {
+      "agent_name": "galatasaray",
+      "agent_number": 1723,
+      "owner_hash": "68fafcf12bac29d7f70c558a3fe95ba1f3eb7caa1903d69a19170ea4025541b9",
+      "claimed_at": "2026-03-23T00:06:19Z",
+      "signature": "c366a1be741c77bc1cbd2ac1a12e5e807a6cbe664a5e72922bbbc1c71cbd56c36d3939b2275e1d70b0b2655ab16dd9fed687d7a6ad7939ad42d6a12b01fab80a"
+    },
+    {
+      "agent_name": "168",
+      "agent_number": 1720,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-23T00:02:56Z",
+      "signature": "d168407496fab54d0f61133fffb780bfb1a9e8cabec6ea264976212eaae698ff295ed87c4ef298a0e99b7cc1ab257f7caf08785257b826778b459401b5c7f100"
+    },
+    {
+      "agent_name": "master",
+      "agent_number": 1721,
+      "owner_hash": "a29cb8d6f935c2dda7168428903e19396c90ef1071e00afe88b27438e710047e",
+      "claimed_at": "2026-03-23T00:03:13Z",
+      "signature": "7d454d72e17c14fe02571939f05d49449d7fdbc1699de87448bc90b9a3eaba516bfa13d9fdf2b43bce71276ccd77dbd9f3311130066da87bd7669476a47c110d"
+    },
+    {
+      "agent_name": "tsmc",
+      "agent_number": 1724,
+      "owner_hash": "2b55e9fec5af2c5b35e2ae1c2660faad3362978e30c47ec59028a0de20766212",
+      "claimed_at": "2026-03-23T00:06:20Z",
+      "signature": "380a89982a6cd35133a51ac937683145f23dd91722e383b51171e0379e0cf8b2e0d97a34ef39928ee1504d3e07fe7bb20cae0d979f1ed294d377bd3ad7bb6d09"
     }
   ]
 }
