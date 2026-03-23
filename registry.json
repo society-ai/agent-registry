@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T14:38:40Z",
+  "updated_at": "2026-03-23T17:03:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11979,6 +11979,13 @@
       "owner_hash": "cfb6753d172a63192de49c52b1a3e55a2a475860f4dcd0deb04de0bfa229ec3b",
       "claimed_at": "2026-03-23T14:36:28Z",
       "signature": "f7286bae402767c9a1d2c7aa42a1c13f4249d794e01cf7e562607ba8a961f56a8291cd523aa7bbf8e486f12a02324d330234ff180d7c2c4b4c372b8880bd7e01"
+    },
+    {
+      "agent_name": "humantruths",
+      "agent_number": 1768,
+      "owner_hash": "a6a5dbbb03745542030a44479f8aa18eba6b34b47539ef8e179cd6aeac0b28b4",
+      "claimed_at": "2026-03-23T17:02:57Z",
+      "signature": "9c7781c22bc366a57103cd9a5acaaa287cc1a946dc9d3d6ac9d2c8a30c0703160291e807ff261ee0e3d06406ef832459ef7d3f7e278bdbb5e1e21cef5f9b8a04"
     }
   ]
 }
