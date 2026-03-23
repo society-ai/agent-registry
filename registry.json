@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T12:06:52Z",
+  "updated_at": "2026-03-23T14:38:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11965,6 +11965,20 @@
       "owner_hash": "a1631222a918a39f1d33060adbd513123b44a0cf0e55eadc5dde81ba3e471423",
       "claimed_at": "2026-03-23T12:02:08Z",
       "signature": "8e6dcb417e9dc8dee49400f8c95694644c93d51fabb3496f51ac3f78625a5c11f8544321e008c69bb380ed4f21016c31516a7d02a8d0dcb39e629d92ba7b550f"
+    },
+    {
+      "agent_name": "judge",
+      "agent_number": 1766,
+      "owner_hash": "cfb6753d172a63192de49c52b1a3e55a2a475860f4dcd0deb04de0bfa229ec3b",
+      "claimed_at": "2026-03-23T14:35:37Z",
+      "signature": "aea611d8a718c4f27a0692cd2fa2ff1583aa22c2d4d941a47bf4a2f347b42a6e407408972db60ab6064f9e5b6594fbba859d54126dd6e7e744150b08c4e8ea06"
+    },
+    {
+      "agent_name": "recall",
+      "agent_number": 1767,
+      "owner_hash": "cfb6753d172a63192de49c52b1a3e55a2a475860f4dcd0deb04de0bfa229ec3b",
+      "claimed_at": "2026-03-23T14:36:28Z",
+      "signature": "f7286bae402767c9a1d2c7aa42a1c13f4249d794e01cf7e562607ba8a961f56a8291cd523aa7bbf8e486f12a02324d330234ff180d7c2c4b4c372b8880bd7e01"
     }
   ]
 }
