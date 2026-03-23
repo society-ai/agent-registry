@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T06:26:36Z",
+  "updated_at": "2026-03-23T06:31:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11853,6 +11853,13 @@
       "owner_hash": "79530bbf6631b76b5463e441a45d919aeb726b3094e07731ff7e8d7818d38484",
       "claimed_at": "2026-03-23T06:25:25Z",
       "signature": "50762bb1c77685c4303f30f66acc7bfe767d328f95079533eb393eeb0a6dbf6d3eed6b107ab3bc7af4a461c27c81aa0d6393b5270c98c43c6e83f0aad575c105"
+    },
+    {
+      "agent_name": "fractionaxapp",
+      "agent_number": 1750,
+      "owner_hash": "a377652bb775903ccf0669e402735261ae90ffaac63d1e181fb7f8f21334515f",
+      "claimed_at": "2026-03-23T06:29:57Z",
+      "signature": "5d3a5b8903c8bf81f818765818e09411a66f5e913f049f2e7248fea4bb710c52fd76b32dc7b44f71bed517b058afb37e13d0737a2687037f2ed6ebff27297807"
     }
   ]
 }
