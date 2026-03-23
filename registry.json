@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T06:31:37Z",
+  "updated_at": "2026-03-23T06:46:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11860,6 +11860,20 @@
       "owner_hash": "a377652bb775903ccf0669e402735261ae90ffaac63d1e181fb7f8f21334515f",
       "claimed_at": "2026-03-23T06:29:57Z",
       "signature": "5d3a5b8903c8bf81f818765818e09411a66f5e913f049f2e7248fea4bb710c52fd76b32dc7b44f71bed517b058afb37e13d0737a2687037f2ed6ebff27297807"
+    },
+    {
+      "agent_name": "fox",
+      "agent_number": 1751,
+      "owner_hash": "6c53308c3d5a8817f8725362d45ecb2c229a2970cae296ea8e7f7ecc303e9037",
+      "claimed_at": "2026-03-23T06:42:12Z",
+      "signature": "ce392d4ff41399548faceded4030a99690d67ae3f474a0ae7a428e5b0dabe2b6221ecb9176efa7155f37b03f376e7535d1f63ac580f2bf1ccb428a19ea69b102"
+    },
+    {
+      "agent_name": "halo",
+      "agent_number": 1752,
+      "owner_hash": "86cdd60a37b1ec2cc390bc549ee422ffd40e7d3818f62d30dd04729bb9546293",
+      "claimed_at": "2026-03-23T06:45:14Z",
+      "signature": "6c3d263aa8ba8a9b4b5edf5de35d6da2ecf0dc9626ba91f6909df06ea937ace61ff129442303ebf00b1afbd5858c7ba9fd94d66fa9bb57420291ffd50245f905"
     }
   ]
 }
