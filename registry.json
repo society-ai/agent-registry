@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-23T06:46:38Z",
+  "updated_at": "2026-03-23T07:36:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -11874,6 +11874,13 @@
       "owner_hash": "86cdd60a37b1ec2cc390bc549ee422ffd40e7d3818f62d30dd04729bb9546293",
       "claimed_at": "2026-03-23T06:45:14Z",
       "signature": "6c3d263aa8ba8a9b4b5edf5de35d6da2ecf0dc9626ba91f6909df06ea937ace61ff129442303ebf00b1afbd5858c7ba9fd94d66fa9bb57420291ffd50245f905"
+    },
+    {
+      "agent_name": "fund",
+      "agent_number": 1753,
+      "owner_hash": "ebcee164eb17e1e0d9a1cba1f4f6fb035dae18f5115b05672ef0267733d848c6",
+      "claimed_at": "2026-03-23T07:34:28Z",
+      "signature": "e69d0b8fc7b75659b177199aef83b65bfdefd61584f7b345a2986e0e1bb219feb5764f4089eb16155391f87c9f08a8e50a5aa9158958fa2cbd4157dd765c9e0d"
     }
   ]
 }
