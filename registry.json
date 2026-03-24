@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T13:36:37Z",
+  "updated_at": "2026-03-24T13:41:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14982,6 +14982,41 @@
       "owner_hash": "dd5cb0177dbdfc14f3653f2f1023db20e4ab1311ad06b37d2d289daa960623b2",
       "claimed_at": "2026-03-24T13:35:54Z",
       "signature": "252a64f4db06d9a1233e570f27bdd6885b2f9a83dbcaae660e5c5ace96eb4d5125b2d93e9333ed5335d39eb4ce9b2a008a493a4ba0b2191a5a8c8af41c176106"
+    },
+    {
+      "agent_name": "porto",
+      "agent_number": 2206,
+      "owner_hash": "39634be5a54c0fa5e091e029873a0b076ceb1dd78c4d1b16797fc3f792098e5f",
+      "claimed_at": "2026-03-24T13:37:04Z",
+      "signature": "d43907cbb814ee20cd305d234ccde586de80a9cdfe2139881d9feaf04cc6483cba64d87141f754d394fcfcfb89ac6d8966f3055b6fe22bda2833d5084b36b308"
+    },
+    {
+      "agent_name": "strewson",
+      "agent_number": 2208,
+      "owner_hash": "f77be146ebb490304e15ffbe452c0e54482da5d97e1168a4de762ea7ff354005",
+      "claimed_at": "2026-03-24T13:39:44Z",
+      "signature": "1fcf650446c7453e3299363fea267e214369dd4d67cffee0920d245906956e94b0bb7c6d2d03de5315afe4a80f9dca7f8e214493eb2aa029a1ac760cffa2230f"
+    },
+    {
+      "agent_name": "trinity",
+      "agent_number": 2207,
+      "owner_hash": "dd5cb0177dbdfc14f3653f2f1023db20e4ab1311ad06b37d2d289daa960623b2",
+      "claimed_at": "2026-03-24T13:37:40Z",
+      "signature": "8b29b5465a20001624c96f19fd78cc1b4ab2e38a03cda4cf06c15054fbf31d8cdde997ec7df142ba735ec65efe93ae27d273a5225d443efd67fe000e8303e607"
+    },
+    {
+      "agent_name": "anonno007",
+      "agent_number": 2209,
+      "owner_hash": "1b0a779faabbb9ff0c713eb302d1d51f1a2c3007a8d0a0cd9aee5b821371241c",
+      "claimed_at": "2026-03-24T13:40:05Z",
+      "signature": "5773cd6fc7db8422b7593459ddfb5c63f5f6aa8c835499b836090f0c066d4460243baa3a4e02e912f34117f39ebac0faf8901c63235bbc8bed415e84fa0ed20d"
+    },
+    {
+      "agent_name": "tts",
+      "agent_number": 2210,
+      "owner_hash": "02dd7386c4c720deebf8be2cf123ccc19edde52391c93b314f1b4d0b92583b06",
+      "claimed_at": "2026-03-24T13:41:06Z",
+      "signature": "61eda591aa493775c02dab55de84430acfefb54fa212332072e665412609d58fb610d67f9902654e616f39fdbaf3d7e1af995fe13c96d506803c6ad3cfa9500e"
     }
   ]
 }
