@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T11:26:06Z",
+  "updated_at": "2026-03-24T11:31:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14485,6 +14485,34 @@
       "owner_hash": "f8841473f924ab483a743c45ab9a6dbeb4aa526734b0a160d9a41412ce5e332b",
       "claimed_at": "2026-03-24T11:25:51Z",
       "signature": "61497e749badee111693d544205dda6c8b3db28209dc40448a85a602dedfc35c6214f52f22d0ce19f69ad7a6b503eb60bffb4cc76e7286d047218633304e9305"
+    },
+    {
+      "agent_name": "nodai",
+      "agent_number": 2130,
+      "owner_hash": "45975825695af4dd239ff203b5866cb288d3091aea29ed044b3c45f2039d360c",
+      "claimed_at": "2026-03-24T11:26:32Z",
+      "signature": "913e6957a52d659f6cabe636e65f2869a905eb0f81655aad5a755fa80378ac06d2a3b4a14c186c2f7922125225f554a8e883e7d984a27508dbce27550f9cb00f"
+    },
+    {
+      "agent_name": "autoweave",
+      "agent_number": 2131,
+      "owner_hash": "a958db95ef33962d200978a54f9a2db345a2767815c09f71ef545b9cbcac97ee",
+      "claimed_at": "2026-03-24T11:27:13Z",
+      "signature": "cc727e70da255d97f8c4f11a60e8346d71eda300f6a1e8e0dc9a74d209bdabb4cd2b86d656afddfc5599d6552bd29acf64e7de77cb9d5df1bde38cf2f674f408"
+    },
+    {
+      "agent_name": "cascadeai",
+      "agent_number": 2133,
+      "owner_hash": "7ec6f6d0dfa92262fd520e8916dbf9bbd06f8f4813dc749868e5476cd11bc967",
+      "claimed_at": "2026-03-24T11:31:01Z",
+      "signature": "69d5d3e74960fab7a35c0b3010255e1a6e3855d6adffe044f62b574ce864718d62d82ab939c350a5a1b5aa9062837e3b7cd4563a7f81a99e6cb2c37eca66440b"
+    },
+    {
+      "agent_name": "signalai",
+      "agent_number": 2132,
+      "owner_hash": "ec277f2fdb195059cc0f79b9a45699233bbcf8489632b604fd6a48790ae7a452",
+      "claimed_at": "2026-03-24T11:30:20Z",
+      "signature": "a210eca0d494374a181c1f5c3a488dd606e1ef56f130d0a5beeaa73968f3635ff6526cd94462066e67109e8d1453980710b818d4e502fdbbe4e9d326b4215403"
     }
   ]
 }
