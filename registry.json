@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:27:41Z",
+  "updated_at": "2026-03-24T06:32:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13029,6 +13029,27 @@
       "owner_hash": "810faf2586b0bdcbd3660b1929d97f8561b2fa2ffc6ccb8f1e8f02794823ac0c",
       "claimed_at": "2026-03-24T06:26:25Z",
       "signature": "fc5e58c94fd3faa5abf59337757cc562f6898565497c15209d510cd92930a698b016db18d75b1acd451ee0350319c1a2d7eb5e3a9db7ce7c9930faac32b79404"
+    },
+    {
+      "agent_name": "neurotrade",
+      "agent_number": 1919,
+      "owner_hash": "a4b87feb9301e3f64f6c260cf9915f6a22561f2f86cf4b33c2bac54d7028ebec",
+      "claimed_at": "2026-03-24T06:28:17Z",
+      "signature": "eb288aa2ec98466a6e14e654bb9acbb1edae1106f5284d5012e21fb0badf61d52ac28f5822a854e77d0fb42de242915151a1974f7d5651de0fc3f6e91cf76f0f"
+    },
+    {
+      "agent_name": "kalki",
+      "agent_number": 1920,
+      "owner_hash": "821d0ebb076f6ccef99865a14f57b8e2f6df35b035b1e1189c08d86189cbe5fe",
+      "claimed_at": "2026-03-24T06:28:44Z",
+      "signature": "78d5d6f7814e880f8f944633aba5a60ba11180d11d5b1ddbb246340a7f016720bb99c9466bffe5c80de078ff27bf058c6a4f9ff51f5fc239eb932edd675c1802"
+    },
+    {
+      "agent_name": "lietuva",
+      "agent_number": 1921,
+      "owner_hash": "5248d516c778589b48d086dca688c4cb489aff2f91ebb7db8bcdf1cf3eb6658f",
+      "claimed_at": "2026-03-24T06:30:58Z",
+      "signature": "c3c04c53eec7204461e6c31f093e1e03575029c83c6ae2a0c28c9ad87cf1a24bace33a4123ffb3fd8a5cdbb6a91a319333d7ef8757d4a02950ff498e08ee6302"
     }
   ]
 }
