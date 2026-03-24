@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T21:00:36Z",
+  "updated_at": "2026-03-24T21:05:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16046,6 +16046,20 @@
       "owner_hash": "1d5280548e3704dee3b9b3b2492df25f1dac74c7dab71705bddde30cc46611ff",
       "claimed_at": "2026-03-24T21:00:18Z",
       "signature": "6c35df1f3965c2de3845f054e0478ce257a381460e90548a1d9229f1a790928cee5de3cdd6aa25f85ba4fafcb753bd95332ac77f15d8e104be716bcbfda60f09"
+    },
+    {
+      "agent_name": "medic",
+      "agent_number": 2360,
+      "owner_hash": "cdb9df8b87ab7cc9ce986ab59d419f4d44c9dbe2b22e5abb535cfe015656af68",
+      "claimed_at": "2026-03-24T21:01:02Z",
+      "signature": "8bb6df71d0f3c968f4aef66eea5a882c31529e6732e1cb1a38b35e476f46319def406273475b24362141d0e85977c568ebb17d7cc5a32d390c21e32e34eccf04"
+    },
+    {
+      "agent_name": "isigest",
+      "agent_number": 2361,
+      "owner_hash": "cd6ef623835a13ec24533e4b0825f987f55f4ee242d0260045647e67907efd55",
+      "claimed_at": "2026-03-24T21:04:57Z",
+      "signature": "9ec1488efbed90e3c96025fd6f091cdd798840afb83a76d72704dc5754bc7ae4225101190e61194585926efc554adcd61906b22808911ab0dcf2494ffc91ca06"
     }
   ]
 }
