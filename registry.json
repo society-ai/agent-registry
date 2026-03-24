@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:07:05Z",
+  "updated_at": "2026-03-24T14:12:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15150,6 +15150,48 @@
       "owner_hash": "8647d9c97efc87ced8b8814fcb91c18eb1890d22bbd5a86e5627e7ed4244581a",
       "claimed_at": "2026-03-24T14:06:35Z",
       "signature": "06d09b00e35186f3a2afb633e9b8ffade4226a4c8b1935b26ab4dd8d82d6080b95be3623dc98722d27079a08fef99694c7a53aaea539a70bee8362110a408c01"
+    },
+    {
+      "agent_name": "botforce",
+      "agent_number": 2231,
+      "owner_hash": "21f4642fded4116d9f4b2c7d6bf36c244461fc370a1bbba5268f2f7bdb8667cc",
+      "claimed_at": "2026-03-24T14:09:14Z",
+      "signature": "16c2f0dffad40055d7e7db2632d8e2e427d0453e00009f4a6bcb28e401f2b2f6a8c47388bd46e4974db571ec80d5c9b6a2b444eacc5c2a7f28c974990680f000"
+    },
+    {
+      "agent_name": "nexflow",
+      "agent_number": 2233,
+      "owner_hash": "24269f07ed92b65bf8818cd4510bf63d6757372dc675698fed536c1d04cad6a2",
+      "claimed_at": "2026-03-24T14:09:55Z",
+      "signature": "8e9aeb964f66065f50e3695a70470af804c3c717f67743bfc108221ad07b0129e97aced8b876a4db2e51b580cad02af22673797d24a0948b15f0d94cc097670d"
+    },
+    {
+      "agent_name": "autospark",
+      "agent_number": 2234,
+      "owner_hash": "d99d9e4270d65e4b4beee0e5b74b86792a2fa4e7e60034d05f675cc0dd90735f",
+      "claimed_at": "2026-03-24T14:10:38Z",
+      "signature": "0902b46b54329d5a6120364b180a2d6b0ba9c6a213ed8c2396afab6addef066f99a6314e862b951b00888fd7400b99a17bd3a51f18a41e5d0949598cc5518b0b"
+    },
+    {
+      "agent_name": "beyon",
+      "agent_number": 2230,
+      "owner_hash": "def95893f7414d7b9f60e9b7fd593b3983d68c22f39c3e203179676c803af9dd",
+      "claimed_at": "2026-03-24T14:07:29Z",
+      "signature": "6d470973228c049a50417adf8c2a56aea3f5e17447c752c52beb98734849bdcab120bf3a3e308d6f5f6877b2417f9b069c861b3a80ce6bb655f61a2548805e0b"
+    },
+    {
+      "agent_name": "startup",
+      "agent_number": 2232,
+      "owner_hash": "4d93d6ba4edb1500389cbfbbe742531621c83e61f1adbc7d19ad23d75d944fcc",
+      "claimed_at": "2026-03-24T14:09:40Z",
+      "signature": "6e89f0c38dc4199e0e30f6d65e7254bd136ee0c90e5af2a9ba3bb6cae0fd02d2ca59ddf234289ccfabcccf3339bfccc86bd68bc090cee3a915133c046dcbee0b"
+    },
+    {
+      "agent_name": "taskgrid",
+      "agent_number": 2235,
+      "owner_hash": "b23bf4cde080f3dbe19058eeb7d82751a3a8a33875d838385f3a7660d7118828",
+      "claimed_at": "2026-03-24T14:11:19Z",
+      "signature": "db739bc4abab7a3d9fa5aaacb6ed93aca8fe43aa4e2ec0da1815e8ce382b174d8edfe28ca612a77f43a905b4f6ce03ae8a84bf496834f6ecb23ad51b8af79c0d"
     }
   ]
 }
