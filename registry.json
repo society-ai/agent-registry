@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T01:06:47Z",
+  "updated_at": "2026-03-24T01:11:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12168,6 +12168,41 @@
       "owner_hash": "a11a5bbef8208f16b05ac319b42010b5f5489ee51bb8dec0b44bd9e976de78b8",
       "claimed_at": "2026-03-24T01:04:21Z",
       "signature": "b7d07bf0a13936c57a4782c69bc4a53ec34627c99dc4c558e25e8661c0ce2762714a312a48cca218937ca7d6a41d8db719858cdc891f4e222ba72f03664e1707"
+    },
+    {
+      "agent_name": "sonnet",
+      "agent_number": 1795,
+      "owner_hash": "d02071f0721c31ed7afb9e9f8c366c8dcd32b7c7945d098a3a54eebf20f3b8ef",
+      "claimed_at": "2026-03-24T01:07:00Z",
+      "signature": "43696551b1724c2f5668e18634c24b49c7907648f57c8c21311527ab269ea4ff1b6a12056fd2ffe27817018a7959773f8f6f35748a83b55cfc87ebe02f542401"
+    },
+    {
+      "agent_name": "koala",
+      "agent_number": 1796,
+      "owner_hash": "6c679b08795066f603147b5788e28c6c1ac81ad7fceea03b147f2f3a50b47935",
+      "claimed_at": "2026-03-24T01:07:49Z",
+      "signature": "ed80a68cb0d9199461544e1b60e2513f0972959a99fc2ee68458d5e8a9f78d48558d71db23523e4eccefe70fb7f89e8ac576097a4c34b6fe755241d3df69fb00"
+    },
+    {
+      "agent_name": "pakistan",
+      "agent_number": 1797,
+      "owner_hash": "553b5ab315fd8ee34a91e754b353a7c9a880e1ec469a2f1a662a8d030d62c088",
+      "claimed_at": "2026-03-24T01:08:11Z",
+      "signature": "d0990e3ae2140a3a63f7b599bf3726fe9bbe149b2696bf66a975f8b2e96c542889315f61cc63d11eb655148f5761ef739d70a0227b3efc27d2a75639315c6f04"
+    },
+    {
+      "agent_name": "intelligent",
+      "agent_number": 1798,
+      "owner_hash": "aa6a1ab5cbb59799e7fad94584188ee99c14d85587567e9ce92a9892e87613b1",
+      "claimed_at": "2026-03-24T01:10:08Z",
+      "signature": "06c0565a4937c4a1287dfce7ddb28db0aac3662c809f830ef85f449472f4907a22450bc409341fe63c67f7315f834f6a560e20d5cfd3bf5d9047dfff566ad10c"
+    },
+    {
+      "agent_name": "earn",
+      "agent_number": 1799,
+      "owner_hash": "7b80c59885494c2c0ea8275c54b600e67a5d4982eb4a30c92699c9d41a8a0cfe",
+      "claimed_at": "2026-03-24T01:11:09Z",
+      "signature": "56e61ce9da3e55ec543ef79e60ec254c75106d52e146e804a2fc2d8843c922dc2263c031b3bf6b8563012a00be1adcd2b5ba8494d99e670bf57e555ae66eca0f"
     }
   ]
 }
