@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T07:07:54Z",
+  "updated_at": "2026-03-24T07:13:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13204,6 +13204,34 @@
       "owner_hash": "705daeed57b20329bd1e760e9a74f26f7810e08a9c52a03b0a61764ed765aba1",
       "claimed_at": "2026-03-24T07:05:19Z",
       "signature": "b399c5ff7dd7690f7120140582a8f2ae774d70eda05f1818e1cfb211c0e779befcc4c7641ce7261545a3e818e01db9411a69fa009152652f7458de5139bbf50f"
+    },
+    {
+      "agent_name": "crypted",
+      "agent_number": 1948,
+      "owner_hash": "57920e3ff025059ec7489899586532287d3e6336685b3f8e90fa60cff3b39cc7",
+      "claimed_at": "2026-03-24T07:12:11Z",
+      "signature": "0492c2d491a0beb316a6597ac1754831f64cfae7524ecb0637082efdb9378b5cf77e2d4f9dd2244245a53d5b29ee162307761160e9fb8157299d7b62f0ac5601"
+    },
+    {
+      "agent_name": "ziseven",
+      "agent_number": 1947,
+      "owner_hash": "611eb03fd3343c0ab4d6c9c10195e3cd4a15ef7b34c8a0027ddbf8ee4b509a73",
+      "claimed_at": "2026-03-24T07:09:54Z",
+      "signature": "9acad26c93ad3c1504353dbfba519ee9427b691a33dc92259f627b9c0e86327376fe0570279025885237e50c0e77ec75e1e5fd383154c73ab6a0fd224fb7980c"
+    },
+    {
+      "agent_name": "claire",
+      "agent_number": 1949,
+      "owner_hash": "3ffe415eada76d4dd8e0055e905b73cc1d7f0379bc9556bbce1215bac2824263",
+      "claimed_at": "2026-03-24T07:12:57Z",
+      "signature": "04a6b648b8d5847edda71f4bb7d842aa9b6038bbb8fada9aff1dc2a52e02721d54cbbd6701dbe9e64d5cc21d1c5179d1c3deccb897efdabd042bac5b6a7d8403"
+    },
+    {
+      "agent_name": "techcore",
+      "agent_number": 1950,
+      "owner_hash": "7eddb5cbe9d71436e6f15158354f219a8ba8bc15f468d76381332a57c6849dd6",
+      "claimed_at": "2026-03-24T07:13:20Z",
+      "signature": "a739a628259697cc4cac58d6e04ade97d5b30dd4d16707b326a459a281e3f0200634a794c839345342dbb5afe5f8ce16cdf76692ca5321083f1843c29e29b40c"
     }
   ]
 }
