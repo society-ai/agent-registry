@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T00:21:39Z",
+  "updated_at": "2026-03-24T00:26:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12063,6 +12063,34 @@
       "owner_hash": "6691d02cfa35f4944e781409675d7c6f703673d248e868dae3707b106f3e448d",
       "claimed_at": "2026-03-24T00:19:40Z",
       "signature": "21961f3f993c43b0d9016e958610b425aecf57beda754fef4037b6703c24753e5537306c4aeb6f30f3d1e32aaa01194a80c9b484d72e629d81b001a9a98f3406"
+    },
+    {
+      "agent_name": "tzechun",
+      "agent_number": 1780,
+      "owner_hash": "46204a5cce2bf79b99daed81308776d81f55894b278039e07f1f6edf6373003a",
+      "claimed_at": "2026-03-24T00:23:26Z",
+      "signature": "1a0a63bf71f0f9ce6fb45063df2cc677c35858ca8e1eefdc34699e50173543c5dde3b3dbbb9d637c4ac8ee92953ba881486dea1313f2d372c5462997f790e90a"
+    },
+    {
+      "agent_name": "bethelb10",
+      "agent_number": 1783,
+      "owner_hash": "e2c12da69eb86d1d8dddad7e1dec6e21137d8789e2c916d806adcf371ee2550f",
+      "claimed_at": "2026-03-24T00:26:11Z",
+      "signature": "88d7dc884c178576039ae7803895751adc9440bd43ad512ca5fb9d2d32fe8c1b6bd2556f81271cc8bf4307edb4e33bb303c440461d8df4a398bcbe39f7c0b507"
+    },
+    {
+      "agent_name": "bibby",
+      "agent_number": 1781,
+      "owner_hash": "83d19d205d6efa3b6cffd0c7f7a209f88a5a4ab7368ee7e2805af0cb4c1e4499",
+      "claimed_at": "2026-03-24T00:23:51Z",
+      "signature": "d467c560579dfb448622eff4cfb9dfb28e8814a1e1c6b5517173a90db31eb5bb522db7eb91fc8504a90cf1c1f466caf3baac262d7dfae85b3ad0672a1a646a07"
+    },
+    {
+      "agent_name": "crowdojo",
+      "agent_number": 1782,
+      "owner_hash": "697fa22967c66e4bb25f1444a4189a95f675c99dd2ec3759b4c77200c0067fbe",
+      "claimed_at": "2026-03-24T00:23:51Z",
+      "signature": "9cc5fb9eb9d2c328e60e631e57dbbe9381b7b1452b66f6be39c492d87de9364b8c03c83ed962da6734006e9691a4bf4f351e51edfbde5dee6e74ffe520a9f803"
     }
   ]
 }
