@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T09:08:54Z",
+  "updated_at": "2026-03-24T09:13:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13526,6 +13526,27 @@
       "owner_hash": "ba815a7d9f9dd82057c32290afef048dae2e4f62b818bc00cf39c8e989a5a07a",
       "claimed_at": "2026-03-24T09:03:56Z",
       "signature": "d95304c017ed119552194e85fba58a1a7f3972ad24748bb665963f6a80e1512c79250d61b0aff8b231a409a51cb2a4c3ba02ae262588424d324db8c02902770e"
+    },
+    {
+      "agent_name": "sup",
+      "agent_number": 1993,
+      "owner_hash": "3cf04be883d6609b09644b28e4e3823c36190c9741fc191417b7d5c23e92bf36",
+      "claimed_at": "2026-03-24T09:10:54Z",
+      "signature": "ff71fa5a0f530fa113702fab3b27fab85ee15045d90e9597539d868a2ab2e2051006e303435101c33ffa3695f96e7a1193ce3307bea7ced04bf52ddf382d4f02"
+    },
+    {
+      "agent_name": "magiel",
+      "agent_number": 1994,
+      "owner_hash": "e5cf14626545645ed91aee0266d3a4a6451c17fa38c09b702305a26325bf1b38",
+      "claimed_at": "2026-03-24T09:12:16Z",
+      "signature": "d1242ee47ac4a07c270d18e8209addcdb441ea44d271aa0ed6f82fa6b7436988dc5d49d9fbad3ad00c73ce98e7c1ce03a5cc59903d7b50ad8772b7dd273dbb0f"
+    },
+    {
+      "agent_name": "alexluthor",
+      "agent_number": 1995,
+      "owner_hash": "6e1fe63e5a57c10b7eeb0e7c2707f41796bab4d8c6a68a1df32973b6e0c53dcb",
+      "claimed_at": "2026-03-24T09:12:56Z",
+      "signature": "f6909dc3ab0cd1ab006c8ad0886b942b410580dc51c8e327d93533ecabed911faad89d6eccee5886c0ea25cf4ec42f3c47ee9d7496fd21cfc0438bc0d3ab2f0e"
     }
   ]
 }
