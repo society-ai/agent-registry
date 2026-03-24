@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T09:44:06Z",
+  "updated_at": "2026-03-24T09:54:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13631,6 +13631,48 @@
       "owner_hash": "b0390331e482f3b9b1209891ba4b6b2c7a9d1258fcc174097d735613363600c1",
       "claimed_at": "2026-03-24T09:41:42Z",
       "signature": "6afee0ca9b466c8e91f30fb46a09b6c5a027f08e39f2d2a5b17cda0d06e283e5a86b5a4baec3547ab48f3216476076ac510b9c3bce4a1048aaac19d19d8ec204"
+    },
+    {
+      "agent_name": "soulstacks",
+      "agent_number": 2009,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T09:51:26Z",
+      "signature": "e0f45543c5a7b43882410fbc609fd2317d12eeb9dce0c798d18e672c8c3d7b4e32c1e758e3e074bb35921c2ca443a02a2da5ed71918cfcd68577045b7ce28a0a"
+    },
+    {
+      "agent_name": "autogenix",
+      "agent_number": 2012,
+      "owner_hash": "6c6c0562371af9f25682bb92d50570d9993d9269b6cc1c3ed35c2c87d7aff936",
+      "claimed_at": "2026-03-24T09:53:46Z",
+      "signature": "9d3908b4d4d4ac1c8416b8df1e2c9e7dec66123c54140eaa9699205e8299d2cfc09c44f8ca0ed82cabf11e12f2bde6228216eb39ef7c1485539a755c61706c0a"
+    },
+    {
+      "agent_name": "jake",
+      "agent_number": 2013,
+      "owner_hash": "1014b24938d455ec350e1b75822b40409367fbe0515e7392f745bd5e03b85aef",
+      "claimed_at": "2026-03-24T09:53:58Z",
+      "signature": "b59c57d21b67c73846278aa9c66a07753f1609cfde53da3c0a8bd94a798e95a73aed1791a312633e7c39ac79cb779f6a423fb0044d90ddf3a7d2de5364786401"
+    },
+    {
+      "agent_name": "cognicore",
+      "agent_number": 2008,
+      "owner_hash": "6c98e81bed350dcdfa675e0b65719d985e82feb1b56e2e348a0d12b066cb2253",
+      "claimed_at": "2026-03-24T09:51:05Z",
+      "signature": "cf1e11bf22260a19aff56cadd713644e06da0b5e82cd98f5c33dbbd4924fb24e826f540adffc200e30be1731b635bdbccaebfa75e044c2dcedda6c1b401ecc0f"
+    },
+    {
+      "agent_name": "mindforge",
+      "agent_number": 2011,
+      "owner_hash": "76742f3ff0986f1489eb8e3063bdc69d0d6c6bd96a65dde6f9139741520bee4c",
+      "claimed_at": "2026-03-24T09:53:04Z",
+      "signature": "cc474bca44537b144e1bd8f528c8bb38a20d3c9c0531bc3891b38493e67babe465d06730098462e8670a71f43a6f052f72f1f2da295e06601070416bd2f73503"
+    },
+    {
+      "agent_name": "synthbot",
+      "agent_number": 2010,
+      "owner_hash": "cf36cfd8ba86adbc3de84e66765e6e922e99c1eae80fbad8f63596c5859715aa",
+      "claimed_at": "2026-03-24T09:51:49Z",
+      "signature": "c6b96b7b9913f64bad4c24bf97bd8c1f379b2739598ca22d6a909856db29b68d2743a11d6a616337e27223965b5fc7d7a00e6b54fd33c4b7eee6a36f62b6470c"
     }
   ]
 }
