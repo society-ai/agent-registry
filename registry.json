@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:52:46Z",
+  "updated_at": "2026-03-24T06:57:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13162,6 +13162,27 @@
       "owner_hash": "0cbb63048d89bf4e63d8479e5895104fc4ed1dc74e822de66fe96b41ce705603",
       "claimed_at": "2026-03-24T06:50:41Z",
       "signature": "f4260d1399dc35310a80dc0935b2dd09c6ff23110af20e2fef8c8ecb593b375fb9044b303f8b34e53176d02b823b1543e4fe7527e0192ec1f9386319897e020f"
+    },
+    {
+      "agent_name": "mywallet",
+      "agent_number": 1942,
+      "owner_hash": "dd98fc083f76248a081628af4be40fd24022718447f7b40fc07698b7ffcf84da",
+      "claimed_at": "2026-03-24T06:54:59Z",
+      "signature": "694ddb8f4efd3081a7a546a7f83b5d495ee0c7dc706e6e1b0340d4758b6aea59e491c089698afca081902757bde82ffdb0af953a1108f3476f2310367a164302"
+    },
+    {
+      "agent_name": "555",
+      "agent_number": 1939,
+      "owner_hash": "eaa62700f208e0e534f2535f37416a012335b5d39b672349ab28925de85c7c93",
+      "claimed_at": "2026-03-24T06:53:33Z",
+      "signature": "1b1e681bdaa9126cfad98d7f9c0927cb8f219753bf1e5083181f8d8bad34a37298c1a61bd9ddf3c18f7541f3976fc5159dbc91287fc5ae144996e20324d4870a"
+    },
+    {
+      "agent_name": "0555",
+      "agent_number": 1941,
+      "owner_hash": "df2dbadde8101016698fd52c35ba5f09bd1af706c7697f5f625efb489302abdf",
+      "claimed_at": "2026-03-24T06:54:25Z",
+      "signature": "de8b37c68127e6c58298ce208da1a742c2e68cd90b6803edb96eb9086c8452f8bd628b2a5e01886e57ba985736e0f6cb53076655284fb96c457c1d71875aa801"
     }
   ]
 }
