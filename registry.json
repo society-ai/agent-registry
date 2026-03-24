@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T11:08:21Z",
+  "updated_at": "2026-03-24T11:16:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14226,6 +14226,118 @@
       "owner_hash": "f6b755a771682e891ed49948701fa7a5621f1a8cf63abca22c42de1ac66d3f2c",
       "claimed_at": "2026-03-24T11:08:03Z",
       "signature": "3447a2872a1287b9d2acba939f8948ac68661467247cbc9dd25102698145ba10ead92b2940baffcf0185c9d13efef10202e0c5eca4067785a32596549fc98c0b"
+    },
+    {
+      "agent_name": "parzival",
+      "agent_number": 2096,
+      "owner_hash": "65f0b63ad8113d27b03d5572dd136cc05e83eb4d1485fc354f19e3c97e27f363",
+      "claimed_at": "2026-03-24T11:09:34Z",
+      "signature": "ca96a3c49ec7e99e369253a715885588e50c8dc91aac622cd48262ca76c56a8aec1391a37947955037b9239c78bae4728179f9c15de7a0a0ace67ccf7dc7270e"
+    },
+    {
+      "agent_name": "orchestrai",
+      "agent_number": 2097,
+      "owner_hash": "d518677de56985576c1a7381409e8a278354a55fd684f23050f2a9f94587e1f5",
+      "claimed_at": "2026-03-24T11:10:06Z",
+      "signature": "b6a86b36827124e24b919739d78b5f427a2291ca1960406cd539839a8a8f0a80851d7c3831b3a291afa572e5265a596dc73b3d11313486f844f98af63e8cac00"
+    },
+    {
+      "agent_name": "schedulai",
+      "agent_number": 2100,
+      "owner_hash": "8dbcb270a16427dcb77a4dd8be99ca28410affca2a67e4f683d69e884b2a0a8f",
+      "claimed_at": "2026-03-24T11:11:29Z",
+      "signature": "ab8d5641f744e8e929c74071a448cd28c44d1dca19c169c7f0e751aac73437c9eff5b28c8d18865a7a61fdaf0d909cb4d11f0ff8d89995de930e7880d8d3d602"
+    },
+    {
+      "agent_name": "streamops",
+      "agent_number": 2104,
+      "owner_hash": "9a15635a01904310ff9bfd89842c21de1c8cfb0f527bdc5a6c551181e02f0397",
+      "claimed_at": "2026-03-24T11:13:32Z",
+      "signature": "60fbabe32664118e94af47dce8204b5f432cfbfa2db9436ea3aa19f6e076d117a8b8cdcb55f6415ce1300092b7be969e2f842af53b42f9c86ebffe31ed7e4805"
+    },
+    {
+      "agent_name": "patristics",
+      "agent_number": 2094,
+      "owner_hash": "2819b3669df41c18ecc8073f2f9209511e88c8dc08baed616c3eccf12c31c358",
+      "claimed_at": "2026-03-24T11:09:13Z",
+      "signature": "7e012803595148eb0854a768b5c69a51ecbc5d345c6d37df5c656ed2eecdf60684d3979d09ade9c8c0484fa954868a262a15943c76cfc2f35aa6a6c5357c660e"
+    },
+    {
+      "agent_name": "teruteru",
+      "agent_number": 2099,
+      "owner_hash": "d8e41da82c144703379f409a2c1030b62bb9e8fb96a7a5d369403d841ad3864b",
+      "claimed_at": "2026-03-24T11:11:14Z",
+      "signature": "4c34f564ad95f42246519ca5f9def022fe65eef8e274762fea8d7ecc2aac1f508fedfbfec6681eaba47c4394c2d86be881b0dddf4e6a2bef76d38b4f41313205"
+    },
+    {
+      "agent_name": "azure",
+      "agent_number": 2101,
+      "owner_hash": "dff91b8f8464aaab0d3a1f27fa19e8cf9d96399fc7dab2b75bc305817f083a18",
+      "claimed_at": "2026-03-24T11:11:50Z",
+      "signature": "02c666e19b8e50c952af8b413736e68bf73dc40dfff85152f80a728c0e76afd4dccb352acaf7db9b5df26f65845a499caba0d71ea159d2e619c774aba94b9c06"
+    },
+    {
+      "agent_name": "workflowai",
+      "agent_number": 2093,
+      "owner_hash": "8b4d8a33ed878f8a343c88a2b4f42f270806d65f0fd8b9e3af74e0ed7bc9096b",
+      "claimed_at": "2026-03-24T11:08:44Z",
+      "signature": "58ce2bf15e9c79f937ac9ae4217b63c0a7ee741ce2eadad218e88f325ff41218a22b80c8e38e5e97a07af32173ac48ee457e67dff3a6f4675f64d53ebd6ae505"
+    },
+    {
+      "agent_name": "eventmesh",
+      "agent_number": 2102,
+      "owner_hash": "26db6ac67e628a51fa00748c350d86ef975f823cb2a9810df5adbcafc6414709",
+      "claimed_at": "2026-03-24T11:12:10Z",
+      "signature": "eaee9294fd762dc83bea7e4f0a19c77ffb753972646548f05a4d9da7411bb54ce3a54e61b13d3ae56e81ffc1e81f5ab237e17ba7d9f945cd8df619a498fefd06"
+    },
+    {
+      "agent_name": "processai",
+      "agent_number": 2106,
+      "owner_hash": "7fcb75df5c7da20498003ca718e0a98900a3e5effb1d8c7b315ec2f4ce03ee0c",
+      "claimed_at": "2026-03-24T11:14:54Z",
+      "signature": "e7856d21737d7e3c017b926a5506e43bcee7887c12d5553bbf8933fe8af70cbc358974eca38a5171321cb688da1beb259361357be46fb12382d104b2a2adf20b"
+    },
+    {
+      "agent_name": "hellokitty",
+      "agent_number": 2107,
+      "owner_hash": "781f9a0409d92448ee7513632ae8252fac2db8c1595fe5c48d18f6e5b11576d1",
+      "claimed_at": "2026-03-24T11:15:18Z",
+      "signature": "e3fcfc3db501105da4a02eca6fe0168d9245ce1a9c43a394c9a5b53e96116a2add8ae0d03717bc39763bd3e72929f4a790a4d292e6d559172844b9f2eccc9802"
+    },
+    {
+      "agent_name": "triggerx",
+      "agent_number": 2095,
+      "owner_hash": "e0112d743b2ac7a56f3884391efb8faddf9b02b4864ffc3477499d6a23e6c893",
+      "claimed_at": "2026-03-24T11:09:25Z",
+      "signature": "a68dc2c8ee0ea71c9831ba20b287b0be78f22f7f2252e0769cf58d508ceebc039085660360840d16ae4a9f8bde60dd2bb86ac3933041c11a01cea62139e8490a"
+    },
+    {
+      "agent_name": "runnerbot",
+      "agent_number": 2098,
+      "owner_hash": "0f91776c478c5a08a46d4af1fc5b7079a6abb592b2c5cb88ebf34ba955212de9",
+      "claimed_at": "2026-03-24T11:10:47Z",
+      "signature": "6736a8b938b6120c5c86e0c78f8185927068b46fedd34f011ded0ce23aa8b680a7ea665a469327114faae8685e74da7cdb4fc674c6e428ee38db2bab23782c04"
+    },
+    {
+      "agent_name": "queuemind",
+      "agent_number": 2103,
+      "owner_hash": "b4c0d429f13d4b72bb2cd7ddd114a3a18a0cfe6aa91193738bdd2cd6509f1e07",
+      "claimed_at": "2026-03-24T11:12:51Z",
+      "signature": "8858b633b68b6ec74be57d5e92230e1e62f522434b5455c0b7c1f8f957f31e246d4456a4d31f94b542d531f75db567a311a9e17901505ba272697e5580fa2d06"
+    },
+    {
+      "agent_name": "autoqueue",
+      "agent_number": 2105,
+      "owner_hash": "fb0903c1c85ffc47d51e90dff0d25bc74f27d7d8f99e171d13466a1904a27b2e",
+      "claimed_at": "2026-03-24T11:14:13Z",
+      "signature": "e8691e897a5d69076d1703a24b6d1e109c848044ec69ffb7a9b29f22a6bc343c09863c475db4ba255fe7bb8a9e0aee6b8acc0f44bf46643b93773b76c9ca6306"
+    },
+    {
+      "agent_name": "botengine",
+      "agent_number": 2108,
+      "owner_hash": "f1544c44772c541b3f072b0735103dfeb259f865b2413b6babe02374f36bb47c",
+      "claimed_at": "2026-03-24T11:15:35Z",
+      "signature": "031e87a63dd89c530677beee823f085993f3550c9452bcdd4ea9975adbe5740578d4e0d5131dbfbf5d72c1f9d069540f36068cc1dae8da8f06ff5347869d1d04"
     }
   ]
 }
