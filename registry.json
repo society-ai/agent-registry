@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T07:02:48Z",
+  "updated_at": "2026-03-24T07:07:54Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13190,6 +13190,20 @@
       "owner_hash": "5248d516c778589b48d086dca688c4cb489aff2f91ebb7db8bcdf1cf3eb6658f",
       "claimed_at": "2026-03-24T06:58:41Z",
       "signature": "c8e089e6b583dcc494395af25f8e8080192a0cf5390667dcd2d31887c2af386075158094c81f836a905e6573c11f3c7719917a60d510051c34f96a4d98639706"
+    },
+    {
+      "agent_name": "sendrequesttoagentatlas",
+      "agent_number": 1946,
+      "owner_hash": "110c3c8d47f70ef42b1347fe4add6cd6adfa12434aaf1b1231b8d78abb5ad589",
+      "claimed_at": "2026-03-24T07:07:16Z",
+      "signature": "7a4f681d981a33603ff240d69bc830e1d1c2c20d4489597bceaade8f8a85ba7300d353e825c5c6586228df7fe5700a4a301b5039fb9109b180cb165b09b3af0d"
+    },
+    {
+      "agent_name": "workatease",
+      "agent_number": 1945,
+      "owner_hash": "705daeed57b20329bd1e760e9a74f26f7810e08a9c52a03b0a61764ed765aba1",
+      "claimed_at": "2026-03-24T07:05:19Z",
+      "signature": "b399c5ff7dd7690f7120140582a8f2ae774d70eda05f1818e1cfb211c0e779befcc4c7641ce7261545a3e818e01db9411a69fa009152652f7458de5139bbf50f"
     }
   ]
 }
