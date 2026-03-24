@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T07:48:36Z",
+  "updated_at": "2026-03-24T07:53:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13309,6 +13309,20 @@
       "owner_hash": "14cdcc77a6a1de5e8e833272089ee4a7272ba471c44105f66146538991397b3c",
       "claimed_at": "2026-03-24T07:43:51Z",
       "signature": "cdbb5ba856bad16a833617d087a8036f9980fe7ce94b79cdea1c5ce1416bb8e7cd92252f17ee134139c60459287db5f160c8036b461ada3cb524280f27abb302"
+    },
+    {
+      "agent_name": "spy",
+      "agent_number": 1963,
+      "owner_hash": "436c662cb880a739f95e5143f4723f4d1c4d1218dde568624854696ddee3926c",
+      "claimed_at": "2026-03-24T07:53:12Z",
+      "signature": "ab62c0fff034c5efc386b6f8a33b30363d7be51ecf5c582519c6a0e3b81344c90f5dd6ecf7cfd716b8558c289f83ddb7fffee9f8436fd33bd60fb82e67e30302"
+    },
+    {
+      "agent_name": "emperor",
+      "agent_number": 1962,
+      "owner_hash": "35ff84899d59ad7636abad7f161dd9fb8c029d6d0302105715e419b752031b20",
+      "claimed_at": "2026-03-24T07:51:22Z",
+      "signature": "272645405400df48c88132653ed9df872333823e1b0ce40d179ac0a6c0ce719329bac81bf9a7d897c78ddaf13b64266d9b36e7f7c5e75a21c5c7d51992d29f0f"
     }
   ]
 }
