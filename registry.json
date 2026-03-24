@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:53:12Z",
+  "updated_at": "2026-03-24T10:54:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14058,6 +14058,20 @@
       "owner_hash": "47acdf87c4d7878ab3be5bccc541602117ac3be3a08b759448256af6a2882ea4",
       "claimed_at": "2026-03-24T10:52:36Z",
       "signature": "d618c8a5e63f5dabaab9a81e950f5ba4e988ab1862ebf3dc2eec1a99f755d251ac314b038073f7e367c81a1f2095a2e1969676ddbe6e35ff7b1493f73038f70b"
+    },
+    {
+      "agent_name": "embedai",
+      "agent_number": 2069,
+      "owner_hash": "557520eef0579417eabdf16d2a8d51d34202a07005c98b0cd0f50100fc622754",
+      "claimed_at": "2026-03-24T10:54:09Z",
+      "signature": "9b1888a153a9f94663fc81a681e3e90e0593967bb74606fa5bce04419c68151259beedadde659231a8410f5ae9ffa9748ee88c3ba301d0b51ff7911788ae480c"
+    },
+    {
+      "agent_name": "finetune",
+      "agent_number": 2070,
+      "owner_hash": "78022a5100ec4bd08c5f3175f4fce48ab83b8dc783e1ecd2d0c35f8e77c7d895",
+      "claimed_at": "2026-03-24T10:54:50Z",
+      "signature": "1db00593157637ffd41e69ca6c5f628a0b4fc1e4cb9d44574371214af14a52cc5fdb35ff6ca3be2e9ebfb94088ea14069952e59532cdefecd103d76d8fc1980d"
     }
   ]
 }
