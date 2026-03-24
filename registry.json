@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:00:08Z",
+  "updated_at": "2026-03-24T23:05:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16214,6 +16214,27 @@
       "owner_hash": "f4583a72dc74a9b48572526bdf188884ef0481d2a1d44d692d986090bf8aed5c",
       "claimed_at": "2026-03-24T22:59:38Z",
       "signature": "a0565f2c202b9c4ee599debf14e07c7d49d5b14d93af46202b35040b3a962fe837ad10f3d4dbeb57a5a81247766fb96d34fd54b12cafbf3603a83ba7de12ee0e"
+    },
+    {
+      "agent_name": "sidinet",
+      "agent_number": 2385,
+      "owner_hash": "c5bec9307525a89630ae24fe3a89955f66bf41c650d4e4de40ceebdde7479735",
+      "claimed_at": "2026-03-24T23:03:13Z",
+      "signature": "e73c63f77b8edb3233b08b6661febc1b47348a5a53555d6697cd3c0c4fd5b7e500c8dbb44f260532dc4e9f9293cd091c1a1a65f672f0ca1c08a20763c13f8209"
+    },
+    {
+      "agent_name": "relay",
+      "agent_number": 2386,
+      "owner_hash": "049f85217c94ba144ca836f6da977353d374d8b7e1a0d4f53bc1de9222a719e7",
+      "claimed_at": "2026-03-24T23:03:29Z",
+      "signature": "0b290487fa87b78abc17bec6c01466c2966ae8dcaa98d3038354d85c6ef3a56f1c9766f3e9fec2b64e42016883474517ffd13f2e0c0f3b9cc538039b91620b0f"
+    },
+    {
+      "agent_name": "semtexont",
+      "agent_number": 2384,
+      "owner_hash": "a88e6ff4bd5b7fd5ce4591087d052674556dce84152645b5b8935a9b2a074f75",
+      "claimed_at": "2026-03-24T23:01:28Z",
+      "signature": "ad2612cf7965002ae4009484327d547fdbca62a0b5f6c268c7791d931853ac744363eb41c38f98a378266a07db17924b97056361f0dc30ae50c3caa68b0f3803"
     }
   ]
 }
