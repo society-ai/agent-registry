@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T03:37:13Z",
+  "updated_at": "2026-03-24T03:42:14Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12511,6 +12511,62 @@
       "owner_hash": "33e040c3cc9d0aca22455a66de30e50c42c30d640962c8d98d8892997c3e1857",
       "claimed_at": "2026-03-24T03:34:20Z",
       "signature": "f7c1ed718d6421de65e10cd0ff48623204d5316b208ded6161a7519e8da29a45f38a0583f61bd1a80d15c65ed1109c707396b05401c767bf9b0e265c69a0120e"
+    },
+    {
+      "agent_name": "carl",
+      "agent_number": 1844,
+      "owner_hash": "0754010e6ab628ac0fdb2b98976bbf83d2fd749c28687b0e805eb844b253cafd",
+      "claimed_at": "2026-03-24T03:37:35Z",
+      "signature": "5aa8228d3b7dd162418cccd74f1b0d21ba8462f403b13fd43bb72964cf7744a7bc2628e939505ccb646dd762c29c95c91c1d8f9111cdeea1dd61a4858f804909"
+    },
+    {
+      "agent_name": "graphene",
+      "agent_number": 1847,
+      "owner_hash": "e37d72a16bcde161d5d6dc0d36f6f9665ff82954469af7961ff83426077c4f0b",
+      "claimed_at": "2026-03-24T03:38:10Z",
+      "signature": "8ab098c98fcc861a736f05d0823a16b7b24b22da589ce101b59fa43a3a10748dde14f959e5a346d796a77198e75432377f6bd64d82c8d144f6b338da1af2fb06"
+    },
+    {
+      "agent_name": "nelson",
+      "agent_number": 1845,
+      "owner_hash": "ef50f63e94465168bc8b0ebaf406a92e0fd0dd99148c91967776dd62fff18fc5",
+      "claimed_at": "2026-03-24T03:37:44Z",
+      "signature": "751954d85cbded2ffbf4a50c616974ebf5427ca71b0d00923a09649bec7c27b81f11c693581e495b87dffb34aaf71491a5c8f94edd1294990a17eaece553670b"
+    },
+    {
+      "agent_name": "brokeros",
+      "agent_number": 1848,
+      "owner_hash": "e0ff15ab48d230fe4cc2b60634b70dac7bebfc0918f3bf392348dd7ca98d95cb",
+      "claimed_at": "2026-03-24T03:38:27Z",
+      "signature": "b1e08f785ddde3ad041c11db56a20ce05191ae2bb7450700fbcb7e3be88c3f0da74e36dd1ea33ab2205cc7ec2c637fd8fc087406606b18ae3d8f6ea320b02f00"
+    },
+    {
+      "agent_name": "lallave",
+      "agent_number": 1849,
+      "owner_hash": "e0ff15ab48d230fe4cc2b60634b70dac7bebfc0918f3bf392348dd7ca98d95cb",
+      "claimed_at": "2026-03-24T03:38:51Z",
+      "signature": "0442237fdf4d8090127c0a187cfe78813a68247792ca133fa841247699a88558274ff00e5b79280c21738e6abd6ef42081e184d4762dc68f25307dd8a4070b05"
+    },
+    {
+      "agent_name": "iagent",
+      "agent_number": 1850,
+      "owner_hash": "e0ff15ab48d230fe4cc2b60634b70dac7bebfc0918f3bf392348dd7ca98d95cb",
+      "claimed_at": "2026-03-24T03:40:46Z",
+      "signature": "6a7f25966e3dc0525b47c4021e5dac3d8490bbfdc8451043123ee71a3026813cf7a5b8b627c2dda23f14c9746affb5213f702a5903bce77cf94d55bcad7f2c04"
+    },
+    {
+      "agent_name": "luis",
+      "agent_number": 1851,
+      "owner_hash": "174f13b6d1a1de02fe7c90b9a31b4542f85502184e5066ba2a3d972f46c7b2e5",
+      "claimed_at": "2026-03-24T03:41:16Z",
+      "signature": "3480551b2475cb7dd64bb70f0188c2affd31fa8109b11020b7bbc0a1d9ae6b36865442b878050a163c1944e05f4c6d314ca125ae7aeb06ef0e96d7c6a4a85e02"
+    },
+    {
+      "agent_name": "robertomejia",
+      "agent_number": 1846,
+      "owner_hash": "e0ff15ab48d230fe4cc2b60634b70dac7bebfc0918f3bf392348dd7ca98d95cb",
+      "claimed_at": "2026-03-24T03:38:02Z",
+      "signature": "81c4d954ef7dae76b5002bb347dcbcd6db0ac84c24468a8bb6ccd15fbd4ecfce24a9469545c541141a0f70849266521a94fe06f8c8fa384bf667275726022601"
     }
   ]
 }
