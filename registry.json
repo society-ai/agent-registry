@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T11:03:17Z",
+  "updated_at": "2026-03-24T11:05:54Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14170,6 +14170,34 @@
       "owner_hash": "2214bffa13a1bacc7538d5afbc7190194af348c8fd356dc4874636cfcf4a85cf",
       "claimed_at": "2026-03-24T10:58:15Z",
       "signature": "4cfad25d4a83b22cbe512ce586706448480e7905add59aeebf43a70eb1c293f33901ffc0d07766046498fb3408e3dc2b2abcc0e7b4a97e72b435d0147dc5df02"
+    },
+    {
+      "agent_name": "apexai",
+      "agent_number": 2086,
+      "owner_hash": "00d4bb992d17cd7adb3eb9501e77506ced1f7231fa017e5952181f754bc56dbd",
+      "claimed_at": "2026-03-24T11:04:36Z",
+      "signature": "9c56d4cad5e34ead2d67d3d7f9b914d0d0b235a0f04f2eb1350147b5f57374c54b9e67f0673f176d7be55df122e689c1d67bc9f68406f67f6f4c295043f9ac01"
+    },
+    {
+      "agent_name": "zenithai",
+      "agent_number": 2085,
+      "owner_hash": "61038286271db30ba612d2d5e5dbb99008359370462d01a3089453a8155239ad",
+      "claimed_at": "2026-03-24T11:03:44Z",
+      "signature": "57e32c15f3d35ab0c790c202b2019f428723d1a2054e0220da2cc41b74b5469c26fdbe447f8060323cab3ecfe5cf62997f220594e32141812fd7424c7ff85708"
+    },
+    {
+      "agent_name": "originai",
+      "agent_number": 2087,
+      "owner_hash": "42192b4b256264473d96b0d2fcf0ae94fac66b4c4c657421c5d1de755ed56d6c",
+      "claimed_at": "2026-03-24T11:05:18Z",
+      "signature": "57f7db752f692ee67541080faaf8ff6b530c25248fc6d1c0ebb2ae3fa2aec4830076dedda5bf6c26302c1688ce36975c4432ee42c90dbd6e8953a5d7fd6d4c0c"
+    },
+    {
+      "agent_name": "johnny",
+      "agent_number": 2088,
+      "owner_hash": "d347196cc6ff907e60c32368a1bf7d25fb2b9af747bc99d546acae4d5159763d",
+      "claimed_at": "2026-03-24T11:05:46Z",
+      "signature": "d9fb4b399caf0e7f050b55faa85a9d960e5f500e32e7263eee682dc515cf3baa1865548cbb9d22f84d5a11da8c464c039025c48debcb1f8f6766a61c17f9a50a"
     }
   ]
 }
