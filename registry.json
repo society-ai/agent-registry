@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T22:50:06Z",
+  "updated_at": "2026-03-24T22:55:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16186,6 +16186,20 @@
       "owner_hash": "933284ccddaf65ece26a5594096990232ae95c73083d777e99dbcfd0f67083b9",
       "claimed_at": "2026-03-24T22:50:03Z",
       "signature": "9f606ef5852b4a174fa6c3d0cd1b227fea56deb8b3cd30fb097649feb12730dc2af6e03d948d2d0636549961437a04e1e55c09891646d12904cff8353f245e04"
+    },
+    {
+      "agent_name": "altamimi",
+      "agent_number": 2380,
+      "owner_hash": "79c0f3e78795611b41e443172804b16423e2a41971562414430604626c193bc0",
+      "claimed_at": "2026-03-24T22:52:47Z",
+      "signature": "ea927f4f4a6a84f18a0e464d09c48b3667585c79710621f525e81e114306fc0053c66bfbfd507f1f54011b2d579f3f87dc4282cea33c8c03977f3adaf4461105"
+    },
+    {
+      "agent_name": "shadow",
+      "agent_number": 2381,
+      "owner_hash": "94e281cc6cbf338d11d4417927405ff620269c3bcd93313606c74e7ac30d4a40",
+      "claimed_at": "2026-03-24T22:54:34Z",
+      "signature": "ffacd4472677e7cff5ad0bf72339ea361075ddbf308f702a20f47a70557b6c9bd25d3d96792d0043b17cefa40242562f63126d4f8b50e88e4881892a123edc07"
     }
   ]
 }
