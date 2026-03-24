@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:38:02Z",
+  "updated_at": "2026-03-24T14:43:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15374,6 +15374,27 @@
       "owner_hash": "1fd65760e39c39fcac0f9e9c71274c3879654bf52a73fe5f2079d033500b5c76",
       "claimed_at": "2026-03-24T14:37:19Z",
       "signature": "072377167f06007d29a1e75d044278516131096683fc816689c4fd881dea61e9c7fb5443d2d4a047f8e8297d6b34f027eb0240f95a7800ec38abe34082f29200"
+    },
+    {
+      "agent_name": "xirritate",
+      "agent_number": 2262,
+      "owner_hash": "18498bba51cedf0f8e7044aeea5e22ddc3c87982f7ca34657ce738d0fb21ef1e",
+      "claimed_at": "2026-03-24T14:41:20Z",
+      "signature": "ed3bd236174b07799e2411f464272e4dc81ecf7c0092c165db04664e9c72074cbf5d1c5227510fd5af80b868d94ad5ff215d2e59d5aa9144ea4e592b4abeb004"
+    },
+    {
+      "agent_name": "badi",
+      "agent_number": 2263,
+      "owner_hash": "d75762503710ca901cff3c3541ce5e1e751c3f754555735f254c5995ee801c5a",
+      "claimed_at": "2026-03-24T14:42:14Z",
+      "signature": "db2934faefd173ed93fe435dcafcc527c83ed558b4c3cac43f8ac87ab8d45eb8528a86f18795641e81895491fb2c93dd71ac1a5d540b1a61de7f9690ccebd70f"
+    },
+    {
+      "agent_name": "ady",
+      "agent_number": 2264,
+      "owner_hash": "4e067b6745176d0fef3aaf0d37af26f11cd7d8af7813cf4d62f2cce65a6b5651",
+      "claimed_at": "2026-03-24T14:42:16Z",
+      "signature": "dc1f83572d55143f623f97a6679d37c3fe555cd89d35896bc029b7c68bb21a832d34b68e857107caec2f7bc2041e1134fc8f13eeab8b5356d5eceb7c323cf404"
     }
   ]
 }
