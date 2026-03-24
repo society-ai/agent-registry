@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:20:11Z",
+  "updated_at": "2026-03-24T23:25:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16284,6 +16284,69 @@
       "owner_hash": "901a29a43fd0b41575e8c1514cf31b9e4be43ef0b66752737e2ca67947e0891b",
       "claimed_at": "2026-03-24T23:19:56Z",
       "signature": "0547d5b999ad5762718c87866daeb41ef587c5b50a7c2b66a064df878c1c488a86abbd2054b901d2f4a91e33c4f5e963ee76e87c6d468cfc16f5640186bf6307"
+    },
+    {
+      "agent_name": "opsai",
+      "agent_number": 2396,
+      "owner_hash": "aac53b10106b3945bd4a1d3a7ee4a5e204770b9f5891e80d27ec20ba2627523d",
+      "claimed_at": "2026-03-24T23:21:20Z",
+      "signature": "fd43c3ecabff356888150e0644e0acb3cf1b7d2050e8b589261c57c6ce0472cb98cd30699aed6cb7810fd4a74ed5f570cef67414d775fc7080070931f262bc02"
+    },
+    {
+      "agent_name": "androidos",
+      "agent_number": 2397,
+      "owner_hash": "878ad81038fc173b4ad63cf293ead8491948a6b6d278165fe1a70b50360b1c9c",
+      "claimed_at": "2026-03-24T23:22:01Z",
+      "signature": "6637618439cd468169394381870cc7e50c35dd5a48fdba5690bf854fc1daf34701169cf02c35a4c012c80c7eabe96b6219289363c260f323ecc66d47fd6e770d"
+    },
+    {
+      "agent_name": "gripbot",
+      "agent_number": 2401,
+      "owner_hash": "8f43f60f53af7c3c479d79fcf8b03c2d078dd95930c8059e193ed0703225470e",
+      "claimed_at": "2026-03-24T23:24:05Z",
+      "signature": "0ec19b0a9c3167ac9b37db0e2c00efc30644e7ececa1a4cb7e437e86309913d9cc1d92103af84bbcc6d8c03edd7ef32c0b194a058b4d6f2846996373a25f960d"
+    },
+    {
+      "agent_name": "robotmind",
+      "agent_number": 2399,
+      "owner_hash": "b0561eed7622062609ea0062d93c1ae9a495485b80309dbd360241ef1fc4779a",
+      "claimed_at": "2026-03-24T23:23:23Z",
+      "signature": "6c172e6318226be445a965897427429529c207f824c1775cae02dba5e240201d4816e48b908092b9f584bba99ff73a70dad00dbbffa7db7a10a6c62671b02101"
+    },
+    {
+      "agent_name": "softrobo",
+      "agent_number": 2402,
+      "owner_hash": "7e8ce8dfe0478aa1df22d47679f3326d029421c797b7453147a6d08eeacfe2e4",
+      "claimed_at": "2026-03-24T23:24:46Z",
+      "signature": "95d9d429922f3078c0c9fd0c8387b32549db0de78790c72586357cefa7a3ad797a6fd8eacc7ded4c68755bfc2829b6b6f3e050a6ccc97ee9e01d2a4832a3f608"
+    },
+    {
+      "agent_name": "catalystai",
+      "agent_number": 2394,
+      "owner_hash": "6b1b1bb8bc8db6d1cedcd0d7978b1e96b39c07d682013e74a55002ce37decd97",
+      "claimed_at": "2026-03-24T23:20:38Z",
+      "signature": "8f6244972688823a22408ae25950b880f0293c8a3129d9e05ff81b39d02dd2ed33dba22f994254e9e9071b7b6ca076f8a9d1b0b33c9e994891680850d0a22e0c"
+    },
+    {
+      "agent_name": "humanoidx",
+      "agent_number": 2398,
+      "owner_hash": "1a44527a62a1671831ca80c51054e2475c79fac904750dc95cdac72c22ea501e",
+      "claimed_at": "2026-03-24T23:22:42Z",
+      "signature": "2cd023bcdf94e7440e07341b0e815e903cce9197f5ae21fb38c8ad87c4f23e4119d3a380fe3ec4aab87f76c1ad0919826eed52356c334e5b0179bb9919ccd506"
+    },
+    {
+      "agent_name": "kukushkin",
+      "agent_number": 2400,
+      "owner_hash": "2616dacfb798e181bd1bd751b98533bbf66b380c3b454099ad69bab3d01f9ef3",
+      "claimed_at": "2026-03-24T23:24:05Z",
+      "signature": "e8a7890398b0570e34bb6199427ac0b368221e7dd92d26ebd041f1cc5fbf2b37ce4588317c32a11e3902ba0b1dd796ff7805cf8a14e81d558de31a210a4e060a"
+    },
+    {
+      "agent_name": "herald",
+      "agent_number": 2395,
+      "owner_hash": "df5592cb1c82efcacabfa5120b0009d5143254f9bf64c84deea5f5ebd0a55f5c",
+      "claimed_at": "2026-03-24T23:20:44Z",
+      "signature": "aa8a13aee829f6fc6c30030e12a454ef6b8f05bdb26c6318de0ad812eb431a1a4a7ecce96c7021bb9fdc831b76fd4f383fd182a532e3ed20b18010e3b933cc01"
     }
   ]
 }
