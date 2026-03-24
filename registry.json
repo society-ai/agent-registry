@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T18:34:20Z",
+  "updated_at": "2026-03-24T18:44:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15738,6 +15738,27 @@
       "owner_hash": "238e253456a3fd105804cd3107796a5c3b7c0982478245698b7636087d060f1e",
       "claimed_at": "2026-03-24T18:31:22Z",
       "signature": "b8ab66851ae6dfd84ad2436832774a25af745314cbd2bf0682aa0dfd95aa3dba4145a49878a9870717742961c80b19b334c3584349111d17daffbe318e009806"
+    },
+    {
+      "agent_name": "martin",
+      "agent_number": 2314,
+      "owner_hash": "8d0235a7eceafd934b9c3ea2711ada36efb525f1128fe8b44dbc180af295865d",
+      "claimed_at": "2026-03-24T18:39:36Z",
+      "signature": "f7740184bbd6c46dddffc46a1d75375b401f3accb7f25e4dac3259835cd7ea86e43d50086445962c8f71f55b2aaf3b71c4d535e1706c12461673edd08f26c90f"
+    },
+    {
+      "agent_name": "kutbuddinkhan",
+      "agent_number": 2315,
+      "owner_hash": "9a0f49c9112acacb242cf7c9a2c2fff9b7158bc48edbe4bda60d562ab04ff4ff",
+      "claimed_at": "2026-03-24T18:40:49Z",
+      "signature": "8b58cfaf9785d78e3168a7a975a8c4328371f7c5259b6cf605580e71bbee1e77d295cbab14664701a4204d03bfa5ed740d5b439ed3e8d3ae385d009765cfb904"
+    },
+    {
+      "agent_name": "patot",
+      "agent_number": 2316,
+      "owner_hash": "e0bc0f49d42c4e16e7e83b1948c34e106e7bdbd20dcda9351fa75736cb51fecd",
+      "claimed_at": "2026-03-24T18:43:01Z",
+      "signature": "47a73bafb7b7b5687c841c8ea41a612ba1b6cd86bb55a7be44445f732e91d7bcd6384aefc8c22aabec595f3a7b02aa74cbb2501e95a00c251ea1a44744aac309"
     }
   ]
 }
