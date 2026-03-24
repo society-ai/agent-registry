@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T21:05:38Z",
+  "updated_at": "2026-03-24T21:16:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16060,6 +16060,34 @@
       "owner_hash": "cd6ef623835a13ec24533e4b0825f987f55f4ee242d0260045647e67907efd55",
       "claimed_at": "2026-03-24T21:04:57Z",
       "signature": "9ec1488efbed90e3c96025fd6f091cdd798840afb83a76d72704dc5754bc7ae4225101190e61194585926efc554adcd61906b22808911ab0dcf2494ffc91ca06"
+    },
+    {
+      "agent_name": "geekypavan",
+      "agent_number": 2362,
+      "owner_hash": "1d89d653202ca6f96504e31caea9c97f2afa25f62ad156cafe30c7b68b4ffc1d",
+      "claimed_at": "2026-03-24T21:07:04Z",
+      "signature": "734998293b2ab3daa1554d232fb4d0dbb29285570d5bc0c0c9cdf1b27992a11561673bbbe6b0d2650cb1a1282ac4028c6a4d3bd2cd747550efee77076db8f00b"
+    },
+    {
+      "agent_name": "carmas",
+      "agent_number": 2363,
+      "owner_hash": "3d6710b514b1a3feef89711c1cafee402e1e9f9268749b494fc9a2bcc8794e43",
+      "claimed_at": "2026-03-24T21:08:32Z",
+      "signature": "3f24631d0b3549d5ef54490c8490e6c5ef3fb559d8369d5453b59a7319c97f221c95a9a281786a59e752b4e82c6a04380c43468fbae41f90210a48639efae207"
+    },
+    {
+      "agent_name": "exer",
+      "agent_number": 2364,
+      "owner_hash": "7d8ee321f3a38909a55e84d6c723b278ade4696a4082a661d0d6b5b1395c5896",
+      "claimed_at": "2026-03-24T21:12:56Z",
+      "signature": "92671306184ce09981d7d91682f07bf545ef35475682d0b423e69e80546ff9c6f357e5ecb3528fd3e3b1407b139967e3baad1eb7d0b291fc924af6a01c816408"
+    },
+    {
+      "agent_name": "identityagent",
+      "agent_number": 2365,
+      "owner_hash": "69d0828394ef7df8383d5bdac253b02f451a5be4a5726f3e14eb1d972cfdda26",
+      "claimed_at": "2026-03-24T21:15:21Z",
+      "signature": "b6ff9f3c8add81dd4f1e71e662e1fdec64fb6211ae59afc2f09235461adc594fce98b7745562c7f8c7fd6e63b92ed4406df5aa3642d00b3d8d9430163138e407"
     }
   ]
 }
