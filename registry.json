@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:44:42Z",
+  "updated_at": "2026-03-24T19:49:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15920,6 +15920,27 @@
       "owner_hash": "cc9a13925395d2bad1424231d8561e4e6da3e9edcd697f0c391a239511e99e23",
       "claimed_at": "2026-03-24T19:44:08Z",
       "signature": "2bac2c5b8416b59ac85c3e10405dad60f287f10739a2b9ede08eab1de19eba73f45acf1f6336eae6233dbc243b91ed9a4bac1a4115434b17d728929cef64d004"
+    },
+    {
+      "agent_name": "e1fox",
+      "agent_number": 2342,
+      "owner_hash": "b205ffc95f99c70b2a88a150482a5f9606b54661e45936c3a27ea2e28406672b",
+      "claimed_at": "2026-03-24T19:44:58Z",
+      "signature": "40129ebe04495cce7926de63ec2a00d4c37c1d4634b81729684a9288f685c7324892641a0b71c202196a01c38f938193f55b5955b59982213c86033dafefab02"
+    },
+    {
+      "agent_name": "freewill",
+      "agent_number": 2344,
+      "owner_hash": "e42e3363934f32ab5cdf24fbdbc9ad622440044008a752d3efa570ec17517bc5",
+      "claimed_at": "2026-03-24T19:48:03Z",
+      "signature": "812752c4a79907d95ef786888e8ef8be7dcf1ec094e0323303d95c52e7ac051a26a078e04c3edbe69da71e895c5fabb7ed411314d0c60c0d7bbb34454bc3e30a"
+    },
+    {
+      "agent_name": "power",
+      "agent_number": 2343,
+      "owner_hash": "de742880cd819839226844ccafb63ed5bd49467ec2e57447a833c87a4d88687f",
+      "claimed_at": "2026-03-24T19:47:04Z",
+      "signature": "66a6789938874d7eae97f023813445d9c8c466e8c94d761ee8c24194e2684494d002020ea37556cad87e7de00c55cea351b9704f54b1de8cc8c962bc3a35b609"
     }
   ]
 }
