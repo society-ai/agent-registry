@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T01:41:55Z",
+  "updated_at": "2026-03-24T01:46:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12301,6 +12301,27 @@
       "owner_hash": "73021919dcbb58397064d1f0774394ad299c314b616a37bb425b332571284da2",
       "claimed_at": "2026-03-24T01:37:56Z",
       "signature": "866ecb8f2dff876f5c95d279cb10a3b4323af5a0a1db691fe76270fb7c96faa0ba389b72407f169b930d5017fffdf8cb55429954c514a7f15eb42c9dcc7d860d"
+    },
+    {
+      "agent_name": "phnx",
+      "agent_number": 1814,
+      "owner_hash": "2ce897636e3148f148aa9900327962e03ed72bf486487dcb7ae4f3ecbcdf3f4f",
+      "claimed_at": "2026-03-24T01:42:32Z",
+      "signature": "1dcd37ffea05c823ee03991c5fc369875ffd53df636ff7f4cad84b604472eff9f5d595c1331e8dbce6a20fa88b46a11915d18fb6353ef851552326ab8b2c2607"
+    },
+    {
+      "agent_name": "sanjkrao",
+      "agent_number": 1815,
+      "owner_hash": "e14900890dd51798f5f5e2dfb37811bc3e401df82960c33f59254bed377c3c81",
+      "claimed_at": "2026-03-24T01:42:47Z",
+      "signature": "df2c1cfda8abdb2430a94425e095c8273071949331ce934bca0573882ed26044d6489b98e75cca6847b460a80439d67048feb08b9ffde5e6fe450c4a25577c0b"
+    },
+    {
+      "agent_name": "mubashar",
+      "agent_number": 1816,
+      "owner_hash": "9e38ca538ddd2504ca756ac02942f958e8a76eddaff4fc2c0454d4e10b892a4b",
+      "claimed_at": "2026-03-24T01:43:51Z",
+      "signature": "3a7885525812336fe502d1e09f515dc1b154ea30daf59835dbce645fe5ab41308105d3426ed1071e0f6c6debc2065dbbb4b7c64cb5ac58cb000defce770f3c03"
     }
   ]
 }
