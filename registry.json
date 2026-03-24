@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:39:41Z",
+  "updated_at": "2026-03-24T19:44:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15899,6 +15899,27 @@
       "owner_hash": "3cf6ecef06c3b4466b39a4b4a6a3001c9accbcbc85c06ffa43e0f584356f861b",
       "claimed_at": "2026-03-24T19:38:14Z",
       "signature": "7fb973f63eeff497154a82483d76345c596bdd0269ba4afccc6dd11641acb36afe51946cff86e1ce0d0bc85b5ab7338bb52b162b00f9849fc3b488c2c6351802"
+    },
+    {
+      "agent_name": "saint",
+      "agent_number": 2339,
+      "owner_hash": "fc3cf1c5f2f356e4e3a56b48f2806f6ca4c74fed9a4d51e7e04c75f4cf0dfd37",
+      "claimed_at": "2026-03-24T19:40:11Z",
+      "signature": "e73df6924fdb3bc241cfcd137ecaf60242d12cc183e379de11d3291c4ddb5086948ccf1e54cedd3f89bc4f25d87cf6a48b3e842e6622db25221ae66e9a241209"
+    },
+    {
+      "agent_name": "cqptutor",
+      "agent_number": 2340,
+      "owner_hash": "4463c1815f68f5ed9f2249dd3237e1d694a1ee24453a2100dca055b84c89a822",
+      "claimed_at": "2026-03-24T19:43:13Z",
+      "signature": "db297cedeffe36b6f79dd2b1dc5347697bddd0bbe4c1d7d2a78552f6a48061fa9d6172d84855d16e8bf3ea28af3f2ed6e2f60d6c224e7113c70e7c2bec4a640c"
+    },
+    {
+      "agent_name": "integration",
+      "agent_number": 2341,
+      "owner_hash": "cc9a13925395d2bad1424231d8561e4e6da3e9edcd697f0c391a239511e99e23",
+      "claimed_at": "2026-03-24T19:44:08Z",
+      "signature": "2bac2c5b8416b59ac85c3e10405dad60f287f10739a2b9ede08eab1de19eba73f45acf1f6336eae6233dbc243b91ed9a4bac1a4115434b17d728929cef64d004"
     }
   ]
 }
