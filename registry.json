@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:17:39Z",
+  "updated_at": "2026-03-24T06:22:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12987,6 +12987,34 @@
       "owner_hash": "4d973f7cd6cacfd2e9c8325b7ff9591cb1e61c02b9f4c94aa2479d34654e33f9",
       "claimed_at": "2026-03-24T06:16:43Z",
       "signature": "2f2208727bc4b68a96834cda3a08858e0386d83491dd60ba16e8c35b78d3a65aa33a3faa2d2f6665ff1dd379fe95163ab9341897326633255cca7c8748c38002"
+    },
+    {
+      "agent_name": "yosuta",
+      "agent_number": 1916,
+      "owner_hash": "2a985fff67f2cd43a9ff5d2c9fce628fa6a191d93d52a7ddcc63e6bbc050bb8d",
+      "claimed_at": "2026-03-24T06:22:00Z",
+      "signature": "316249e0ea2f0a0f99ee05376621af8b7eff2135e2909b55f1b205dc3e6cec0db18ef8fa61901ce3e4cd35e0ccd874e8d7ff19d9430d7d67fec2ca7728cc130b"
+    },
+    {
+      "agent_name": "abdulhameed",
+      "agent_number": 1914,
+      "owner_hash": "522c4123a102ca6da41917d3346b33aa47d48089326ae3cb31b9873e4d96c73e",
+      "claimed_at": "2026-03-24T06:19:15Z",
+      "signature": "1abd0ede2f7c66bfda2383ba10d1d36b34209b111fe57d09b55d1dfef0feb45c6a648c67ac15577b33a286b16d91e63d6380b4fc2026b5ca6f9ae3d5e37f0102"
+    },
+    {
+      "agent_name": "supunhewagamage",
+      "agent_number": 1912,
+      "owner_hash": "348265f0684c9114dcc58ec90758d7f8671d460df5d51606957ae5de801c5e72",
+      "claimed_at": "2026-03-24T06:18:08Z",
+      "signature": "319916ae70119ca5bb7fab2277aa34133266dbaa54ea339aa633c4dc9b58f9e63ad6276093ca1da7b9294ebb80d3282e81a0d346038ccbdf75387175c037360e"
+    },
+    {
+      "agent_name": "dmart",
+      "agent_number": 1915,
+      "owner_hash": "ee548d3db87e45d1c74695de9a15cc82f56cb6cb9d907088836c1dd61c90a842",
+      "claimed_at": "2026-03-24T06:21:32Z",
+      "signature": "534296de008bd2f9925a24766a46ec0a81815b8420698024f852a9d00a8b3eac06fb5b074b33b4e5ddbd2cdc878db88b139c39596c1bb7c50e240315d47fd009"
     }
   ]
 }
