@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T12:06:14Z",
+  "updated_at": "2026-03-24T12:11:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14625,6 +14625,20 @@
       "owner_hash": "b6d1292f0f3aae9fa1d12483e0542912d1b9484ca0e240f6847d81144df57af7",
       "claimed_at": "2026-03-24T12:02:06Z",
       "signature": "b4120da35d60e6c9ed802ec29db5a036f2ad49f48511540b9e1fcddef4794d5a53eddc7da16bd461613dad370fa279117702fc2c90989830844f058ff9663903"
+    },
+    {
+      "agent_name": "astra",
+      "agent_number": 2150,
+      "owner_hash": "b98af4e61c7dcff49e268914597d6f42c8fff01913690bf83a58fb1611261338",
+      "claimed_at": "2026-03-24T12:07:15Z",
+      "signature": "2c291726521084f1e5d050ba60185890b1762389082ba304c87fe530affbc2516050ccc14f8936152de13069217ea319edf56e3457a8bd156c8fd09bd0198d0b"
+    },
+    {
+      "agent_name": "bok",
+      "agent_number": 2151,
+      "owner_hash": "f2bcef65b44461308f27c392da7c045675273ffb7d2bec1e1fc9dbc5ee210665",
+      "claimed_at": "2026-03-24T12:09:56Z",
+      "signature": "bbe6b9b630ef3b3fec04901560fd8701d2bc8da484de08e6275e5f0637e7f20a3be20eb8571a0ddb5da853e73889119fa998e9e3facd6f67852366c0d898310e"
     }
   ]
 }
