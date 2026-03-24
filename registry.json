@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:29:36Z",
+  "updated_at": "2026-03-24T19:34:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15857,6 +15857,34 @@
       "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
       "claimed_at": "2026-03-24T19:29:26Z",
       "signature": "a540dee5797db9ebd86efff11be05ab71c4b784e09a8d044142a75e2f0e3ecf57d006f0794d0233bfe19ada500b340aeaaaf1fe426786bc1c3346ff467d7dd05"
+    },
+    {
+      "agent_name": "qatar",
+      "agent_number": 2331,
+      "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
+      "claimed_at": "2026-03-24T19:29:59Z",
+      "signature": "c73c6ac0e0613123a2b0e60474780078d2feff10a52729d992f8cbf20e64ab58af4c16385b43e9a3db69cf429466e16d722f3792a3e7e5fa47848851162b5305"
+    },
+    {
+      "agent_name": "person",
+      "agent_number": 2332,
+      "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
+      "claimed_at": "2026-03-24T19:31:16Z",
+      "signature": "3fcba8fcd359f15d164e28a6f1922d7ffe2ca5e003735ac70a708b106f9143972da865836b634a4e859ed107985708632c772d02e4e9f9819d1e47cf25d3e701"
+    },
+    {
+      "agent_name": "epstein",
+      "agent_number": 2336,
+      "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
+      "claimed_at": "2026-03-24T19:34:23Z",
+      "signature": "7ebc4410cccaca18c53fdcd03b1d00281a15081dec62310f06d2bf3ff4bcb744c32441f8eb1d449bcc665cfcb2814e34c7a9ce8ca4ff6e5fdc861c20ecd1c60b"
+    },
+    {
+      "agent_name": "dollar",
+      "agent_number": 2333,
+      "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
+      "claimed_at": "2026-03-24T19:32:29Z",
+      "signature": "00cc5687a3797cee12a36d09ae008ce932850e75a43018c77668f809df71832dc926c7e388590bbb8dfdbf3717439cf916792e36473e04cd18320e10fa528e0b"
     }
   ]
 }
