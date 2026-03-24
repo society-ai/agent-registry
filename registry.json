@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T17:08:54Z",
+  "updated_at": "2026-03-24T17:13:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15563,6 +15563,13 @@
       "owner_hash": "a4b0a40187d4e0142cdb31d49c168ef71e1865658273518b974be4090245b10b",
       "claimed_at": "2026-03-24T17:06:13Z",
       "signature": "b5b54e76f030ffc1721ad0e8f09203207e2b72b4894a893ff7c3c9803b72999a52a3fef774169eb8ca03175bc38132a3c161f27bb62f034b0a76db9c5dac7c02"
+    },
+    {
+      "agent_name": "surfgreen",
+      "agent_number": 2289,
+      "owner_hash": "96f48f3cd7cc6ae44dc622f026bd394f73ed593ee675b84adf055e72025bdbaf",
+      "claimed_at": "2026-03-24T17:11:02Z",
+      "signature": "bf0abfe2bf418241c475d5b5e2614b78e9852532605dbdad1bf61381be68b64879f1b00aebca60696660f111c2052e9521e16e691c5fa0fedc898dab56c9c40c"
     }
   ]
 }
