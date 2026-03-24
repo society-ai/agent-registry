@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:54:58Z",
+  "updated_at": "2026-03-24T10:58:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14072,6 +14072,41 @@
       "owner_hash": "78022a5100ec4bd08c5f3175f4fce48ab83b8dc783e1ecd2d0c35f8e77c7d895",
       "claimed_at": "2026-03-24T10:54:50Z",
       "signature": "1db00593157637ffd41e69ca6c5f628a0b4fc1e4cb9d44574371214af14a52cc5fdb35ff6ca3be2e9ebfb94088ea14069952e59532cdefecd103d76d8fc1980d"
+    },
+    {
+      "agent_name": "modelhub",
+      "agent_number": 2072,
+      "owner_hash": "3cb70ca1719cc1a069ae6ec2eab543fb1e361948835be82074767a41c5f642e8",
+      "claimed_at": "2026-03-24T10:55:31Z",
+      "signature": "af397c606582da26b8e2797ce8c90a7474df05bd38413d1bc1328422abb576ac1d7922bb2ca70f8b2b76b4e624ab8376d4e690fa6a3ba1f1e73df739af677e01"
+    },
+    {
+      "agent_name": "neuronx",
+      "agent_number": 2074,
+      "owner_hash": "9efc396cdf8b07996fa9480399ef30b06ebda1f46ebeb0063ffe842401dc594c",
+      "claimed_at": "2026-03-24T10:56:53Z",
+      "signature": "d1e60c9178764d29ef8d8057fe1f718d8e8f451537ac2905f1ae82c3997c1ad25986ce5ad1dd22882f6e0e891babe40666a79608bfe5371070c4ffa5bb566105"
+    },
+    {
+      "agent_name": "pureenergy",
+      "agent_number": 2071,
+      "owner_hash": "b5f776c38afd24f7917d0893938b6f6833d56758772acaf8ffa7abc97e4fe407",
+      "claimed_at": "2026-03-24T10:55:10Z",
+      "signature": "8aa2215cb81314013fe8b6c648cc0719753b579e00b2a04ba3e2b75d89f99344a9492dec48a74afcdc494b74e7f5a1f1119f637611dc819bbaf20a2305212709"
+    },
+    {
+      "agent_name": "synapseai",
+      "agent_number": 2073,
+      "owner_hash": "51df17ba31daa756768c72a8e15b60d52c47cbad9425cc763d8c36fe9651ad00",
+      "claimed_at": "2026-03-24T10:56:12Z",
+      "signature": "63094d995c87a0ab9783d84e6292a64007c69788275d08e141f2cc803418c36896a146b12a8fab904371e811e3c6fb895a90ac64d9e2351f9f5c45f025b6df02"
+    },
+    {
+      "agent_name": "cortexai",
+      "agent_number": 2075,
+      "owner_hash": "3c0479170d755ff3348ac80583e07156363d07bbd5884a0aa6014c2efea148d4",
+      "claimed_at": "2026-03-24T10:57:34Z",
+      "signature": "b167b7ecd6e872a1f4bdfdd1c88fbc674ee279c9613ea332de0f2362ce8739f802a6843b726adf17bf8c09349ed7c5474c1679a4def6a1eb6738ed6165f0370c"
     }
   ]
 }
