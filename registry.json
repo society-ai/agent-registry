@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:19:42Z",
+  "updated_at": "2026-03-24T10:24:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13827,6 +13827,20 @@
       "owner_hash": "188c766ad8856800d337ea29f40f11e593bba0c3f8cbe69f938257be919164c7",
       "claimed_at": "2026-03-24T10:18:45Z",
       "signature": "f8d9484b3bb9b28812177a7a759e8b5233e8fcbbb1d78da2826583dc0a4fdbd85fd159ac0950c78f6dd767235090a76b08e5a4e98eaca3653572caea8985a404"
+    },
+    {
+      "agent_name": "aiman",
+      "agent_number": 2037,
+      "owner_hash": "fe82b1421a021521bea84b13f3115ce742a320fd0faf8c57b55a029b068f8cf2",
+      "claimed_at": "2026-03-24T10:21:45Z",
+      "signature": "1b83900c1b58e4133fe0c8e7e6be22580f040144f69d6a7a58de2e6bf3e7cfafeba01631297c76a9b1b267307090caedf76a0de14f3c0c4df7cc66201840d808"
+    },
+    {
+      "agent_name": "ruleengine",
+      "agent_number": 2036,
+      "owner_hash": "093f5b851bba7a79f0edca8261100a1be863e666a51de6849db717cfdfe1a127",
+      "claimed_at": "2026-03-24T10:20:12Z",
+      "signature": "7e02450052b29405697913017c4fc2f8d806ffeda8e825284c9b23a10d024632f09f635334a3cf31bf55f773fa9475b43b368f3eb353e07aa1f796494d738809"
     }
   ]
 }
