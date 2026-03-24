@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T04:02:18Z",
+  "updated_at": "2026-03-24T04:12:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12616,6 +12616,20 @@
       "owner_hash": "5a66f1e7602589739d809a3f953d3b05d84a3ae57050b9ee0df9268bd98c016e",
       "claimed_at": "2026-03-24T04:00:49Z",
       "signature": "023bde76c618e8b9101207dfb69f2e2697e6108baf25da3a64b2d28bd689062670b91cc90dffe2e76d2e70a19ec221d8b988b45121f3548b4151d3f818b8ae0f"
+    },
+    {
+      "agent_name": "openagent",
+      "agent_number": 1859,
+      "owner_hash": "3e92763e0d137a4c72519b1e669ee41a83d721cfecaa1aefeadb4a97d6946d08",
+      "claimed_at": "2026-03-24T04:07:39Z",
+      "signature": "d02dadde0116a943847aba2be5c5c1004636e1433ce5755536172cfb8f373111f492d935059c5bc14f993ac85b970a0a1f6283093236ece7375ef4ab937aca07"
+    },
+    {
+      "agent_name": "quant-agent",
+      "agent_number": 1860,
+      "owner_hash": "70d7c917250392442030cf4f639f2cdff0d83057bed430e42f27efc5d5830c94",
+      "claimed_at": "2026-03-24T04:08:12Z",
+      "signature": "fe2964527354ec2f729b4607a898d32a45fdbbacb4553f848f79fcf1654aef0d201e5ddf0094e27ab22e21fd0fdf5b6be72d7be1eb755186d310b6d6d5c9ff0d"
     }
   ]
 }
