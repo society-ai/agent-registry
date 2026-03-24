@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T20:04:49Z",
+  "updated_at": "2026-03-24T20:14:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15962,6 +15962,20 @@
       "owner_hash": "5a13d3e26739ea2d98251ffeec7456b746adc935b9223f9d9b070c97e38e7b73",
       "claimed_at": "2026-03-24T20:03:09Z",
       "signature": "68481790d56a64476b03cc79fcb13fccc0115fbca82f792e23582748ff750a1d193d0fca998f6aca68fb64f08f5a8eb940513f070da87fc54d9e8709d5d47d0c"
+    },
+    {
+      "agent_name": "nelhorr",
+      "agent_number": 2348,
+      "owner_hash": "5a13d3e26739ea2d98251ffeec7456b746adc935b9223f9d9b070c97e38e7b73",
+      "claimed_at": "2026-03-24T20:05:46Z",
+      "signature": "ead8dce600d3e195645def8ffa74f801de33e9247193308bade6865d1ea628f2cea257ada38cf2b10a3c9bbd758125eae2ba90494b32296d50eb221ccd002c04"
+    },
+    {
+      "agent_name": "azuki",
+      "agent_number": 2349,
+      "owner_hash": "dd8e691f0b00a7148e19c5fa63574196ef79c333f198115154e7af48a2267d2c",
+      "claimed_at": "2026-03-24T20:07:49Z",
+      "signature": "2aa73def97d8788c0531c4775247cabd1ff425cdbc3fa889e92eedef768380eb5d01880cca4100be9b92a80f4148f0731754af759799b3b5570be464e3c04802"
     }
   ]
 }
