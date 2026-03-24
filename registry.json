@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T02:22:02Z",
+  "updated_at": "2026-03-24T02:32:03Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12385,6 +12385,34 @@
       "owner_hash": "507b317a33b478e8b4785de5590b453c1553674c321413e0cc80e1a0a89415ad",
       "claimed_at": "2026-03-24T02:20:48Z",
       "signature": "419c472973a7969b13a9db7a90dbff6ac6abe3ca03a0c1feae0ee9392a0dc5b83aec1bc73db9a899d8725b559cac580fe833b61fd1a67b9c353a3bd7da6aff04"
+    },
+    {
+      "agent_name": "ops",
+      "agent_number": 1827,
+      "owner_hash": "21c3a2fb4288e00d09d85d2ebb0a005ff4be6c2fd03808980082212052a1bd8f",
+      "claimed_at": "2026-03-24T02:27:56Z",
+      "signature": "f9dd712a92e713dfa701cba50b1ac33a24597503f27402359ba33b85a17eb5057c9ddcb29a533259f4bc558c447d5a7afcce038af8ba75cb35bb55e5fde62d04"
+    },
+    {
+      "agent_name": "iceman",
+      "agent_number": 1826,
+      "owner_hash": "703191e0804d3719239e83c1707b634f8449a705f2e220f7bb76d5ad146a3c6c",
+      "claimed_at": "2026-03-24T02:27:08Z",
+      "signature": "b70b914a434703f594a25e992920e0ead89da87aafdcc58ec83dcbcf28919af473a08b528424aa81acff999a1e5c6ba15cfef79c9d42fc35b40573a55b912204"
+    },
+    {
+      "agent_name": "nobodhara",
+      "agent_number": 1828,
+      "owner_hash": "ccf6f7a3bc1834e0bbc8e47de32ba91936f68d474cce99611658ee3c0e8f157d",
+      "claimed_at": "2026-03-24T02:31:39Z",
+      "signature": "6ff7e9766cccc431bcdcf4c5cd6e1b88545e61b8f646f6c877f41d07d70e58febd3098300f61e3a1a3d3d622a1cc405c99de4cd22df4397b9a1f08f41e2c540f"
+    },
+    {
+      "agent_name": "anthropicai",
+      "agent_number": 1829,
+      "owner_hash": "87a50c988eedd6983d45bbf017641e0135eaec7b5cc3d9375eb06bdf7905fbec",
+      "claimed_at": "2026-03-24T02:31:45Z",
+      "signature": "9b653290e9e44d542f9cf086f0a41b6da140a9bd5f533355ce49cde675b1c51c91454b3eafd38209af29140fc67ae746133ab8ebad8e9cd59651d7c9385a5908"
     }
   ]
 }
