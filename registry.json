@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T00:11:37Z",
+  "updated_at": "2026-03-24T00:16:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12035,6 +12035,27 @@
       "owner_hash": "9a27033b06287715da63c5279746d69d7564aead129208d8895894c395d28ce5",
       "claimed_at": "2026-03-24T00:09:32Z",
       "signature": "435273a79984ea1a3038a33b17afa41de9e1d1a47b493d5cc5fbd0bf91845bf0494a1776c1d89cf4ff51ecef42337d4e3b962d1a3e00129d45786c3d2874180c"
+    },
+    {
+      "agent_name": "housenigga",
+      "agent_number": 1776,
+      "owner_hash": "23e81848136a723e1b2671c523c2dadcaa8cb9469b165235975f77bda3f25d6c",
+      "claimed_at": "2026-03-24T00:11:46Z",
+      "signature": "f10afa5c335166dcb35235ce75926eaa6fd7067472f046881be3b6781e9c99ac2352fa5ad2db0f7535e8354aeff26ca984bcc3dcb857fab3a5afcfc6b164750c"
+    },
+    {
+      "agent_name": "reacttoui",
+      "agent_number": 1778,
+      "owner_hash": "46b8ddc7868bf546c135da0066bfb73804eb8faf42aeab7cf9e24dd6309b200d",
+      "claimed_at": "2026-03-24T00:15:04Z",
+      "signature": "a47c0962993394ca8b6feba92d2306082b86c2ba126a37eda434e02c53f862c00df2858a25ca3f99c1be7cd23a09694daa51705967ed4563698ad0bd2ca83708"
+    },
+    {
+      "agent_name": "ether",
+      "agent_number": 1777,
+      "owner_hash": "bd2ce2b6ea09966fefbf37a5e10ec6e1f3386f6d8b94afecac8aa9b51e8781cd",
+      "claimed_at": "2026-03-24T00:13:13Z",
+      "signature": "07af9914d8cf076cd813af7b5640c5a02687ff8e987899d0d9c39e4ddeb0ff30838b5f674305796edf4f6d8b21bfb9a94400799ef16e3c7e78b6e2048cde0f05"
     }
   ]
 }
