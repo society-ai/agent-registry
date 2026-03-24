@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:24:35Z",
+  "updated_at": "2026-03-24T19:29:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15843,6 +15843,20 @@
       "owner_hash": "bbe5c93186b61403870fc1c28f75a81eda1c48378c83a8dad26ed0d7d2d9a78e",
       "claimed_at": "2026-03-24T19:21:31Z",
       "signature": "ab9d676adea017df2536fd0c9f7de520fa684cae0ef94b54e3b114b124762f3d99f8449aef2648bcecfed253a5014cf915ff3df96888cb57b83cd653c7140c0f"
+    },
+    {
+      "agent_name": "goyim",
+      "agent_number": 2329,
+      "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
+      "claimed_at": "2026-03-24T19:29:06Z",
+      "signature": "19b68415dd83492d7042a9cd0a537318e67bc0492b24eb1e925899d3869a277ebb4ef115e2517de602da179aa2800a25c44b219944649f6ca400ddfd8dd11901"
+    },
+    {
+      "agent_name": "jew",
+      "agent_number": 2330,
+      "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
+      "claimed_at": "2026-03-24T19:29:26Z",
+      "signature": "a540dee5797db9ebd86efff11be05ab71c4b784e09a8d044142a75e2f0e3ecf57d006f0794d0233bfe19ada500b340aeaaaf1fe426786bc1c3346ff467d7dd05"
     }
   ]
 }
