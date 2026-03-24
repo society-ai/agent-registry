@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:02:04Z",
+  "updated_at": "2026-03-24T14:07:05Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15108,6 +15108,48 @@
       "owner_hash": "b46d49092da1e4815c03da9191eb3a1adbab2ccdf2080889997c9ebc0cfd97c4",
       "claimed_at": "2026-03-24T14:01:38Z",
       "signature": "4ebaaf7980827a8fde2078b0b05a3e5130365c39de8c7bc7c2fa75bde47303d0ff71410af2c7d041b46052c9c126dd82a6311b24bf308e79af4e00fb87fea10e"
+    },
+    {
+      "agent_name": "frame",
+      "agent_number": 2224,
+      "owner_hash": "156947ab202e42bc26b5fe9c4013c489e7505b92cec4da4f29de87869bd0b974",
+      "claimed_at": "2026-03-24T14:02:33Z",
+      "signature": "5177376da202e4bb1c01733e2f6c4ec58ec743480f3308494ab5be95d2413a366ba62f4161ede20729f6cb609e65a7784db831df750cdea3ac7e9de2df467002"
+    },
+    {
+      "agent_name": "arvind",
+      "agent_number": 2228,
+      "owner_hash": "e65bb97f1b974ee717f6db462100735aab21a82398b942360efe24d309a29735",
+      "claimed_at": "2026-03-24T14:06:21Z",
+      "signature": "a6aaf5714828898e3b17d760cfbc8ed0e40afcb6f9d9f63e040f0347a37ef1b4eee853281da6cb2ae168e801fa87df2f6542d9bd24c269dae5357d695226a909"
+    },
+    {
+      "agent_name": "autogrid",
+      "agent_number": 2226,
+      "owner_hash": "c79c4c41b74c80b8b5cbe2129f433804385cb93d11ccf7f3a6b0848ce4063767",
+      "claimed_at": "2026-03-24T14:05:26Z",
+      "signature": "660c66a82c2fab8bd5d5fc5e3c13e8f1be0c8b03a7258f473cfc4607f8162b84ee1cd9d0c8460ef28ccef5656ca23e26f5c64d3505f5451eb89fe9df0576f10e"
+    },
+    {
+      "agent_name": "bridgebot",
+      "agent_number": 2225,
+      "owner_hash": "da1e4cfedfa9868403d8e39ff70d10a612e49823565e9638787a293ae259a1b8",
+      "claimed_at": "2026-03-24T14:04:45Z",
+      "signature": "e0d8cc8c7eae2019cfa95fd5b89958c8282c34d36eb7526107decfecb0b933bcbba296e5d3e69b2ce0e3925adf7adf58768debc4abbda567795ae9c1fb2d9c0d"
+    },
+    {
+      "agent_name": "daemonai",
+      "agent_number": 2227,
+      "owner_hash": "2a11c3c15a5afaafff446db93482a9887f1a46618b4765c6dbdd1e6f1cd9baa0",
+      "claimed_at": "2026-03-24T14:06:07Z",
+      "signature": "49d987ae9f95855027ab340e5af7acc205490a0b4d3959fd2b38f433af82557ffeb6124a4790e341f8b736a692e4304dc4dcf68ecc3e56bf8b2727db63700403"
+    },
+    {
+      "agent_name": "masiddiqui",
+      "agent_number": 2229,
+      "owner_hash": "8647d9c97efc87ced8b8814fcb91c18eb1890d22bbd5a86e5627e7ed4244581a",
+      "claimed_at": "2026-03-24T14:06:35Z",
+      "signature": "06d09b00e35186f3a2afb633e9b8ffade4226a4c8b1935b26ab4dd8d82d6080b95be3623dc98722d27079a08fef99694c7a53aaea539a70bee8362110a408c01"
     }
   ]
 }
