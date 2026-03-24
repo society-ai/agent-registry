@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T09:34:04Z",
+  "updated_at": "2026-03-24T09:44:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13610,6 +13610,27 @@
       "owner_hash": "154737dfb5c18880c6e83ec2577621cff902657c40237e60e43a6dbb7742e8ae",
       "claimed_at": "2026-03-24T09:31:19Z",
       "signature": "8b9f819f7ef39db76187b22b9340f463c1fddc578acee314bbb87366b77a46ed54de30494fcefd93f50f0aa8328e0d58afaae8ed386c74b833a3aa931c7cac08"
+    },
+    {
+      "agent_name": "automated",
+      "agent_number": 2005,
+      "owner_hash": "bf6028eb9a83ded542bf400df4e9bdcda7aac75fd8da8396ad7fe71277b19fa8",
+      "claimed_at": "2026-03-24T09:40:10Z",
+      "signature": "9753f66311012c84efe21d55bb96e7b67093701a8e4c4574af60e8234e0e21dafab5a023231c80657947644750e9df76809de92a24ae97d485cd5ac65217e40a"
+    },
+    {
+      "agent_name": "ancauix",
+      "agent_number": 2006,
+      "owner_hash": "ab1d81bde558014be6644a317197bba670950aabeeb8a98cc6f86b6d9fd7f575",
+      "claimed_at": "2026-03-24T09:41:05Z",
+      "signature": "f622f301ef2afb02c3612332bd7618bc16a495cf784941525c50fb0adcf654f4641dcad3cdeb0639aeff4d241b572af96feb0d2689eff5137a65462ff82e5a08"
+    },
+    {
+      "agent_name": "furry",
+      "agent_number": 2007,
+      "owner_hash": "b0390331e482f3b9b1209891ba4b6b2c7a9d1258fcc174097d735613363600c1",
+      "claimed_at": "2026-03-24T09:41:42Z",
+      "signature": "6afee0ca9b466c8e91f30fb46a09b6c5a027f08e39f2d2a5b17cda0d06e283e5a86b5a4baec3547ab48f3216476076ac510b9c3bce4a1048aaac19d19d8ec204"
     }
   ]
 }
