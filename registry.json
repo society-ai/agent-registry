@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T07:23:27Z",
+  "updated_at": "2026-03-24T07:28:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13267,6 +13267,20 @@
       "owner_hash": "54afe12fc038345a2dca9c16656e3184bb63e5300329283a6e59aa7f62023829",
       "claimed_at": "2026-03-24T07:20:26Z",
       "signature": "decc725f362f4d80d5e37ff768e31f7bfacee01094a741752f231d6e300b239d969dd7edc3ffc62f5bb2f3e503a88625e6d9e7be27609ff5e8d2f7b95a73480c"
+    },
+    {
+      "agent_name": "mediasynth",
+      "agent_number": 1957,
+      "owner_hash": "9925a2507f158e6073e5a11d15203a6b623ecb4c13b85a557c52b1a7f76aff8d",
+      "claimed_at": "2026-03-24T07:28:14Z",
+      "signature": "c0887f41fc9c3af51b85f45486da6d8f2d60679f48259d6c1a7dc631ce5fa6a3d7a504189f4b7e39d5e04bf24668ab6b536ef52aaa62d0dfe2f58f566d55f701"
+    },
+    {
+      "agent_name": "vabadus",
+      "agent_number": 1956,
+      "owner_hash": "3708e1e9f05b4b3088b7d25b0e0ad22feb878ac573a67b0a095c7174e67268bf",
+      "claimed_at": "2026-03-24T07:27:45Z",
+      "signature": "5ca9122f1e2067afc0f9fe162b15ef1e896d57a76713041a6d506b7bd6431bd1f26644f02af10f265f051380cc5c0fac50907134fb36d22b08db76af77e7410c"
     }
   ]
 }
