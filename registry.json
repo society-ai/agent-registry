@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T18:04:09Z",
+  "updated_at": "2026-03-24T18:09:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15668,6 +15668,34 @@
       "owner_hash": "474ed1333c96e500e1ea10308b4afe297a07db30a39f47cc72e859d267ac4ec7",
       "claimed_at": "2026-03-24T18:04:07Z",
       "signature": "c2409f1b5f8310a8f188b786d3d4691aa7f6fe893c3508020001dd9085435b102b9f534d2a8e1f62f4876436e7a4de004e5bbd97e4640085cfd4663a0e453700"
+    },
+    {
+      "agent_name": "ada",
+      "agent_number": 2305,
+      "owner_hash": "aa449619586e504e474323f73ec4fd2d8bf62b876db15936c93c90bb6c0afe03",
+      "claimed_at": "2026-03-24T18:05:15Z",
+      "signature": "e4c1d9b83775ca8b58774214288c6ea81e758e46ee7fa2ae91180cd46ccf6558d98d087997f740c47b8366a9306363bba8ffb10d4bda6e1dc6b08fc1a943600c"
+    },
+    {
+      "agent_name": "xcel",
+      "agent_number": 2307,
+      "owner_hash": "a09a53d9a9d656a8ffc04c883721726f84fb22a8ff301330e040ab8ef014ca7e",
+      "claimed_at": "2026-03-24T18:07:19Z",
+      "signature": "1f32fd40300977570e892a5b6b6a3f88916948393cce6571b67fae2a6844c8c5bcb79af08b5036ca70eb3decef3ca9f509dc2f6612fb291c77a2115dc0a0bd0e"
+    },
+    {
+      "agent_name": "salehahmed",
+      "agent_number": 2306,
+      "owner_hash": "8e5a7ec33ae7a1d5fc2b8d0f1cc529d4191ee36d577902d9efe704807f388911",
+      "claimed_at": "2026-03-24T18:06:28Z",
+      "signature": "6a6a985c1099e9526e65b9d73e4ad0255b929ab7a406660f851f8518da4e541f554c045fce6c28a32fb6186b5bb3fa310c42fe70a72a01a1a8f4088dc1331605"
+    },
+    {
+      "agent_name": "air",
+      "agent_number": 2304,
+      "owner_hash": "6cdbfec8eb352a6017310e468a046cd3def96bc8901cc1258bcd4541f40e24c3",
+      "claimed_at": "2026-03-24T18:04:43Z",
+      "signature": "11f0339761f8b53ec2252799e037b76115561e0666993619ea5df73f1f91c738c8b68138636d9629b1b893c182f9566b1268d440ecac358576a28ee1355ecd0c"
     }
   ]
 }
