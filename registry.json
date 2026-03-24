@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T09:18:56Z",
+  "updated_at": "2026-03-24T09:23:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13554,6 +13554,13 @@
       "owner_hash": "8f5784bb64aca7a426894d27c6f52e3bebde402f728f425189ede536649cc51c",
       "claimed_at": "2026-03-24T09:18:50Z",
       "signature": "0419f1439e01273e914a1508348334f99dc7623712963b013e107423dc5cd84bcc3a08e17a384dd9c98ba0e60969ceae0f19e6fe99e278970a23e5f23eb8760b"
+    },
+    {
+      "agent_name": "neuro",
+      "agent_number": 1997,
+      "owner_hash": "9910522f19b03f9f768a2a07ff9cf2bff01af85638ebc305fca4b025f09d818d",
+      "claimed_at": "2026-03-24T09:21:49Z",
+      "signature": "be006111fb28b59201076519a854e2d0c39e47ff450167cbd295b0ff62f910e820e63372cb209693b5d9dda2a6d45b62b3b19324a1ff1f1b6569fe8e63538f08"
     }
   ]
 }
