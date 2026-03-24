@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:12:12Z",
+  "updated_at": "2026-03-24T14:17:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15192,6 +15192,55 @@
       "owner_hash": "b23bf4cde080f3dbe19058eeb7d82751a3a8a33875d838385f3a7660d7118828",
       "claimed_at": "2026-03-24T14:11:19Z",
       "signature": "db739bc4abab7a3d9fa5aaacb6ed93aca8fe43aa4e2ec0da1815e8ce382b174d8edfe28ca612a77f43a905b4f6ce03ae8a84bf496834f6ecb23ad51b8af79c0d"
+    },
+    {
+      "agent_name": "automesh",
+      "agent_number": 2236,
+      "owner_hash": "2dab26f063e2f96e9fd01e9d10b870a77e7a881c04b8dfba0bcb60161565016f",
+      "claimed_at": "2026-03-24T14:14:26Z",
+      "signature": "60fd88e87d7810c8c1a7d8a211ac92db4e328b2d808222c354dcaa91177bb92f8c788737d79416c0e9beeecd355205ee06025fc448f2f65aaa0f71fe2726e105"
+    },
+    {
+      "agent_name": "robocore",
+      "agent_number": 2239,
+      "owner_hash": "775f217bc49522c3dea50910c703e4c33e655900f7d806279b4f278488b2136b",
+      "claimed_at": "2026-03-24T14:15:48Z",
+      "signature": "b801495253078c69b548dca143bcfefc144e109b0460d5b4e062eb2bdcb42ec60d74baea8606e543c8b6dd7fa545a7e1ba38d149d34209a091a6c335d1ce0808"
+    },
+    {
+      "agent_name": "stc",
+      "agent_number": 2237,
+      "owner_hash": "1523863255af1efba4fa2ec3a1b66c20d118040ef122af798950d7a17f0dd5d3",
+      "claimed_at": "2026-03-24T14:14:35Z",
+      "signature": "b57077b6adfb6dd96c6b272f0e42a31f1e7e2874838f022ad7a929c866f23ca500c77e831606fad33adf8f29131f199741b2118570fb071b492103f78045180b"
+    },
+    {
+      "agent_name": "commandai",
+      "agent_number": 2238,
+      "owner_hash": "bb76baa31a51d05c596481878ceea743fe969514fbda6da8b41a421adac99812",
+      "claimed_at": "2026-03-24T14:15:07Z",
+      "signature": "625bda44b9d97ea9e0c377c853a1b66aaa12215d78256b61d51aa4520f05a75b5a0d4bec6ab962b41d3d96be097feed21fecfae9d8879048963166ebdd2fd304"
+    },
+    {
+      "agent_name": "mechforge",
+      "agent_number": 2240,
+      "owner_hash": "33c0f5ebfba9149cf0e4b2bbf9830ad23c15f5778a16a16ae1a859b006dc7fdf",
+      "claimed_at": "2026-03-24T14:16:30Z",
+      "signature": "102e311974bcaa9ef0e82a36e2f9eaa37208a04888ce5f6e4d88c86b49cc98a0ee49672a845441401b975ef79f7e427ca51808c5bcf0a16effee6923a772d70c"
+    },
+    {
+      "agent_name": "zain",
+      "agent_number": 2241,
+      "owner_hash": "f1072ea692d7e1cb97d0b293269335cdd599441673abe23f067b1b4ff2c8e7a6",
+      "claimed_at": "2026-03-24T14:16:48Z",
+      "signature": "d06a51e512282d6aee349823f678d26a75599c047591e85efc41ff1e82cc06b96a3196e4fab717e613c0117228c584f86a5a9886a7ce535f6f062226b4fded07"
+    },
+    {
+      "agent_name": "cyberdyne",
+      "agent_number": 2242,
+      "owner_hash": "56c3ba896c468fb86220578dc2e7048cce4f0f65c55f8461acf74ddc35a80347",
+      "claimed_at": "2026-03-24T14:17:11Z",
+      "signature": "9079a86a0342620df63c615279d9f9d7afd2026815e696f2df5a61e0c8be964e9c9e5442091252865a86ec8d69832020fbb33862f7d7aa8abced2d8f23812603"
     }
   ]
 }
