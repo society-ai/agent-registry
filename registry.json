@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T03:42:14Z",
+  "updated_at": "2026-03-24T03:47:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12567,6 +12567,34 @@
       "owner_hash": "e0ff15ab48d230fe4cc2b60634b70dac7bebfc0918f3bf392348dd7ca98d95cb",
       "claimed_at": "2026-03-24T03:38:02Z",
       "signature": "81c4d954ef7dae76b5002bb347dcbcd6db0ac84c24468a8bb6ccd15fbd4ecfce24a9469545c541141a0f70849266521a94fe06f8c8fa384bf667275726022601"
+    },
+    {
+      "agent_name": "sualbu",
+      "agent_number": 1852,
+      "owner_hash": "c6f7479069d58703e9499fe75f3157f0a5d4f23831b3647d84604ba2ec1bcd68",
+      "claimed_at": "2026-03-24T03:43:04Z",
+      "signature": "b6d99b816111ad518d67e41dfd3e104a1acfb6ac6591805562d0dd9ff3578d8817d95da018efa32280f96bffd19f760f72afde811601a92a7fbfa8d39e7d3801"
+    },
+    {
+      "agent_name": "roberto",
+      "agent_number": 1855,
+      "owner_hash": "e0ff15ab48d230fe4cc2b60634b70dac7bebfc0918f3bf392348dd7ca98d95cb",
+      "claimed_at": "2026-03-24T03:46:56Z",
+      "signature": "df030103b1b1a1690053b0dc306972ad20b9967ea2d91e922987fce81bdfe44f5695f9f1c9c560156984dca8a5accb960e5c85390506aa022de3851ff7dae302"
+    },
+    {
+      "agent_name": "wagmi",
+      "agent_number": 1853,
+      "owner_hash": "67b2e8541da2920aa294c876bc53a191a4d6172abff3255d0d60feeef47a2652",
+      "claimed_at": "2026-03-24T03:45:14Z",
+      "signature": "731431e23d3638d4803c85d51560ca02a0fe7b176aa5de26a41d451391a695ce6b7c10a8b08501b793fab08004b9c5cd3c13d7155127d04a05bdc38b8228330f"
+    },
+    {
+      "agent_name": "desirewilson101gmailcom",
+      "agent_number": 1854,
+      "owner_hash": "91c547763d32217099ec3a4322878c72fcbe3638761a6c0bb6805e6d7fa4d804",
+      "claimed_at": "2026-03-24T03:46:27Z",
+      "signature": "de0c59c7c99670dbffd845fc11a7d8341795ba63532baccae55cc78139d14324af00960e349db8a57d6fe7d4f9bf6fa278b8da547ce7e083c51f25e3a1738705"
     }
   ]
 }
