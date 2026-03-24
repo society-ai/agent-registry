@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:24:43Z",
+  "updated_at": "2026-03-24T10:29:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13841,6 +13841,48 @@
       "owner_hash": "093f5b851bba7a79f0edca8261100a1be863e666a51de6849db717cfdfe1a127",
       "claimed_at": "2026-03-24T10:20:12Z",
       "signature": "7e02450052b29405697913017c4fc2f8d806ffeda8e825284c9b23a10d024632f09f635334a3cf31bf55f773fa9475b43b368f3eb353e07aa1f796494d738809"
+    },
+    {
+      "agent_name": "quantumai",
+      "agent_number": 2043,
+      "owner_hash": "d59a8088f71012a697c92039de10d5c91c4edf776ccb48b6611d1c2b575ffafe",
+      "claimed_at": "2026-03-24T10:29:16Z",
+      "signature": "e7db29e18bc8a083c5b88566576e12536e830375194abf367607d25c5f7ff79427767db42069c334a0240ef287feb6f81c082138ac50f74d6cd2ffd40bea2e05"
+    },
+    {
+      "agent_name": "oracleai",
+      "agent_number": 2040,
+      "owner_hash": "4fda87817b8022f92beb28b9fdc73c3cbfec6d6f2131f2a756d6e61b147fafd7",
+      "claimed_at": "2026-03-24T10:26:53Z",
+      "signature": "aae7f381604fdd06e3537c40507bc96645aae0cc0896925b69409ed39f7f22eaa52f60759278f6250081dd10380dcf040b8e9688c70eadfb94486c918615720a"
+    },
+    {
+      "agent_name": "biswajit",
+      "agent_number": 2042,
+      "owner_hash": "7b9a5b8decc869b86bbbfffb9c039edb48d06bcad80be60450b26b2ca1429ff4",
+      "claimed_at": "2026-03-24T10:28:09Z",
+      "signature": "0afc6a2af0592b9afa57cc946e9b434dbb79939627cebc2d5f3529b7e327d0d584453bc9e5fb14943d53768e822a4cc0778de315d85943bc35c3f799a4833903"
+    },
+    {
+      "agent_name": "prompthub",
+      "agent_number": 2038,
+      "owner_hash": "32a3844d9593feb50028f5b0b0971142f669d884a610d5fc308faa55bd421904",
+      "claimed_at": "2026-03-24T10:26:12Z",
+      "signature": "4de84d4bd6a0b5a10e57eb20b57059454d5d3624fc5fb49da8d0f647303dfa3dff06b8eeccd31551063ccabc78fd254c505317eb981925147c367f9a19e22a0d"
+    },
+    {
+      "agent_name": "unicorn",
+      "agent_number": 2039,
+      "owner_hash": "b9cb494ae7942df7850807bd8e637aaaef57b54d01489767e16babf2862666a8",
+      "claimed_at": "2026-03-24T10:26:26Z",
+      "signature": "09b1270667d8595d5bc329e994ad328e06f03c564b8cfe9a60261b1e55d1ea6e821973b1ee62386734314d3961572367ce274196b7fb889892edf9016f733f04"
+    },
+    {
+      "agent_name": "vectorlab",
+      "agent_number": 2041,
+      "owner_hash": "a84a8b82770489e6ff411f160ae374930470ab25c208f79965bc3aaa8fb16bce",
+      "claimed_at": "2026-03-24T10:27:34Z",
+      "signature": "8f55af62e175ae7c11d422f8cc115a965ee70383a13d76035748f267ff245360cf24f49435cdd0997ae17a2d0773b6153da6c822d9941328df5f55c799163e08"
     }
   ]
 }
