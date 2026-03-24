@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:14:41Z",
+  "updated_at": "2026-03-24T10:19:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13806,6 +13806,27 @@
       "owner_hash": "3f03a3ffa7ac953f26c5005b2cd75fb1da8d41bcf428845f1bef4b6acdd62522",
       "claimed_at": "2026-03-24T10:14:23Z",
       "signature": "1602bb4d9c5a038a307412c6bdfd57b66d91b2b45bad9c454945e83eebbf274f935c82e7b1d534381db579cf4d6046ccb968a9586492b486c6c722e04b419f03"
+    },
+    {
+      "agent_name": "emre",
+      "agent_number": 2034,
+      "owner_hash": "581b5fb8a13944625cf1dd5183159014759323ced86268659c593ed1dc409ca8",
+      "claimed_at": "2026-03-24T10:18:35Z",
+      "signature": "fd4cfed9b153b6e4ca54846f790e3b63019a367fe460816f4d596fe92d72e8628d2a0dee9d77b368df705def0e6f99a778444aae7c424d6f3fe6edb6ae7dcf09"
+    },
+    {
+      "agent_name": "rulenegine",
+      "agent_number": 2033,
+      "owner_hash": "c02ea1f020fe4e81e79ad5fa5316f84b8eab4d8030ace6785629128105e9fea0",
+      "claimed_at": "2026-03-24T10:16:41Z",
+      "signature": "0625b3b145922d1c5d70b535b3699e1af962245c9376669b778045cde594df2406e0cf5bcb0b65cc431d2f21dd635211a758a6db01094614bcb9b6e652d57705"
+    },
+    {
+      "agent_name": "kingleo",
+      "agent_number": 2035,
+      "owner_hash": "188c766ad8856800d337ea29f40f11e593bba0c3f8cbe69f938257be919164c7",
+      "claimed_at": "2026-03-24T10:18:45Z",
+      "signature": "f8d9484b3bb9b28812177a7a759e8b5233e8fcbbb1d78da2826583dc0a4fdbd85fd159ac0950c78f6dd767235090a76b08e5a4e98eaca3653572caea8985a404"
     }
   ]
 }
