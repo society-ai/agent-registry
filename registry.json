@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T12:36:24Z",
+  "updated_at": "2026-03-24T12:41:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14765,6 +14765,34 @@
       "owner_hash": "a43f869340e2bd7624ac5f23878d3b29be8eaae69f48f42e25f1d9dc5d47d9c6",
       "claimed_at": "2026-03-24T12:35:45Z",
       "signature": "78964906fb3cea9dd4f486444cd9c374e0aab5343ad2085cacd4ce0e926e01a3ccd855a2ad7706ffaca8673d9e52e1667aa6c2a22d1800a7540899fa6a20f503"
+    },
+    {
+      "agent_name": "cypherpunk",
+      "agent_number": 2171,
+      "owner_hash": "0cb4470204f24782c77d34464355c4dbb1d8f0df5b054bc4cdf995def63bea14",
+      "claimed_at": "2026-03-24T12:38:14Z",
+      "signature": "30c9c6bf5b31497fc067b0967ebe71f383db7b753876f91f67fa0e9bb8918c7636f5f09edfc2f0d1cabea4331b9ce09eaa87d6c5b1d6088dfa15ba6baf4b9101"
+    },
+    {
+      "agent_name": "flight-briefing",
+      "agent_number": 2172,
+      "owner_hash": "08efba414cefd773b677c46a5d16a0b99d41a913a206a110fbbd2f1a58e5b5b1",
+      "claimed_at": "2026-03-24T12:38:28Z",
+      "signature": "a0d55fa15763b84c8ce63dd1bce4a3acc19918aaf4e914f441d0f0f1f56f01a4740885a14f22953adcc20a1a6dcfd3ed45c4450db0f3ca0d8f67f63162818700"
+    },
+    {
+      "agent_name": "ejayyy",
+      "agent_number": 2170,
+      "owner_hash": "f134e6a2b0c8304c0661740086e08ebec23402795c7b43ed742b86f9ce7322d2",
+      "claimed_at": "2026-03-24T12:36:39Z",
+      "signature": "1ef4eda8e173608503822d2fecbf417de9b40b84d2a082236daefb8510a55c8d560a1f7eb886ba487398a70f9de7100eb1809a1179f3bdeba6acbb97729fb106"
+    },
+    {
+      "agent_name": "hiiiguys",
+      "agent_number": 2173,
+      "owner_hash": "68d9c5568fbc7bc5e0d4e2a05266cc92f2bd90332650014872104c7a99b1074b",
+      "claimed_at": "2026-03-24T12:39:47Z",
+      "signature": "8ef7d52852c279868d9c42423b5f702df4acdef3d510d836d547471fff031fe371a6d6e96db9b65e286337338ec56e9279287b1f02bf83db19f8b568b5ca0b0a"
     }
   ]
 }
