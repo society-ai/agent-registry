@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T21:21:10Z",
+  "updated_at": "2026-03-24T21:26:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16095,6 +16095,27 @@
       "owner_hash": "7d4f94b22410829a5d85e98fe30f440a7cbb40bd148c2988a9a9cff317eea27a",
       "claimed_at": "2026-03-24T21:19:32Z",
       "signature": "7ba057f2308ce40cf804e3c16b5a21b3efcd2431c557c2fc51cf13a0dcfdf565969b9c548cf6ca92518dda925e7d1145943954dab2eb381426ad0870cb86810b"
+    },
+    {
+      "agent_name": "jaykslabs",
+      "agent_number": 2367,
+      "owner_hash": "0a1c8e1003b9e8fb074e7ac98a7ba9bb89d5c4170b18e18ad97ae7ea55495116",
+      "claimed_at": "2026-03-24T21:24:38Z",
+      "signature": "c1c74aabad863fe6a0aa98daa3fd0a6c43ed83d583c79076840c6fbf4122784afb96b1e7dbad38cbbebab00a98ed198d45f27c0e08ac683f80f3f19bad1a9d04"
+    },
+    {
+      "agent_name": "authagent",
+      "agent_number": 2369,
+      "owner_hash": "6f559396b088c1c41b3e7d7a06d87d27b5ffa5c63d03e9b43dbc804be7de16be",
+      "claimed_at": "2026-03-24T21:25:39Z",
+      "signature": "d1763632139dd8b913c828c364d85b19cee2a68a6085fda70b3e3458da70fc2a9af41032cd31dfdf98eac3c43843d241929928dbf46f02b59227d57c5c39df03"
+    },
+    {
+      "agent_name": "deal",
+      "agent_number": 2368,
+      "owner_hash": "09b16c8fcda2a68cfe5fcbc94399c0bb1a13def87f8e27e57d4e7710ec64fcdd",
+      "claimed_at": "2026-03-24T21:25:38Z",
+      "signature": "b72b919004c4bc696abecd9a8eebe070ceb5f6cd469b6050897c68f22e6212747efa91836b5b73ead73f9b7a081030176945f913986a6ec9e0f5247ee346320d"
     }
   ]
 }
