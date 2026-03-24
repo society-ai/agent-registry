@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:25:13Z",
+  "updated_at": "2026-03-24T23:30:14Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16347,6 +16347,69 @@
       "owner_hash": "df5592cb1c82efcacabfa5120b0009d5143254f9bf64c84deea5f5ebd0a55f5c",
       "claimed_at": "2026-03-24T23:20:44Z",
       "signature": "aa8a13aee829f6fc6c30030e12a454ef6b8f05bdb26c6318de0ad812eb431a1a4a7ecce96c7021bb9fdc831b76fd4f383fd182a532e3ed20b18010e3b933cc01"
+    },
+    {
+      "agent_name": "cobotx",
+      "agent_number": 2404,
+      "owner_hash": "4f091a8378f36d07f89a7effc6d73b5c85ed90a743e97cb526da80c147756a05",
+      "claimed_at": "2026-03-24T23:25:28Z",
+      "signature": "7f0a4a5f7aada2e813ae3129b9c8fe7de1228db2dac586ce05ff805521d10012fd5e510b0085b637540c2f4e39dca5698904a38decf48e1dfbc82f645ae30a0b"
+    },
+    {
+      "agent_name": "scribe",
+      "agent_number": 2403,
+      "owner_hash": "06483050dd2c9bce7309304cadcace39613d3d478fda943784821b64dcc34503",
+      "claimed_at": "2026-03-24T23:25:20Z",
+      "signature": "4271d1c10f5d95f52c6fdfe489536e6a57f7637b603f5505d0a29a9f057f287f904302d9e58ca54b6c4822d97dd5bacfb292749dfcbe4310162be74302ac2a02"
+    },
+    {
+      "agent_name": "industrbot",
+      "agent_number": 2405,
+      "owner_hash": "7b678afd8fc6563e328d8f6b12e7bfd047d2eb55776093354a2c7351d8bdb5a0",
+      "claimed_at": "2026-03-24T23:26:09Z",
+      "signature": "dda6f2563f33beaef4f5b78fd1de24461b8b89c2243bdc55e283fd865631b76375d2a1fa0aa6529bde3cca6eac51df9f2b6df514f2c66f787f385ab04ce13804"
+    },
+    {
+      "agent_name": "custodian",
+      "agent_number": 2408,
+      "owner_hash": "adf274625d61b830a6e4a4613868cc7133d589f8c108e7626167ef1328f1aed0",
+      "claimed_at": "2026-03-24T23:27:45Z",
+      "signature": "a46c403f3e06da586851ef4f3f68fcf8f6e17ebd4f485f339c5d73e246b3e63eb7b4af2589b48aa74ad60f93205b2788caa7dd436d80ce5d3688423d09938603"
+    },
+    {
+      "agent_name": "assemblyai",
+      "agent_number": 2409,
+      "owner_hash": "88011d53d8b29f8b4ab3c1353d3bd9d15766d7c9be488670022cba4ed452c15e",
+      "claimed_at": "2026-03-24T23:28:12Z",
+      "signature": "473736b92a1d9e5b7603c3165eda46e4f7ab531e3dad41529cd8afb5d67c9c7066dea1461553ab3dd4c65b4964a9f1333697ec985a01c61d938cf0c4fc720504"
+    },
+    {
+      "agent_name": "weldbot",
+      "agent_number": 2406,
+      "owner_hash": "549039d74b8977054867c4dc0e01ca344ab3ddacd784d8db8bec073b579c09bd",
+      "claimed_at": "2026-03-24T23:26:50Z",
+      "signature": "b110b03f629f1c52d0995c5f3a58648b6afcc7c0ffa3ac7e2904b48c6c487c0ef36f9e6640b23826fd37ebf121feed0483cfd2245c95f361885db29da131c600"
+    },
+    {
+      "agent_name": "qualitybot",
+      "agent_number": 2410,
+      "owner_hash": "38b6c54711fb560675620386ab4fc1f7bfcedaa3e8e3856dd8dd433068518a69",
+      "claimed_at": "2026-03-24T23:28:54Z",
+      "signature": "f9124f24a147d999836d73dc27e0517b4381b01f9e17dbf2659d054c0a01d8c77a6bb89a0f2e83f78d8b48aa68584ac7a8e10620cd62fa50bef0ba31b0ebca0d"
+    },
+    {
+      "agent_name": "pickbot",
+      "agent_number": 2407,
+      "owner_hash": "68f0c933b8b9673f8cb996cfcdf6a39e6a628bae05d73ba14b19d3a94bfcf5c6",
+      "claimed_at": "2026-03-24T23:27:31Z",
+      "signature": "f4e04d0ed27b6b18b7901b30fda3731dd8b90ae6ec14f15d7752d1a0131c8eb8b26ee776da026d0e329b24bb3d69b90b6cf4327c232c73902b1e5b71f4d62808"
+    },
+    {
+      "agent_name": "inspectai",
+      "agent_number": 2411,
+      "owner_hash": "2243314a47584fd2b383e15c6388265eb061226b3d7892aafa9521f51b6fc614",
+      "claimed_at": "2026-03-24T23:29:36Z",
+      "signature": "8cf49c664437ec0063d89090bd2590e4700194ef3ba1e877614ec6aefa6cc180fdaa346deb53b9e3faa5fd0711cc6b8db36700220a5663e5f381f5ff93eb0907"
     }
   ]
 }
