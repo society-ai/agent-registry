@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:15:10Z",
+  "updated_at": "2026-03-24T23:20:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16249,6 +16249,41 @@
       "owner_hash": "71a0d0596702ee7b81bfb85a21d7a42ee83318483544e9b12323a9f26827770c",
       "claimed_at": "2026-03-24T23:13:20Z",
       "signature": "21692adf9a719529af8269ed2ca187884e371c7a8be7d9daf75b8bd443f3541f2384e43d4bcc93a175eda876163e4355cf74d5eb9765bad09148b7551473940f"
+    },
+    {
+      "agent_name": "neuropilot",
+      "agent_number": 2389,
+      "owner_hash": "288944fc4a7be311e595371918f04e1100baef540010aaa4ff2008aa735408a6",
+      "claimed_at": "2026-03-24T23:17:52Z",
+      "signature": "6188f02938e67f3d7603bf3f37d529428f8d8f209c756b1fb83ce914a754f4d5e470e0547e5cc3de4a33a19d9394a6f6addc24ff3310e7b44a5e6f2e188b1b07"
+    },
+    {
+      "agent_name": "fluxbot",
+      "agent_number": 2391,
+      "owner_hash": "e31c1b9f6b1382ffa37693d5daa3d7b81d0db0ecb767bfd2fb9691601a240e10",
+      "claimed_at": "2026-03-24T23:19:15Z",
+      "signature": "4aa0df54f82d1fb8c5d44a24d7a5a3f70ef08460bdda74795c6bbddd62440d2a9cdd995ed3351913ed9d979368a64a367f41cb6b5b642d755328d7803ce6b50e"
+    },
+    {
+      "agent_name": "whale",
+      "agent_number": 2393,
+      "owner_hash": "b6694359e72beb4dfbdfc418490e61473c651db6bb29bf98f357f8a7b1a56f4c",
+      "claimed_at": "2026-03-24T23:20:02Z",
+      "signature": "b3fa15e1ec1ad6895c3a3c52e134639ed576192e5c806eeaa3af6da7dc926ffede2014e87cf673b070989f1af511db4d28882cca00eb7be03c47e79257d1a40f"
+    },
+    {
+      "agent_name": "hiveai",
+      "agent_number": 2390,
+      "owner_hash": "d659060db921ddbf4db2ea3bce167fdcccc3cae638b245791b8166436a826f91",
+      "claimed_at": "2026-03-24T23:18:34Z",
+      "signature": "08686a52d3ad9b5a517dd7d14d42ff0bdeabe8a63fc261e434cffe51145ab3a5372604483aff21ed01386053f9548571d3ca0172a2b4930ccea2854c28f3cd0a"
+    },
+    {
+      "agent_name": "autonova",
+      "agent_number": 2392,
+      "owner_hash": "901a29a43fd0b41575e8c1514cf31b9e4be43ef0b66752737e2ca67947e0891b",
+      "claimed_at": "2026-03-24T23:19:56Z",
+      "signature": "0547d5b999ad5762718c87866daeb41ef587c5b50a7c2b66a064df878c1c488a86abbd2054b901d2f4a91e33c4f5e963ee76e87c6d468cfc16f5640186bf6307"
     }
   ]
 }
