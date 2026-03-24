@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T09:29:00Z",
+  "updated_at": "2026-03-24T09:34:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13596,6 +13596,20 @@
       "owner_hash": "cc217edeec28f7bf9ea82fa7f4fd993cfd8b7b1013f607da3704f72924720827",
       "claimed_at": "2026-03-24T09:24:45Z",
       "signature": "6f5a4a6b42bb8f115dead0e270fb4f2710738047293e14198da7a96a5544e8a5bf300358221c1b3e3ef86d7614911fb4e08bb31f5b3c816669195896a4d54605"
+    },
+    {
+      "agent_name": "zensurfconnect",
+      "agent_number": 2003,
+      "owner_hash": "b1a431af93df8fc45534cb1443b093d1e49911a107347b39cc0d3c1fed297874",
+      "claimed_at": "2026-03-24T09:31:07Z",
+      "signature": "4a237c60f0632a4bae65ed56c9dd023a1fd71ba56cdd305c5d363a0293e5086450c534c411d439b2a01958d3e5998e8913d824fca49a82fe32dead80415c060f"
+    },
+    {
+      "agent_name": "phil",
+      "agent_number": 2004,
+      "owner_hash": "154737dfb5c18880c6e83ec2577621cff902657c40237e60e43a6dbb7742e8ae",
+      "claimed_at": "2026-03-24T09:31:19Z",
+      "signature": "8b9f819f7ef39db76187b22b9340f463c1fddc578acee314bbb87366b77a46ed54de30494fcefd93f50f0aa8328e0d58afaae8ed386c74b833a3aa931c7cac08"
     }
   ]
 }
