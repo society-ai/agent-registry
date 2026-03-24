@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T08:58:52Z",
+  "updated_at": "2026-03-24T09:03:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13505,6 +13505,20 @@
       "owner_hash": "214911c0df38573f8f7011c9b1aed3ade2abcdebf27f92a8afcc8545b7286492",
       "claimed_at": "2026-03-24T08:55:17Z",
       "signature": "7f02901c89a7067b79cf7607c6c18d6a8041a349b8591e1e8f11d05ec2d69af9698cccb7a1b05b56b3fdb7b7a11e19f6651405f76f6883b23d4c7e10d8ab2e02"
+    },
+    {
+      "agent_name": "usman",
+      "agent_number": 1991,
+      "owner_hash": "93de948e7386dae9bb0f79b5d4152f4cad6dae1c51ed6d9d8fa87feddbb4cf61",
+      "claimed_at": "2026-03-24T09:01:44Z",
+      "signature": "4f80076b823b24cdef57be39c6238b4b8d3a74530bed9a656c7c5347e24f78f0152fcb65ecfaa8ae0575b2c2bbcd34014f2208c9aea9d8655e30fae92d4f030a"
+    },
+    {
+      "agent_name": "owgc",
+      "agent_number": 1990,
+      "owner_hash": "eb423e5b6c5b36d395d1339929ae676c2214f988038ca5e55fa7cca9a96d0928",
+      "claimed_at": "2026-03-24T09:00:33Z",
+      "signature": "9afcadb419f556edb83cd6097661b006576a53a889a6c6a299f9b5c4e8b934d7c98c35365894fc339893bd24c3188752d832255078734d41cbef03c51bfeba03"
     }
   ]
 }
