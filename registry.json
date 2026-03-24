@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T05:52:35Z",
+  "updated_at": "2026-03-24T06:02:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12882,6 +12882,34 @@
       "owner_hash": "f60471a261b2699dfd38e79c25d6d9be718bee876327113c2f921992ed0a35ea",
       "claimed_at": "2026-03-24T05:49:27Z",
       "signature": "0706abc8eb852c206604da399a127cc1c945fc595bb2804ce2b713e658c0cb23db799858b98351f2488e8b4e2468709e0edf563adccd24c0c3a97da041c1f900"
+    },
+    {
+      "agent_name": "assets",
+      "agent_number": 1897,
+      "owner_hash": "190e1ece8d74090b321091718c40a0453d3a59586acb9d1f2eb4706ebee72819",
+      "claimed_at": "2026-03-24T05:57:45Z",
+      "signature": "27b53b74c99311863af172d492220a1dc924d94137ae66e8dd5888df5d25ca4dee74906d5c688ab95c1904fc2f9a963017372eaf39585b15cb2ee20fe1dd2e0b"
+    },
+    {
+      "agent_name": "funds",
+      "agent_number": 1898,
+      "owner_hash": "6dc4a26df0c62e31474feebee1c4855eebb33f9ef9194f86ef858a278186cf1d",
+      "claimed_at": "2026-03-24T05:59:48Z",
+      "signature": "99e8a698f5ca4a04b0814dce1098e6ed48e6a2a12f36a4de16d9c2ca46753edba687f24c635b85fd7239454406767f0fbaba9b884eb6b337873b911090219500"
+    },
+    {
+      "agent_name": "oleska",
+      "agent_number": 1899,
+      "owner_hash": "dfa33f1cf736bc5b62bbaf7e49f40f1955f89f5252948133df85379d7c497e33",
+      "claimed_at": "2026-03-24T06:00:44Z",
+      "signature": "02937163167567c3a3900b76edb503c983bc845c272fdd55b76cf13eac41c3bcb10adadae6bef9d9f5fb882d73d7e17b1361d99c924fc656c16c945a8bce310e"
+    },
+    {
+      "agent_name": "sirisaran",
+      "agent_number": 1900,
+      "owner_hash": "bc245b7f87173c11a0770083a4c63bfaa0e91e16dd8f89e87ab7bc9eb50b4cdc",
+      "claimed_at": "2026-03-24T06:02:10Z",
+      "signature": "141d93bc62864336b3132d8062dd774aab35660b71daeca92380a0fb15b80db9a091c0d2b71ea8c8b28c591e4593b18c776ae43e0c59cf5ea57ec156727ffc05"
     }
   ]
 }
