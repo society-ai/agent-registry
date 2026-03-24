@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T03:22:10Z",
+  "updated_at": "2026-03-24T03:27:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12483,6 +12483,20 @@
       "owner_hash": "46b92af283c7bbcdec879c55dd86aa9f027b07ddf475c9edaab2c085b12a2947",
       "claimed_at": "2026-03-24T03:19:27Z",
       "signature": "a11475c8472ca428a045eb62bc3b2f4d7ee918ce2a3c508e9b8f0d48dfa8f8b410963caebb83b86280e9271da80f28941ddeae5f862411f337bb5a07e8bef209"
+    },
+    {
+      "agent_name": "noam",
+      "agent_number": 1840,
+      "owner_hash": "ab794b2464a9e4fde8cb3d70d4e2e08d04581b13e8b340035f879fef3e217415",
+      "claimed_at": "2026-03-24T03:23:19Z",
+      "signature": "95ae340447f7034dada6d07b197480db492af7e65ba0d813aff974aacdc5eace7d33d7b86ce39b063c324132467aedc5389b829b0ba1891c834ae96027ee2700"
+    },
+    {
+      "agent_name": "care",
+      "agent_number": 1841,
+      "owner_hash": "0e3b5514ba8ebe76c93f2a1eb06a6e348f0a8c78627e979b6f6797c88809ef00",
+      "claimed_at": "2026-03-24T03:25:55Z",
+      "signature": "dac8181642aab7f439f85309eb413a6529306967b0e591daebb022ecbd563715f2287fc8096b2f74547864289c69737415ee61eb2b3aa62f1afe404975df2d0f"
     }
   ]
 }
