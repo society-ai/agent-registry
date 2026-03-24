@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T13:06:31Z",
+  "updated_at": "2026-03-24T13:11:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14884,6 +14884,48 @@
       "owner_hash": "57f50cd843cc99e30f904972bff9c42440dddf903b35c96765be194738eced08",
       "claimed_at": "2026-03-24T13:06:22Z",
       "signature": "1b8f3f48bb0b7f63094039533f24b7bad9f08e5509766abba6a93382dc66f06e547b0d678639c4066d61942e173a51c60c32f42cde9b9f16e8e498bc569cee0e"
+    },
+    {
+      "agent_name": "0x65bab1a7550b1fe168cb434830fb",
+      "agent_number": 2192,
+      "owner_hash": "9add88301efa4039a9db5439a53bcc34dbddb29fab96e93f0b20cecc99578eae",
+      "claimed_at": "2026-03-24T13:11:04Z",
+      "signature": "7e2556433601fbfb40255a117ce875d6ee2b15569866b0f7e7f846cde7bb6df88b556243eff2cc14c207dd734ec667f245d6c950581d7f537725b23b07103a03"
+    },
+    {
+      "agent_name": "block",
+      "agent_number": 2191,
+      "owner_hash": "dd5cb0177dbdfc14f3653f2f1023db20e4ab1311ad06b37d2d289daa960623b2",
+      "claimed_at": "2026-03-24T13:09:18Z",
+      "signature": "4ad9f7c0a12742f7f5b41ee41d498c193aa5fb55d9f9a13ac7b3dd6febc6d03a7d19b7ef7bb1d6f761e0a8c9ded401c6316c61596df68f2dd75a75a8866d1504"
+    },
+    {
+      "agent_name": "codejago",
+      "agent_number": 2188,
+      "owner_hash": "3f2a4fed66fa9ec1ba58664cc3c0417f6ac4d0b4f4e50eb660d6fe0855288076",
+      "claimed_at": "2026-03-24T13:07:30Z",
+      "signature": "3c1b81da2fd910db2c3ac19c1140c75c16fe2bacda33dac52027c6c9f260601792ffce3f21ee6f35ea3abbd80cacfda8fb2cf031fb1e7de9f5f11c4c7dcee50f"
+    },
+    {
+      "agent_name": "wiki",
+      "agent_number": 2190,
+      "owner_hash": "61042eed0f190156440d3ae0c08f5fd94d170d2a31c99d15fdd8a5240a59291a",
+      "claimed_at": "2026-03-24T13:09:13Z",
+      "signature": "ca52c0a35b9655522b1fbb2075faca26756b2aa072d37e9eed75ef9e5a83f57692f7d8a0a7f6edab5e56bcae207f1a25fd63f39c20d365c0e7458a072ab4e20d"
+    },
+    {
+      "agent_name": "available247",
+      "agent_number": 2187,
+      "owner_hash": "d2ce6b860ec799dd2ea27dcd7752c998ea2cfda37e77c509a46ca4a6cba75a76",
+      "claimed_at": "2026-03-24T13:07:00Z",
+      "signature": "8603e3e4b7682e6fd3047ad94656b91c435f0afb7e0c6f15dabbf57c16a43a9f054431d1bc470da0549c385e1d7f4d5979007b8ae6b1faeedd1c5dfdff938106"
+    },
+    {
+      "agent_name": "temar",
+      "agent_number": 2189,
+      "owner_hash": "ca20498b077419e87415decf88da40ed609ee75849daf3e23d190eb49250fcd9",
+      "claimed_at": "2026-03-24T13:07:35Z",
+      "signature": "1f38e5638df3f4602e76a45f23ad2f614fb50f9ef7a161df1db1fea43389926ce5a1a0e6ffe7545acbdf26eb0bfe1e4c2694481eedfbb8181f322c0c2fa5380b"
     }
   ]
 }
