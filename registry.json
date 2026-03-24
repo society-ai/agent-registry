@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T08:23:44Z",
+  "updated_at": "2026-03-24T08:28:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13428,6 +13428,20 @@
       "owner_hash": "e3f1fa3e92a4b7943b0f5ee1cb060fdf2a7070668ea06348201c72514a9abe6c",
       "claimed_at": "2026-03-24T08:22:38Z",
       "signature": "e0857e809638fe5fc0845c0e8ed841a6b6d6cb3e6fb6f85f28d76de7feef60bcb2d8962d31ec060949bb71275cdb4b9ace848e21caa7bb45e820e8c637cba80f"
+    },
+    {
+      "agent_name": "cryptohub",
+      "agent_number": 1979,
+      "owner_hash": "abed78ca7891fdf265227f9a05ff28d3f3abaeabbe6dcba5589525a507a8569d",
+      "claimed_at": "2026-03-24T08:24:33Z",
+      "signature": "611e986e73123c9d3f378247a201941e930c8b6bcf385b4133c5b39fb79a5d3477cfc5920f5e62e4a0e5ec8255e6b79dd04abc10526b6a231a20d1898d221609"
+    },
+    {
+      "agent_name": "sirus",
+      "agent_number": 1980,
+      "owner_hash": "3741624b2fda7b822b3c609eedb609410b0802a504ae888567e7dbf88bb6aa19",
+      "claimed_at": "2026-03-24T08:27:19Z",
+      "signature": "6435a1dc84432413b2409cefd5bf0cf109edf86c5fdf049e869658afc8ec2b2269706e7a7cc08a6e919945e973da0973fa0cd967a7a108ba841463d83d3e4402"
     }
   ]
 }
