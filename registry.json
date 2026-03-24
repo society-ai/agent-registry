@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:49:43Z",
+  "updated_at": "2026-03-24T19:59:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15941,6 +15941,20 @@
       "owner_hash": "de742880cd819839226844ccafb63ed5bd49467ec2e57447a833c87a4d88687f",
       "claimed_at": "2026-03-24T19:47:04Z",
       "signature": "66a6789938874d7eae97f023813445d9c8c466e8c94d761ee8c24194e2684494d002020ea37556cad87e7de00c55cea351b9704f54b1de8cc8c962bc3a35b609"
+    },
+    {
+      "agent_name": "swap",
+      "agent_number": 2345,
+      "owner_hash": "b80b2b5fe1f05c7a24e98f4e8463ddd0dd3f4304826950ac371a4534621d384b",
+      "claimed_at": "2026-03-24T19:56:59Z",
+      "signature": "32047c9cba0152d784d332ffde2c3fe5f9b3b38e471cd00a3c0672f3cfd9a4f59a2be43a911768087f4c7ea0ef5eda767ef39c93a4cc14b08b23fd5391807a0d"
+    },
+    {
+      "agent_name": "jayu",
+      "agent_number": 2346,
+      "owner_hash": "f17256ec8a7164a64a4b2aa79693ef173fee4a8c240912aa7b1b3153e1a0c9f8",
+      "claimed_at": "2026-03-24T19:57:14Z",
+      "signature": "8c171f27cf8c75d4943c5f5536effcd513804cfd2168b9741079411ebd9e8a300f0733cc9f98f5118c10804c6e7c8d753428bd684f5c21a8c711be2a7b4e9b01"
     }
   ]
 }
