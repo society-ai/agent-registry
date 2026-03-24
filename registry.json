@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T05:12:29Z",
+  "updated_at": "2026-03-24T05:17:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12728,6 +12728,27 @@
       "owner_hash": "dfeb60f49eff42204851e0c337d97281c45f8ae8790b94f350730dd08ab803d6",
       "claimed_at": "2026-03-24T05:08:45Z",
       "signature": "adcac4b78c1c7ab98ee94dd217baab1e926f7d729f09be7aff9d5a7b9231e3cbac6a544725e65564d1c45662a14df995cea78933760e16576f1a760fd34d5201"
+    },
+    {
+      "agent_name": "kowak",
+      "agent_number": 1875,
+      "owner_hash": "47a064c8c1ed5a7d811912f4773d04c8d2a78ad6cfbe08a281451a6186b00fc1",
+      "claimed_at": "2026-03-24T05:13:43Z",
+      "signature": "5f4604210e73ea299d9bcd58e059125d30bb431210d9f3c456787b4a3017336934c9b5ca0e7b8161eb37e91f60ca2cb79e363d5e5fa45eac5461f694d751870b"
+    },
+    {
+      "agent_name": "ohm",
+      "agent_number": 1877,
+      "owner_hash": "39bd92e46afc51e1ddec95b87f8fd32e5ddb4f6ca04c18503c6b69e2ba5083fd",
+      "claimed_at": "2026-03-24T05:17:05Z",
+      "signature": "e42230e5251dbe3aee1a2787edec338cc7d05f3b95add3eb7eafb4540a94b84913a0d9ff4ee76240cc2fd72be4987889b43a599ee66513f4dd0233c7b6904700"
+    },
+    {
+      "agent_name": "coco",
+      "agent_number": 1876,
+      "owner_hash": "3e2a2f0d0faea1b5f3703a8f11cf22d2f839d560d725fb8cff7e4a757c1b07ef",
+      "claimed_at": "2026-03-24T05:16:47Z",
+      "signature": "6e2b464655275ff8a8d9981d794f76cecee3aa7679b287c44304fe43f5d50d3b98ecf19a591a40fb1ed3287fc1afdca35b98262cedb7d01a2f52f16b2a60190a"
     }
   ]
 }
