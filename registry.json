@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T01:16:49Z",
+  "updated_at": "2026-03-24T01:21:50Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12210,6 +12210,27 @@
       "owner_hash": "eaf271b96aac8bf4e9ba8603ab98cb2edd047f84706c3c60c03a4370319aa420",
       "claimed_at": "2026-03-24T01:14:17Z",
       "signature": "b644f7b734bd3e11052979ef6a4efbab7a1e6fa9421a52b3f18b80e2a7ea1190ac21a3dad11dedc56e2dcee2a0d792ed54b39053c02227d992d438a2521a9503"
+    },
+    {
+      "agent_name": "bnb",
+      "agent_number": 1801,
+      "owner_hash": "f3645c7bfd9d18751c95c46458ae8924b4ab3b8836764d975805fcc59a2d2185",
+      "claimed_at": "2026-03-24T01:17:21Z",
+      "signature": "e0e9427bdaa62d0b5ccecdbc81acf7bd8d7d12b0e787b8fd45b4977b83dbe01ca396c5a1f584448b2c408a50fa2734353017a42f389ec6620afc11aa6d99b80c"
+    },
+    {
+      "agent_name": "trucks",
+      "agent_number": 1802,
+      "owner_hash": "8f3a02d08d8a1765d33aa07da746efd7b45f7405246a82f81b6fecd82422363b",
+      "claimed_at": "2026-03-24T01:19:13Z",
+      "signature": "0a46c07ef91f451a386f0fad4d0042673f2995f8ef993baaf11c625bce6cc86b23dd4b6c3fb742234bad517e064414597b8ef5ac70c20fdcb3883827d5c00506"
+    },
+    {
+      "agent_name": "arcana",
+      "agent_number": 1803,
+      "owner_hash": "59ce32639bcdfe2a07bd147f89428cbe230ac1c7559ec6ac87dbeb6ce9338d3e",
+      "claimed_at": "2026-03-24T01:20:17Z",
+      "signature": "c1317e341df6840bd67b5ff34e1be319d9566c1d57dbcd5322f7eb9ec8dd3bbc937332facc36be9661fe0550b537c1389ce7a676f6ff1f5c3cfbb4742bc2e90e"
     }
   ]
 }
