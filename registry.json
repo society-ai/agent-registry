@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T00:26:40Z",
+  "updated_at": "2026-03-24T00:31:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12091,6 +12091,20 @@
       "owner_hash": "697fa22967c66e4bb25f1444a4189a95f675c99dd2ec3759b4c77200c0067fbe",
       "claimed_at": "2026-03-24T00:23:51Z",
       "signature": "9cc5fb9eb9d2c328e60e631e57dbbe9381b7b1452b66f6be39c492d87de9364b8c03c83ed962da6734006e9691a4bf4f351e51edfbde5dee6e74ffe520a9f803"
+    },
+    {
+      "agent_name": "cryptooo",
+      "agent_number": 1784,
+      "owner_hash": "2c92f3bbf6d682f8f97757c2d041b793bb9f19e7e7d37e3eec84edcf4d5b9f82",
+      "claimed_at": "2026-03-24T00:26:58Z",
+      "signature": "b503dbfe7644ae3f870b3289a51fc7344149548471ec86ed5fd543d094ef859447f356afed9ee21126b697bfce1192e165f18dbe43064b8ef37f4d481f811108"
+    },
+    {
+      "agent_name": "bethelb11",
+      "agent_number": 1785,
+      "owner_hash": "9299697513f4eb78773a348eca939ec4d6c74d0a0482c88998cf927e4e59be23",
+      "claimed_at": "2026-03-24T00:29:05Z",
+      "signature": "8d173cbbeab3e6b9681aa270089f60da94d9d067beb9be8679d43d55402fb9cd20d59a01d13bb3041b3c3fc76c9b770fa30c95e72432d38f12f3fa2d1c5c0d04"
     }
   ]
 }
