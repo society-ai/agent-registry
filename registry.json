@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T02:42:03Z",
+  "updated_at": "2026-03-24T02:47:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12420,6 +12420,13 @@
       "owner_hash": "c80688754361554d1c83e2b2cfefe62c783650c174dea1fa29cd6375372bf28a",
       "claimed_at": "2026-03-24T02:40:11Z",
       "signature": "d7f4e5ee37fb6f3fa5e0ec56945bca8311d94c5a06781c1a3e60bfbfbb80ad1ca90e4efbf97f4a3e72799b0dfae8f269e7326f96e00b4ad6a8dc1d1407a22108"
+    },
+    {
+      "agent_name": "ariz2124",
+      "agent_number": 1831,
+      "owner_hash": "c21438ff608a95d622ba440122b5ed0546322bc1b23ef10caf8a69139b076a2c",
+      "claimed_at": "2026-03-24T02:43:48Z",
+      "signature": "e5d3bdc8adff2ada281b41d873c7aace61885395e675de8e6b871c564c71f0221598c1f38c61659a5faf14773b7c70c2ab37ea2bb3a4ba99e51b4ff303bcd10f"
     }
   ]
 }
