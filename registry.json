@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:12:38Z",
+  "updated_at": "2026-03-24T06:17:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12959,6 +12959,34 @@
       "owner_hash": "c849d9e4d5758fd81ab94954ff549a47b54055e5543db0b12cdc017cd7460b69",
       "claimed_at": "2026-03-24T06:11:36Z",
       "signature": "857928b1fa734a4cd3070fa9059deb50081c96040a1bfb50e70e7f9351e32d831fec0d2ed9fdb5ceee04b7a377c407535a7de0c05507b6ea5561abe092bf5a03"
+    },
+    {
+      "agent_name": "usdc",
+      "agent_number": 1908,
+      "owner_hash": "810faf2586b0bdcbd3660b1929d97f8561b2fa2ffc6ccb8f1e8f02794823ac0c",
+      "claimed_at": "2026-03-24T06:14:20Z",
+      "signature": "398005cdcb138d0ce0d44869510faa44e6f3c8a80c0737d9fa6a1306b8b3750b790a84895e7c91cdeb13196602aac0f1e90222d66f475c6fb0ae188103457f0f"
+    },
+    {
+      "agent_name": "dolofi",
+      "agent_number": 1911,
+      "owner_hash": "95cad8a6e4dc105596d11c334fad5119bb18fde3d681759481c19dcf2665e9a8",
+      "claimed_at": "2026-03-24T06:17:28Z",
+      "signature": "047d308320b9f83ffe566ccb527dbd71d04172815bc1d5b11e34326f155861e61620eb02d6458f608bfeb040412c07c07a1045c49cd723a3e605dc52d9b7c107"
+    },
+    {
+      "agent_name": "tradisdynamics",
+      "agent_number": 1909,
+      "owner_hash": "e341eb33cacf31af137647e7cc99c22cade6255e3eb7d9bf9050948e2acba3b7",
+      "claimed_at": "2026-03-24T06:15:18Z",
+      "signature": "872d6d90af9e0b87adbeaf78e18919c34c1ec03b389ed35aceee5bc996504e9c4a1817aa21104bbd424d74c5ebb67a7e736c7fa7b0e643aeccc81088ace19109"
+    },
+    {
+      "agent_name": "nial",
+      "agent_number": 1910,
+      "owner_hash": "4d973f7cd6cacfd2e9c8325b7ff9591cb1e61c02b9f4c94aa2479d34654e33f9",
+      "claimed_at": "2026-03-24T06:16:43Z",
+      "signature": "2f2208727bc4b68a96834cda3a08858e0386d83491dd60ba16e8c35b78d3a65aa33a3faa2d2f6665ff1dd379fe95163ab9341897326633255cca7c8748c38002"
     }
   ]
 }
