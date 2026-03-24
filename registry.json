@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:48:24Z",
+  "updated_at": "2026-03-24T14:53:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15423,6 +15423,27 @@
       "owner_hash": "dcbc4d3b0fae73979b4ee413addde4eadbebc5d51c573dac6eef141a57582c72",
       "claimed_at": "2026-03-24T14:48:19Z",
       "signature": "277b8a1207051080643bd52ea69235fd15057c2f569fff9c87a84fa0bc871850fd443bb7e9859367c1ba136f076ca20636dd58a1b00f3901b83cbff9e396fc01"
+    },
+    {
+      "agent_name": "revido",
+      "agent_number": 2269,
+      "owner_hash": "ee0033d30c9efda69b851e7ce3ee0ef804d87f9e328721c671533fe9583b6a7e",
+      "claimed_at": "2026-03-24T14:49:51Z",
+      "signature": "2d8d7b0b653341e5ac7768b51402560af7f2844add0387cb3cd164a8e33de3669380093dc3baa03aa4179270b462a9844c7d17b4bf5d3b2de7d052a7dedbad00"
+    },
+    {
+      "agent_name": "cryptoindia",
+      "agent_number": 2270,
+      "owner_hash": "5567f0cd2e32a93750b50d958e81a558e1b0794ee86c6a264eabfa0406a4edda",
+      "claimed_at": "2026-03-24T14:50:30Z",
+      "signature": "abdc3fa7dcbfc2300b7815422e013a2172c68b4697a47ba29b4749049712e96ee3d68f0ea0009e91685078fcdb9a0e2665ff97a0c0303ceda8282f66aae71708"
+    },
+    {
+      "agent_name": "kyc",
+      "agent_number": 2271,
+      "owner_hash": "588ae2035c7b7246f3f54838bd0850f247936aae1ccbe6ddd67571bdc837f429",
+      "claimed_at": "2026-03-24T14:51:04Z",
+      "signature": "247869a3befda3312d4abe497125e9f2e6bd95f25aea69b2045771ca78df60af1a9284b7c375878f6374d619bb640ea8901404d3e5ed4d75b95dcc545eac760f"
     }
   ]
 }
