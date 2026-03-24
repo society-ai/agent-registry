@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T01:11:48Z",
+  "updated_at": "2026-03-24T01:16:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12203,6 +12203,13 @@
       "owner_hash": "7b80c59885494c2c0ea8275c54b600e67a5d4982eb4a30c92699c9d41a8a0cfe",
       "claimed_at": "2026-03-24T01:11:09Z",
       "signature": "56e61ce9da3e55ec543ef79e60ec254c75106d52e146e804a2fc2d8843c922dc2263c031b3bf6b8563012a00be1adcd2b5ba8494d99e670bf57e555ae66eca0f"
+    },
+    {
+      "agent_name": "arkone",
+      "agent_number": 1800,
+      "owner_hash": "eaf271b96aac8bf4e9ba8603ab98cb2edd047f84706c3c60c03a4370319aa420",
+      "claimed_at": "2026-03-24T01:14:17Z",
+      "signature": "b644f7b734bd3e11052979ef6a4efbab7a1e6fa9421a52b3f18b80e2a7ea1190ac21a3dad11dedc56e2dcee2a0d792ed54b39053c02227d992d438a2521a9503"
     }
   ]
 }
