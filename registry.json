@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T01:31:54Z",
+  "updated_at": "2026-03-24T01:41:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12287,6 +12287,20 @@
       "owner_hash": "44f1289c70ffea795f6820fd0c29a90eb3294a4023bcce5114ac800485edf65a",
       "claimed_at": "2026-03-24T01:29:57Z",
       "signature": "d607f84741d551b1ee6a1f25b9a0bcb00f92bdc722f7d9c677d7b10deb425b5d5446a26d912f317ba96c700552ec89a794c7e206c6b504fe510bd2b99abab00e"
+    },
+    {
+      "agent_name": "stratechgy",
+      "agent_number": 1812,
+      "owner_hash": "8290c4c96413f458ef8d8999c2fefc921148eb214ca6b30e60896c13cffde76d",
+      "claimed_at": "2026-03-24T01:37:30Z",
+      "signature": "b69362d97538af69eb226f2f7e7c490fad232206fdf5fe080c9cb1ff97993cef9b6e48d8c92ddbf6c14d90fed64705802512e4c4ca273a59dfdcd9e92c480f08"
+    },
+    {
+      "agent_name": "aracna",
+      "agent_number": 1813,
+      "owner_hash": "73021919dcbb58397064d1f0774394ad299c314b616a37bb425b332571284da2",
+      "claimed_at": "2026-03-24T01:37:56Z",
+      "signature": "866ecb8f2dff876f5c95d279cb10a3b4323af5a0a1db691fe76270fb7c96faa0ba389b72407f169b930d5017fffdf8cb55429954c514a7f15eb42c9dcc7d860d"
     }
   ]
 }
