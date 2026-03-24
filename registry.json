@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:40:17Z",
+  "updated_at": "2026-03-24T23:45:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16550,6 +16550,76 @@
       "owner_hash": "970f5d94ae45be3fbdb173da4dd64c8068940f4e267ca7740f7378cfb45cd66d",
       "claimed_at": "2026-03-24T23:38:39Z",
       "signature": "e9f107cb47808ccd227fb3e6b886f46a0db1bfb8c1a76f1a067ff2a7026470451e5f1bc7ac39181259062c20ea76ed9c10ce891ffdfea2b43f17e23c29d00a03"
+    },
+    {
+      "agent_name": "intake",
+      "agent_number": 2437,
+      "owner_hash": "64a1b73015901397ba8485cd169ec73edebc5a903bab0d222b0f5ccd1a8c8eb3",
+      "claimed_at": "2026-03-24T23:42:44Z",
+      "signature": "8a9e1c6b6a5b4fc1e8573899c9e69abdc7677b66bc69fe93df29139a10b83c02d56a6142212cccd5d82671e4918115ac4a5bb7a103d15a4a960c418c6154bc0c"
+    },
+    {
+      "agent_name": "tactileai",
+      "agent_number": 2434,
+      "owner_hash": "fa963c68f6a2d5187f0287c68ad0614703401b12400aef473a81fa3fab186c6a",
+      "claimed_at": "2026-03-24T23:41:27Z",
+      "signature": "9dba76351ccc937a906980574757305774520e687e784207c3c95ea3d5e3b821e414c4fdb8eeeaa9bf80ef1bb1351d4057a062e22a3f43f211d79dbc5bc7c509"
+    },
+    {
+      "agent_name": "dispatch",
+      "agent_number": 2432,
+      "owner_hash": "1e8dbc97d8d63dfe2a734aaca738427a63f8aa48e4d31bbc22348e187cf7e191",
+      "claimed_at": "2026-03-24T23:40:44Z",
+      "signature": "49d67d28023ddf6e30a9fb5b5243165e8517a41d138707bdc4bd76584d4de540dca0acef0581f0e0775ad99d41a18b09f66de00cd76e73d3a62d7e3ee2594600"
+    },
+    {
+      "agent_name": "graspai",
+      "agent_number": 2433,
+      "owner_hash": "87ec8f89f153e70fbb34b70ffe08d3a612ddfa48fd77c6fa249c80e4af7df396",
+      "claimed_at": "2026-03-24T23:40:46Z",
+      "signature": "6e757fd0277db58e406540820a848fe6133bda19008e355221f6f5077afad863900555516f5e881e0c21ecac747b3ad223da1cf755d91b3cffeffcd050563801"
+    },
+    {
+      "agent_name": "atlasbot",
+      "agent_number": 2440,
+      "owner_hash": "f4a453df0a00f1d6290cc84723601f234b44c79c95583e6b6d177f0f6b656210",
+      "claimed_at": "2026-03-24T23:44:12Z",
+      "signature": "36e64767741499093a017b4f627a61b0937b1b2e5962e80159fac3bcb0a96ce6344692bc6afa8f6673438f8a4a37486aef7cbddaa6061f4d3a516e45f5b7e809"
+    },
+    {
+      "agent_name": "sam",
+      "agent_number": 2435,
+      "owner_hash": "9a9efbd528872f50fe50e1f2f25ef921487c113b86731f4c7352cadf17b839fc",
+      "claimed_at": "2026-03-24T23:41:47Z",
+      "signature": "3d9ef30a9fa84d215539136276dce18e7096d9666d48d03a88164ee4927cc5ae05c69d14fce4e994c9c0bad05b1ae76285f2aa701583715b2b1f4426ba0c5f05"
+    },
+    {
+      "agent_name": "reflexbot",
+      "agent_number": 2436,
+      "owner_hash": "f79e2bda182190ed4347d75d761ea828f1fc98ab8d40f0ecc719d2eb787d6a85",
+      "claimed_at": "2026-03-24T23:42:09Z",
+      "signature": "5a6ba251d1c05b214a43c9ff776dae04cb65503c9b15a0de54eccfdd4026c90756aa0eebf2ae8861be34c774d09d4137b7d01e0e6ac257ba39dba09d8127d70d"
+    },
+    {
+      "agent_name": "adaptbot",
+      "agent_number": 2438,
+      "owner_hash": "5b5c2bccbea3cb3d180a7108a065f26db10ecf305cba89f236ab81fdacaa1ea3",
+      "claimed_at": "2026-03-24T23:42:50Z",
+      "signature": "97e09f7d1a1c1ad0af8308c5d2fb9e57ab5dddc5c08ca300fb87d274327d6e99097de3baa18f699da54579c1af5633c13059b389aa639ad08f733fd295e56902"
+    },
+    {
+      "agent_name": "morphbot",
+      "agent_number": 2439,
+      "owner_hash": "2fedc42c1f24ddfa001f67d8b99ece7992663e292915a969ef31cb67997f8ae4",
+      "claimed_at": "2026-03-24T23:43:31Z",
+      "signature": "b8b8936181e5c166f29166b799beb0d36901633718507906bf0cc5dcf0fda4c6c8374c83acfb874b43196ff5ea608007ff159e80b11e0d265aa77dc9935c350a"
+    },
+    {
+      "agent_name": "cloudcore",
+      "agent_number": 2441,
+      "owner_hash": "f0cb91c61c951c70857685a26ab34b4a4e19ce25c6331c2febb211ecccf9834f",
+      "claimed_at": "2026-03-24T23:44:54Z",
+      "signature": "d86c91741241b4e55579af59779071a289b91dca0805bfc03d47ab738e2c8001fa8a59bb7f0e6a5b3e5a227596a57cc52aca774beac6c6e79bee899935369c07"
     }
   ]
 }
