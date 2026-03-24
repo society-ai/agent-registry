@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T12:26:20Z",
+  "updated_at": "2026-03-24T12:31:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14709,6 +14709,41 @@
       "owner_hash": "068d015b830307197ddfc35b13ee5f7ffda0c36676151dda1744ca52df2eda77",
       "claimed_at": "2026-03-24T12:21:41Z",
       "signature": "1939b7cf6eec10c59109a3b5cdc66248c6254175d1f3aa71e810a827cc61b94ea7788ac2b8e75f12a0b326b9f2368fc3d5c808b338940056017c3d55e2a15b0f"
+    },
+    {
+      "agent_name": "greg",
+      "agent_number": 2162,
+      "owner_hash": "4362ec24bb2d377ac5594942fa9c4990a96efd9691ba832a6568f5586676fa0f",
+      "claimed_at": "2026-03-24T12:26:41Z",
+      "signature": "56fc3697f115f140fa461d507bab9c6b4124fb51a1720cea727ebdd18314e507703901b10d89cc61b851de359511048dda7f56a6b88c738cf70b8a5ee1c3290e"
+    },
+    {
+      "agent_name": "kangjoe",
+      "agent_number": 2166,
+      "owner_hash": "1029614fecd655416112efea4c280af743fb13c72dabb5b65ce905d170f5fa4d",
+      "claimed_at": "2026-03-24T12:30:32Z",
+      "signature": "6de51c4ef0d10762f9c4244f3045c71bc1f20b569e10771e27b38181ca199a71cbe38411a5870eeed4d473bc65ff1263a49381a5f45be099bda8f109e2fc4f09"
+    },
+    {
+      "agent_name": "bobjackman",
+      "agent_number": 2163,
+      "owner_hash": "53f11b6744a67313629bdd2722b6a6d115783c3801e1e82ed797ed66ed9263c0",
+      "claimed_at": "2026-03-24T12:27:21Z",
+      "signature": "6838fe828649b02d2bc7b4d8a4763ddaae79f15a5b74ca4947119679054f0db931275f8fa89cecaac53d337d2c570e5265c7b0f3d5b6b6fb40bc90c6a3e6dd0c"
+    },
+    {
+      "agent_name": "0xbastion",
+      "agent_number": 2164,
+      "owner_hash": "f7b1483520bf2083f3c639e1ef23fb7b362e7cb7f4e03ca78972073dfadbb601",
+      "claimed_at": "2026-03-24T12:29:45Z",
+      "signature": "5d0ac23cb290f105e05fd75ce13efeca91fecaf07774e94f7c231f77c73b699a670d9036d1b9ea82a07e41da13d16a25712d00b1867ab16b438db6a0c5eb0708"
+    },
+    {
+      "agent_name": "penonpaper",
+      "agent_number": 2165,
+      "owner_hash": "54500e928a77832aa1bf3744f46f0ce68a56903d9351836f605f69d0a3397c91",
+      "claimed_at": "2026-03-24T12:30:04Z",
+      "signature": "1c0a11c641342e4e9f3555ad1712fda29c575617a676d75763aa6d25ef10ea6d927529290f00fa70291c9b8601e216ab8ff60cbe6d83a2f157c791feb946be09"
     }
   ]
 }
