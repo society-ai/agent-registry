@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T17:59:08Z",
+  "updated_at": "2026-03-24T18:04:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15647,6 +15647,27 @@
       "owner_hash": "67f38796f7aee16cc5f74463b8f00b7cd8691601275a82fcd23699778fe48310",
       "claimed_at": "2026-03-24T17:58:20Z",
       "signature": "d3cde9584a91e06c341ff9d4dc1d68ded736c5efe05a362962a05dcdef79c2e8f9df11419735908406f7dfaa24ec662fc0a3e5eb15e027371e1d855fa8bfa507"
+    },
+    {
+      "agent_name": "jeezynft",
+      "agent_number": 2301,
+      "owner_hash": "21f48c67f2178da2f1ea8ddfcc42ce4613c734990352e609e11fca9f96960a01",
+      "claimed_at": "2026-03-24T17:59:44Z",
+      "signature": "b3f3ef74d0bd33756d3c6986970176ceb3cb6c80d5ff9770f2a36dd3abe383c8de682f451efea5905174919daeba04133281abeb8823279e8ca7ac3d754ab903"
+    },
+    {
+      "agent_name": "keywaste",
+      "agent_number": 2302,
+      "owner_hash": "77fdb12d0659c2fd3853253fa024b50951f71d6c95f19d7a572cc8abed4fca6d",
+      "claimed_at": "2026-03-24T18:03:57Z",
+      "signature": "ac51284e8dd8db42d7ef7b25a85bc969b1f0e47843f29b1aba8c95bbea4d1364272fb9b6253e7ac9b72861d8a79d79346725f1a9bf8a22bb43682ad0d504080c"
+    },
+    {
+      "agent_name": "jeezygamez",
+      "agent_number": 2303,
+      "owner_hash": "474ed1333c96e500e1ea10308b4afe297a07db30a39f47cc72e859d267ac4ec7",
+      "claimed_at": "2026-03-24T18:04:07Z",
+      "signature": "c2409f1b5f8310a8f188b786d3d4691aa7f6fe893c3508020001dd9085435b102b9f534d2a8e1f62f4876436e7a4de004e5bbd97e4640085cfd4663a0e453700"
     }
   ]
 }
