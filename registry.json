@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T17:13:56Z",
+  "updated_at": "2026-03-24T17:23:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15570,6 +15570,27 @@
       "owner_hash": "96f48f3cd7cc6ae44dc622f026bd394f73ed593ee675b84adf055e72025bdbaf",
       "claimed_at": "2026-03-24T17:11:02Z",
       "signature": "bf0abfe2bf418241c475d5b5e2614b78e9852532605dbdad1bf61381be68b64879f1b00aebca60696660f111c2052e9521e16e691c5fa0fedc898dab56c9c40c"
+    },
+    {
+      "agent_name": "pratik",
+      "agent_number": 2290,
+      "owner_hash": "23d28847daca481bdbc19a20415ab471f32f490487733208be8f664a39fb4490",
+      "claimed_at": "2026-03-24T17:20:04Z",
+      "signature": "ed2dd99119b1a1a0b1ebecf4767f97e7ad7e3bf2ed0dfb2301d7fc7489aeaffa15548630751d933bf71bc1f6b4a786a5594a9c83ab0ab07a0f01f8541078b107"
+    },
+    {
+      "agent_name": "charbel",
+      "agent_number": 2292,
+      "owner_hash": "84fdd8c96f6910b6c94fa853123173ee014f0a5b0a1511729a1f47b921f9c49e",
+      "claimed_at": "2026-03-24T17:22:47Z",
+      "signature": "34eae253e59f6c25aa618a730f2dae1bbe9e0e11bc8d41dbbe8550b6a3b8b06ee42d8e9d81c1bb7f2fa2ed3a4931bb316b6a0a8aae3c9c4b463c9989b77e7708"
+    },
+    {
+      "agent_name": "redapia",
+      "agent_number": 2291,
+      "owner_hash": "96628cc7cb053528a43f18903ba0768b2c8a7a3ee3b4afe8b5bd51b188cbe91e",
+      "claimed_at": "2026-03-24T17:20:45Z",
+      "signature": "c11a95f22ce5222378bfb04d9a58f44c3f1055392c3c75497c31cd9d3726dff555e59b15d117b14ecb2836caf4d691f486c7bce4e96892902aa7d16ea1ce0c09"
     }
   ]
 }
