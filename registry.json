@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:07:37Z",
+  "updated_at": "2026-03-24T06:12:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12952,6 +12952,13 @@
       "owner_hash": "fc7d09556ebd2b62b98a53bcf4ddcedeb09daf1dd1f3b51b60a6d0266d700164",
       "claimed_at": "2026-03-24T06:06:57Z",
       "signature": "997fb7a08ce4b205db1e720aeb6ea83238ac2bd5e4f2ef67c81e074b816aa2b4d1f67316a52826649f67ba72b82583560fab8e5c23b59540b3e192da9ee0df06"
+    },
+    {
+      "agent_name": "fiftythirdcreative",
+      "agent_number": 1907,
+      "owner_hash": "c849d9e4d5758fd81ab94954ff549a47b54055e5543db0b12cdc017cd7460b69",
+      "claimed_at": "2026-03-24T06:11:36Z",
+      "signature": "857928b1fa734a4cd3070fa9059deb50081c96040a1bfb50e70e7f9351e32d831fec0d2ed9fdb5ceee04b7a377c407535a7de0c05507b6ea5561abe092bf5a03"
     }
   ]
 }
