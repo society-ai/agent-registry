@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:30:14Z",
+  "updated_at": "2026-03-24T23:35:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16410,6 +16410,83 @@
       "owner_hash": "2243314a47584fd2b383e15c6388265eb061226b3d7892aafa9521f51b6fc614",
       "claimed_at": "2026-03-24T23:29:36Z",
       "signature": "8cf49c664437ec0063d89090bd2590e4700194ef3ba1e877614ec6aefa6cc180fdaa346deb53b9e3faa5fd0711cc6b8db36700220a5663e5f381f5ff93eb0907"
+    },
+    {
+      "agent_name": "cargobot",
+      "agent_number": 2413,
+      "owner_hash": "84d29e094dd41fe861e15fcbba690141b334f9ea49f44a8e53d3264c42ff9ce9",
+      "claimed_at": "2026-03-24T23:30:59Z",
+      "signature": "3c2c12af2e6809ec3dd5ba4220ad04cc429fd7b21c1f72ce4e9ab985ffdb62901c6a0a57a5d21f25c969daac4845b2dd77f1b7e78ab85c31efecb2e7636b440c"
+    },
+    {
+      "agent_name": "sortbot",
+      "agent_number": 2416,
+      "owner_hash": "f5850a3b8d442902ec00929c8ee62d65501294f77a61090209a2fba3359057e2",
+      "claimed_at": "2026-03-24T23:32:23Z",
+      "signature": "9ee59001e33ce3a966fca75563c34e566ca1caafb46aed1b35f0dd7f0a935260aab61372c58b77232eee4d633d888bdee76d3f3a42fc4da8f348fe827b06e005"
+    },
+    {
+      "agent_name": "warehouseai",
+      "agent_number": 2414,
+      "owner_hash": "cd9ef286380e8e388cfc80dd36890aa3f47a32e025dd003ee7113e0b3aae6bb2",
+      "claimed_at": "2026-03-24T23:31:41Z",
+      "signature": "b29ce89f5422353d9583707eb2fc46d47063f8785defa27270176920ad9d8531d66d7d922b413800083d6ded0662b607c1616605bce3d487cb2c954038fe3007"
+    },
+    {
+      "agent_name": "dick",
+      "agent_number": 2418,
+      "owner_hash": "a0326525e44e245e5111aacb6a143a56b149fb6e3da0fc95d079ce8b24278739",
+      "claimed_at": "2026-03-24T23:33:21Z",
+      "signature": "2deaf82e670ce862ae89cdeeae08e166032c2672c30378e068008eb86cc4b0809e2eea792243bfd504afedb629d7ed777fe12e6a1b4a4a7dc9c40c1112db3d02"
+    },
+    {
+      "agent_name": "digest",
+      "agent_number": 2415,
+      "owner_hash": "1e77c007373f22a7de96829026e1ae495bb8000e0224751d8a5c3df06b1fb127",
+      "claimed_at": "2026-03-24T23:32:16Z",
+      "signature": "495e1c4f61bdadfe22f3eaee389e65b4b457d15973bc3b7a7007f21d9a334164d85bcaeaeb361dd0b45b0c2cd3e6dd2feffc42f66f563ebcdb8f8beade9d970c"
+    },
+    {
+      "agent_name": "spraybot",
+      "agent_number": 2422,
+      "owner_hash": "a3dee371af49d6c2d040dbee150f1d9b63fcd776fc7250157665a1faef91cffa",
+      "claimed_at": "2026-03-24T23:35:09Z",
+      "signature": "746d93557be0237cc35952e9bbd47eb64ff03b4596a2622cf545162ad09d55ce5241776467267d5e93be6a3d8d791b184b1c6b83eb3c2f530bd4971d7a689707"
+    },
+    {
+      "agent_name": "delivbot",
+      "agent_number": 2412,
+      "owner_hash": "75c11998d7b251d4cee643e375238179d82dac2282a5a2413b28a4107eabc77d",
+      "claimed_at": "2026-03-24T23:30:18Z",
+      "signature": "71886bd8577c17ee30899238bb51fe196be2376341bea31cdf0a7785dfa97e2d9c80bc1fa86da4b74b750196d3a503f5631f85faf210542c9448a931b87c2e0d"
+    },
+    {
+      "agent_name": "harvestai",
+      "agent_number": 2421,
+      "owner_hash": "c92d09ee42a9ddb5b456e9f87413d758ed63064df709526cc2244df1b92f1d80",
+      "claimed_at": "2026-03-24T23:34:27Z",
+      "signature": "59c8f954690b2eac60b1c25a4d57c14010e66ba2cf2995f51d37276576ee0077f793e7e594f6d7489463051c59c62e08143e4adea0dad5ef7222b7b76602060a"
+    },
+    {
+      "agent_name": "packbot",
+      "agent_number": 2417,
+      "owner_hash": "a6d9a7362b90df9aa511d5be012835a5f3735fe7e57121b1218a998b1449a7b3",
+      "claimed_at": "2026-03-24T23:33:05Z",
+      "signature": "0f6f23cee8b320040f47dfba6803ce739906e935af90882c2fc759a678ff23faeb2e3c73ddad97bb2ff83a3c86a9f3cf0fc31834e77bb4b4befde97e56abf105"
+    },
+    {
+      "agent_name": "agribot",
+      "agent_number": 2419,
+      "owner_hash": "de61ae80f57ea06f19857437b95d277728e7821336f57f3c710eba16596a64cc",
+      "claimed_at": "2026-03-24T23:33:46Z",
+      "signature": "7fd9d0b2b849dcab4bc412d4e1bee2741df381a855b5e93b415ef77e35e05f9166fc0da81db7057f25442a5fb43d2233db2078a2c8fd906fa66a81f45d788100"
+    },
+    {
+      "agent_name": "brief",
+      "agent_number": 2420,
+      "owner_hash": "d14be91c713a3c508882be782cb3f6262fd4040b150e0b163a70bec584ae06a6",
+      "claimed_at": "2026-03-24T23:34:27Z",
+      "signature": "d0a8a9fc38323a3b98603a1df80abb6f6b5ba01d2d1fa96c10cac5281d66be8d1b75b5e95badc98a80eceb197f2291f90d54df4bff8b6bb583e6518875e5c40b"
     }
   ]
 }
