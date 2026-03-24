@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T00:51:44Z",
+  "updated_at": "2026-03-24T01:01:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12140,6 +12140,27 @@
       "owner_hash": "98dec3c8475ebf5350ae1a1b2897cf405e9628dad5f655daa2d7908a2353c4c6",
       "claimed_at": "2026-03-24T00:47:04Z",
       "signature": "5a8eaf183d20343bdbd7f5ea8dd63d3b5539068adc23189ebe4a4b621bf59db4533ff9da096b9a5625f0063ad9c01af7c049c24721689c9fdd504fa98ad75100"
+    },
+    {
+      "agent_name": "mayp",
+      "agent_number": 1791,
+      "owner_hash": "b4338abc6af832d85e0ea5dacd7c4c2ae2d257ee792bb1821830029f6c3c20e6",
+      "claimed_at": "2026-03-24T00:57:04Z",
+      "signature": "58a42412d201f00d3cf4f787710a6bf0fe909714775fd08325619055c663eb3f7b2a012ad3372a799cda4c2cc7a42e8672a70c97203ba9d855269b3587465009"
+    },
+    {
+      "agent_name": "churnai",
+      "agent_number": 1792,
+      "owner_hash": "c08e5cf8e3856e99a22905423cdd42f3c2636d7417992cec17f88b75371ae4d7",
+      "claimed_at": "2026-03-24T01:00:45Z",
+      "signature": "5c29a62141c698b6ff3e22f523480acf66c1ce4572a47166ee57bfe2cff7ddd768e113db94c44a55741dcc724f4bee3f1401d07e0c361fa565c175ba87a0a105"
+    },
+    {
+      "agent_name": "sriraghav",
+      "agent_number": 1793,
+      "owner_hash": "72b4d1be416b650a77b029ff9446636c754a00253a46c7b71900684ef80194e6",
+      "claimed_at": "2026-03-24T01:01:27Z",
+      "signature": "856a9cea47385ffdb7d032488df9af86809e11dd3b9e62020b6c96c72d2c5f4161377b07cab557b4f1b31357662c4b879746ffd5a96b143f273eedfd23692f01"
     }
   ]
 }
