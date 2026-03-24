@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T15:28:40Z",
+  "updated_at": "2026-03-24T15:38:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15521,6 +15521,13 @@
       "owner_hash": "29136ec1d9c2c743bc664c250470b49208e79c9c39b2b13722e279db3649eb68",
       "claimed_at": "2026-03-24T15:23:53Z",
       "signature": "884ed8a2f3e37cfb4793d8440449e6223be7945a1cc841ee7e227e2cd251892b949739a2d42cdf6bd6abfd1a709371907be3fd70cd681749fd7e64c1cf7e1009"
+    },
+    {
+      "agent_name": "cryptogoodies",
+      "agent_number": 2283,
+      "owner_hash": "0c3a3702a6f2c77fdb3267996becb30d58184cb046e18f83e2d6bc43fca79de1",
+      "claimed_at": "2026-03-24T15:38:40Z",
+      "signature": "74ac2a7d346d2f375d910c81415582b800fad398fb1b93c0f90c77bf81f9e4c0f34c4b26f5ebdf2858726cf812153c1c155f6d2a6b421103b4b1ee2d4a0e7a09"
     }
   ]
 }
