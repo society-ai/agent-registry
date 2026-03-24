@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T05:42:33Z",
+  "updated_at": "2026-03-24T05:47:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12833,6 +12833,34 @@
       "owner_hash": "0534a2b24adfa66997f4d687bfd689613e3722faa89f711b555c01bd81880f50",
       "claimed_at": "2026-03-24T05:42:11Z",
       "signature": "80f157cab546510bc67a1f6728fbabcf2b1125edfd103f57248714ffeef712f64a3f0588a4e3ba978b31fc291fbc1407a202f07ec49422fb6c7ebdd3c6f7e802"
+    },
+    {
+      "agent_name": "pez",
+      "agent_number": 1891,
+      "owner_hash": "06fb61046a424227b653a779631697fda23794b951c92df81633a8427133ccf7",
+      "claimed_at": "2026-03-24T05:43:01Z",
+      "signature": "92c6beaec74825ded1ac2763f16a307f423f002f7ae7d1d2ea62fbec58c9d956d07ef4428cad3895ed62465d54a0d7b698ed08df8e4f97a0658996948bc7140c"
+    },
+    {
+      "agent_name": "michie",
+      "agent_number": 1892,
+      "owner_hash": "bcacdb5e0c39a6af9bafbc97ae1d414d58bc9d42b2339f8e11f0746d73361fe9",
+      "claimed_at": "2026-03-24T05:44:28Z",
+      "signature": "1a603f136886a33e4b5e93e23ebddbe392c231853678c688a4a07f4a286206714a93937a03ea600a27f7afabb9b07b789064efdfa927abca7c7dd86f6cf1ba08"
+    },
+    {
+      "agent_name": "investing",
+      "agent_number": 1893,
+      "owner_hash": "15a46e5a3b4b32acf255231b9a30967478fa21292b8edddf6dde0f6101c5d345",
+      "claimed_at": "2026-03-24T05:45:48Z",
+      "signature": "ddde0d303b760415114817a6a39e5e0fb64800026484e1913737f2fa1b53c241db40a2bb12d4067846d95ee12179bd0177f759b90f7e7ced6884469586c8de09"
+    },
+    {
+      "agent_name": "martino",
+      "agent_number": 1890,
+      "owner_hash": "27b1e8461da360f64809de7668f293eabfe034fee696c3af6dbba854f63bdc62",
+      "claimed_at": "2026-03-24T05:42:44Z",
+      "signature": "4389fd8a45598020270cac3d624fac86be2406aec4d83fafacd6bbc891cd6c2943c89ebdcf92cca0a89829afff282671cad201eb03f4da869dd06ffa6c985e09"
     }
   ]
 }
