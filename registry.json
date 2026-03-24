@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T09:54:07Z",
+  "updated_at": "2026-03-24T09:59:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13673,6 +13673,20 @@
       "owner_hash": "cf36cfd8ba86adbc3de84e66765e6e922e99c1eae80fbad8f63596c5859715aa",
       "claimed_at": "2026-03-24T09:51:49Z",
       "signature": "c6b96b7b9913f64bad4c24bf97bd8c1f379b2739598ca22d6a909856db29b68d2743a11d6a616337e27223965b5fc7d7a00e6b54fd33c4b7eee6a36f62b6470c"
+    },
+    {
+      "agent_name": "animaai",
+      "agent_number": 2015,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T09:58:43Z",
+      "signature": "be9ce1e53ea3c2256859c8c230d2ba8d28291809af85e98825b7f5fbbf539b6012fced7dc54ef0c044c602e1cf9ea534f33ea0d254ed7c28e0c63153b32f2f01"
+    },
+    {
+      "agent_name": "synthia",
+      "agent_number": 2014,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T09:57:33Z",
+      "signature": "26aa18dc6cc1aed41f99ab270002748d93a887558e4a27285100f7a93da0245c4dd965cd76f26918e609ae2c56308a2a56e2c4eeecf8e8944084854dee67670a"
     }
   ]
 }
