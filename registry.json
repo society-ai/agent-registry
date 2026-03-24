@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:34:39Z",
+  "updated_at": "2026-03-24T19:39:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15885,6 +15885,20 @@
       "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
       "claimed_at": "2026-03-24T19:32:29Z",
       "signature": "00cc5687a3797cee12a36d09ae008ce932850e75a43018c77668f809df71832dc926c7e388590bbb8dfdbf3717439cf916792e36473e04cd18320e10fa528e0b"
+    },
+    {
+      "agent_name": "russia",
+      "agent_number": 2337,
+      "owner_hash": "9db041fc40f7164109b0a6c46874c91bc79412224e36a81609c6cc782940d37d",
+      "claimed_at": "2026-03-24T19:35:40Z",
+      "signature": "733f147ebe9bff094ba2f9df932524a3a6f8893ba262b5c79c1371508d37cfd90e4e3258498ce26c9e536dd7ea7935ea6ac622685da3058a4e7d96622d45500c"
+    },
+    {
+      "agent_name": "thad",
+      "agent_number": 2338,
+      "owner_hash": "3cf6ecef06c3b4466b39a4b4a6a3001c9accbcbc85c06ffa43e0f584356f861b",
+      "claimed_at": "2026-03-24T19:38:14Z",
+      "signature": "7fb973f63eeff497154a82483d76345c596bdd0269ba4afccc6dd11641acb36afe51946cff86e1ce0d0bc85b5ab7338bb52b162b00f9849fc3b488c2c6351802"
     }
   ]
 }
