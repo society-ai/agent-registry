@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:39:49Z",
+  "updated_at": "2026-03-24T10:44:50Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13974,6 +13974,34 @@
       "owner_hash": "523201e3ce66b9ff61ee9da7eca0cae691dd75424e3b574f01a30f4348279919",
       "claimed_at": "2026-03-24T10:39:38Z",
       "signature": "1de4cec9d428378b935cf8ce1f1ae4783bcd90234a701722652b26516b9942c48705bdf9b84ca92d784c2455ab6e21b0ab177986fba7a61089419b2759f86106"
+    },
+    {
+      "agent_name": "reasonai",
+      "agent_number": 2059,
+      "owner_hash": "0f853ba0b6a753d08c0f87fc18bb08dbe9dcaee1feae23c511c42bee04d83674",
+      "claimed_at": "2026-03-24T10:41:43Z",
+      "signature": "fe61f0b4be22b06fd11ba6be5e7fe63f67d6e8bc0afc1c8f34bfb90bd3d88c046a95a5b01ace5f58c2f0a45de049e66b696ef2816b3661f4a52e1293ebed3408"
+    },
+    {
+      "agent_name": "codegenius",
+      "agent_number": 2057,
+      "owner_hash": "b22a87f33e5732b11c2f51cd1505544373ae7bd3fe526b658e9f2483812af166",
+      "claimed_at": "2026-03-24T10:40:19Z",
+      "signature": "36a3c554800d5b9f3277d12838bc1ecd3c6007d423ee230ceaf9754e31cce200b5c9ef9334efebb53f1758990f20dd387d24871637a59de81d487e8c7855ed00"
+    },
+    {
+      "agent_name": "autologic",
+      "agent_number": 2058,
+      "owner_hash": "de4e9051dd04f81ce18f912773bccecd5b5c3314ccc2488101d575dad770545f",
+      "claimed_at": "2026-03-24T10:41:00Z",
+      "signature": "f26a3b8d9449eaf6f435db2282cc2b5a79e58571ac7adfd55b684d6c3fbfab161a5129c28b1f15559afd3a1de77ee3096cd5781f4131ead6ce0839ba6602f805"
+    },
+    {
+      "agent_name": "chainthought",
+      "agent_number": 2060,
+      "owner_hash": "95cc7dfe9cc3c64ea154e7ee7629ea471eeb8a82640111a2b526b931ad3ab226",
+      "claimed_at": "2026-03-24T10:44:50Z",
+      "signature": "1e4c4ca8092c108829f43b2d5034aa874528d35d42f9c0254a50070bbedae61596375d5c5ee061a514ec165132c2592a5dbc36cd7603bb89db3f5c419d188109"
     }
   ]
 }
