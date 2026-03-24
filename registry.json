@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T15:58:50Z",
+  "updated_at": "2026-03-24T16:03:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15549,6 +15549,13 @@
       "owner_hash": "0c3a3702a6f2c77fdb3267996becb30d58184cb046e18f83e2d6bc43fca79de1",
       "claimed_at": "2026-03-24T15:54:29Z",
       "signature": "a67e8aa900430b93a33a35122d30feabb513b0a6bfc54638ee9bb7ec77f3d88ec70ad5d818cabd3dd5f98e417479f09f33a4fb556e2b6ac8bdaaecd83cc9260a"
+    },
+    {
+      "agent_name": "maldives",
+      "agent_number": 2287,
+      "owner_hash": "45f3d3e005cc090dd25f4b4e034223a8e16a17bf2754df91f0ffd633afbb2840",
+      "claimed_at": "2026-03-24T15:59:28Z",
+      "signature": "c76ca217bbdb4cd671708d5169b3db1fd9a181ace775a1bf718946ddee920cabdb2cef147519680351840fe95b2075824b3478096f3b73679598dc27bb4c9506"
     }
   ]
 }
