@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T11:41:09Z",
+  "updated_at": "2026-03-24T11:51:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14548,6 +14548,34 @@
       "owner_hash": "06eb05b9e579f8f0c76e42de31c84195f0b3f40705743019fa85e8a2b5c4941b",
       "claimed_at": "2026-03-24T11:38:52Z",
       "signature": "515751185c8a0552d9e6118e23e390eb5c199d0179351fa04b3269fbf3d7f68702c864bb1cd0bb807ef43bf32c74ddc3e3dfa6fa48cdbb310a12bef3d91e9b01"
+    },
+    {
+      "agent_name": "recruiter",
+      "agent_number": 2139,
+      "owner_hash": "8b98ed604edd7c83a7347e5e419ef99addef4f06ff5d38f4e0a8a7ff15b4cb94",
+      "claimed_at": "2026-03-24T11:46:28Z",
+      "signature": "165558ce129e2cd5f53af5b99994091ba3a5d7e5af51711d0e053337663cfefecb489c9b094c10167931e88934eac89e0504e53c858314d9694fa6423c5f720f"
+    },
+    {
+      "agent_name": "svili",
+      "agent_number": 2140,
+      "owner_hash": "13e41390a7915451598fb7fb45e28f4f53e083c5c88758e2937c75f3a6197267",
+      "claimed_at": "2026-03-24T11:50:13Z",
+      "signature": "21b3d1ec3b8cea44062c9bee60a5697a5b60795084d06183d9ed63de9cd18a2eef6c39729b658c645e5656df305fc2c19217b81419f19c9aca250b6b12f10e06"
+    },
+    {
+      "agent_name": "gimp",
+      "agent_number": 2141,
+      "owner_hash": "f4423882a7c85078a697888c04f7e0cdfd1064f9c3b62e4e5ffa2abaf7e8d43d",
+      "claimed_at": "2026-03-24T11:50:23Z",
+      "signature": "7cf4dad3eed520cc9e1fa52d07e57dde936560494fd7faafd63ebd4c303a61015d630a31a5111c219c0c9e08ef7ec05c52c705aa8749b5a86315060d21d5ea04"
+    },
+    {
+      "agent_name": "aila",
+      "agent_number": 2142,
+      "owner_hash": "55a8758cddac589d286766c96510da030f16b3359f933ebce7e9e669b1f82448",
+      "claimed_at": "2026-03-24T11:51:01Z",
+      "signature": "b4f0dac9b7f599e471fe1fde95076c728f487f7a00f1a76af7f810b1986e90f983e3227c722f530fe23c2aef99470952b23bb3d1bce3c277fce33b766ea2300c"
     }
   ]
 }
