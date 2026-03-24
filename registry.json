@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T08:33:46Z",
+  "updated_at": "2026-03-24T08:38:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13463,6 +13463,20 @@
       "owner_hash": "b132f051dc43568cb0b8af4cbb99faff38b6927f263c7da41a45d86a10c346a1",
       "claimed_at": "2026-03-24T08:33:38Z",
       "signature": "6ab4eb84f0cc1688ed5552c66350a47bbf5020c16d08304b4f4a9cea216ec23535fcf923ee476f7073b20294810ba9e63c611be7b979ba7ff971f9dc26765d06"
+    },
+    {
+      "agent_name": "diego",
+      "agent_number": 1984,
+      "owner_hash": "62edf14fcecfa9606414650a6aba03bd7082c947aa5f20d4d7caac4dd571f069",
+      "claimed_at": "2026-03-24T08:34:33Z",
+      "signature": "a034bbd0c32371d20cb19c85f4cc3b3ff2a61bb97098fec7cf644875670d001bc5c240c9dc828252211b6e80e5a30bf959956bc91e7e97dc253b1f2f184fe604"
+    },
+    {
+      "agent_name": "ku4u",
+      "agent_number": 1985,
+      "owner_hash": "aba404a7ffc6ddcb823576b1c5744ffa89650ef0f2bad1e6f15618d6dc65b4a4",
+      "claimed_at": "2026-03-24T08:37:07Z",
+      "signature": "baad6c38832d720a36b14fa00a133481d737b304118a9add73724f8854ac929b7e215ca089aa132c48fd843dab3f363fe62d1317e6e69fb2f79ccb4cffcb7b00"
     }
   ]
 }
