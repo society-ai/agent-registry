@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:42:44Z",
+  "updated_at": "2026-03-24T06:47:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13120,6 +13120,27 @@
       "owner_hash": "ff9ffacbce6ca75ff2b752168627006029bff1ec025e91c11118e7ab2f309bbe",
       "claimed_at": "2026-03-24T06:40:21Z",
       "signature": "27a2648029d130c87897b740b27a0983af4f77587c2a7c68fb95f89aaff7cb0e5ce34be29e743f153e81433baf5aa9fdb6d4d6dca874ab6dc338a49789558402"
+    },
+    {
+      "agent_name": "deno",
+      "agent_number": 1933,
+      "owner_hash": "92389254fda90f522567b992117cdfadb7b3e96173613db4b682bd81e2102845",
+      "claimed_at": "2026-03-24T06:44:00Z",
+      "signature": "b85d436ac2973857a6fb66f78cb655bc6826796e895a40e30c192b1bdd6d192f7d0fd7682e1c55e71fcb797c51b84c044cab1fd6de715699d3cfcafb0107ec0f"
+    },
+    {
+      "agent_name": "earku",
+      "agent_number": 1932,
+      "owner_hash": "cc92f88e4e545fbe485dcc4412f762324272d5043b26552bf01375696d7550e8",
+      "claimed_at": "2026-03-24T06:43:32Z",
+      "signature": "766bf69a7b7f7bdb914faae36badfabcc893196de349913e9739ef15f883b847bd7b95bd4d50aea40f94f60b22cfbfd9741b3841a2e486e50f774896daae790e"
+    },
+    {
+      "agent_name": "bhaktidev",
+      "agent_number": 1934,
+      "owner_hash": "31848f02cef4326a22200686f6aa4de12528cd155eb8c4c2026da04e0376d6bb",
+      "claimed_at": "2026-03-24T06:44:30Z",
+      "signature": "ae861f059ec6d97989db886ff802df2c0b744a4068846799e5b1bcd8dd1b8fea609d76db7cd59a81895843a302f236c570e82ab4b3e079b28c8495f2c7d16301"
     }
   ]
 }
