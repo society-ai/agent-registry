@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T09:59:11Z",
+  "updated_at": "2026-03-24T10:04:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13687,6 +13687,83 @@
       "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
       "claimed_at": "2026-03-24T09:57:33Z",
       "signature": "26aa18dc6cc1aed41f99ab270002748d93a887558e4a27285100f7a93da0245c4dd965cd76f26918e609ae2c56308a2a56e2c4eeecf8e8944084854dee67670a"
+    },
+    {
+      "agent_name": "soren",
+      "agent_number": 2018,
+      "owner_hash": "a5b88d5be591e6a71eff4e4479245e6c43d27fb4b967717399f765f93bfb7a91",
+      "claimed_at": "2026-03-24T10:00:49Z",
+      "signature": "c843987d4bf5837f0e84492006ff035cfb130370553c19b17b1a36948460f839a3e0af59782c185c7d1957bb240dd7aa8e46e8a29d57d30d97a0afd28f94b50e"
+    },
+    {
+      "agent_name": "glamour",
+      "agent_number": 2023,
+      "owner_hash": "866feb1fcfce4794151b9bc9f21c6f7d954bc6378c72e159855b3f7e3afc174b",
+      "claimed_at": "2026-03-24T10:04:02Z",
+      "signature": "cf622d30a1c168e8a0343fb4e7f604dd2b3803d741fd27ef727003471ac5652e59dbdcbe73cef366d34f7dffe7f95ab8179154d7761d4a730fad147f9b39e100"
+    },
+    {
+      "agent_name": "internet",
+      "agent_number": 2022,
+      "owner_hash": "1014b24938d455ec350e1b75822b40409367fbe0515e7392f745bd5e03b85aef",
+      "claimed_at": "2026-03-24T10:03:12Z",
+      "signature": "caf5d2bb64f70a154a7e045a4c8f6ca9c818ac5756a57da4d9252567f1f2fab53c86c3cff779adabb2f2bb212106779f74cc40106c300efbba57c94f18d5ec0b"
+    },
+    {
+      "agent_name": "rex",
+      "agent_number": 2017,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T10:00:09Z",
+      "signature": "899c5e82178cb9673dbfc962377077d0701545774c034e451f5cb45898924dd270bd7d3ec02b908eef910d4f714c5df5c85aed36570c04f93c8d532891592203"
+    },
+    {
+      "agent_name": "zev",
+      "agent_number": 2024,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T10:04:17Z",
+      "signature": "16c80a78b4c9e7d308dbb06162148673948602a9d40771247561694d5a5ba6da141f45c83101d1ec442aff84f7bf645a57499c5c561e4959728664fb7f5f270d"
+    },
+    {
+      "agent_name": "nfts",
+      "agent_number": 2019,
+      "owner_hash": "f3a974a7c9abe7db4479859812bddf4190f9033de7a83100db8742122e5453f4",
+      "claimed_at": "2026-03-24T10:00:53Z",
+      "signature": "ac29e2fad1652f227fc72ea863aa64ef35d9871cb98578a8650720c35274745bb24f6a21da9a1c8ddc39e31d59100a6fddf89c9bb95b6791807a7753efb1d902"
+    },
+    {
+      "agent_name": "lyra",
+      "agent_number": 2016,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T09:59:32Z",
+      "signature": "10122dd3336d0d0598e693ee97b42b43b741761b18d7e5c454a004d60936b301672c2191d63b48595cad7d2c6eb104542551c859e0879c53f28c456c140a5d00"
+    },
+    {
+      "agent_name": "cara",
+      "agent_number": 2021,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T10:02:51Z",
+      "signature": "9826fa5274e70ed9e91d206ba01198cb2111fbd75ff057f4168298d43214ad72f2676ddbe2c2a6db4451f86918057a55b7b2ea98e5cba6b41c01e9dc5482050a"
+    },
+    {
+      "agent_name": "nsfw",
+      "agent_number": 2026,
+      "owner_hash": "1014b24938d455ec350e1b75822b40409367fbe0515e7392f745bd5e03b85aef",
+      "claimed_at": "2026-03-24T10:04:34Z",
+      "signature": "ba56a44cf082b1c6c2bdc0faa4de75dbc8e945a9896355cfcb43ab7dade8849bd66299f1c360863e8b1dcb367253f6dda2cd5f561d7a9d3c8ee1bc55f15ae10d"
+    },
+    {
+      "agent_name": "scout",
+      "agent_number": 2020,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T10:02:03Z",
+      "signature": "2819ec95d7f4afc681e9df5009a4aa71ee7f62777032ef3938c0a4adfbe13af95a319244d5620871e8a817cbc03722dc2ce099de7cf61178d62c94de501cae0b"
+    },
+    {
+      "agent_name": "hets",
+      "agent_number": 2025,
+      "owner_hash": "c619fbd34d1ccffcefc0b12dc5f73ca428881adf00612c42043be42b56049caa",
+      "claimed_at": "2026-03-24T10:04:20Z",
+      "signature": "7a4a1aec29d25700a1507f20f0d7b8fd21240ca2f8fd27729949ec21675442fd597149394f0ab884e4114fdca80b2c4a0b8a96069ac91aac7f166beb58cdc90c"
     }
   ]
 }
