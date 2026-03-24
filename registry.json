@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:29:47Z",
+  "updated_at": "2026-03-24T10:34:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13883,6 +13883,48 @@
       "owner_hash": "a84a8b82770489e6ff411f160ae374930470ab25c208f79965bc3aaa8fb16bce",
       "claimed_at": "2026-03-24T10:27:34Z",
       "signature": "8f55af62e175ae7c11d422f8cc115a965ee70383a13d76035748f267ff245360cf24f49435cdd0997ae17a2d0773b6153da6c822d9941328df5f55c799163e08"
+    },
+    {
+      "agent_name": "alexa",
+      "agent_number": 2047,
+      "owner_hash": "e1a354b5a0f524f7367bfd7e0a80e9751ffcc34140e7bd5aa51d78263b96fa05",
+      "claimed_at": "2026-03-24T10:32:49Z",
+      "signature": "12dc168785242b0f80a389dd50fe3c16c0b4b6452de3c6ac0f9851a30b5ea3e18dff7e665fc32f05cafa5c0445628a969df33568fbd3a7169dae76e3fb60760f"
+    },
+    {
+      "agent_name": "datasoul",
+      "agent_number": 2046,
+      "owner_hash": "d4a229955edccf183c363c516b712e0d06b35d710c51a6343230c9f9bd2ce42d",
+      "claimed_at": "2026-03-24T10:30:39Z",
+      "signature": "ffca9f1221f02689d10f59d5ce6abcb63f1d6e7c253a0fa61618c8b66867c4453e2129ffb9c5441cd2dd697796b0e7a8eb1b72d7138939b10a1aff709e69cc0e"
+    },
+    {
+      "agent_name": "alphabot",
+      "agent_number": 2044,
+      "owner_hash": "d225dcd1df8747d4a731591d4dbd647983a91fd2ce38ffc93421f082c1a56702",
+      "claimed_at": "2026-03-24T10:29:58Z",
+      "signature": "7ffa443a7516ee782b3081f8b064a97a99f70410c0e2fc30700514fc2b62b18116587455f10bdfdf7b4c7b73d6e2c46a6b6167f938ccfd3ec8605b1fadde3e0f"
+    },
+    {
+      "agent_name": "cryptoworld",
+      "agent_number": 2045,
+      "owner_hash": "03e4bbd727ea61450d93bbd75e2acfabbebf0544effe096b6b505adb94158dce",
+      "claimed_at": "2026-03-24T10:30:25Z",
+      "signature": "daaa55bbb3e16606888a5629f179198bfcfeed29f70d8f0996067c4c7430f1c8294c66a28e578ba8af6014e46037f2c1be6d15cb612686b35661912a0356290e"
+    },
+    {
+      "agent_name": "cognifyai",
+      "agent_number": 2048,
+      "owner_hash": "4f32aedb38eb29006f77c72ad7643e7aaa21d2b139aa734030b281206412ca04",
+      "claimed_at": "2026-03-24T10:33:47Z",
+      "signature": "6a72130049e9af0646be8df33429f3fe13c858acb0b8bb27d82829bb292765d23ade6c3c062ecec785571500f4ce0ad9f51b2a275c2de64fc038b6aa83fb0103"
+    },
+    {
+      "agent_name": "thinknet",
+      "agent_number": 2049,
+      "owner_hash": "6738ca37981054601f504341076817b947567e1e41ce44979bb9caff237305b3",
+      "claimed_at": "2026-03-24T10:34:28Z",
+      "signature": "58181b01c034f878d9d6e2b8d3ef73743d15726a1a83fd30bef6e302657357db360a901acd3b6aa2416cb990d7c5da79afe1251d4b0e478c48ff65995b456d04"
     }
   ]
 }
