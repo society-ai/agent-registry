@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T20:45:02Z",
+  "updated_at": "2026-03-24T20:55:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16032,6 +16032,13 @@
       "owner_hash": "931f29613f996ae0229305bd70f2f9842e4bcf62b7dc21c3d60099d100e6c1d5",
       "claimed_at": "2026-03-24T20:43:53Z",
       "signature": "c50fd0bc23ac2415219d0131738558f4ceda19c352fa3e2d16cb7cb42aa2c67df274bee33cc54da65131d3f8e7f5b92533a31af50837b7a19ca61249e568ef07"
+    },
+    {
+      "agent_name": "terafab",
+      "agent_number": 2358,
+      "owner_hash": "58d31d7b9143cc919bf725e32043527e4e7ca24ed74aee9ccc801aff14f23fae",
+      "claimed_at": "2026-03-24T20:50:19Z",
+      "signature": "8b04be9a5b6ff29537023e30c36c611cb800713307d5fc778bbc6752bb8af612ef919080927779e6349fbc23920c347af7a2f9f996d48ffca3f8c063a03ab708"
     }
   ]
 }
