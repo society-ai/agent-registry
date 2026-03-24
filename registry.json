@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T11:36:08Z",
+  "updated_at": "2026-03-24T11:41:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14527,6 +14527,27 @@
       "owner_hash": "702cb9718d3e9d6480f9d3c229ce989f9b4e53689416c84d4a440af3d27f191e",
       "claimed_at": "2026-03-24T11:34:35Z",
       "signature": "d3189b61b2433b7349ed72f7ba65604e4fabc9e324c779a34072176d3c3164e83bff713dc4dbeda2b32f7ccdde6904dc9e72da7d1ed71c167db6922efaf57409"
+    },
+    {
+      "agent_name": "glueai",
+      "agent_number": 2136,
+      "owner_hash": "b6e4eea6007a3b0d391f2f703eafb8459b30182aa139d1dc4ce45fec4620cd8a",
+      "claimed_at": "2026-03-24T11:36:22Z",
+      "signature": "28a2c3da27b0e79f89d9dfa068bef4b16ba1a1b4a971f2304faafd92f883e593d686c97aad063144747caf9958f3956c7941134fc764c13080d0279fbf079205"
+    },
+    {
+      "agent_name": "enginex",
+      "agent_number": 2138,
+      "owner_hash": "128bb5af68fff9640cc0ea0f07311f852d06caab658b3fa0f87919c7b7e4564f",
+      "claimed_at": "2026-03-24T11:39:29Z",
+      "signature": "90be1f5d05bc490bbc42c55802ff9a0057fefec829bd01c412c9df5e55a4cc890d3323dd9e23088d9e8147d9f69357fd3fda3fd69726c4c78b70571a8f2b280d"
+    },
+    {
+      "agent_name": "musta",
+      "agent_number": 2137,
+      "owner_hash": "06eb05b9e579f8f0c76e42de31c84195f0b3f40705743019fa85e8a2b5c4941b",
+      "claimed_at": "2026-03-24T11:38:52Z",
+      "signature": "515751185c8a0552d9e6118e23e390eb5c199d0179351fa04b3269fbf3d7f68702c864bb1cd0bb807ef43bf32c74ddc3e3dfa6fa48cdbb310a12bef3d91e9b01"
     }
   ]
 }
