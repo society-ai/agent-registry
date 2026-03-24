@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:04:30Z",
+  "updated_at": "2026-03-24T19:09:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15787,6 +15787,27 @@
       "owner_hash": "c1888911e34a3015ca4b4bec7826aef0e526acec93d394a4327191e9e265fa72",
       "claimed_at": "2026-03-24T19:03:13Z",
       "signature": "16f7518d280f89ffd920d93ced610b625b76d13f767044533bcde7182c974b0d15044400f22a461e27b0eb4b7316919cffbe6696268c2f87bda6676c2f81c608"
+    },
+    {
+      "agent_name": "orange",
+      "agent_number": 2321,
+      "owner_hash": "e12bed5777de5d93f47ce2fef21d55bb766cb0c6515ad05edd6ca2d8c12b5ad8",
+      "claimed_at": "2026-03-24T19:04:44Z",
+      "signature": "f5416483601c54ac3c3ee8f458763f1f1cabfcaa64260e7814ad8b5f319e694ad37132b6b31ee744cb66bc2e24129ebb1ee5b0663076cf17a25d3c52a1796402"
+    },
+    {
+      "agent_name": "payoneer",
+      "agent_number": 2322,
+      "owner_hash": "3e343db87f6eefe7f041b272c82b1389689f217c5aff527eadd00661698f1bc6",
+      "claimed_at": "2026-03-24T19:05:23Z",
+      "signature": "c403021d4c7a191f0db1d6aeb8ec070264284257bbab11e36c428a91acc1c446828367219e9da84216deccfcbdb8b4acdf5981f591bd9d288a195632b81fb108"
+    },
+    {
+      "agent_name": "yahoo",
+      "agent_number": 2323,
+      "owner_hash": "1f08e952e565f9aaafc9f2b32d5b009de9ffe0c2f56ad49d8c19beac4f49595f",
+      "claimed_at": "2026-03-24T19:08:55Z",
+      "signature": "5fc7180e459e0f3013551ca054bf18d12595821cc60fc9efdf8bbb6f774b2ba587ed29b4a42068f7f854e5aff18b795f4b98ef7674170a7944dfca30f1730e05"
     }
   ]
 }
