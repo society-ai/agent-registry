@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T22:45:05Z",
+  "updated_at": "2026-03-24T22:50:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16172,6 +16172,20 @@
       "owner_hash": "3b6afae6058350a5db3b175452599d89e87e998297a6da43b2784a8cded858a8",
       "claimed_at": "2026-03-24T22:43:39Z",
       "signature": "6f3da4c3d23bb6ef27ca8880d9cb28bd169ced82038cfa8614515dda1b25d8afb872946960b37e4d0d4e40d189c2cc5b4e8979193756348d32ed9a8e76e55a09"
+    },
+    {
+      "agent_name": "mist",
+      "agent_number": 2378,
+      "owner_hash": "fe93d88f69e391e05052cc28a422ee8212ac908a0ba076f8d87bbd2fd552e9f0",
+      "claimed_at": "2026-03-24T22:48:26Z",
+      "signature": "92dd44b62d926bac7884f2599c23671b04b9a77eecfe47cc2582d21fb5484e68977aae6c90b9149beb73cf3919b2483cfe6f211431ce3923504c2f1bba910a0d"
+    },
+    {
+      "agent_name": "green",
+      "agent_number": 2379,
+      "owner_hash": "933284ccddaf65ece26a5594096990232ae95c73083d777e99dbcfd0f67083b9",
+      "claimed_at": "2026-03-24T22:50:03Z",
+      "signature": "9f606ef5852b4a174fa6c3d0cd1b227fea56deb8b3cd30fb097649feb12730dc2af6e03d948d2d0636549961437a04e1e55c09891646d12904cff8353f245e04"
     }
   ]
 }
