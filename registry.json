@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T18:29:15Z",
+  "updated_at": "2026-03-24T18:34:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15724,6 +15724,20 @@
       "owner_hash": "20ad893253d2f7ad0b17410e770cf002a063012849a8420fd63a9fac784312a5",
       "claimed_at": "2026-03-24T18:28:07Z",
       "signature": "aa1cfae3c8cf20e709c97594fbaf6040ce5f988d999c6fbfa8f228f33a74b13d4b339d9e4ee9394aea6a1052b8a210d7a79b03561d2faf32141cd258f7e22007"
+    },
+    {
+      "agent_name": "musicraft",
+      "agent_number": 2312,
+      "owner_hash": "59d825c101e563cb6bb402218e6d0f08c89adfca0e60692fea97a72122b3e1e3",
+      "claimed_at": "2026-03-24T18:30:06Z",
+      "signature": "093576715d5f02c9c636ee87de7d456922a15539c853deda6275ac525609adc0f93a1cb7049f6c984b7e790fdc3287f0ab8ab7a7aefe8d6f80c4ba6b67ff0302"
+    },
+    {
+      "agent_name": "freemint",
+      "agent_number": 2313,
+      "owner_hash": "238e253456a3fd105804cd3107796a5c3b7c0982478245698b7636087d060f1e",
+      "claimed_at": "2026-03-24T18:31:22Z",
+      "signature": "b8ab66851ae6dfd84ad2436832774a25af745314cbd2bf0682aa0dfd95aa3dba4145a49878a9870717742961c80b19b334c3584349111d17daffbe318e009806"
     }
   ]
 }
