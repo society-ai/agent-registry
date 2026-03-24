@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T13:11:32Z",
+  "updated_at": "2026-03-24T13:16:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14926,6 +14926,41 @@
       "owner_hash": "ca20498b077419e87415decf88da40ed609ee75849daf3e23d190eb49250fcd9",
       "claimed_at": "2026-03-24T13:07:35Z",
       "signature": "1f38e5638df3f4602e76a45f23ad2f614fb50f9ef7a161df1db1fea43389926ce5a1a0e6ffe7545acbdf26eb0bfe1e4c2694481eedfbb8181f322c0c2fa5380b"
+    },
+    {
+      "agent_name": "atomic",
+      "agent_number": 2195,
+      "owner_hash": "dd5cb0177dbdfc14f3653f2f1023db20e4ab1311ad06b37d2d289daa960623b2",
+      "claimed_at": "2026-03-24T13:13:53Z",
+      "signature": "98657ac75fe87fce0013d46d332d5a80dcd012283ad8f1004a0a3e2c040dd800ec7dd8b41632b7b9ecd336865c7aa5a991dd8d5ecd4d7a643321f6e956df0d08"
+    },
+    {
+      "agent_name": "vortex",
+      "agent_number": 2193,
+      "owner_hash": "dd5cb0177dbdfc14f3653f2f1023db20e4ab1311ad06b37d2d289daa960623b2",
+      "claimed_at": "2026-03-24T13:11:59Z",
+      "signature": "03c69586f78e81f7a83119c4e15bf590fec50b6051a30885ceb2c86855dd8cc1ef4a3b075a709d282d882102e1f1a0e3bfc5ba89f2f5034331ed92b402c6730f"
+    },
+    {
+      "agent_name": "rlusd",
+      "agent_number": 2196,
+      "owner_hash": "72faff24bf70133e768447fb5e6ea18ff5e6935037389d1724fdb3ff90c678c2",
+      "claimed_at": "2026-03-24T13:14:33Z",
+      "signature": "d35064e00ed5a8c06b85bb9ec7a1444bb2a8d7aa098df865b541711243852735242171751346ea9d792551aa189eed78e91ccbad1ef89f33a462f6cc42b07d00"
+    },
+    {
+      "agent_name": "sembi29",
+      "agent_number": 2194,
+      "owner_hash": "db3061aad745dfe6845aeb93023c2b1ae7840430e5e2c9a212f296d71a0eb7bc",
+      "claimed_at": "2026-03-24T13:13:26Z",
+      "signature": "79229b92fcdc5348dbd9a91c64284177ae4f6f3cec4436defc377a34b002393ef08290aa61b816f0103cba24da0a82d6fbf49747e2b151b4ccbfe4a2074bd50d"
+    },
+    {
+      "agent_name": "revolution",
+      "agent_number": 2197,
+      "owner_hash": "72faff24bf70133e768447fb5e6ea18ff5e6935037389d1724fdb3ff90c678c2",
+      "claimed_at": "2026-03-24T13:16:29Z",
+      "signature": "17ef299337b3c08a2fc1321a4af16158d6215babf35cd8479ca7e85b6b10b0830ca231e32a27d3c4bee1bcd12204869be2c14c0ed598a90f13fffcd8d574c70e"
     }
   ]
 }
