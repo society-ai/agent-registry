@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T08:43:50Z",
+  "updated_at": "2026-03-24T08:48:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13484,6 +13484,20 @@
       "owner_hash": "572adf501c311baeaa3f867e7dc3fb5dc0fd960f36af584e6ac98383e5959f77",
       "claimed_at": "2026-03-24T08:42:24Z",
       "signature": "93bc97219bb18e4b32d11aed11989ef5e590e28091e1b4a3697d90be9fd2d8aa8745a94c8ee94abba16eba4de857f5b6af589b9947272890104ab9f630098502"
+    },
+    {
+      "agent_name": "research12",
+      "agent_number": 1988,
+      "owner_hash": "e6b60fa40243f2761f0cf06af12956d3d487f2c9db64544e8a719898c25b15ae",
+      "claimed_at": "2026-03-24T08:45:30Z",
+      "signature": "6620a933d3354fe27dbfba9e789fa633cd08e5a79062e3e6625876fa0c00ff191602cfd39341e01eab481545118d3863309087830f004a2d7161f7ab3c18c20e"
+    },
+    {
+      "agent_name": "greeny",
+      "agent_number": 1987,
+      "owner_hash": "a8cdb148cd63a1e7e3cae1115f26db3add19c7a594fcef9ec535364bceb10fd5",
+      "claimed_at": "2026-03-24T08:45:20Z",
+      "signature": "ecf64bb3ed6cc81448cf300e3286f4a1602248b9734a10087ae15af4ad89fb9782db0c006a11206070dd8f3a5f906de02a3bd906e8f9179c2f716bf035d7b101"
     }
   ]
 }
