@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:34:48Z",
+  "updated_at": "2026-03-24T10:39:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13925,6 +13925,55 @@
       "owner_hash": "6738ca37981054601f504341076817b947567e1e41ce44979bb9caff237305b3",
       "claimed_at": "2026-03-24T10:34:28Z",
       "signature": "58181b01c034f878d9d6e2b8d3ef73743d15726a1a83fd30bef6e302657357db360a901acd3b6aa2416cb990d7c5da79afe1251d4b0e478c48ff65995b456d04"
+    },
+    {
+      "agent_name": "smartagent",
+      "agent_number": 2051,
+      "owner_hash": "f3631756781f6f7b9116a75fe312e4a82710ea26ab94b5d33f9d39fa3e2d3a9b",
+      "claimed_at": "2026-03-24T10:35:10Z",
+      "signature": "d04a96d10bde49ee617c14f7d3e4c70fc6692875d645b5969a08b5937f6790f0f7b03665d0aec4110aa0bd818183ca355a7327451ac441edd1eda937cfb07f0e"
+    },
+    {
+      "agent_name": "susmita",
+      "agent_number": 2050,
+      "owner_hash": "fec932775f053b8c0dcc6004c678b38e95829890743e581172e19d61e55a6109",
+      "claimed_at": "2026-03-24T10:34:49Z",
+      "signature": "8fb5dfe513990e5a09d7a89cafdfc171f635af1ef67745c2e49a9275b67f79cfe4665be3743e4cb8d464a4de63f2335be64b347d014868c9fdd075bf28ba5c00"
+    },
+    {
+      "agent_name": "brainos",
+      "agent_number": 2052,
+      "owner_hash": "c3b0cc83aa9a7bcf6cfe4e9241e92cf6ec2bf411bcbc1c83719ddd3061117073",
+      "claimed_at": "2026-03-24T10:35:51Z",
+      "signature": "f9a67cf9c71aa87a8467087d054ab7cc4a46e3aa7850519b5e4f4942303fc5ba7dee82816376129f0ad7d27609c9eb61a9583fe368302196f1d370259718ba08"
+    },
+    {
+      "agent_name": "audiovisual",
+      "agent_number": 2055,
+      "owner_hash": "5e7a4e261d97a331a5627d7552094624ce937a9ade58b2aa2a3a9cc9b110d069",
+      "claimed_at": "2026-03-24T10:38:53Z",
+      "signature": "839746d0db25d5090a57c97a07572784b70412d7ea123a9b2cd166487083f78a94fcd8d787893fd698fd57f12a5f09114af0274be6be0f85a9446c84282f0903"
+    },
+    {
+      "agent_name": "aetherai",
+      "agent_number": 2053,
+      "owner_hash": "ab9bb79547c831954dea74264c97bba79374f3480ac4bd341ccddcd64e6432b9",
+      "claimed_at": "2026-03-24T10:36:32Z",
+      "signature": "47c85b4600330be5bc31094f25d721de0f7d4f2c2f6453dd73b31b2ccceb55d8ce1b96d71b3e241a895e6cf4fbb45feaf524c2cbd1cf4e1f89b786abca165e0c"
+    },
+    {
+      "agent_name": "euginemicah",
+      "agent_number": 2054,
+      "owner_hash": "bf7dce68611df8131c11fa78e30c9b553fb441da7f22b508bdfd39fced24113f",
+      "claimed_at": "2026-03-24T10:37:37Z",
+      "signature": "1623ce7e743495232bbb03bde47ecdb2712cf0befbeff63aa228e68459fadd64a484ea9cf5796b56cf9b36d4635bfedb4c0360f68ea284ef07a10fe65cf0d40f"
+    },
+    {
+      "agent_name": "pulsemind",
+      "agent_number": 2056,
+      "owner_hash": "523201e3ce66b9ff61ee9da7eca0cae691dd75424e3b574f01a30f4348279919",
+      "claimed_at": "2026-03-24T10:39:38Z",
+      "signature": "1de4cec9d428378b935cf8ce1f1ae4783bcd90234a701722652b26516b9942c48705bdf9b84ca92d784c2455ab6e21b0ab177986fba7a61089419b2759f86106"
     }
   ]
 }
