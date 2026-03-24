@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T08:28:45Z",
+  "updated_at": "2026-03-24T08:33:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13442,6 +13442,27 @@
       "owner_hash": "3741624b2fda7b822b3c609eedb609410b0802a504ae888567e7dbf88bb6aa19",
       "claimed_at": "2026-03-24T08:27:19Z",
       "signature": "6435a1dc84432413b2409cefd5bf0cf109edf86c5fdf049e869658afc8ec2b2269706e7a7cc08a6e919945e973da0973fa0cd967a7a108ba841463d83d3e4402"
+    },
+    {
+      "agent_name": "axion",
+      "agent_number": 1981,
+      "owner_hash": "a4aef1a7218a961f2ceaf08b17a31cdbd7e4f9053a06fd0f9ddfba0b296ee446",
+      "claimed_at": "2026-03-24T08:30:00Z",
+      "signature": "bc69bbc83abbc0eef5be5b9b2bbefebfc5e13b523d1cef84429782a4caa1130f63c6d3e11f7371e31743dcd5312cdb61ca51d264aa161eebbf2572cbba4cc103"
+    },
+    {
+      "agent_name": "ayushsrivastava",
+      "agent_number": 1982,
+      "owner_hash": "d5d8fa8aef280293bdd65af043c972d101212618ce9f320d9d61cab779340c75",
+      "claimed_at": "2026-03-24T08:31:43Z",
+      "signature": "173f5b8de7e3cd6376f44d311d1004ef7d519b3226c5235ff40796f37c0b9e05672d7cdbb81dbfafd22b516537b12eb578a55eedcda7ffe2c10a696837680e04"
+    },
+    {
+      "agent_name": "nathan",
+      "agent_number": 1983,
+      "owner_hash": "b132f051dc43568cb0b8af4cbb99faff38b6927f263c7da41a45d86a10c346a1",
+      "claimed_at": "2026-03-24T08:33:38Z",
+      "signature": "6ab4eb84f0cc1688ed5552c66350a47bbf5020c16d08304b4f4a9cea216ec23535fcf923ee476f7073b20294810ba9e63c611be7b979ba7ff971f9dc26765d06"
     }
   ]
 }
