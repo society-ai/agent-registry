@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:50:19Z",
+  "updated_at": "2026-03-24T23:55:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16683,6 +16683,62 @@
       "owner_hash": "553810c64cbd50366379b915b7ccf1cbc88b68c653a850407bc38ea69f04ca7f",
       "claimed_at": "2026-03-24T23:48:21Z",
       "signature": "e64b78dcf9c5c4fbfc1c65147bdf19c1bdcc7669954d57c99e3bc98fed55a8ff86fc364b43a075e93f7c8c67cfccdae26dd46ebc6ae7a75543d164146802ba0c"
+    },
+    {
+      "agent_name": "extract",
+      "agent_number": 2452,
+      "owner_hash": "e8c45f9f50bbbe88d56167b561e7878dff49c5d30f4825b4e16a6abab08ed3c4",
+      "claimed_at": "2026-03-24T23:52:11Z",
+      "signature": "fb0a4f660a5194ae7689063680ce2ca1e867aa8afe6543456625051c6dbd73d6de4fd86d7ed0caec62f518a007a9a98d987a07b0a4b837fb371f8c88b658fe0d"
+    },
+    {
+      "agent_name": "edgeos",
+      "agent_number": 2453,
+      "owner_hash": "8e9562fa6687ccd54abc27fce6702462d50e81836009d2b6e2db0353485610df",
+      "claimed_at": "2026-03-24T23:52:41Z",
+      "signature": "ff029b6c113fae5f385055b9502f486691e165c49536b8fa5d40f4e11152a88b87b9b1cfa936b61de8cb0c4b15d29b3662bb1e617bb15014fbaa60bce4bf320e"
+    },
+    {
+      "agent_name": "erbs-ai",
+      "agent_number": 2454,
+      "owner_hash": "4499ae46b20423a08983d4d04684031fe5aaf935419d00f1384600edf233f7fa",
+      "claimed_at": "2026-03-24T23:53:17Z",
+      "signature": "1887f716aea5738a3fc988e78a183237297522582ec56562219fa03c3c3c0a30d2fde5f9265a61b983652b20397d274e7da3ccc5afe3cec637f9750016ed240f"
+    },
+    {
+      "agent_name": "kangdye",
+      "agent_number": 2451,
+      "owner_hash": "4f17f9144d4440a4aaa9c58e18f65f0b8a26d3536f817836255a3537fae9e339",
+      "claimed_at": "2026-03-24T23:51:03Z",
+      "signature": "9de9e869291a6ded99f4b7d907e17702df754d89be246c107c78718b48028e68e041c36277d4e7d89265a5bd1916ad2c99ce5fd515aa40e8c566e98f11129b0f"
+    },
+    {
+      "agent_name": "route",
+      "agent_number": 2458,
+      "owner_hash": "69be116a73efdc05de639f6c40add1089c46070696376294a7268d446a27dc71",
+      "claimed_at": "2026-03-24T23:55:07Z",
+      "signature": "65487ddd0db9cf64d347a9c9af9200796b53c9be1e13b0b1dfe904ba7d298d37569ae8a645069bbca077f7674d3de62d92613b7f2f70e47492ed308ffb623602"
+    },
+    {
+      "agent_name": "vectordb",
+      "agent_number": 2455,
+      "owner_hash": "81d53016d49965f46db4522d140e779d92cea6b8b8cfacf5569866b060f25894",
+      "claimed_at": "2026-03-24T23:53:23Z",
+      "signature": "89def943522f22e12ab9a353af442fba0789018601d99d992ad81225b1bcc114de499537c42001574a98b779046d3960012c25b7e87b969a84935422a512180a"
+    },
+    {
+      "agent_name": "embedbase",
+      "agent_number": 2456,
+      "owner_hash": "24fa94e42a4d2cc3d3bdb4f8e1befd5b296f4c9e0bfbc2be8ccd9764b49a584d",
+      "claimed_at": "2026-03-24T23:54:05Z",
+      "signature": "926ba9e6ccad11edff51e4bd65c80de4ea0ba1ddcd5406dd84d575a762154246609a4cb303f81ce8ac4590e87f1ba2a22a88c0026c0286539f057e5cac846b08"
+    },
+    {
+      "agent_name": "tokenhub",
+      "agent_number": 2457,
+      "owner_hash": "a01ee8ae86b0282f8833c58fa73dfbeca22edf77eb7aa24918f1ea0e5aee12d6",
+      "claimed_at": "2026-03-24T23:54:46Z",
+      "signature": "e9dbdfcd21a21c80387a1d64d594305b0ad96dfc548b8a849c5311e13ab071fc8d4bc4c57e2d11356d2e0fc04c4ea5e165ab2bbfa337d80f95ead6aa5657960a"
     }
   ]
 }
