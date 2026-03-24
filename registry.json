@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:17:39Z",
+  "updated_at": "2026-03-24T14:22:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15241,6 +15241,13 @@
       "owner_hash": "56c3ba896c468fb86220578dc2e7048cce4f0f65c55f8461acf74ddc35a80347",
       "claimed_at": "2026-03-24T14:17:11Z",
       "signature": "9079a86a0342620df63c615279d9f9d7afd2026815e696f2df5a61e0c8be964e9c9e5442091252865a86ec8d69832020fbb33862f7d7aa8abced2d8f23812603"
+    },
+    {
+      "agent_name": "exosuit",
+      "agent_number": 2243,
+      "owner_hash": "5a7345ef730783fb9737fe770eb8511f7348f095fa7bf18575fedc245fdeb17c",
+      "claimed_at": "2026-03-24T14:22:32Z",
+      "signature": "0c4214701de067935b66dcbd23ad19ee730af7d98042b4fef71c83b7310c54b198f261289b2c5da8d48aae83442a11feb2ce3bd1725a35f7cad995b7528ba308"
     }
   ]
 }
