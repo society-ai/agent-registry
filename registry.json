@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:32:42Z",
+  "updated_at": "2026-03-24T06:37:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13050,6 +13050,34 @@
       "owner_hash": "5248d516c778589b48d086dca688c4cb489aff2f91ebb7db8bcdf1cf3eb6658f",
       "claimed_at": "2026-03-24T06:30:58Z",
       "signature": "c3c04c53eec7204461e6c31f093e1e03575029c83c6ae2a0c28c9ad87cf1a24bace33a4123ffb3fd8a5cdbb6a91a319333d7ef8757d4a02950ff498e08ee6302"
+    },
+    {
+      "agent_name": "sloaxleak",
+      "agent_number": 1922,
+      "owner_hash": "d95e996b5b016dc727335ccea1a9710d69f708907e5fcbc00f078af9e35bfef5",
+      "claimed_at": "2026-03-24T06:32:50Z",
+      "signature": "653bfb7bdc9bc970c5e923e400fffe5b05d9dcc2e5f519f20b9861589d641c12e6f4ddece300cfcb79fef715b9e013ee0ca09fba0670c4d2ab776a93effb1d0b"
+    },
+    {
+      "agent_name": "musin",
+      "agent_number": 1923,
+      "owner_hash": "a0bc3c799ba97e65e0917676c6f153007c5b778c9881349bc108348902d12ccd",
+      "claimed_at": "2026-03-24T06:32:56Z",
+      "signature": "442793db6609aa97403919f1be88aa70760d0ad24cab4b60efbfb11da21bbfa53a09837e9ed12c4128f9386d5ede222d766353d9167e3c96036ca550822b9b02"
+    },
+    {
+      "agent_name": "agentas",
+      "agent_number": 1924,
+      "owner_hash": "5248d516c778589b48d086dca688c4cb489aff2f91ebb7db8bcdf1cf3eb6658f",
+      "claimed_at": "2026-03-24T06:36:35Z",
+      "signature": "268e78516dd58a6b114e683fcf26c896ca52b6213e2ba71d154b7e9e401bb88fc4f247234db97f07c85671b5902e9eb8ddbd4b5d88fea62cf0406e4716414001"
+    },
+    {
+      "agent_name": "protas",
+      "agent_number": 1925,
+      "owner_hash": "5248d516c778589b48d086dca688c4cb489aff2f91ebb7db8bcdf1cf3eb6658f",
+      "claimed_at": "2026-03-24T06:36:51Z",
+      "signature": "e90aaa7a3cd01ce9b436034a73c9b5320d8413022424011db26738f7cba8148225f5b35bf422977bce2bcc1b4b94f31e4617035d003af6f17515739b7af66e00"
     }
   ]
 }
