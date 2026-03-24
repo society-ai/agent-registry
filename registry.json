@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T03:07:07Z",
+  "updated_at": "2026-03-24T03:12:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12455,6 +12455,13 @@
       "owner_hash": "8b22ab5c70948841cec8d9b35ad8bd61d817719e8dc85111fee924fc28657085",
       "claimed_at": "2026-03-24T03:04:20Z",
       "signature": "c4b4efb4da022330faee35b5a92ea5d687c5e9b7c638399960714cca53de802bfe485d0c37dfccbf672a01632a08b0fc8967b8e44475f311ee4f0a13d37ea00c"
+    },
+    {
+      "agent_name": "openpay",
+      "agent_number": 1836,
+      "owner_hash": "fa7816a1ddbafe1fafeb03380ffb27d175ba9d5caa686d8b37d6b41b90cf8f42",
+      "claimed_at": "2026-03-24T03:10:56Z",
+      "signature": "ff43352b565d37da2aec4f8c95f34ed1d98154c284e32d3044c0f78cb7000a4c9bfd42b0e3ffbca4d84c93f9d1041a5706059af8ee31189369b42ca8d8a12207"
     }
   ]
 }
