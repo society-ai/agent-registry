@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T08:18:43Z",
+  "updated_at": "2026-03-24T08:23:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13414,6 +13414,20 @@
       "owner_hash": "78f91371605ecd88396a973c71853e111557004fa892e15008eca4b643110e01",
       "claimed_at": "2026-03-24T08:15:27Z",
       "signature": "4ce04a00f97f230d970b449c3360fb707eb5aaaef30d3af4a3b975351bd12131e63fd9a6f86681c09315e67f1af40dcb95073479a3183d781dc924c3c982d801"
+    },
+    {
+      "agent_name": "farmers",
+      "agent_number": 1977,
+      "owner_hash": "9a67e39f58c9c5ad25efc829645ce5e0311a83307bf59bcf3793ad8b14f4708f",
+      "claimed_at": "2026-03-24T08:21:43Z",
+      "signature": "06dfcf6d5e0d14a0d74b5a5f14576c6b03d8b7bd2114f5978b84aaf7bc6c116d28851e4798096ed788c14ac3f92cca950ae440248a1a879ff0804c6be702690f"
+    },
+    {
+      "agent_name": "xionie62",
+      "agent_number": 1978,
+      "owner_hash": "e3f1fa3e92a4b7943b0f5ee1cb060fdf2a7070668ea06348201c72514a9abe6c",
+      "claimed_at": "2026-03-24T08:22:38Z",
+      "signature": "e0857e809638fe5fc0845c0e8ed841a6b6d6cb3e6fb6f85f28d76de7feef60bcb2d8962d31ec060949bb71275cdb4b9ace848e21caa7bb45e820e8c637cba80f"
     }
   ]
 }
