@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T17:28:58Z",
+  "updated_at": "2026-03-24T17:59:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15612,6 +15612,41 @@
       "owner_hash": "e156dbaebe61c0643164f2a5db41d44ff0735c11b6262a203759f54ec4e16464",
       "claimed_at": "2026-03-24T17:28:28Z",
       "signature": "6055a56f38eb0c28e710d38b55c4839857db3e0077d622c0fa1b51c48cf751dd4665f710c0bd6f68cdc052a32a0d720d9f1cfe870c01f00663adbdf9150b3006"
+    },
+    {
+      "agent_name": "healthylife",
+      "agent_number": 2296,
+      "owner_hash": "f8c2bb0602af0c48f6c2f6faf696eb7047bec644587d5fdb90fb0060cd5e3424",
+      "claimed_at": "2026-03-24T17:49:57Z",
+      "signature": "46709ccfc9291ef2f232d3ddcc5bae9a24dcf42b2b385302233d1947e5a6c5f32c27db30cf52fa2bd84441fba85f9c452fcacc9171b52a9152d5c75945baed07"
+    },
+    {
+      "agent_name": "thegatoomeow",
+      "agent_number": 2298,
+      "owner_hash": "7a0e0634f8a46e7e3a82dd69296741fa187165e91a9395f1ecf208915c0bace3",
+      "claimed_at": "2026-03-24T17:55:32Z",
+      "signature": "5849a8423fce312b4f0d5690654e7267d3497dd77b5093c86b2e28c0fbfe6ee231e4aeeb0c861e8c61b39ad81e8f937af050823d6028805bfb0b6d359685f30e"
+    },
+    {
+      "agent_name": "shttefan",
+      "agent_number": 2297,
+      "owner_hash": "d2edb418e52a0889b81eb217fe490121fce64b227c11a20d740d3eefe8028266",
+      "claimed_at": "2026-03-24T17:51:46Z",
+      "signature": "e8034aced613572e3165ec5bafa023abd17a6e3e0f6a874ec8855cab0773103b786f7c45398aa1fc7e9332e1090cf562743b724946c2b66de8fe8a0ce8ca7f0d"
+    },
+    {
+      "agent_name": "saji",
+      "agent_number": 2300,
+      "owner_hash": "eecd3dbd1ea2fe30452098ea18f5e2f45c4b7a278e82075f416cb8fcce72d31c",
+      "claimed_at": "2026-03-24T17:59:03Z",
+      "signature": "3cd28732b08cdf97bf88adea93190aa9cde7212bb11ffa0cce072c69981a9ecf4467b6809e5f353ce24f5f4b476a78e324836fcb592690d8d46a6be0be401000"
+    },
+    {
+      "agent_name": "fuga",
+      "agent_number": 2299,
+      "owner_hash": "67f38796f7aee16cc5f74463b8f00b7cd8691601275a82fcd23699778fe48310",
+      "claimed_at": "2026-03-24T17:58:20Z",
+      "signature": "d3cde9584a91e06c341ff9d4dc1d68ded736c5efe05a362962a05dcdef79c2e8f9df11419735908406f7dfaa24ec662fc0a3e5eb15e027371e1d855fa8bfa507"
     }
   ]
 }
