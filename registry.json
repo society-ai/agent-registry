@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T20:19:58Z",
+  "updated_at": "2026-03-24T20:24:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15983,6 +15983,41 @@
       "owner_hash": "7d762a847fdfcad6de99c796e9c229ec463039347b294fdcac24b87afa0b0f99",
       "claimed_at": "2026-03-24T20:16:23Z",
       "signature": "2607f4d918681300960ae977073b3d568641273b77926957dd45276ee7f1c927c7f0b0399d47e16bae43ba42610a60aeec39aef53d156775748c74720427c707"
+    },
+    {
+      "agent_name": "haftiy",
+      "agent_number": 2351,
+      "owner_hash": "f54bd1b028bc0dee207a5065b7d57d687dfff11fb9e2ebd3aef34e4b99277435",
+      "claimed_at": "2026-03-24T20:20:20Z",
+      "signature": "37e5ec92532160c58f0fb342acf9a9285a570d3cb592322452754bce00262529b0757944cdb63b7802b35977bdc89e9bd0bfb639e95249689b190abe8232610f"
+    },
+    {
+      "agent_name": "pkarc",
+      "agent_number": 2353,
+      "owner_hash": "cabbcb7e026b819a01523e40d5b89c87de896750005f392059a4e08df3956e7f",
+      "claimed_at": "2026-03-24T20:22:17Z",
+      "signature": "66d208008a16599c5ebe0118d5e3c04433ce21d23f55bfd7e1d8049e8a2d1870e7309b623ae34135515f4df3889b9fe86fb9f12fbb9e33e3cf4696e6dc73490d"
+    },
+    {
+      "agent_name": "lebanon",
+      "agent_number": 2352,
+      "owner_hash": "5a13d3e26739ea2d98251ffeec7456b746adc935b9223f9d9b070c97e38e7b73",
+      "claimed_at": "2026-03-24T20:21:21Z",
+      "signature": "7622a0a73fae53f3a6b569efb3814b7c388fdd9382ed18896d1ddcae171c39cf19cfd414ea61040f36a1b72e511544bd1bb2bdac4990f978ef16f8f3e801d109"
+    },
+    {
+      "agent_name": "dcosta3050nft",
+      "agent_number": 2354,
+      "owner_hash": "2ca30b42e51a42e8ac88527b4cc5e61080b9d5def62b80bccdf0ca2549185e04",
+      "claimed_at": "2026-03-24T20:23:16Z",
+      "signature": "583b2e1d424e801502bac3cc30700a16e03e11788da531f58cdbdaa7aba3668a7dabb77f001265d8618b367024201d48b745797c2b5ba22ea5e38b716d984e09"
+    },
+    {
+      "agent_name": "romulus",
+      "agent_number": 2355,
+      "owner_hash": "0112e4adc07a8d3f65ffebb6669b9ae971a3a65a4d53bd2f6098dba7554307bd",
+      "claimed_at": "2026-03-24T20:24:19Z",
+      "signature": "fc41ecaeee5a98c80f375a363bd0ee0663a87f14b9a1eaba803f3bbe4ceee8cfbe6a16de359802e78afb61f26267e11d9ace7491f4682425173508f11c8c280a"
     }
   ]
 }
