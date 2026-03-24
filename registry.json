@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:44:50Z",
+  "updated_at": "2026-03-24T10:49:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14002,6 +14002,41 @@
       "owner_hash": "95cc7dfe9cc3c64ea154e7ee7629ea471eeb8a82640111a2b526b931ad3ab226",
       "claimed_at": "2026-03-24T10:44:50Z",
       "signature": "1e4c4ca8092c108829f43b2d5034aa874528d35d42f9c0254a50070bbedae61596375d5c5ee061a514ec165132c2592a5dbc36cd7603bb89db3f5c419d188109"
+    },
+    {
+      "agent_name": "farmercist",
+      "agent_number": 2062,
+      "owner_hash": "5eeb8d3d1edca0d92d3f267574e57ff62a5806a48bfd85a0e2aa01111b4ab36c",
+      "claimed_at": "2026-03-24T10:46:47Z",
+      "signature": "fa9b1c78b80e03164e96f8231b101620afb02d77d15325163e10280958e1ba1359009988ebe585b8320627a930f2c3484b961a5e0fd2a5fccad2405c02f66b00"
+    },
+    {
+      "agent_name": "pawansatoshi",
+      "agent_number": 2064,
+      "owner_hash": "abd9d725b7520fd88b13dea648cde5ba655259c9133b67d3f853dac678641dfa",
+      "claimed_at": "2026-03-24T10:48:32Z",
+      "signature": "d08ecf64ed79c3685100f80f28d17ae61cdaab050648ea7e932b26e3ae4d58369d25669d94d241eb800baec2bad9f03e63c8de07efdb660974d53a22c5a7bc0c"
+    },
+    {
+      "agent_name": "llmcore",
+      "agent_number": 2061,
+      "owner_hash": "aa57a964655f34a52ce3f349bcc8714144238e4a99d9fb0702caf91e24724bdd",
+      "claimed_at": "2026-03-24T10:45:31Z",
+      "signature": "f7be188f355c1f496de5674306ec15bce0d6f5b9e096ae0a209740972bcbbad62dec731d2ac4448f1e86f369375b2187de49208fe2db981bd99027794d0e2f01"
+    },
+    {
+      "agent_name": "b2bseo",
+      "agent_number": 2063,
+      "owner_hash": "910ee1dd2a9ef815c334960260db2705a9a12f66351862c910e6583c9888c734",
+      "claimed_at": "2026-03-24T10:48:00Z",
+      "signature": "7b5c622f4342ffe19221f34a3a9058d41a28418a0be9da7bc390de004c168f92d9f60600991516a10da6f06922e390ba9596b4987d6ffeba84eb6c054fdbf40b"
+    },
+    {
+      "agent_name": "multiagent",
+      "agent_number": 2065,
+      "owner_hash": "3b1192fd94e0ec7b61b23da8cc1f79fc3cbd3debca4b8cd6b2ef0e1e37397b9e",
+      "claimed_at": "2026-03-24T10:48:37Z",
+      "signature": "0534b90f81dd58e3994863f1d8426b8cbab39f72aef55c4cb845af6767ed5d0bc453314c85a8ddcadd9c4ebd36d41f57f0e60f5cc71f7bdaf454d46f48601c06"
     }
   ]
 }
