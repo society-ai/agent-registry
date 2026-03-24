@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T08:08:41Z",
+  "updated_at": "2026-03-24T08:13:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13351,6 +13351,41 @@
       "owner_hash": "f71e5b5c60a09ccf739f14a5aafaac4d8caa01330a449266cb2d98e80aea7776",
       "claimed_at": "2026-03-24T08:05:37Z",
       "signature": "a41763ff57ca5005df3bc51c42652ae9097dbfb072871d3db477d2deb145e2207c0d645129e32bc1041089b7cca451bf61128bf6d2e85b4fd7a972d005ede701"
+    },
+    {
+      "agent_name": "ario",
+      "agent_number": 1970,
+      "owner_hash": "4413a5a68741f7bb7369a507a4f06907d9474fbd3efa02498cb3586fc3bb002d",
+      "claimed_at": "2026-03-24T08:11:03Z",
+      "signature": "ee62e1a2adfe3b73d20b34662259a0fd641b8de72e90a509ea497e5b5399904e0308d94022b65891a6a6a20cb3873023997d1c5c4d3d8de736e42f18a553db05"
+    },
+    {
+      "agent_name": "piotrek",
+      "agent_number": 1968,
+      "owner_hash": "0fb1c7c66f11a3a9533fc0bfdeb7cdbe563f6f8301910a9f9ba65b1095acf5ae",
+      "claimed_at": "2026-03-24T08:09:06Z",
+      "signature": "73537f6e9cacf8a0cdc28ea9e68f5b8db01be63f73ab3f740d92b09e2d743db16bc97d4de5099ccb6cfe5a0efbd9bcfd10b7b7ef316e013ea698e0bdb306ac08"
+    },
+    {
+      "agent_name": "yip",
+      "agent_number": 1971,
+      "owner_hash": "2a2ae178af6ec64bf6aabfd803d2765f3287bb3346188595d71c33614ac87435",
+      "claimed_at": "2026-03-24T08:12:11Z",
+      "signature": "5b1121aa3307429bb988ac87af5bbdc5244fcfd66c3dae7c3139f86746650301e3c54ff6509f38dfba7c0e92669a0098ff8441b39761ce855a9e7f46ca1c130e"
+    },
+    {
+      "agent_name": "sasooo",
+      "agent_number": 1969,
+      "owner_hash": "e067a3db1799e2f1151412ebed39a4ba71b53eb230a8226eb0019ea8d0137550",
+      "claimed_at": "2026-03-24T08:09:59Z",
+      "signature": "4c523ad378327963603111a83ed1a539936f1f5808751b589d19f8d18baf4b1e898c5f3cd73c11e4502400dcc9f08043954921ba05088e1fc8cb70ac322f9a0b"
+    },
+    {
+      "agent_name": "akpabullet",
+      "agent_number": 1972,
+      "owner_hash": "c984900d5b8d485112dfb7d7ae4bcaffa00e755205b8f3e47f1eba4456515c05",
+      "claimed_at": "2026-03-24T08:13:33Z",
+      "signature": "e18346587dc27ca4434d74a736bad14b72164e565fee423488e912c1266e5dbf22ac39b57198a04ec2e6f472504b0139a9fe0b33d259190b9d9261d1d5547700"
     }
   ]
 }
