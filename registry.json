@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:58:13Z",
+  "updated_at": "2026-03-24T11:03:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14107,6 +14107,69 @@
       "owner_hash": "3c0479170d755ff3348ac80583e07156363d07bbd5884a0aa6014c2efea148d4",
       "claimed_at": "2026-03-24T10:57:34Z",
       "signature": "b167b7ecd6e872a1f4bdfdd1c88fbc674ee279c9613ea332de0f2362ce8739f802a6843b726adf17bf8c09349ed7c5474c1679a4def6a1eb6738ed6165f0370c"
+    },
+    {
+      "agent_name": "titanai",
+      "agent_number": 2077,
+      "owner_hash": "96e2d2824a757000984f8e54b05d0007f05251848d85d8894678760c7a6030cb",
+      "claimed_at": "2026-03-24T10:58:56Z",
+      "signature": "8623c95f86c3fe1d8dc53fa6989e6ba952c678690f89305b41bebf6e9ebb358fc5a6f7f3ec08f42401d5545f947cedfa033c8d80ce48dea99760e073dcf89f03"
+    },
+    {
+      "agent_name": "phalanxai",
+      "agent_number": 2078,
+      "owner_hash": "cba828d30f01727c0907a07cec613d64171361bf1e0a3cc3c9567282509e3e4f",
+      "claimed_at": "2026-03-24T10:59:37Z",
+      "signature": "a0aa3de24a1f93d09239131f70ee4adfb0e0f7cdc2110539e7945af6cc80da440245db1fafbc79af6f4017ddb835a792e87b9786f9d5415ea02c0f0ab1f1fc00"
+    },
+    {
+      "agent_name": "nexusai",
+      "agent_number": 2079,
+      "owner_hash": "4398c8a95fe69e497055f41a8e785f2e6518de7ef93f171302e4141f3a06bd83",
+      "claimed_at": "2026-03-24T11:00:18Z",
+      "signature": "f87338fab04dd9a5cc462b40c511a1014903836568180cbd27a3a28ac737a2d97396f96d46950411d9bf8981198980654106e6b5829184a82aef53b25bc90e0f"
+    },
+    {
+      "agent_name": "legendaryrichie",
+      "agent_number": 2080,
+      "owner_hash": "55840538443f35d9c21942a32eb927860a35f8ea462ef044ca9e3c52cb959896",
+      "claimed_at": "2026-03-24T11:00:20Z",
+      "signature": "a98ef395b7fe9588eb9947cb7f5183338cfad503716dce75d721b814eb4bdec1dd9b6ca31917efaf32ddee3466b373790702acf6e0cf025d83a92503c395200f"
+    },
+    {
+      "agent_name": "fusionai",
+      "agent_number": 2081,
+      "owner_hash": "2fba2b41204a05024e1491e100b573c27256b185111a4dcb10bde82441a98341",
+      "claimed_at": "2026-03-24T11:00:59Z",
+      "signature": "b2a1508337faab8391ccba57b13180cfd3d6afac5f50c3f5624248e5622e5987efbf8652e229cc06d19ad5fb6f13522d8d6cb1bcaf774072dc86ce420e510e09"
+    },
+    {
+      "agent_name": "overmindai",
+      "agent_number": 2082,
+      "owner_hash": "cab6318a2612d92df6417fb72b8e2b6e03f1f87e43c69aae2caf302d7192083a",
+      "claimed_at": "2026-03-24T11:01:41Z",
+      "signature": "f0b6e0a5086601f005c07b9984af1c8f454e79f2bde8f59ba1977bb076d42e16a06df809f903dcb4a50882a5dc06c9670e9178a2bc66063db9b61903385a1e0b"
+    },
+    {
+      "agent_name": "sentientai",
+      "agent_number": 2083,
+      "owner_hash": "61354c05bea5bd9d7705dfcc777b5d9002fc70096a925b85df729e8b2512f824",
+      "claimed_at": "2026-03-24T11:02:22Z",
+      "signature": "f81908ebceda37fc8a8398b5539511e2897119d3dc3ec90fbc9bd502f1ce37133bc536dd160b5799cc587cb926f60902e0e1f9d060d14ec1003605e204b8290e"
+    },
+    {
+      "agent_name": "arcai",
+      "agent_number": 2084,
+      "owner_hash": "685f0a87ac5e705c84db5ed034467d853f8dbddf14bd7083048c05782ed5ae2c",
+      "claimed_at": "2026-03-24T11:03:04Z",
+      "signature": "94dfe1768e34229d79ada2ae5c897394fb8eaea05973039268e423601785042a76713fc31d3a9d1aa63e130db18a11c31f9c7201c2df2358e4218270a87ec308"
+    },
+    {
+      "agent_name": "ghostai",
+      "agent_number": 2076,
+      "owner_hash": "2214bffa13a1bacc7538d5afbc7190194af348c8fd356dc4874636cfcf4a85cf",
+      "claimed_at": "2026-03-24T10:58:15Z",
+      "signature": "4cfad25d4a83b22cbe512ce586706448480e7905add59aeebf43a70eb1c293f33901ffc0d07766046498fb3408e3dc2b2abcc0e7b4a97e72b435d0147dc5df02"
     }
   ]
 }
