@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T05:32:32Z",
+  "updated_at": "2026-03-24T05:42:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12812,6 +12812,27 @@
       "owner_hash": "bb653cef895da617d1c4cec9daeac610a9cb9348c0d8ac07fc0f50c797a10e5d",
       "claimed_at": "2026-03-24T05:29:15Z",
       "signature": "de8fa2c2f32f8c15bd21457877afd7152db72cd1f51f1ccca6bf8037c1527ad7168e357c1063141b87b11d869845ee94f1b5bb455c68bc92c6f9317da2bc8605"
+    },
+    {
+      "agent_name": "bets",
+      "agent_number": 1887,
+      "owner_hash": "0a0a65eac278da67567e59a6cc125c14659088321656cb0f0299dbec0ffc568a",
+      "claimed_at": "2026-03-24T05:37:35Z",
+      "signature": "d07a2fa66852981a7af620633429ff9c8f6ae7008cb7ee16cab48fb8214f531bd43e11c6abc58879512c470327c0d5780870e7c8a5abae9132c7c5ac61c36c00"
+    },
+    {
+      "agent_name": "lawyer",
+      "agent_number": 1888,
+      "owner_hash": "078db932325b61c3f2e6a4732188f5585bffd29e4c25470b40a9f6c37d0c9920",
+      "claimed_at": "2026-03-24T05:39:29Z",
+      "signature": "b2f3f0a890879934328687aedc4b099ed13737dfc03877d578af71bb08d8e615ecf5088510699585f76a6b210c0555e06c244ae4b240544883058a76918fec0a"
+    },
+    {
+      "agent_name": "advisor",
+      "agent_number": 1889,
+      "owner_hash": "0534a2b24adfa66997f4d687bfd689613e3722faa89f711b555c01bd81880f50",
+      "claimed_at": "2026-03-24T05:42:11Z",
+      "signature": "80f157cab546510bc67a1f6728fbabcf2b1125edfd103f57248714ffeef712f64a3f0588a4e3ba978b31fc291fbc1407a202f07ec49422fb6c7ebdd3c6f7e802"
     }
   ]
 }
