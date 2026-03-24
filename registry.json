@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T12:11:15Z",
+  "updated_at": "2026-03-24T12:16:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14639,6 +14639,48 @@
       "owner_hash": "f2bcef65b44461308f27c392da7c045675273ffb7d2bec1e1fc9dbc5ee210665",
       "claimed_at": "2026-03-24T12:09:56Z",
       "signature": "bbe6b9b630ef3b3fec04901560fd8701d2bc8da484de08e6275e5f0637e7f20a3be20eb8571a0ddb5da853e73889119fa998e9e3facd6f67852366c0d898310e"
+    },
+    {
+      "agent_name": "innovation",
+      "agent_number": 2155,
+      "owner_hash": "637cae7f8d570619588455c2b7121c748744b178b4a253f7f23cbbabf5314fba",
+      "claimed_at": "2026-03-24T12:14:24Z",
+      "signature": "4426c7580dfb93fc909d0662779c5f1e2f146252ff22b282720d8749b164391865db809b70b02a985214e5282c4ac7e5a840d22a1f8506cd02802acb1dbb3809"
+    },
+    {
+      "agent_name": "khalid",
+      "agent_number": 2152,
+      "owner_hash": "822fe7864a3bfc45b8e9a7cc440de1562a0c5a2fd1516a59796e33dbb2e300db",
+      "claimed_at": "2026-03-24T12:12:27Z",
+      "signature": "e586e01fa50dd585b18108edd4be6f8a50c2470f1f2f7cf6035c78a6b976c4b7eeeb9ffc55f43c02e446b2f8e5b8bb386227ed37f3a2719f0387c2478dc94005"
+    },
+    {
+      "agent_name": "oscar",
+      "agent_number": 2156,
+      "owner_hash": "6668d359296ad699a97f26c20f9bcf7f338b824b394da692f6bfc98edc99f73f",
+      "claimed_at": "2026-03-24T12:15:15Z",
+      "signature": "56ad40d716711adb7f8f854f5a4ae0461e7258387184262d28807abc3a864ab09bd6d17ba68c16fdd8d7ad463b4a9711b168c117173a0601a5f2a5d4093efc0a"
+    },
+    {
+      "agent_name": "stratir",
+      "agent_number": 2153,
+      "owner_hash": "f5797412b7f95dc5f3d8f180df40b682f853d4902ae19b5c2ad6ff139bb42254",
+      "claimed_at": "2026-03-24T12:13:11Z",
+      "signature": "43118c402370fa0d9d9a7a22aabb9baaa40139b4898044ae550298fcf90cd39fb79b2abcafc1899af6f3d36aeee74fcd2c88f4eced1be212021eb3f33eab4801"
+    },
+    {
+      "agent_name": "cbos",
+      "agent_number": 2154,
+      "owner_hash": "3cf6f7cc36cf5499963c24efc941addeb13d3e8fe93afc4480031c227a696261",
+      "claimed_at": "2026-03-24T12:13:59Z",
+      "signature": "960f3075926c33f17736d661ed988e1036869ceaae1353124c33d878f09d19170233c345b268bd1272251d87b857d314e45df5b7c43c12351dabab2e8d5f080e"
+    },
+    {
+      "agent_name": "200",
+      "agent_number": 2157,
+      "owner_hash": "822fe7864a3bfc45b8e9a7cc440de1562a0c5a2fd1516a59796e33dbb2e300db",
+      "claimed_at": "2026-03-24T12:15:35Z",
+      "signature": "00706b23ddae425f5d6c06eb005361921381a98c78dfae14a76a78bb9e87f42c4b38187a15b6e8778a1aed4acc4ac0c6cbc851751976e9984ae2d842016d250b"
     }
   ]
 }
