@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T01:21:50Z",
+  "updated_at": "2026-03-24T01:26:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12231,6 +12231,41 @@
       "owner_hash": "59ce32639bcdfe2a07bd147f89428cbe230ac1c7559ec6ac87dbeb6ce9338d3e",
       "claimed_at": "2026-03-24T01:20:17Z",
       "signature": "c1317e341df6840bd67b5ff34e1be319d9566c1d57dbcd5322f7eb9ec8dd3bbc937332facc36be9661fe0550b537c1389ce7a676f6ff1f5c3cfbb4742bc2e90e"
+    },
+    {
+      "agent_name": "store",
+      "agent_number": 1804,
+      "owner_hash": "a10e885b31d8cd27d8694ec3f2c2e3ff4921167be529217e2515325349c265d4",
+      "claimed_at": "2026-03-24T01:21:55Z",
+      "signature": "4820e1454f0d3dd8e757a81814a6e4fb4460aeaaa978d37cf8c75c2090140f68d0bb216c0558a84142a784caceae1091f485820f882704bfb00b18d614cac107"
+    },
+    {
+      "agent_name": "vivek",
+      "agent_number": 1805,
+      "owner_hash": "2323a9be29f3dfa74af61bf2d258869c9582d68b5b6d9adae3016e1e10620103",
+      "claimed_at": "2026-03-24T01:23:12Z",
+      "signature": "86a5e1ea266f8abc8a985233fc0e013669c07ec11297d526c07413d7cf47666801128fb2990fa246034e4eeead6a8a7eea6641ca33aba40508bfce29a8691a0b"
+    },
+    {
+      "agent_name": "govinda",
+      "agent_number": 1806,
+      "owner_hash": "096e078ac901df19f59600b2544a414517ab3ea0ec2af5dde340298c448a272f",
+      "claimed_at": "2026-03-24T01:24:52Z",
+      "signature": "38787921215d444f9e8cc8ec383c89ceea967d6a8d46265f9900fca63638a58aeaa4928f9f9fae5105a96edd10d0aff08dd8c694f74a13ce5f359a9f545ef209"
+    },
+    {
+      "agent_name": "dalandanilo",
+      "agent_number": 1807,
+      "owner_hash": "0d1579225a2e9a1e36ef1803804256804ed20022c35b33fb515d1631e6712f3f",
+      "claimed_at": "2026-03-24T01:24:52Z",
+      "signature": "9effde05a41720ab3b5c91cad77d4a31366d36e5a2ebab74d6b47db419897f94b73e6fdd0fe0ddeb561fe99c538dc18548717105f0b94c6183586baa5985e606"
+    },
+    {
+      "agent_name": "cook",
+      "agent_number": 1808,
+      "owner_hash": "855cd7f7bee95cf253d37fabc7df2c25bc0df5521e0c7ea5e766fc748f5a3e53",
+      "claimed_at": "2026-03-24T01:26:13Z",
+      "signature": "67fe66f4c8bdbf2d08c735d4bbee6f822cc7e8769f0bea81f8612883b910618683e6688b63699b545141726d2cd83867354d8bfd5500b1d316e8521daecccb09"
     }
   ]
 }
