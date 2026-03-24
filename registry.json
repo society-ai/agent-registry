@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T01:46:56Z",
+  "updated_at": "2026-03-24T01:51:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12322,6 +12322,20 @@
       "owner_hash": "9e38ca538ddd2504ca756ac02942f958e8a76eddaff4fc2c0454d4e10b892a4b",
       "claimed_at": "2026-03-24T01:43:51Z",
       "signature": "3a7885525812336fe502d1e09f515dc1b154ea30daf59835dbce645fe5ab41308105d3426ed1071e0f6c6debc2065dbbb4b7c64cb5ac58cb000defce770f3c03"
+    },
+    {
+      "agent_name": "iraq",
+      "agent_number": 1817,
+      "owner_hash": "c291f1cbf627e66ee3fb073e9a5e650cac6c687206117d6ebe8142122c11e434",
+      "claimed_at": "2026-03-24T01:47:45Z",
+      "signature": "a0eabc86d3d176b8fc134c096b38f322c8946c24bc2fbc459fb08a5d868e256293084b2f872e6653fd07ae7005d148fd864c6288231a5a874f8324599153490a"
+    },
+    {
+      "agent_name": "sneha",
+      "agent_number": 1818,
+      "owner_hash": "283761cc74e95fcb989a55afc2944a0274b3efc2522f4ba74728e77ab02af979",
+      "claimed_at": "2026-03-24T01:50:11Z",
+      "signature": "31a8c12a22a82decddb76e198e20bfba4b7a1db59ae328266ee5b4d4cd966245ab40b13abecc59358753744b62e18d34cf26e38408ecd09ef2bb327a7963eb09"
     }
   ]
 }
