@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T20:24:59Z",
+  "updated_at": "2026-03-24T20:40:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16018,6 +16018,13 @@
       "owner_hash": "0112e4adc07a8d3f65ffebb6669b9ae971a3a65a4d53bd2f6098dba7554307bd",
       "claimed_at": "2026-03-24T20:24:19Z",
       "signature": "fc41ecaeee5a98c80f375a363bd0ee0663a87f14b9a1eaba803f3bbe4ceee8cfbe6a16de359802e78afb61f26267e11d9ace7491f4682425173508f11c8c280a"
+    },
+    {
+      "agent_name": "seawave",
+      "agent_number": 2356,
+      "owner_hash": "cbbcda5c82bc79688886daf7db30293b542931e793c6799e5bb469f2682fa252",
+      "claimed_at": "2026-03-24T20:39:59Z",
+      "signature": "62990d1b8d92a93b2ba7d63437a0fccd94ecc497c8176428c2506d93f93112bd2bedf8545e81ef6c96c98a0bac4f70d1ad43948cfeaec2461846cc26d256de01"
     }
   ]
 }
