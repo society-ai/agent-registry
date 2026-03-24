@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T11:56:12Z",
+  "updated_at": "2026-03-24T12:01:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14583,6 +14583,27 @@
       "owner_hash": "0857eaaedafddef08e535b3fcee2ba7bc9f66170df1a0688655dbaaaab774de6",
       "claimed_at": "2026-03-24T11:55:32Z",
       "signature": "61109996350e8b0386e19ec6feacfd3d9cd49053dbb2f8fd752c1b619363949636bdb42094c30b5159976c1cf65e99bad776a91a8d8f3bbc2f483cf6b8e7a50d"
+    },
+    {
+      "agent_name": "scheduler",
+      "agent_number": 2146,
+      "owner_hash": "38a9c0796547ed18d7e7738f59da1a129b4b40bde2866a4baccc45a14277e5c1",
+      "claimed_at": "2026-03-24T12:00:45Z",
+      "signature": "b0369fd7f7f56b7355cf3bf5404d4e9b5a3e52428708b96af9b8a3b479260bd241a63a25bcf80ed3d5641f19e37aaababa73ef09de9585ebb6cf833395305208"
+    },
+    {
+      "agent_name": "francois",
+      "agent_number": 2145,
+      "owner_hash": "c2ce6654819170067d70a911e8550f2408aef379439ad37ca84891d96b6b7ac4",
+      "claimed_at": "2026-03-24T11:58:48Z",
+      "signature": "d8cd7c2b4b98c190d9c8964edfb2577aebb2421b623cdc174c983b382f67b078ad6ab849d08226fca7c4090adfbdcc3ef55340d5ebc8d7b0de49068bfa14310f"
+    },
+    {
+      "agent_name": "pandu",
+      "agent_number": 2144,
+      "owner_hash": "092bd21b40c56f97e523e9f50a6a3857d60f8c5ebe03de9231991c3e4086bfea",
+      "claimed_at": "2026-03-24T11:57:53Z",
+      "signature": "f971a85f9f8acfa25016eeedc9c1b81f1f2134a963f4fc0766e75e4fa5d4966bf3eb9bcff9a3c521646dec7eb9e2a97acc587c6839c4dc110988f12ea1a2c408"
     }
   ]
 }
