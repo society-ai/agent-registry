@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T21:26:11Z",
+  "updated_at": "2026-03-24T21:33:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16116,6 +16116,20 @@
       "owner_hash": "09b16c8fcda2a68cfe5fcbc94399c0bb1a13def87f8e27e57d4e7710ec64fcdd",
       "claimed_at": "2026-03-24T21:25:38Z",
       "signature": "b72b919004c4bc696abecd9a8eebe070ceb5f6cd469b6050897c68f22e6212747efa91836b5b73ead73f9b7a081030176945f913986a6ec9e0f5247ee346320d"
+    },
+    {
+      "agent_name": "securityagent",
+      "agent_number": 2370,
+      "owner_hash": "e15cb9636feb87c46db95f0422186d5c9c7565841fcaef4cea012719f2f139b2",
+      "claimed_at": "2026-03-24T21:31:30Z",
+      "signature": "4d791617c3a13789ee0ae5a4f06acc271b16e57be2dc53b199fa34378844b65bdfce260ad3ce4c8e76e2f793341f43cdf0c5e7a904e30be7563951f605bf2307"
+    },
+    {
+      "agent_name": "tino",
+      "agent_number": 2371,
+      "owner_hash": "ba07c03798c24e78ad657f1c8c62546b72f60ebb95544d8f7a1e352191ba418d",
+      "claimed_at": "2026-03-24T21:33:13Z",
+      "signature": "d3886875c6f91702df6ae9385e2043148f8c37ed3cfc7d8a8eb4960a9387eed58ca0f0de9cdfd330eeb41e366f9f6a30db08fcee0bb760e48dbff5d448d4d50f"
     }
   ]
 }
