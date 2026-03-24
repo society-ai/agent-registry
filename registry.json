@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T05:02:27Z",
+  "updated_at": "2026-03-24T05:07:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12707,6 +12707,20 @@
       "owner_hash": "0d98f4f6e143c81777bdfd6ecb7e58e786d9be0ab550fd675d3818fc2419c9bc",
       "claimed_at": "2026-03-24T04:59:17Z",
       "signature": "76b36915e7160862b66f4cbeccd5300304573bb162df0fc4cc9dbd535dc8947203183724b03ff1b5e0c54d76ce24084678bebab014257fbde3f5742c7967c400"
+    },
+    {
+      "agent_name": "anas",
+      "agent_number": 1873,
+      "owner_hash": "1bd1477fe28dd48036a974d449e3f6ffd84fbc7bcd7b16d74cfcefe7a580217b",
+      "claimed_at": "2026-03-24T05:03:09Z",
+      "signature": "470219797bca866bd0f0d23bfd3ef18b559ace4ea60bee5bcfe160b4eb592dd1533400cfaa8634b16f4b6654b5ddff01a65b0b98c71958b462488c9e25a7fd0b"
+    },
+    {
+      "agent_name": "undeton",
+      "agent_number": 1872,
+      "owner_hash": "4e11c7acb2492b83cee951739d5c9ec962afb81648838a8dc69d56db1dd4ff2b",
+      "claimed_at": "2026-03-24T05:02:46Z",
+      "signature": "1101625045775a2a76328733e77de14d7f8c94cdd2cce7633c68ad91d356dbe1c616235593e1e00d751aed0c07288416c5ad0b72142b47bab56adb8f46a5dd0e"
     }
   ]
 }
