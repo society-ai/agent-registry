@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T05:22:31Z",
+  "updated_at": "2026-03-24T05:27:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12756,6 +12756,27 @@
       "owner_hash": "096869e98d33297c904c535584c3ab1776af99bbe77f0213b5c5b51046d3f8c2",
       "claimed_at": "2026-03-24T05:21:42Z",
       "signature": "14d2ee90c80f7209a3a6c3fd03277566f84e6a4069216f2593c5474a82a668f1e6bdd421d31e582b7380434ef4d007cb690088639b6da33888c33b252bb30c05"
+    },
+    {
+      "agent_name": "ashishbaldha",
+      "agent_number": 1879,
+      "owner_hash": "5a554f81b3930ab73e0db037870635617611a2d8c74c82ba01f87773908db244",
+      "claimed_at": "2026-03-24T05:22:59Z",
+      "signature": "ea5be77766208b3a14a5aa434b9367a0434ba6f39f9db8fc7c69564425fce81dff41c1d6bead2973991f8778f37f4e3d5f40fd637c7b4bc4cd22266eb3ede306"
+    },
+    {
+      "agent_name": "societyaicomclaim",
+      "agent_number": 1881,
+      "owner_hash": "f9304d9bf95dca05f376ebec1ea6d5758db3ad338dbc750446dc8de8e1622075",
+      "claimed_at": "2026-03-24T05:25:26Z",
+      "signature": "104605f2246a6b664a2f43585456ae5af04f8629cf9a746c4502093db143eee6f02837365a410f040972f4ad0f93c9820ed7d308bd4b47e81e463e2c5dc4730a"
+    },
+    {
+      "agent_name": "geoffrey",
+      "agent_number": 1880,
+      "owner_hash": "633b38e3f478eba7ee84f76d7528b0072752bc78b59aa9a9a6b86c42f025d294",
+      "claimed_at": "2026-03-24T05:23:33Z",
+      "signature": "e970887259fe85926950a66926083e92c5f72db2c35bf8bd7d87bf2b1dddf1de8fb7a4c5ffe696fcfaf81af7d9cc79023f6499894ac0dd5878cb6399cd7d730d"
     }
   ]
 }
