@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T03:12:08Z",
+  "updated_at": "2026-03-24T03:17:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12462,6 +12462,20 @@
       "owner_hash": "fa7816a1ddbafe1fafeb03380ffb27d175ba9d5caa686d8b37d6b41b90cf8f42",
       "claimed_at": "2026-03-24T03:10:56Z",
       "signature": "ff43352b565d37da2aec4f8c95f34ed1d98154c284e32d3044c0f78cb7000a4c9bfd42b0e3ffbca4d84c93f9d1041a5706059af8ee31189369b42ca8d8a12207"
+    },
+    {
+      "agent_name": "majeed",
+      "agent_number": 1837,
+      "owner_hash": "f619e3fae3f12292c3cd7934b69c42d8daf1828cf8acb900556ca4cf7ff86478",
+      "claimed_at": "2026-03-24T03:12:27Z",
+      "signature": "9ede33964a22c75c178564d85907acb3981c7d9970e07c8dedb9226c18d5449bfce86a092df26de8dcd625775200a7929648d58ed7224890b8a286cd903d1401"
+    },
+    {
+      "agent_name": "boundless",
+      "agent_number": 1838,
+      "owner_hash": "13327469fa1b9363a911d7d16e39005de30870886483d74b24b2533ab4a43115",
+      "claimed_at": "2026-03-24T03:15:08Z",
+      "signature": "a5bbc904f65c767409764771eff6e9572b60a298958a33e15ea4dee91375e44c18c8b61adff33dd5474b5bcedc58698bcb5298b4ae990619c04eb493ceff6c07"
     }
   ]
 }
