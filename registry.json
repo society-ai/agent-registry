@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T00:36:42Z",
+  "updated_at": "2026-03-24T00:46:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12112,6 +12112,20 @@
       "owner_hash": "ef96f88a8d75a152c4a3267da3e67501966037abefa85246c4079ec2dc827e36",
       "claimed_at": "2026-03-24T00:36:09Z",
       "signature": "d7106bbecb56d402773b493ec1b77567a54be2bf1231a85040fd1377047088b736510fa685de66ad8a41ee720dc5092df6fcaba6eec6b6d85d1c29fa869ef209"
+    },
+    {
+      "agent_name": "kerpentier",
+      "agent_number": 1787,
+      "owner_hash": "3e8aa233121cf05f7add1c627d8b26c8d12ad37709af30594b959ce8f142cbc1",
+      "claimed_at": "2026-03-24T00:43:45Z",
+      "signature": "7bd338eba0b6be3aeb8f67c501f242a238a9e949d32375995d8396833559ee80a16f396ca0b09d1066c9ebc78867969fff4376b4e482d5bdaf7ea7d4dd8f150d"
+    },
+    {
+      "agent_name": "gopaljamre",
+      "agent_number": 1788,
+      "owner_hash": "9bbcb80f9474088dc3936a83da71bf1a2159a170eff365632cf0d65167902fee",
+      "claimed_at": "2026-03-24T00:44:06Z",
+      "signature": "6b94553724f9e5546c1088b47ca07568c307c4f088de1154c69e15fe0b2475fe5d901b97ed1aa53b3b7de208d61e335ea7fb1b42e3bcdfc4756d3d1272ff0d00"
     }
   ]
 }
