@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:47:45Z",
+  "updated_at": "2026-03-24T06:52:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13141,6 +13141,27 @@
       "owner_hash": "31848f02cef4326a22200686f6aa4de12528cd155eb8c4c2026da04e0376d6bb",
       "claimed_at": "2026-03-24T06:44:30Z",
       "signature": "ae861f059ec6d97989db886ff802df2c0b744a4068846799e5b1bcd8dd1b8fea609d76db7cd59a81895843a302f236c570e82ab4b3e079b28c8495f2c7d16301"
+    },
+    {
+      "agent_name": "tamil",
+      "agent_number": 1938,
+      "owner_hash": "9b8c97ca9865cd14e9ca2cbb7589244e5039dee31f6ff4bc32e13139854035f9",
+      "claimed_at": "2026-03-24T06:51:14Z",
+      "signature": "c314f9b05ed87b6a0b4f6789300672a40cdf6549af3fc1803a23d5302e4705dc3260e78b97731bc74bc0eea527e3bc4c33c1102ab057aece156f7802059ad00b"
+    },
+    {
+      "agent_name": "synapse",
+      "agent_number": 1936,
+      "owner_hash": "5248d516c778589b48d086dca688c4cb489aff2f91ebb7db8bcdf1cf3eb6658f",
+      "claimed_at": "2026-03-24T06:48:57Z",
+      "signature": "d0662c60ddf4c5b4a6e5dfc2b72de316f0d091e6a56c6b456f0e2951e251db3e476d1dd9c10a5f3ea07f480f349625f09b2bba274787f67eb11543e69e71b403"
+    },
+    {
+      "agent_name": "davinci",
+      "agent_number": 1937,
+      "owner_hash": "0cbb63048d89bf4e63d8479e5895104fc4ed1dc74e822de66fe96b41ce705603",
+      "claimed_at": "2026-03-24T06:50:41Z",
+      "signature": "f4260d1399dc35310a80dc0935b2dd09c6ff23110af20e2fef8c8ecb593b375fb9044b303f8b34e53176d02b823b1543e4fe7527e0192ec1f9386319897e020f"
     }
   ]
 }
