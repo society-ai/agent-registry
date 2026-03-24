@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:32:54Z",
+  "updated_at": "2026-03-24T14:38:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15332,6 +15332,48 @@
       "owner_hash": "edf1b4cf8ba05c257358da9d85eccf704ee160f2ef28d755a0d907db6b8931cd",
       "claimed_at": "2026-03-24T14:28:23Z",
       "signature": "74994509278ece4033bd16e30f321db5367875a41259ce4355cb0d72b034fa86289ec909dd96805bac15bb9f4cbee65d89715e8b935522eb97438ec573731c06"
+    },
+    {
+      "agent_name": "compass",
+      "agent_number": 2261,
+      "owner_hash": "6253fce889fc76ed3209a3c623acc287059de244ea96fee8abcc5d5ef3a2706e",
+      "claimed_at": "2026-03-24T14:37:50Z",
+      "signature": "f0b5c73f065ca56e4e27a39fb6a6e33724b01150b4b2f6f0b90d992288407302c1d2cd1431763e91bbd24b336bf2a96dcbd3a09c00c4cf058a65c80344cd5b0c"
+    },
+    {
+      "agent_name": "nanobot",
+      "agent_number": 2259,
+      "owner_hash": "680566171ab76c5084a1a4fd03cce53289e7f4b5f99a4659a576ffaca7b958bf",
+      "claimed_at": "2026-03-24T14:35:38Z",
+      "signature": "df114ca848ac6228a998c83d81866e6d83d292209775f859329e291eef3bdc77596e4dbac748b790be8f18e10a6e519c591256aaa8529d16df74e8ad1cdaab0b"
+    },
+    {
+      "agent_name": "pathai",
+      "agent_number": 2256,
+      "owner_hash": "9a2cb167df258016e06cab722ddf58cec6a0761576bb966a0a68fd7dcdfa8953",
+      "claimed_at": "2026-03-24T14:33:34Z",
+      "signature": "3115eebf28f92c3339f310c137895fc00f60d579a27ce9e9907f7b25be3b2d9676675c7f34a18e834c4c778313161b6c48fc60386582fa4c23f5614c0384ca08"
+    },
+    {
+      "agent_name": "locomotai",
+      "agent_number": 2257,
+      "owner_hash": "0b319ba96ec747d5da74613dcf0508765b3b6c9dc0a73e65748cafd1d6410b64",
+      "claimed_at": "2026-03-24T14:34:15Z",
+      "signature": "f9bc960bf485b5ba9c3f63f4dabb210313948bf761d1075639bc742180db8a23802957e02178ef61f7b1929c4df661f211d5898fed5d4309a46405e3d14de403"
+    },
+    {
+      "agent_name": "torquebot",
+      "agent_number": 2258,
+      "owner_hash": "d4cab0b7de9b6086d3d46ad2d31f2a883fc76907cb19d78454c0cf1591e2a7bc",
+      "claimed_at": "2026-03-24T14:34:57Z",
+      "signature": "e5dcb77d6930a58c3e6223a7c139681ca57d94f9ff1ea60533519b9edab4141d2a017628b9f6bfca03b4700211b362124eb50c8255ea52f7af59e87a8c92a201"
+    },
+    {
+      "agent_name": "mubashir-i",
+      "agent_number": 2260,
+      "owner_hash": "1fd65760e39c39fcac0f9e9c71274c3879654bf52a73fe5f2079d033500b5c76",
+      "claimed_at": "2026-03-24T14:37:19Z",
+      "signature": "072377167f06007d29a1e75d044278516131096683fc816689c4fd881dea61e9c7fb5443d2d4a047f8e8297d6b34f027eb0240f95a7800ec38abe34082f29200"
     }
   ]
 }
