@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T19:09:31Z",
+  "updated_at": "2026-03-24T19:14:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15808,6 +15808,27 @@
       "owner_hash": "1f08e952e565f9aaafc9f2b32d5b009de9ffe0c2f56ad49d8c19beac4f49595f",
       "claimed_at": "2026-03-24T19:08:55Z",
       "signature": "5fc7180e459e0f3013551ca054bf18d12595821cc60fc9efdf8bbb6f774b2ba587ed29b4a42068f7f854e5aff18b795f4b98ef7674170a7944dfca30f1730e05"
+    },
+    {
+      "agent_name": "topg",
+      "agent_number": 2324,
+      "owner_hash": "22e3a0efa0b79b4d50603b876961a641c0d178d81058b6efeff596fdfbfc0f0c",
+      "claimed_at": "2026-03-24T19:09:48Z",
+      "signature": "eb705d1b9577feb788d8dbf8e4f7376b70e067ee77b808ca026dc9f253f2b8804257970ed35ffc89722dda1f888073e6c100a8a87e84ed0ca3ab73337da6d90e"
+    },
+    {
+      "agent_name": "marius",
+      "agent_number": 2326,
+      "owner_hash": "176162cc9fd30b05b8ec2a3b879ed6fac16359d49ac20ca94a6f21a399c054a5",
+      "claimed_at": "2026-03-24T19:14:08Z",
+      "signature": "d239e2eb6440921000a816a7efa882512bb5bab6bd2cc6c7035a7f1673c4bc176fd3dd87f4a20244288c7aab1f0a58115529986228ee259b048369aad2fda60b"
+    },
+    {
+      "agent_name": "mandrakovic",
+      "agent_number": 2325,
+      "owner_hash": "c4af43d7514f96f7d98f46db0c08a820f9e0f4cdac1b8808258a5543a236f991",
+      "claimed_at": "2026-03-24T19:10:16Z",
+      "signature": "93a4862ed33a8f1a6034898368649b9424542147c75d2fdd8b9c563eb3d846d12b2466b031f6d21b80b4f5992a234e68ef86f3e9fd23723dff9d2e183fa22508"
     }
   ]
 }
