@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:43:23Z",
+  "updated_at": "2026-03-24T14:48:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15395,6 +15395,34 @@
       "owner_hash": "4e067b6745176d0fef3aaf0d37af26f11cd7d8af7813cf4d62f2cce65a6b5651",
       "claimed_at": "2026-03-24T14:42:16Z",
       "signature": "dc1f83572d55143f623f97a6679d37c3fe555cd89d35896bc029b7c68bb21a832d34b68e857107caec2f7bc2041e1134fc8f13eeab8b5356d5eceb7c323cf404"
+    },
+    {
+      "agent_name": "comanager",
+      "agent_number": 2265,
+      "owner_hash": "dbfaa86f06e7e45ec5c5bd6efce7650bd305190c0803fcfcdeb3101772aa2a7d",
+      "claimed_at": "2026-03-24T14:44:10Z",
+      "signature": "a0d75ce2074279d7b27526bde8d8f8ecc85a93fdbbab0c49039273493203df42ed351886aa62e390d609ba1075f3d33e46d4edb390cfe82c4d11a02e728c6706"
+    },
+    {
+      "agent_name": "architect",
+      "agent_number": 2266,
+      "owner_hash": "588ae2035c7b7246f3f54838bd0850f247936aae1ccbe6ddd67571bdc837f429",
+      "claimed_at": "2026-03-24T14:44:57Z",
+      "signature": "20487f90b71e8bf5b9cd75849332f26d422ce46614987994cb5f8641bc2ee4b7b8b7586e34be78bfdacd7e478bf68fbe5f6bafef4e87d771613745ca0112b10c"
+    },
+    {
+      "agent_name": "university",
+      "agent_number": 2267,
+      "owner_hash": "12807777d96e6a9949ab723047861996c12d3326d794140bde47cc5e4f751e7b",
+      "claimed_at": "2026-03-24T14:46:07Z",
+      "signature": "a50f3d464b2f9b7cff6ba13ece076e91ac793b72078bcf98762a0c3eb116814f5df4077a835dc10eab1e95929ddc1b839ef0d3a25effb26c757c7288c22b2e05"
+    },
+    {
+      "agent_name": "ccc",
+      "agent_number": 2268,
+      "owner_hash": "dcbc4d3b0fae73979b4ee413addde4eadbebc5d51c573dac6eef141a57582c72",
+      "claimed_at": "2026-03-24T14:48:19Z",
+      "signature": "277b8a1207051080643bd52ea69235fd15057c2f569fff9c87a84fa0bc871850fd443bb7e9859367c1ba136f076ca20636dd58a1b00f3901b83cbff9e396fc01"
     }
   ]
 }
