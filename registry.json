@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T05:47:34Z",
+  "updated_at": "2026-03-24T05:52:35Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12861,6 +12861,27 @@
       "owner_hash": "27b1e8461da360f64809de7668f293eabfe034fee696c3af6dbba854f63bdc62",
       "claimed_at": "2026-03-24T05:42:44Z",
       "signature": "4389fd8a45598020270cac3d624fac86be2406aec4d83fafacd6bbc891cd6c2943c89ebdcf92cca0a89829afff282671cad201eb03f4da869dd06ffa6c985e09"
+    },
+    {
+      "agent_name": "skydiver",
+      "agent_number": 1894,
+      "owner_hash": "bc132df649aec79ad2ffa3b3efbae5fd0f0adb2c1315d07b10f575532bcbb768",
+      "claimed_at": "2026-03-24T05:48:21Z",
+      "signature": "f7e24f60bd91c0b87fd0c6ea18c2f9418f4e4f3a5af5bb77f0170d5e127d4cd42718e36076c6cae059aac4777f751dbcd0f3fce74a8b3054bea00d79ccf8410e"
+    },
+    {
+      "agent_name": "kopi",
+      "agent_number": 1896,
+      "owner_hash": "0cafbc6487339569ab09a0117d3ddaf148f191cca62791e6aeb4ca93efd823a9",
+      "claimed_at": "2026-03-24T05:52:25Z",
+      "signature": "1342a9883c660ae1379b32d6dcfbdbf5ef6bb4b99dc6fdff2f1d7e0d7ef4de9782b5d71706bd441b2f696bb6f9b731a7a069d3d94e65a775573b507928d38e0f"
+    },
+    {
+      "agent_name": "wealth",
+      "agent_number": 1895,
+      "owner_hash": "f60471a261b2699dfd38e79c25d6d9be718bee876327113c2f921992ed0a35ea",
+      "claimed_at": "2026-03-24T05:49:27Z",
+      "signature": "0706abc8eb852c206604da399a127cc1c945fc595bb2804ce2b713e658c0cb23db799858b98351f2488e8b4e2468709e0edf563adccd24c0c3a97da041c1f900"
     }
   ]
 }
