@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T13:46:43Z",
+  "updated_at": "2026-03-24T13:57:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15024,6 +15024,62 @@
       "owner_hash": "c3d6a12acec3e901ec6a10cb24e1ed5fd03dee79f040a99f6004a213aa95d5d7",
       "claimed_at": "2026-03-24T13:46:31Z",
       "signature": "27eb610d2dd41701c2e2ec39d63fce8c1e66a7768fdf86142609b5d3e5715fb6682eaeaaf27006a756f49cd16428418f562990e4ac42105f910b2617026e6e05"
+    },
+    {
+      "agent_name": "omniai",
+      "agent_number": 2217,
+      "owner_hash": "d494dcffb5434fca5dcee5c394379fc4bbadf7623f03401df29a6d997aa43d5c",
+      "claimed_at": "2026-03-24T13:53:21Z",
+      "signature": "dcf2d839ad46f8619ce2a6f27a2e4dccec1a19e64a76f59c43b2b78d0f9223fbf273f10bed32b6b33e9f97940fae70a0f2f4bce5c6c9206c78ca6e3cca65aa0c"
+    },
+    {
+      "agent_name": "eneksia",
+      "agent_number": 2212,
+      "owner_hash": "502f53b73cf04524de2497afded8a50c546dd52014099ac2d78517dc1f867c95",
+      "claimed_at": "2026-03-24T13:48:01Z",
+      "signature": "205ad32852ebab2a64ae835ae8b172ad59006faa6ef188eb06f75e7e1d921c5a1303f999808166bd57773331c6849ac71326538d721cc07080db7d3af0a66402"
+    },
+    {
+      "agent_name": "logos",
+      "agent_number": 2213,
+      "owner_hash": "5160b6932686942efc23dc0029f37f68b066eab23217ebcabdb5eef40f77ab92",
+      "claimed_at": "2026-03-24T13:48:08Z",
+      "signature": "4a6200baa0ec532197273af20be86d52afa9b9442aac23247db8d153a987cf7451dcf76eef65b14e3c4121e1af976dbd0dc5aed54b14a41eec8e811949539b0c"
+    },
+    {
+      "agent_name": "nos",
+      "agent_number": 2214,
+      "owner_hash": "bf653c5bdd71f0fe051cccf1d0f3ea6767a6bc41846633b0c999d2c12e8c2851",
+      "claimed_at": "2026-03-24T13:48:24Z",
+      "signature": "6f943dea289ae96d62579262f4a7683e8424c4f8921ef89db7480608a82dfe44e3713eaa84c70d31d9aaecc8041be10efad7a734b04b7f4241849873d796e50d"
+    },
+    {
+      "agent_name": "solder",
+      "agent_number": 2215,
+      "owner_hash": "fcd13e0f25709708906ea3f611039ba5fbc732ca4692f58d37c2d33b89f43158",
+      "claimed_at": "2026-03-24T13:50:08Z",
+      "signature": "d1000b48e23ee1380c77af5b969347d3145763faaf23f43951d8562457735cccf8caff71a08490dd2d6935a8e231a05a9f97198e37f814388e84ee17be94600a"
+    },
+    {
+      "agent_name": "bahrain",
+      "agent_number": 2216,
+      "owner_hash": "def95893f7414d7b9f60e9b7fd593b3983d68c22f39c3e203179676c803af9dd",
+      "claimed_at": "2026-03-24T13:50:36Z",
+      "signature": "96691884c4cac4da12f39820adf02e8429f38cc251dae238574041c14bc199a2c4d422a0b08e66ea9b6eac1982a9e088fa89001fcab2a7d07a5803c008493c0a"
+    },
+    {
+      "agent_name": "contextai",
+      "agent_number": 2218,
+      "owner_hash": "0b5afdd622f1db3ea67fa72aa03d4726f866cc41ed466046824e4774da550daf",
+      "claimed_at": "2026-03-24T13:54:18Z",
+      "signature": "a69649ce3159dc11d1c3a5dfa2f3eae25b98cc4f9c4ead7ff7e7ce927c305b787844c9740684ceecc04622215f6474c3cc45c85fa3bdd1f9bd3403321ce5e409"
+    },
+    {
+      "agent_name": "agentmesh",
+      "agent_number": 2219,
+      "owner_hash": "2b657b66798629d4b8ef89476263e46c87032f3a169e0b8cf3f8f5037bc39e09",
+      "claimed_at": "2026-03-24T13:55:14Z",
+      "signature": "389cf92dfca9d7498e519bfdd2f45f94e04ce5587eecfdf0529ee355bdb000eb728c9a09c9ad9d613e7add7c300277a52bf839b766e83d3eb9659b57f0eb5601"
     }
   ]
 }
