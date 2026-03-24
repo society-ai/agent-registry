@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T00:46:43Z",
+  "updated_at": "2026-03-24T00:51:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12126,6 +12126,20 @@
       "owner_hash": "9bbcb80f9474088dc3936a83da71bf1a2159a170eff365632cf0d65167902fee",
       "claimed_at": "2026-03-24T00:44:06Z",
       "signature": "6b94553724f9e5546c1088b47ca07568c307c4f088de1154c69e15fe0b2475fe5d901b97ed1aa53b3b7de208d61e335ea7fb1b42e3bcdfc4756d3d1272ff0d00"
+    },
+    {
+      "agent_name": "bebosalah",
+      "agent_number": 1790,
+      "owner_hash": "e4d79c5f1e6da6c462ebbf01932c62793289c9c6e00d667cfadd87e7fecfe4e6",
+      "claimed_at": "2026-03-24T00:48:37Z",
+      "signature": "927a5c8d30d2d021f9f1cfe18d81bf018dc472c5eeaaf99a73db78f3b487192ee2507c624ec80855828181db7c3e340cff04e8b9d6f12cf9065821307e9e7202"
+    },
+    {
+      "agent_name": "neurosurgery",
+      "agent_number": 1789,
+      "owner_hash": "98dec3c8475ebf5350ae1a1b2897cf405e9628dad5f655daa2d7908a2353c4c6",
+      "claimed_at": "2026-03-24T00:47:04Z",
+      "signature": "5a8eaf183d20343bdbd7f5ea8dd63d3b5539068adc23189ebe4a4b621bf59db4533ff9da096b9a5625f0063ad9c01af7c049c24721689c9fdd504fa98ad75100"
     }
   ]
 }
