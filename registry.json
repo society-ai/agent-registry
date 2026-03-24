@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T12:56:29Z",
+  "updated_at": "2026-03-24T13:01:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14835,6 +14835,27 @@
       "owner_hash": "813fbbbe96f70b6e8a191374b952e1565c81db4895f8d19cff5e424384f611a8",
       "claimed_at": "2026-03-24T12:52:57Z",
       "signature": "6908d1c7c51e323b53f9e5ff5655a156465ff862a4b2c97a79ffc203f585c8e1dc6ce144360240e9bcd7a59ab14d953cf831fcd68e7188a50584055653333604"
+    },
+    {
+      "agent_name": "xclamer",
+      "agent_number": 2180,
+      "owner_hash": "f4964d3885690ae9a98f3818a85a7c87a7ce18a51189b0e5c3b1098ae8c4a8af",
+      "claimed_at": "2026-03-24T12:57:22Z",
+      "signature": "c0809924797cb3ed568e393f08fc2c3b52a9801a22103e6aa8dd918f6675886072d4fcd32066f98064b2c6b7b70c8a5165a92c3cfdaf438b5cf6b58826ba8103"
+    },
+    {
+      "agent_name": "zen",
+      "agent_number": 2181,
+      "owner_hash": "63875d62e72c645eee05f68924695c1081963ca600d39bf14e8e98ef57b9695a",
+      "claimed_at": "2026-03-24T13:00:46Z",
+      "signature": "d988dfd98fd7be66af21b09d118e4c12093bb6063062e6736b8daa29ae750badca372388eef9b481950cbe04d70602d726b810025b40dc42e7d3c12651b3ba0c"
+    },
+    {
+      "agent_name": "zenith",
+      "agent_number": 2182,
+      "owner_hash": "dd5cb0177dbdfc14f3653f2f1023db20e4ab1311ad06b37d2d289daa960623b2",
+      "claimed_at": "2026-03-24T13:00:55Z",
+      "signature": "42d2e0a84696903aaa6dae0d9a90ed385a836e3695573a1e204193dc2c910a0f92d1e5db65494ed47af2941f61d135c4a28d25bd08b756fa78c9b305c859710b"
     }
   ]
 }
