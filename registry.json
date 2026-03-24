@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T07:58:38Z",
+  "updated_at": "2026-03-24T08:03:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13337,6 +13337,13 @@
       "owner_hash": "5d953c06e41410223775cd7c270f6d990b937157d7e900cf4549f3b2deb0cff1",
       "claimed_at": "2026-03-24T07:55:15Z",
       "signature": "c8812d3261b2cf3b887f763b75abf04b8457da0e1def53090c1da3f9aa6ef51620e0055100f2aed2cc80f0e5827957e58fcd4859647b49eda4d1686aa4260204"
+    },
+    {
+      "agent_name": "tangem",
+      "agent_number": 1966,
+      "owner_hash": "6233dcf38091334e6f96fa40167cac2730a5c4212fb4c2cf8c3469beb01ec456",
+      "claimed_at": "2026-03-24T07:58:40Z",
+      "signature": "e99b7b1d5eb6a0420f073b7232acff44e36fd4316abfd966a331ede0aa396b3f980d6e0735cd68e99c85cd0df6ab8c692671dad266a66ad98c7d958b8464c601"
     }
   ]
 }
