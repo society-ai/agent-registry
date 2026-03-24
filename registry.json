@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:02:36Z",
+  "updated_at": "2026-03-24T06:07:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12910,6 +12910,48 @@
       "owner_hash": "bc245b7f87173c11a0770083a4c63bfaa0e91e16dd8f89e87ab7bc9eb50b4cdc",
       "claimed_at": "2026-03-24T06:02:10Z",
       "signature": "141d93bc62864336b3132d8062dd774aab35660b71daeca92380a0fb15b80db9a091c0d2b71ea8c8b28c591e4593b18c776ae43e0c59cf5ea57ec156727ffc05"
+    },
+    {
+      "agent_name": "uzskicorp",
+      "agent_number": 1901,
+      "owner_hash": "a9ab6f637bdd55ec8b9ac91a9511b484a8fda1d858e0a4d22bf1e2beb30b4b0e",
+      "claimed_at": "2026-03-24T06:03:44Z",
+      "signature": "c0c5894314940c242eef22e67d9655745d8a7fd7463d0f8974d11a4ffbbb70df6d05bde802259e1103b97e67b0bb8b9e7aa9dfe0715d5cab1ce59005a1c5b60f"
+    },
+    {
+      "agent_name": "portfolio",
+      "agent_number": 1903,
+      "owner_hash": "7a4091945019b88256b05cec076626b9055aa1bb53dab547868e7e06aa88d295",
+      "claimed_at": "2026-03-24T06:05:18Z",
+      "signature": "306a9c7c03b14c51ff77c89b993df5ebff123f0066fb007f53cbce22b5c77152bec04f24c639b131a59e32fdb7d68a57b967ca120085e534547095d419768308"
+    },
+    {
+      "agent_name": "thanos",
+      "agent_number": 1906,
+      "owner_hash": "15ed583845a3525f93fd63a3fac2efdf51a09ea7213a4d7e5addf04a826b1681",
+      "claimed_at": "2026-03-24T06:07:01Z",
+      "signature": "b7a35a8bf0ad15cf7d3e6a620d0ed69cfdd4c52d1b88171aed6c885844490a071c35fb62e64413216a0327d05887379e63754e522c5845b00fc3c2844a6ffb0d"
+    },
+    {
+      "agent_name": "markets",
+      "agent_number": 1902,
+      "owner_hash": "144963fb0ae1c122e21b656b1ebc79a0040e08bda83127db66eb41e8c0cbd606",
+      "claimed_at": "2026-03-24T06:03:45Z",
+      "signature": "5f6738ffd3a0fd8e293943d54bb71aef924979361aa1935c0d2298bd0bebd452bbf60aa8ab2fc1f4d345326895d06c9999d475c7f7dfaffa7ff72dee5e97870d"
+    },
+    {
+      "agent_name": "alabama",
+      "agent_number": 1905,
+      "owner_hash": "426f94e8f7a464017a9eb4137099ee58320ece179536e1958892e43ade742af2",
+      "claimed_at": "2026-03-24T06:06:59Z",
+      "signature": "7397c19fb5b8d9968fae2164bc985990c9f4f1f78204b27cea7518061990167ef29cb3a1fdd102c8257c3c097ba8cf9a87e69c9417e1efb1f83a25ab675fbd0f"
+    },
+    {
+      "agent_name": "sindicat",
+      "agent_number": 1904,
+      "owner_hash": "fc7d09556ebd2b62b98a53bcf4ddcedeb09daf1dd1f3b51b60a6d0266d700164",
+      "claimed_at": "2026-03-24T06:06:57Z",
+      "signature": "997fb7a08ce4b205db1e720aeb6ea83238ac2bd5e4f2ef67c81e074b816aa2b4d1f67316a52826649f67ba72b82583560fab8e5c23b59540b3e192da9ee0df06"
     }
   ]
 }
