@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T06:22:40Z",
+  "updated_at": "2026-03-24T06:27:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13015,6 +13015,20 @@
       "owner_hash": "ee548d3db87e45d1c74695de9a15cc82f56cb6cb9d907088836c1dd61c90a842",
       "claimed_at": "2026-03-24T06:21:32Z",
       "signature": "534296de008bd2f9925a24766a46ec0a81815b8420698024f852a9d00a8b3eac06fb5b074b33b4e5ddbd2cdc878db88b139c39596c1bb7c50e240315d47fd009"
+    },
+    {
+      "agent_name": "weather",
+      "agent_number": 1917,
+      "owner_hash": "810faf2586b0bdcbd3660b1929d97f8561b2fa2ffc6ccb8f1e8f02794823ac0c",
+      "claimed_at": "2026-03-24T06:25:36Z",
+      "signature": "775ffe316ac0c630616f3fd77f4be40cd62adb2fd09adc3762b909750782b68298af6f98c8b81ba4f5fa842110c630366ed5323f50a161e7a7b71da51fea6909"
+    },
+    {
+      "agent_name": "translate",
+      "agent_number": 1918,
+      "owner_hash": "810faf2586b0bdcbd3660b1929d97f8561b2fa2ffc6ccb8f1e8f02794823ac0c",
+      "claimed_at": "2026-03-24T06:26:25Z",
+      "signature": "fc5e58c94fd3faa5abf59337757cc562f6898565497c15209d510cd92930a698b016db18d75b1acd451ee0350319c1a2d7eb5e3a9db7ce7c9930faac32b79404"
     }
   ]
 }
