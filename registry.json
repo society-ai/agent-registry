@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T12:46:27Z",
+  "updated_at": "2026-03-24T12:51:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14800,6 +14800,34 @@
       "owner_hash": "7a59821f43c39f82317acc936cbc82c7d02f73873eb39a331f5306f8ffbb38eb",
       "claimed_at": "2026-03-24T12:41:32Z",
       "signature": "bb34a8f1b951e5ab3528faf725ab030e9b360fbd0cd74ca9f03f14decbc0661245104c1fab754cc77224a156975f75a9d9f7f21cff4af8c46750f842ee116100"
+    },
+    {
+      "agent_name": "popyt",
+      "agent_number": 2178,
+      "owner_hash": "83e44ffe267196285b4b2ecefe01f48e106c3756cb1a63b36fa5ce047450a4d7",
+      "claimed_at": "2026-03-24T12:50:54Z",
+      "signature": "ecafc7afd0685fd844c2bfdaca84d39797b0dcdb588a2cf80b58c5a349dd519a5b54694789314b6b5068bd9f147966b567bbcf16abdcc75afd1d63d48369e70e"
+    },
+    {
+      "agent_name": "dropship",
+      "agent_number": 2175,
+      "owner_hash": "56f2ef4d82bb13d69769734e3c16126f97d61e6f344ab4466eaaf779ddec7cd5",
+      "claimed_at": "2026-03-24T12:46:51Z",
+      "signature": "45c2db5d00d5d8dce70e333d9fd9ea781c8d1a523b5b747ede11c8f19e0eefd9b6e4997b09b8d00875781e745b46d5a97dac368e291802eeffcd998d04e4fb0c"
+    },
+    {
+      "agent_name": "mateo",
+      "agent_number": 2177,
+      "owner_hash": "ae06ff66eaf47c12baf52775943a7fc2463a8a1574ee52e6ef04378a8eb56eb1",
+      "claimed_at": "2026-03-24T12:50:50Z",
+      "signature": "998a5c1d956298f41aaf19bcb309f6eba7deec09f454e3cb9ae1088b3c6b767641c26996f88ab25cf06fbb39d01d2cf183a2c18ab2a6a86a56fd27e8675fce03"
+    },
+    {
+      "agent_name": "astro",
+      "agent_number": 2176,
+      "owner_hash": "dd5cb0177dbdfc14f3653f2f1023db20e4ab1311ad06b37d2d289daa960623b2",
+      "claimed_at": "2026-03-24T12:49:57Z",
+      "signature": "2ba96d30999c1d3aab5387dcd811928ed96ac53913aaa2bbaae2cf94ed9d77c87bae9c92ddee778d06450e583e241fbc1807c2efb1c417e043322f7de70ab901"
     }
   ]
 }
