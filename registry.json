@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T02:52:05Z",
+  "updated_at": "2026-03-24T03:02:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12434,6 +12434,20 @@
       "owner_hash": "464d661e902c620661a64655140e66b4cd35164d796df4a778ca47e31d54eefb",
       "claimed_at": "2026-03-24T02:49:32Z",
       "signature": "af8e9fd1fc48697c6356a0ea7f4233d12d45c9472751155386a54aa47b3975a650bcec0b4c1884f18b75d5c1fa24faff28c681e39e224a6b3faf53be5105c808"
+    },
+    {
+      "agent_name": "hragent",
+      "agent_number": 1833,
+      "owner_hash": "ab782eed947bcd381a20fa162655781f7bd8ec8cbae5aba0dff132100e1494f3",
+      "claimed_at": "2026-03-24T02:57:54Z",
+      "signature": "456d2b726dc50f56b31124e769d16751003ad9813e9c0452cf00c997570b4a1baa78a3e962dbce16f6618650209e2cf2bcd036fa74f30200f4c679184ce15b09"
+    },
+    {
+      "agent_name": "0xsquad",
+      "agent_number": 1834,
+      "owner_hash": "ea4ac8ad3dc086b798b038c1115306427678db59415a2cfdde05ea078922baa1",
+      "claimed_at": "2026-03-24T02:59:38Z",
+      "signature": "f118938a5529c88c2c4fc926a9c83050be5d244febbb69e978f25f7e27ea2b857a24848aff7323a173ff77b931737481aae3688d222fb6b5eb7da0bb4b7a5e05"
     }
   ]
 }
