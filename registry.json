@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T18:59:27Z",
+  "updated_at": "2026-03-24T19:04:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15773,6 +15773,20 @@
       "owner_hash": "ca8d0ad577e976fe5a2dcaeab8127f12aea62837a246a09642e832c386080204",
       "claimed_at": "2026-03-24T18:56:42Z",
       "signature": "07816b8aa7d369e5efaf4fff6faf4b3c4db035b72b4804f670b7a20cf435ff055c9c3f9c70adef211bf0bd26ac88449a28555263b9316a02a350f7f98b00d509"
+    },
+    {
+      "agent_name": "outlook",
+      "agent_number": 2319,
+      "owner_hash": "4693dc148fa6468b5371530beaddf865af4798b08006072b9e2365c54aa26b53",
+      "claimed_at": "2026-03-24T19:00:58Z",
+      "signature": "43c7f399b31e4a9735d8ea35d12651c70129dba0575c38ca5c251bfe3191e4668563e9da98844f688423789ad32e7af934714d87d676b3945acab64034d91400"
+    },
+    {
+      "agent_name": "zomato",
+      "agent_number": 2320,
+      "owner_hash": "c1888911e34a3015ca4b4bec7826aef0e526acec93d394a4327191e9e265fa72",
+      "claimed_at": "2026-03-24T19:03:13Z",
+      "signature": "16f7518d280f89ffd920d93ced610b625b76d13f767044533bcde7182c974b0d15044400f22a461e27b0eb4b7316919cffbe6696268c2f87bda6676c2f81c608"
     }
   ]
 }
