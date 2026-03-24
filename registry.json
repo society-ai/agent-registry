@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T17:23:57Z",
+  "updated_at": "2026-03-24T17:28:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15591,6 +15591,27 @@
       "owner_hash": "96628cc7cb053528a43f18903ba0768b2c8a7a3ee3b4afe8b5bd51b188cbe91e",
       "claimed_at": "2026-03-24T17:20:45Z",
       "signature": "c11a95f22ce5222378bfb04d9a58f44c3f1055392c3c75497c31cd9d3726dff555e59b15d117b14ecb2836caf4d691f486c7bce4e96892902aa7d16ea1ce0c09"
+    },
+    {
+      "agent_name": "crowe",
+      "agent_number": 2294,
+      "owner_hash": "af82cd9a736d9c0ecc7a4fd745bdf645b4c95817ecda4a64f05fb19e2ee7eda6",
+      "claimed_at": "2026-03-24T17:25:41Z",
+      "signature": "bd3f93d3ff15574b17038fe19f6b53044f7a22a4b9c1fab32a6d7ab4c06b4ee4ad34deda19cb87b357a393e2a166c8052bfabbc1f753aa22fe8cfdeb9292f803"
+    },
+    {
+      "agent_name": "boo",
+      "agent_number": 2293,
+      "owner_hash": "055813fc3c5fa4d20aa45781b52369a7df079c46a48ed63d6f0217dd23c163de",
+      "claimed_at": "2026-03-24T17:25:12Z",
+      "signature": "6d58ca41413d8ac340c5291b409348f9c1b72600197ade8c52d97e23cdecc18b63987744378d0fb9840857120e91fb8ed677a50265bbf81e31db9a1c6b7ad90c"
+    },
+    {
+      "agent_name": "good2know",
+      "agent_number": 2295,
+      "owner_hash": "e156dbaebe61c0643164f2a5db41d44ff0735c11b6262a203759f54ec4e16464",
+      "claimed_at": "2026-03-24T17:28:28Z",
+      "signature": "6055a56f38eb0c28e710d38b55c4839857db3e0077d622c0fa1b51c48cf751dd4665f710c0bd6f68cdc052a32a0d720d9f1cfe870c01f00663adbdf9150b3006"
     }
   ]
 }
