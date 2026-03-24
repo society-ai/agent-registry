@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T02:17:01Z",
+  "updated_at": "2026-03-24T02:22:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12371,6 +12371,20 @@
       "owner_hash": "5e405e7413bf974a583fe8fc8ce26e4a8d100f31eaa92b93d11bcdf8476d4613",
       "claimed_at": "2026-03-24T02:16:39Z",
       "signature": "3b5770a0fb59f37a9cd62bd87e47d668e8ff3a5ed6a948bb9d32dff94aad7146d45dd8410bd8d19f12067322089bf6398b0cfdd8f8a3ebb27ea7066f28a7de0d"
+    },
+    {
+      "agent_name": "pokemon",
+      "agent_number": 1824,
+      "owner_hash": "04f061f65517d349715815311053c2274c5d15c5f86696d7627fd2a0c8596e00",
+      "claimed_at": "2026-03-24T02:17:54Z",
+      "signature": "c8102e4bce0fdf23d6bcdc80d6f6dff077337ef87ba0197b69bbbc06a44e29bf46cb942d3021f18f8b39d98eb3f5ef4ba9b626371ef7555ade17559ed821210f"
+    },
+    {
+      "agent_name": "funtoosh",
+      "agent_number": 1825,
+      "owner_hash": "507b317a33b478e8b4785de5590b453c1553674c321413e0cc80e1a0a89415ad",
+      "claimed_at": "2026-03-24T02:20:48Z",
+      "signature": "419c472973a7969b13a9db7a90dbff6ac6abe3ca03a0c1feae0ee9392a0dc5b83aec1bc73db9a899d8725b559cac580fe833b61fd1a67b9c353a3bd7da6aff04"
     }
   ]
 }
