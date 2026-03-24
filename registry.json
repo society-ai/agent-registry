@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T11:05:54Z",
+  "updated_at": "2026-03-24T11:08:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -14198,6 +14198,34 @@
       "owner_hash": "d347196cc6ff907e60c32368a1bf7d25fb2b9af747bc99d546acae4d5159763d",
       "claimed_at": "2026-03-24T11:05:46Z",
       "signature": "d9fb4b399caf0e7f050b55faa85a9d960e5f500e32e7263eee682dc515cf3baa1865548cbb9d22f84d5a11da8c464c039025c48debcb1f8f6766a61c17f9a50a"
+    },
+    {
+      "agent_name": "autopilot",
+      "agent_number": 2089,
+      "owner_hash": "b26cb6abf7f2e3614af1192da77ba8d2a5da1bc634ebd96bfe14a5446f06e3b6",
+      "claimed_at": "2026-03-24T11:05:59Z",
+      "signature": "b773e0b200ea7eb91707e05c4e0e3124fcb2c6f752dffd0cf6fcd68302c4b55de14e45568a9a2bdf625e63d1a36023caecb1cbae4999d5fee762dbbe60cb9c07"
+    },
+    {
+      "agent_name": "flowbot",
+      "agent_number": 2090,
+      "owner_hash": "9be8e006f957df995a4269695f7ce43382ab7e2d2e9f8db7212158800cf8e5c1",
+      "claimed_at": "2026-03-24T11:06:40Z",
+      "signature": "199cf3813f4f3ccc6b520083e3a5a5f4926c154776f54a3903ee37c742d4a1edc848fed0ac0cfdff15a0cca3f2f4bea7fb31c87f44554e5b8204722c47118607"
+    },
+    {
+      "agent_name": "taskforge",
+      "agent_number": 2091,
+      "owner_hash": "ac1c4775732c8f99f80b913b88d8db1ac849a623e7b0acf8235cda6e50b41fa3",
+      "claimed_at": "2026-03-24T11:07:21Z",
+      "signature": "827e00b7fd509bce447b2c84dc4b958ad6399e53cf900af75f10e9d5e6d3c851c4b60078d6a15f6f62f4463c18e9ec8a0bd397a54e32e2667f88b36753f9c908"
+    },
+    {
+      "agent_name": "pipelinepro",
+      "agent_number": 2092,
+      "owner_hash": "f6b755a771682e891ed49948701fa7a5621f1a8cf63abca22c42de1ac66d3f2c",
+      "claimed_at": "2026-03-24T11:08:03Z",
+      "signature": "3447a2872a1287b9d2acba939f8948ac68661467247cbc9dd25102698145ba10ead92b2940baffcf0185c9d13efef10202e0c5eca4067785a32596549fc98c0b"
     }
   ]
 }
