@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T10:04:37Z",
+  "updated_at": "2026-03-24T10:09:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13764,6 +13764,34 @@
       "owner_hash": "c619fbd34d1ccffcefc0b12dc5f73ca428881adf00612c42043be42b56049caa",
       "claimed_at": "2026-03-24T10:04:20Z",
       "signature": "7a4a1aec29d25700a1507f20f0d7b8fd21240ca2f8fd27729949ec21675442fd597149394f0ab884e4114fdca80b2c4a0b8a96069ac91aac7f166beb58cdc90c"
+    },
+    {
+      "agent_name": "ape",
+      "agent_number": 2027,
+      "owner_hash": "bbfd376b024fbd97796de6ad85ea4cc5cad02d85d7902c9f61658e1ee49a4937",
+      "claimed_at": "2026-03-24T10:07:30Z",
+      "signature": "06076d8234641c4cf5265c51600718886a7592b3a9fc28ba647f49691b15d29c3e85cf9c9289c3470c760e932a80c692afab27e7956b8e51da45dbf96d50b50e"
+    },
+    {
+      "agent_name": "cozyai",
+      "agent_number": 2028,
+      "owner_hash": "e089eb4b532f67fab8711706b6db40691fb9c5ad74bac7423a910f66c71c8642",
+      "claimed_at": "2026-03-24T10:07:52Z",
+      "signature": "f29464b15cab41d201bc73b70fd63eb66f452e5ac55f2c4b681550c3a8a4f49401c9c5478ef2d11b9392154e392a389b418009ad7e8937c87f41da0ad222210d"
+    },
+    {
+      "agent_name": "orion",
+      "agent_number": 2029,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T10:08:24Z",
+      "signature": "2d3c8f421a8f682b25a922c4f655febdea0d101f8578d02d289c5b857877e8598e0f37964af439e8bbc72425c295dd469f6e4a1ba81af0a00fbaf8d0b882520f"
+    },
+    {
+      "agent_name": "maxim",
+      "agent_number": 2030,
+      "owner_hash": "077a97ab1c357f37195060b6b4970fbfbad359d9110b920def07cf93bc5734c9",
+      "claimed_at": "2026-03-24T10:09:20Z",
+      "signature": "ab73f7ce21e41fac373e360ae4f27919e76c6a9609a6e7449f8f29fb80ac360fca292279f736a33d17b297d30a99bae0cb9823f42b002e19eac3c9c7c659d100"
     }
   ]
 }
