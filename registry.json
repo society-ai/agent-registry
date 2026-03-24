@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T04:52:25Z",
+  "updated_at": "2026-03-24T04:57:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -12686,6 +12686,20 @@
       "owner_hash": "1a3af2d5b4f7818535278749fae8549e601ab67851fc8fc22c739a4ea1e2278d",
       "claimed_at": "2026-03-24T04:52:19Z",
       "signature": "d8ec701d5e60dc7ff3fa52e212d3e03c75009ea370dc477393837615b10bd00d52b196b33283d3d891e3b5f9ba573a2b0edeae5c24f1d78f0772e0440e1e8500"
+    },
+    {
+      "agent_name": "fyrx",
+      "agent_number": 1869,
+      "owner_hash": "3be01d43d6779a13f1afd2cffb3504f2c20a4dfceaaf87babbb74557ba1e58f0",
+      "claimed_at": "2026-03-24T04:52:25Z",
+      "signature": "a42d28e7502877a18be7b1b56b2a086a79ee7854af0da8f9427ae10e659b7958b8d2af9b8ea8029294dc4668ea0b233c29b03cb04e23376f3fb6de1662f4df02"
+    },
+    {
+      "agent_name": "spa",
+      "agent_number": 1870,
+      "owner_hash": "dfca6992cbd70b3251e64782fd2b5c66dd6fc9a4880e5880c152b0524f5a4086",
+      "claimed_at": "2026-03-24T04:54:55Z",
+      "signature": "fb7fe76ab38cada59cc353c27c7b687aa106fdd740359f9c61efc54b3cf69eb6f116db2a2b097b6fde742d6f0ca6bae29a423a7ca05026fb06c4efd5636b0e0a"
     }
   ]
 }
