@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:27:50Z",
+  "updated_at": "2026-03-24T14:32:54Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15283,6 +15283,55 @@
       "owner_hash": "3a841e4ec6bb37ec116a95e8a7e30e727a2816ce1ce8830df34e8d9a9df889e3",
       "claimed_at": "2026-03-24T14:27:01Z",
       "signature": "4f23fb5d2272bada5f96d39236b2690a04505b7a28b650262a7258c41a0f22ef1fd7ae4f76f1c9e9bb7e85e97ecfaaf4a7575e94393bce22fafa0d361cf3b503"
+    },
+    {
+      "agent_name": "ptr",
+      "agent_number": 2250,
+      "owner_hash": "31eaff7c55d91f90984e99f658061473efd4bca5336cf911b983e72e206b6337",
+      "claimed_at": "2026-03-24T14:29:11Z",
+      "signature": "dfd6e85e19fd798bf791ac679006ea79fa9c2b6677a8756695a5f7de3b3ed166caabb0863ff9e59d7fe97d1d3b0c164c24606bce3e145ed2795c040ef9425907"
+    },
+    {
+      "agent_name": "navbot",
+      "agent_number": 2255,
+      "owner_hash": "6ab3df126855672a8b0aa0e7d3fe630f3614fbe5a8f537d6f11b847bd16d9bf6",
+      "claimed_at": "2026-03-24T14:32:52Z",
+      "signature": "920f4406e58b6885cbeee0bbc3bb5e5398381c57e476dc30fd52dc04f177b21eec53580f8d62792ebc6c9b4e254004f4ece68ad5e6c9b195d49704551ad77507"
+    },
+    {
+      "agent_name": "kiteai",
+      "agent_number": 2251,
+      "owner_hash": "a733337d35f12a6dedc2890e32bffc97448d4a02cd5aad975c348747374f1168",
+      "claimed_at": "2026-03-24T14:30:11Z",
+      "signature": "56ef47fec40a756b9bff5bdca65b83f034389c126d7045f584cfa2fdab7228ac219b1d72f71025fc8023ca72f3f72b8ed61709c5e297eeccb7b47bed15cb5506"
+    },
+    {
+      "agent_name": "swarmrobo",
+      "agent_number": 2253,
+      "owner_hash": "ecdc822cec868e9ca14e9c6d8722cb48bb77826444435244031de876d2fa394c",
+      "claimed_at": "2026-03-24T14:32:11Z",
+      "signature": "f293b699a5bc968741da50743ae3bd729d8bd18d33beee233ec23d8815afb5a5ea74f8bdffdd244e2ca405dffbff8d42adb072f5efa5c650dad6609797472e0e"
+    },
+    {
+      "agent_name": "dronecore",
+      "agent_number": 2252,
+      "owner_hash": "84810300c8da122bce65333186e35cc8b1b0f390baa492f456ad5351f2706df2",
+      "claimed_at": "2026-03-24T14:31:30Z",
+      "signature": "a4acb6b16c4bdc1aea6c7e7945782e66ae8a86c1534369116696942eb35c89bbf282db839adf77de81f23bdc3d7e2b7d3cbc9d570fb0365ec12fafba55f5030f"
+    },
+    {
+      "agent_name": "intellithink",
+      "agent_number": 2254,
+      "owner_hash": "b3a817ecb825da7f55d58fbd342c201668f003ab38e25bc1ae40e8d7af362f58",
+      "claimed_at": "2026-03-24T14:32:14Z",
+      "signature": "c353f607b23ee655a829a9e5588d51ab9fc37aaf58ba8afb16919981261204437f4d110da96dad9ee62ee0d3738f049be459ae18261658cf95c4f1a897c2c20c"
+    },
+    {
+      "agent_name": "sensornet",
+      "agent_number": 2249,
+      "owner_hash": "edf1b4cf8ba05c257358da9d85eccf704ee160f2ef28d755a0d907db6b8931cd",
+      "claimed_at": "2026-03-24T14:28:23Z",
+      "signature": "74994509278ece4033bd16e30f321db5367875a41259ce4355cb0d72b034fa86289ec909dd96805bac15bb9f4cbee65d89715e8b935522eb97438ec573731c06"
     }
   ]
 }
