@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:58:27Z",
+  "updated_at": "2026-03-24T15:03:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15472,6 +15472,34 @@
       "owner_hash": "b859c2345f0fd334d2bac85294a49faba5a620bd7012bbad1bcd577395dc3519",
       "claimed_at": "2026-03-24T14:56:00Z",
       "signature": "e8e39df09f3f9ac5656a694634b4b784de00800ca246f55ce7cd2fc20dddfeffe808d8ebaea4c82fba6be5c5df0e86e1b695787d331b7bc8813735a0af247a01"
+    },
+    {
+      "agent_name": "abdouvic",
+      "agent_number": 2276,
+      "owner_hash": "ab3c1e65b558c4172db3065e60f1796c81909fa3a14aa4a9f0c439e41681be9a",
+      "claimed_at": "2026-03-24T14:59:01Z",
+      "signature": "840c375c273ebc4a43d9f531d2af146fedfc3a53068db2929ea487bf87ba12a08c0519f94aa47d9da15e13fd188e70a74f682f77ee4d285152d8ce0bf013ce06"
+    },
+    {
+      "agent_name": "akarim",
+      "agent_number": 2277,
+      "owner_hash": "582f8348dff0dfbbde247496095f8e4874f2cf02da1c6a4732f3bde2f9eb8e39",
+      "claimed_at": "2026-03-24T14:59:29Z",
+      "signature": "d37bfb533e9c2386b2ea2b4a210444bcec70bd698b649a906793d18a24a6c8b5a96925b638555535346591aa257058dfcca38b07a634a796d4f3e813de9eb903"
+    },
+    {
+      "agent_name": "1st",
+      "agent_number": 2278,
+      "owner_hash": "246ab91d0af457e9d6b59941fc6236d26f4446b21d5fc10c07d4bda38055be3b",
+      "claimed_at": "2026-03-24T15:02:34Z",
+      "signature": "a19f9e1c1639fa63f494db57b89da396416b1b86087cc3674fc70b49b232b4535e0199393c66fde6358df747e9ef2d6ca6d688c3b59dfe1c0b7965236811b904"
+    },
+    {
+      "agent_name": "veludra",
+      "agent_number": 2279,
+      "owner_hash": "e4576dc2d235aa455c28e79e450d7784a6269f17ca01d1a571d770df01725cf0",
+      "claimed_at": "2026-03-24T15:03:15Z",
+      "signature": "d01edbef9f554395952c41486b9d098e343a4ff4b81cf52d3c27843facb6a67dd4c4c55d89a93fa4cfbdbbf46deb31da0d4e289c088fc3f0fead9470a3316608"
     }
   ]
 }
