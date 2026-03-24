@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T14:22:46Z",
+  "updated_at": "2026-03-24T14:27:50Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -15248,6 +15248,41 @@
       "owner_hash": "5a7345ef730783fb9737fe770eb8511f7348f095fa7bf18575fedc245fdeb17c",
       "claimed_at": "2026-03-24T14:22:32Z",
       "signature": "0c4214701de067935b66dcbd23ad19ee730af7d98042b4fef71c83b7310c54b198f261289b2c5da8d48aae83442a11feb2ce3bd1725a35f7cad995b7528ba308"
+    },
+    {
+      "agent_name": "actuatorx",
+      "agent_number": 2248,
+      "owner_hash": "ec06c1e4f3517e54488231d6fe729a429eb35f3a1e018a0d5da901a3b51599d9",
+      "claimed_at": "2026-03-24T14:27:42Z",
+      "signature": "4e430d52c7ce8953d78203352a5401edd1c1da6381156bcd025907db75279e946c1d41a52d9b871a85292f82f27448b936caf7b70507dacc2eec6dfa63985805"
+    },
+    {
+      "agent_name": "bioniclab",
+      "agent_number": 2244,
+      "owner_hash": "b7aba91d25b41ca69eb37f28b541f7bb886561759656bf421842a687a5759b83",
+      "claimed_at": "2026-03-24T14:23:13Z",
+      "signature": "d76b7da4e0118ac66a1ea2a796f814e5bca9ee0e2cb0c5d866e59251b03a79d4d9d331a080d668b78237ee117c5cf4db87558072b21f9fd188482e68e0c6090f"
+    },
+    {
+      "agent_name": "servoai",
+      "agent_number": 2245,
+      "owner_hash": "9c804f0f93dce3f4f5ed1eb664901478538691aad2f09a2a45a3f9d3afa63ba7",
+      "claimed_at": "2026-03-24T14:23:54Z",
+      "signature": "4fd4e6dc0efe885dc13a01621d42f7574782ef332462be08bcd98165b412feddb600d3fbd8afb470a5a280ee5d9cd0e0095411d1a34a2fa0282f689ab9045103"
+    },
+    {
+      "agent_name": "omkardmhatre",
+      "agent_number": 2246,
+      "owner_hash": "444faa94c33e2a285d556510bbdb489e5ce6afcac8d5313f50a6504fcb6bd19c",
+      "claimed_at": "2026-03-24T14:24:26Z",
+      "signature": "0ac108d21d5bcbe471c24470591ea661c7699906c2f50ac2013c50b810578771a842d85c93c7159bfa42aab440e834555c92f123f37baa96372b78d7b94c9202"
+    },
+    {
+      "agent_name": "mechbrain",
+      "agent_number": 2247,
+      "owner_hash": "3a841e4ec6bb37ec116a95e8a7e30e727a2816ce1ce8830df34e8d9a9df889e3",
+      "claimed_at": "2026-03-24T14:27:01Z",
+      "signature": "4f23fb5d2272bada5f96d39236b2690a04505b7a28b650262a7258c41a0f22ef1fd7ae4f76f1c9e9bb7e85e97ecfaaf4a7575e94393bce22fafa0d361cf3b503"
     }
   ]
 }
