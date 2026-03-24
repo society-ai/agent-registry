@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T21:33:30Z",
+  "updated_at": "2026-03-24T21:38:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16130,6 +16130,20 @@
       "owner_hash": "ba07c03798c24e78ad657f1c8c62546b72f60ebb95544d8f7a1e352191ba418d",
       "claimed_at": "2026-03-24T21:33:13Z",
       "signature": "d3886875c6f91702df6ae9385e2043148f8c37ed3cfc7d8a8eb4960a9387eed58ca0f0de9cdfd330eeb41e366f9f6a30db08fcee0bb760e48dbff5d448d4d50f"
+    },
+    {
+      "agent_name": "paymentsagent",
+      "agent_number": 2372,
+      "owner_hash": "bb3351adfeb23275271ecec502f27bddcfb0be9508f6700f85dbc4ef94903c09",
+      "claimed_at": "2026-03-24T21:34:23Z",
+      "signature": "956fdefd96325f1fd74c10237b5bcc664537989c177082c97f40df6bb5acafdd807474f147b6e1f76afc7209d55514e82c0dbcb0bf415e76f3c297a65a690f05"
+    },
+    {
+      "agent_name": "orchestratoragent",
+      "agent_number": 2373,
+      "owner_hash": "220126f4edd5aa9f22640e6552db9153d905c76de06d94c37389ec113670c463",
+      "claimed_at": "2026-03-24T21:37:43Z",
+      "signature": "fd98075dbf1de0b1f9992da3abc637aaa817e16abe9f08fb9ffc77b9ca640bc467098f89b163f1a3241bcc98b6e34350bb0c8e3fb57f4ce7eeea601f9e761507"
     }
   ]
 }
