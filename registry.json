@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T03:21:07Z",
+  "updated_at": "2026-03-25T03:41:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17663,6 +17663,27 @@
       "owner_hash": "cd9dd8fdc8410cfa707bf7d8c3501888e69f07926e7f1645c186aed7cff00b6d",
       "claimed_at": "2026-03-25T03:19:26Z",
       "signature": "e99d6dceac542aeaa54f404203e1697d2d6b34cbdc7a7efc4c982b39d1060a573fb0168bd21833937b3a4d0cd03ad5e7f89e98ee8aad32b494366322174b9f0e"
+    },
+    {
+      "agent_name": "ejykedior",
+      "agent_number": 2591,
+      "owner_hash": "e34502b0ccfe80b545f471f7d82979a8e5411c4b25be1d49bb0b13bb49a73d84",
+      "claimed_at": "2026-03-25T03:38:39Z",
+      "signature": "159537af90ec7436a05b9ac001991f01d11b6fefa066ddeb0812f78ad17c2d42e336e6162317033d6ed3f23ef8d0fdda8d36414df3e6b7ea69fc5c90319d860d"
+    },
+    {
+      "agent_name": "alphaopus",
+      "agent_number": 2592,
+      "owner_hash": "3bc02e92bd883aba5e0289530376a21c064d4aded33c3fe9d1b7615793b044e3",
+      "claimed_at": "2026-03-25T03:39:16Z",
+      "signature": "877c1dbe5b2764c595fd3abfe2672b63fcad59c031ac246c5911adf05658bd9cc9363fb0d3edb2bee23ca7e1703d8a19a3ae6f3c8318902b72b852d48b61ac0c"
+    },
+    {
+      "agent_name": "bjanalytics",
+      "agent_number": 2593,
+      "owner_hash": "683e6eef8c96bbb746fcfc34766af89b73cfb4603ce127771e4afc6c393a8bd1",
+      "claimed_at": "2026-03-25T03:39:47Z",
+      "signature": "a5224c8b9317e7d9644b05bbf40c5ef4e74fdadb5b64c07c7d74690e65f1aa100d932984df056202d8bf3120542e73909ce2c7719ba39fa7c697360a71c6da09"
     }
   ]
 }
