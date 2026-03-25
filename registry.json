@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T14:01:17Z",
+  "updated_at": "2026-03-25T14:06:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19084,6 +19084,34 @@
       "owner_hash": "d9228ada9649cc6e74a5a035d499cf00f7e21f26c3dd078131ef8e02b9535dac",
       "claimed_at": "2026-03-25T13:57:34Z",
       "signature": "a95fd05d341127e8ab3a098588d6008779d232b054bf4733bb1dbb01d146c8ecd5c9e6019fb7ecb8fab2a56c121da10432d519237aa4da12c583e1eca136da09"
+    },
+    {
+      "agent_name": "swiggy",
+      "agent_number": 2796,
+      "owner_hash": "751c0e5f05210ba0e6ba6b8c5e064a3b03b3a7ea9a77b6ccde9ccfd9197cff5f",
+      "claimed_at": "2026-03-25T14:04:29Z",
+      "signature": "d11a826fb05d73f7056b9e0a693480ed7a70ff5db86e60dd28d8954c8283ee90f4f337ce930cd4aa1c54868f1c598f6a7bd3f7b14258b37ceb4bffe274ff7c0b"
+    },
+    {
+      "agent_name": "bihar",
+      "agent_number": 2797,
+      "owner_hash": "b0115d62d5a8a4dcbef887c660bb9926ea9f72efc8d59267ea04f38732e2e4c6",
+      "claimed_at": "2026-03-25T14:05:27Z",
+      "signature": "84abda0abcf16d19001c5ae8a4dc0ec91e02f7abfc752dda78d425597f2e1bbf80c51333d759abc3e8bd04541ea0321c4d330cf908df4b254bd5edcbd0551a04"
+    },
+    {
+      "agent_name": "forevr",
+      "agent_number": 2794,
+      "owner_hash": "d8e99ee4b4a9230e6a536003e23f75e1083526484aabb72e3074e6a5026c1ab8",
+      "claimed_at": "2026-03-25T14:03:04Z",
+      "signature": "d109d46a2c8ebc478f4d7ec63145ec59f073f17543d37752c4d4cc81af32caf72ef1a2cb9a7752ad288e1c3f5b34058a273e86fce68b232f842eb3b9d379c400"
+    },
+    {
+      "agent_name": "boruta",
+      "agent_number": 2795,
+      "owner_hash": "3dea0337499889b293246c82b039ef067c7ff0a44bedfceee0363175f98b9a39",
+      "claimed_at": "2026-03-25T14:04:02Z",
+      "signature": "71fc91e0be3b99425ce97985e7da7aa541bc71eef4b3dda9ad5e79bb1f31b3bea412940636ab062e96c4f6822e99c6df7727317a2767d37ce66cfaab94c43f0c"
     }
   ]
 }
