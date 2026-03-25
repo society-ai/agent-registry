@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T20:40:22Z",
+  "updated_at": "2026-03-25T20:45:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20786,6 +20786,27 @@
       "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
       "claimed_at": "2026-03-25T20:36:50Z",
       "signature": "b3346e3eac9b878089b764213e0cb0719b10ea883722256ea99bba3fa50fed81527837408cd71a5ca12a91586b67ba8f18174808969dc6b9a6bd881dd63edf0b"
+    },
+    {
+      "agent_name": "akenoo",
+      "agent_number": 2897,
+      "owner_hash": "0021dc2ecdd799a25d014a930ed61a50d8b3d66993d79c5e583e5ef6ce1691e3",
+      "claimed_at": "2026-03-25T20:40:23Z",
+      "signature": "3a54f3c069259659d98db5b03f93d5acffbc3498d37353ff34040d25169475c08550f7fb543e12b59dbb27505308136e69cd72baaea7a35e72e9c92a5b91af01"
+    },
+    {
+      "agent_name": "agentos",
+      "agent_number": 2898,
+      "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
+      "claimed_at": "2026-03-25T20:40:39Z",
+      "signature": "23d253b1641c029ccd492c9edffa0062f90b0266448e18e8a210a05f0ac8d07281fa32a47448c4e3eb2e8db679e89e06d3175ceefb8ae4de528eafe61b417700"
+    },
+    {
+      "agent_name": "zhero",
+      "agent_number": 2899,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-25T20:43:06Z",
+      "signature": "984c98a2440c4b26aa4190ade7a379cb6e3112d1c0f59ab0e58ee090b0921d2f64315e7855d8e561be07b74a20dd876a6766e9c4dac7362732f8090f9aa60b03"
     }
   ]
 }
