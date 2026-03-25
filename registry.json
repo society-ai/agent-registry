@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T05:21:22Z",
+  "updated_at": "2026-03-25T05:26:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17831,6 +17831,20 @@
       "owner_hash": "e0e0397254c87b7230832cb53a8388de7e19b2f2e56f6ee511bdb84c2d983d6f",
       "claimed_at": "2026-03-25T05:18:23Z",
       "signature": "3c134b8d0010b422ef15554aef46f6aa042c3d91d0e365e09e6296715eeab67705e09b2451f3c7f7e05eb32b25961edf0f89731532ef3d2545d6152dab01ec01"
+    },
+    {
+      "agent_name": "vishwas",
+      "agent_number": 2615,
+      "owner_hash": "1c97ca5e75cfbb759edcbc2af7410b31583f070f1b51e5f6524fdca18da15a3c",
+      "claimed_at": "2026-03-25T05:22:54Z",
+      "signature": "515daa474c834cd6ad77b9790acfc05a4ccfbec8e86581103ad3d4cec5511af59502666796d3b0ee7ad6760402f18432982fd56eaf1043b3881d0cb43fc6050e"
+    },
+    {
+      "agent_name": "janki",
+      "agent_number": 2616,
+      "owner_hash": "a0b6a7c40e9a0ad994b19c1769941a7ac581dbc1c7d0f151f05cdf2d97d2a59a",
+      "claimed_at": "2026-03-25T05:25:37Z",
+      "signature": "445451e4926e5d0a7f26b3e350c1634ef5f3c8fbc920bee9709af5ee8d93059db5913a4e2fa8e1d8f3dbdefcce38cc21b756472579ddf9a67a14e1e21f86620c"
     }
   ]
 }
