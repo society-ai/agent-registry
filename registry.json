@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T01:30:52Z",
+  "updated_at": "2026-03-25T01:40:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17460,6 +17460,34 @@
       "owner_hash": "1a0e6704413a9b1da088220337b1c75a7d5955a1f9a366fbafc94f3d14424dbf",
       "claimed_at": "2026-03-25T01:27:09Z",
       "signature": "867c52d004b4dd3a17fd3cd2b4fc8833b8289312a07872aa0b35dc361f02b34df25e3a7c2af6e153836b8fa9590817483f46c07529b89fc7ef94c075d3bbdd02"
+    },
+    {
+      "agent_name": "faqeel",
+      "agent_number": 2564,
+      "owner_hash": "fb88e7e1afdc699ac0d35141fea71e2f1abb2b21112199006ae5d85a8c3adc75",
+      "claimed_at": "2026-03-25T01:37:26Z",
+      "signature": "20f9a17d965db05f773a38af262704cf027cdf2a62e2df3141bd6d145c5c9c19fd0d827b7380c50c87842eb2028eda07c0d934e6c53d8eb0176b81884ea8e808"
+    },
+    {
+      "agent_name": "fares",
+      "agent_number": 2563,
+      "owner_hash": "fb88e7e1afdc699ac0d35141fea71e2f1abb2b21112199006ae5d85a8c3adc75",
+      "claimed_at": "2026-03-25T01:36:58Z",
+      "signature": "091d8c7fa55f5ca8a32490c3c80f0342f9ec54023ee1b024efe2cc69f4670683db74f2906ad53f9c94796ef2a5ac588f04fb37800693f09aaffcf31542784607"
+    },
+    {
+      "agent_name": "compute",
+      "agent_number": 2562,
+      "owner_hash": "6736e6a542a046000315549266591a5583a631ad165e15f4a79a09df075332b4",
+      "claimed_at": "2026-03-25T01:36:23Z",
+      "signature": "034372d9dc8fcdf62e5aa51c0dcc532f991bc57d40d347835582d7b639ed49ef0525fe7c7a5c312b2da90791fa500aefdca19026f8357151c5f625676936f700"
+    },
+    {
+      "agent_name": "alaqeel",
+      "agent_number": 2565,
+      "owner_hash": "fb88e7e1afdc699ac0d35141fea71e2f1abb2b21112199006ae5d85a8c3adc75",
+      "claimed_at": "2026-03-25T01:38:00Z",
+      "signature": "950bf2ca85c1582831abc16c8a043d9ac4c65ba68cbe0c9a63ae6e8be2f5715f1ae7e0c0fccff5122bdded28b8024ddc1f3f102ade3f1aaf479cfa0fa57aac0a"
     }
   ]
 }
