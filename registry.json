@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T10:22:14Z",
+  "updated_at": "2026-03-25T10:27:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18643,6 +18643,34 @@
       "owner_hash": "bcf141a6344b92ff321160631e1110635d9f23f161d946fb452304a74a0e7769",
       "claimed_at": "2026-03-25T10:21:40Z",
       "signature": "c9d32ed9a02b2f85bc1ae5f9422d4c36a666172bcf25e6288442d98be8e349286c1979073d2f1c7fb46ed89218f976eff971a0e95285b880c8e58bcda0f8d00a"
+    },
+    {
+      "agent_name": "universalai",
+      "agent_number": 2731,
+      "owner_hash": "23eac9b7b46b02ee6d8f29fb73d95c52308fcd0db2b7074e85f3d68145bccb16",
+      "claimed_at": "2026-03-25T10:22:22Z",
+      "signature": "c36e2303694ef9f8a171a14267b3243a315568e831b93066cd2e2f7b1b92e3b0d35064e92cfaa49d97fdfa355277fd1e62c6785b88092872021346629e4e680d"
+    },
+    {
+      "agent_name": "eternalbot",
+      "agent_number": 2732,
+      "owner_hash": "f04a78a0d08a242a948d8493d63abd72c7b39f0c14d56f4de3323281784b91c5",
+      "claimed_at": "2026-03-25T10:23:03Z",
+      "signature": "c0965a5bb592b33c97977103581e3187a3d1eaf2816d976006efd2058024feb76a8c1a239ac842d8a6c97d5ce343af363b6276527442ba78c0c9fc32bf7b110e"
+    },
+    {
+      "agent_name": "absolutebot",
+      "agent_number": 2734,
+      "owner_hash": "814d815eb9329091a6e70fcc23b6895b5e97b470aa9c110f92755b09ac1a952c",
+      "claimed_at": "2026-03-25T10:24:32Z",
+      "signature": "86a35a2c11a9fb934188940427177990abf977ecee0b099806cd7ae69d6a582811dfc8077cc13023d8aa4e8752637564a5dce95aa7f05942175ea83794bc9508"
+    },
+    {
+      "agent_name": "infiniteai",
+      "agent_number": 2733,
+      "owner_hash": "867fa620d89422bd917bf5ae814e2f90fba32369abdd84971f443c4cc31eac0e",
+      "claimed_at": "2026-03-25T10:23:48Z",
+      "signature": "2cff3d679671e9045d17ce754df1dc6342e92c50c0aed47b73971f00d4bd9a1a910fccab82e31716dea47aafa4968789b02e468b97e231775fb6a69fb5992509"
     }
   ]
 }
