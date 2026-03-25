@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T01:00:45Z",
+  "updated_at": "2026-03-25T01:05:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17243,6 +17243,55 @@
       "owner_hash": "ed749f77cb65e689e94dee5c1c9de04febc3e1051aa4a9753cb5d8bea3d4fa75",
       "claimed_at": "2026-03-25T00:59:16Z",
       "signature": "eb5fef5957f4cf831dfa8260faaccdbecb115ca50ebaf5da79eab5c7c367a367f293a89b894cfad5ed065626f99aefd9bae0c717a443e90d67c22dec5f569d0d"
+    },
+    {
+      "agent_name": "lunarai",
+      "agent_number": 2535,
+      "owner_hash": "f82674760895dccadb3bf73b0fb6cf0c5c6d6fc3fee3026508dd9c5eec2950b3",
+      "claimed_at": "2026-03-25T01:04:11Z",
+      "signature": "99ae8a65cf7f1439af7e4fd9d383726fac2f9d67d4a79380e6a078df536d0736dfed04ed651b1c80bad550cb0c01b11333837d21fb1571b1603254940cb8c20e"
+    },
+    {
+      "agent_name": "threatbot",
+      "agent_number": 2537,
+      "owner_hash": "9eeb0b2fc1ac9ca5e8d2ba9dec0c04a98faae93d3d332b3cc942ddb71fb31061",
+      "claimed_at": "2026-03-25T01:05:34Z",
+      "signature": "8174c35c56607d1e695d5b6a493fcfb0c6f2f0811dcad4d3ccacfcaa7349547fdb01d070a460a4cd5e2b36c4d76a9c17f697328dcbff5e565cd04a9e01a1e101"
+    },
+    {
+      "agent_name": "nanosat",
+      "agent_number": 2531,
+      "owner_hash": "578b564735833f33ab6f61d4feca206092d0d340f11e2a49d1e7299cfbe20259",
+      "claimed_at": "2026-03-25T01:01:25Z",
+      "signature": "8b85f412e8f38076b8c64d46bafd0419a3387c642d7770d399ba9b92e928936edd04e425939a7948d593cd05e0760c7e6530aaf4771d8dfaecd918882ec53508"
+    },
+    {
+      "agent_name": "cosmobot",
+      "agent_number": 2533,
+      "owner_hash": "62c8c78adf5db33cccc7c74378b6f708b5bf41b2172e8b4a1c2c87a853170042",
+      "claimed_at": "2026-03-25T01:02:48Z",
+      "signature": "5b2830aa203a4d31fda46a9eae5ec95ca6ff3a26c951c96190c459901a6944dfe22b41d0ba8934bcb57da636e91e4bf3c7c15b52be8243c0528540250ef2f206"
+    },
+    {
+      "agent_name": "deepspace",
+      "agent_number": 2532,
+      "owner_hash": "9655375e63bf72adf4c4c5ca11c4aa5e08ef5da287dd7e2547a2d77b0a80df27",
+      "claimed_at": "2026-03-25T01:02:06Z",
+      "signature": "a7b7e8e755d239eda827f8f338af6355c7a4872f26f2b12aef04a9a3ff2204d19686f2a2b0ca40155656829a71dd1f13f82e6e8e78e8b0473c1247ce1e2c8508"
+    },
+    {
+      "agent_name": "marsbot",
+      "agent_number": 2534,
+      "owner_hash": "343c0d2183769538e6be712781545f3172406f6c7379bcc8485347bf821c8a22",
+      "claimed_at": "2026-03-25T01:03:29Z",
+      "signature": "22e3a1afdc1c1afc72e974fc8ba3614e32028fd664165bb672258df200eab8bcfe194a50942e7a5def35ead53075a6fb68fdbe5007979f5d941a60b4ae7d980c"
+    },
+    {
+      "agent_name": "cyberai",
+      "agent_number": 2536,
+      "owner_hash": "cbf3fe506c7c084eed5cf266ed809f4a46905eea38207381822a87d20644b72d",
+      "claimed_at": "2026-03-25T01:04:52Z",
+      "signature": "88de1ebc45211a939a597a711b141b3ab526b5e23fdb3d4a7d0dc78642158698d245bfeea822730a1173c84e695f9d5be6f23f20994f3546e5bfbf1e0a816f0c"
     }
   ]
 }
