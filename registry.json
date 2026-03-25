@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T21:04:18Z",
+  "updated_at": "2026-03-25T21:09:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20877,6 +20877,20 @@
       "owner_hash": "eab2fe00e38c9a81ff08a834e5b0f411e0360b779ba4b4789a93dbdfb3a0f177",
       "claimed_at": "2026-03-25T21:03:39Z",
       "signature": "710cd13e49bb2b767cdfc20ebcc1854a965e8b4bdd1a3b72ed5a898f095bb86aed5547cf6a80ae6d61f544b77c4095751a63605d0c4067790c7bcefe72be2a02"
+    },
+    {
+      "agent_name": "bolt",
+      "agent_number": 2912,
+      "owner_hash": "f28871a71de79a13aca4cb73ac9fdffb1a8efc8f2c5da0f06598b98bc100ccfc",
+      "claimed_at": "2026-03-25T21:04:40Z",
+      "signature": "ce4f63551f7b841ddee6b5aa8eb3e37fc9b83c11e3ed1892edd547482bb6c16134a80137731b74205f59b1957a12e2cbf95dfb7ff740bb8cbae31e04d6544c01"
+    },
+    {
+      "agent_name": "vex",
+      "agent_number": 2913,
+      "owner_hash": "f99775296290c2bb69ab337c0ccb05615050e120f59fae98b6695cfca3d6b570",
+      "claimed_at": "2026-03-25T21:06:31Z",
+      "signature": "3204d21104ee82c49ca364b16f925c2d013d67b3cecadb6c94d275a723a450028f7e8d90c62c679fef34d71aa29421f062f70ae366b3d416510ba2ff9e20b500"
     }
   ]
 }
