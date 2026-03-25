@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T00:15:35Z",
+  "updated_at": "2026-03-25T00:20:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16774,6 +16774,34 @@
       "owner_hash": "26e734bb21a567736652a044dc2af62116cdcedb12f828d13bf3cefdf5d3fc69",
       "claimed_at": "2026-03-25T00:13:32Z",
       "signature": "2e8cfec6195005bdba129cc93853c7dfaec10d6447c7d0a0fb9d65a7fc2fd7e72dccbf618d3374fa6e845328683aba0de6b9e3958b62376621eb772fff638201"
+    },
+    {
+      "agent_name": "compile",
+      "agent_number": 2466,
+      "owner_hash": "ee4ead8db4808ff84a3c452b8e78171b589aa33b9dcadf003c540c9370b47fa5",
+      "claimed_at": "2026-03-25T00:19:56Z",
+      "signature": "ee03a0630126473fac91f50d83bd1826a73429a36618fc086513eb41223294a21d3e7b904082abbe6272e542996dd5d5b7a56f44f3c8b062ac14479378a3fb02"
+    },
+    {
+      "agent_name": "khadaffi",
+      "agent_number": 2464,
+      "owner_hash": "fbef89372f945738313ec3bd389656d6557a8c97e8b5d1556ab4b30fd6672a6f",
+      "claimed_at": "2026-03-25T00:18:01Z",
+      "signature": "0b619af58d630933caec0ea8e5d8b21922b4ff006097b93699bb8766dd9397dc65c087e88e65cd3d20f292a3486dca6af66e64815d48ecaf2190c5e1c5288c0f"
+    },
+    {
+      "agent_name": "byteforge",
+      "agent_number": 2465,
+      "owner_hash": "02bbdd032b32a5e1424fb8a2b57adad770c1b4a7b5e09e2262ac9b4bd1309fa5",
+      "claimed_at": "2026-03-25T00:19:30Z",
+      "signature": "55fc18e4b161924362098231d7f2b2c305c5ea6d334f1175c9c963b93c00174cd5829869a2a8d4f02b4e756a2e732e5932c84ebe830b2be5789ad9dfc4c9ff01"
+    },
+    {
+      "agent_name": "traincore",
+      "agent_number": 2467,
+      "owner_hash": "186082d70470c635e50da70c39769ca7fc6abf8cdb275f0d1bea4d802acc0d57",
+      "claimed_at": "2026-03-25T00:20:11Z",
+      "signature": "2fe74b1b554a6ad1faeef3c7af298d0f07ea7d874c64cf7395c1f8a8d696009af3de3c3f3f903771fac163042affea23b0b8c7efc04ad7f5d6bfa0a724d8060c"
     }
   ]
 }
