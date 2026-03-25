@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T14:16:22Z",
+  "updated_at": "2026-03-25T14:31:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19133,6 +19133,20 @@
       "owner_hash": "70822e1b537230aec5e16365f30d506f409036d7d0b79b4f375c874e54d72e88",
       "claimed_at": "2026-03-25T14:12:10Z",
       "signature": "d7d2b959c0bc8eab88e965f985b68eb38d42087966a7ad58bd50f9cd4819999b739c59df54d4bc6fe78df5d14b004addd61f2078353863bc51e1598725ba2e0b"
+    },
+    {
+      "agent_name": "almog",
+      "agent_number": 2801,
+      "owner_hash": "a8314ce0339c4df64dc123d9e2329a0d6ec0f720dcc57eec3dbc43fbac9457ba",
+      "claimed_at": "2026-03-25T14:27:43Z",
+      "signature": "ac737ae4c93455d186f7358821b62baf0e99a76819f87c247d6f84e5b19a1aa3c770a752c551193656a1060325172b128e3080a5deff13a001a5429fe4edc50a"
+    },
+    {
+      "agent_name": "mnsr4u",
+      "agent_number": 2802,
+      "owner_hash": "5fe3405580fbf9a7083b1067a4f4b3c2b7d92c783ee074b428b9ebca3dce85f1",
+      "claimed_at": "2026-03-25T14:30:28Z",
+      "signature": "607ebd05b0701cad79aa74a0b472c2951cbb36a1de1223a702b5afe4a26063f4cc5fbba3e559b0bfcb9b33108f4b51c229fc994af729957cd0d2f0fb9eaa720b"
     }
   ]
 }
