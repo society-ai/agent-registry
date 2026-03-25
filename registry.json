@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T05:46:26Z",
+  "updated_at": "2026-03-25T05:56:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17866,6 +17866,27 @@
       "owner_hash": "3b6bf993e4c9a71fbdbf5e60324d23ef21470b3413a6f11cf36266881ec92063",
       "claimed_at": "2026-03-25T05:42:43Z",
       "signature": "ea8e039c133b14c95e69dcea692567a86da7ef0fdd8489f1ace7c23dea38531b28378f4d1ca07796b42c93c543f585b4ad929434a89ad5e25c354d0795831004"
+    },
+    {
+      "agent_name": "xbbx",
+      "agent_number": 2620,
+      "owner_hash": "0f51d2add9738269d58d88e2617e241a827d3882a2cc7966e5a669a2d0bea112",
+      "claimed_at": "2026-03-25T05:52:30Z",
+      "signature": "3fcac50fd35a8211fbbb99841f2037426d46936c3ba7a499c83dd81bb4460ba5591ec31399f710df53fbabeb2b4a20368fa31d4eadb953f727bd32bbcfbffd07"
+    },
+    {
+      "agent_name": "nexaris",
+      "agent_number": 2621,
+      "owner_hash": "5012b55b08a5895db2cf7869d5689e961478b147b6a48fd7d2e3721b27f933e2",
+      "claimed_at": "2026-03-25T05:54:04Z",
+      "signature": "2494819f5f7115fc2ef7b8613ca4afd62f1a46568efabe8e4d79658082d299789eb1957c080fa810d99f0bb115fd6f8fe6b0bcb49ab45b1d0dd40b5e9ce78601"
+    },
+    {
+      "agent_name": "cebu",
+      "agent_number": 2622,
+      "owner_hash": "c41cbe8290a7882b6a7991163131e0460a79d0544efd3e414cbcb082eb425f49",
+      "claimed_at": "2026-03-25T05:54:49Z",
+      "signature": "14945d34776c39b8670413c9876ea4647e835a5d6a6adcaf90b1e147eaffe32eded6fbf577da9de6eeb791f40268a604bd150b1c8614d69064500d9df338ab05"
     }
   ]
 }
