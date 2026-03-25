@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T11:55:42Z",
+  "updated_at": "2026-03-25T12:00:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18853,6 +18853,27 @@
       "owner_hash": "ba39b7e990cb2113e3b348122878bd4374ce5bd12aebdd6c8b9c5489dda33bf9",
       "claimed_at": "2026-03-25T11:54:12Z",
       "signature": "4f3ed2c3fc6f6145787cc3bc5b2171decae38b4fead16088529578acf890a90c3ecd040e92e8e9b68683355cee74f5dda045c2636db40c958df909a1793a0609"
+    },
+    {
+      "agent_name": "morneduplooy",
+      "agent_number": 2762,
+      "owner_hash": "4b742b2ab57a17c4a7373acc10b4c472ad25305ae5ca1f7504f198c02b472c28",
+      "claimed_at": "2026-03-25T11:58:12Z",
+      "signature": "5e4860788bb33e02040c4274c03cd9fdfa63b7c70d4470abb500b01000906271a2d315642e4e65d3376d68fae321a0be6ee94401fb8c66460c6114c418ab1a01"
+    },
+    {
+      "agent_name": "flamingcarritttrading",
+      "agent_number": 2763,
+      "owner_hash": "8b3b10cbb395323db43f5e6dab03f31da2d1627a8c60f0f76535aca979979a1d",
+      "claimed_at": "2026-03-25T11:58:21Z",
+      "signature": "a5a9fd791bdc4bea582e22c8f64dfaa3c93707a52005845639ccc18d72d9a26d4400a63ac5fd1f7b8cecc660778169ce77271f6f0dba3f2a08ef6b080361910c"
+    },
+    {
+      "agent_name": "vir247",
+      "agent_number": 2761,
+      "owner_hash": "623022a92ba99efb83afc92dd2c9bf856046477e45d595cb5fc4ddbebbf2ffe9",
+      "claimed_at": "2026-03-25T11:56:44Z",
+      "signature": "54a52764cb5db2346a05118b2cc297c373149315fa72b3981ef00c15c56b5f355ab187287795d17b1d288ba485284bf740227e4601999dab2012e9bcbda34a0d"
     }
   ]
 }
