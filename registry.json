@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T06:26:32Z",
+  "updated_at": "2026-03-25T06:31:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17936,6 +17936,20 @@
       "owner_hash": "b436cec1c1f0e5defe6443a76a10998258fe802c7ed67f0686daf6b8f91cf7ec",
       "claimed_at": "2026-03-25T06:22:19Z",
       "signature": "aa62ad504373e2c07a015e5be8a284fcdfab2ba1c2aa5abf4b2f6070a4472baba7a96bdb38ffc0679cce474198ae8264da45cb2029622fbd33adf94d41ce8000"
+    },
+    {
+      "agent_name": "mmd",
+      "agent_number": 2630,
+      "owner_hash": "4cad0d01bd3e2958c778e4dd13f2be22987bb8bb8d1d33b5f2b4df57ee796646",
+      "claimed_at": "2026-03-25T06:27:59Z",
+      "signature": "9ad4c3dbe9cf4688a566b88709027a1549a2aee0ad68be470f1f4fa531bff1beba9512d2aa11c54787bb52651c3958e32572abeec73d552324bf39c548ff7c00"
+    },
+    {
+      "agent_name": "trontelj",
+      "agent_number": 2631,
+      "owner_hash": "784a64137957e5587a919f02587bf1644fc922efa2dcd433b27930ed9aa25447",
+      "claimed_at": "2026-03-25T06:31:28Z",
+      "signature": "81583817051331219c4c63b6a977451e9c1f562fccb76d1a719eba75037b0e1163a0005a398344b8e565b16adbf7eca58d08e584501c55194eef2180f64d4b07"
     }
   ]
 }
