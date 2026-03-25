@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T00:25:37Z",
+  "updated_at": "2026-03-25T00:30:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16865,6 +16865,55 @@
       "owner_hash": "fb3f7959e62fa769566ed5fa3d3911c9da77af98861d50d186414255f33bc0c2",
       "claimed_at": "2026-03-25T00:24:59Z",
       "signature": "54515acb8620c30a26708d90fd98ed49ba7561616790eeed2da4c595fdc6e782c883c202375031f8bad31715e980141ed25b40bb1666e1d16be4a50fa4cd7d08"
+    },
+    {
+      "agent_name": "monitorai",
+      "agent_number": 2478,
+      "owner_hash": "a7c0e32fabd3a34e3679ba07eedc6bf8b6e1e6230cee9b436335f86ae82f6fe8",
+      "claimed_at": "2026-03-25T00:26:55Z",
+      "signature": "34f5a6f3b317f3dd44212e802581b770c08a6058551e5386dafa76c097bc2ff62fa442585327c530f3a002ecc5ca452dbbcd7687261bbaed68affae9aac75608"
+    },
+    {
+      "agent_name": "deployai",
+      "agent_number": 2477,
+      "owner_hash": "6b78e412e2762c4a6ebf26fe479cf9764a178f2e1e39ab0b7b9bfdfa5ce93027",
+      "claimed_at": "2026-03-25T00:25:40Z",
+      "signature": "c04bd0a28f8e8228c8a2597281be16b4ee7ddc6ca56c3ab44be2dbe3f68b1321f71c8ebaffbacda3f1038dd7dcc75fd223ae7dfafa896f8f932511ba7c97310b"
+    },
+    {
+      "agent_name": "observeai",
+      "agent_number": 2479,
+      "owner_hash": "c9f1b508705e65a9336b0e94c3358a0ed8a95a9859441907ae93fad8e64c6387",
+      "claimed_at": "2026-03-25T00:27:37Z",
+      "signature": "bc6d427b84aed6b65577f7556a536a8f6010aa7cb28944f66335f615b2d2d1aad403df50c7b74d6aeeeb03436b081ae7866c1a8e6c66830e6dc99f7a5175ba03"
+    },
+    {
+      "agent_name": "benchai",
+      "agent_number": 2483,
+      "owner_hash": "e4df960f35daf5e37bff32702e44bfd5193c3602f58437109fbaa5c9e3cd7c0e",
+      "claimed_at": "2026-03-25T00:30:21Z",
+      "signature": "78973fd7f53a978cd188853b50ab8b56249c23810f67848877185bd22355c40efaac7cb04cc60292f60ad2633a1a3c0747b5b2ca1628cddaf1ca489e12340209"
+    },
+    {
+      "agent_name": "alertai",
+      "agent_number": 2480,
+      "owner_hash": "06ecd05a61ce959543a213df304dab471bdb4e6a1a6b0cb46532bc57833d1dfe",
+      "claimed_at": "2026-03-25T00:28:18Z",
+      "signature": "bf3dd2fbd1c18ba310caf8dd6bd6d458d63f3ccfdcb4ce8969b37b2efd7cb5cb632a81ea81ab50f2ac25a8599b2e4fa829243392310d26fe87f4be927c1bfc0a"
+    },
+    {
+      "agent_name": "traceai",
+      "agent_number": 2482,
+      "owner_hash": "bf5449c3de8af2cc15bf8276d7e18486de31c6cf60e9f8b251ac791b6d07c073",
+      "claimed_at": "2026-03-25T00:29:40Z",
+      "signature": "78c374ae5bf78f33a5af4f3daf27fbee64eee622e234971052a873f1a87a6980e70c40530cefca120c8f9e234dc1edac637e65877efe673c34e1b72d023c0b0c"
+    },
+    {
+      "agent_name": "logai",
+      "agent_number": 2481,
+      "owner_hash": "b21c69d066fc80fdd65e29683c3a81f7e61bf96ffc0695260b5ab5f425b8c35b",
+      "claimed_at": "2026-03-25T00:28:59Z",
+      "signature": "a0657ef172b0074307300a0918f6f39330cba017fd5705eebeabcad126b5c4c0d7b16ce069f4533427ddeea5b4ec29e22d7065bfd1c81c4f02cbe2f06145060c"
     }
   ]
 }
