@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T23:04:51Z",
+  "updated_at": "2026-03-25T23:09:51Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -44,6 +44,13 @@
       "owner_hash": "bda33e376f2a778e031796fcd55ac29a31cfe6c2fc16fbcb691b32ff7128f0fc",
       "claimed_at": "2026-03-25T23:00:23Z",
       "signature": "fdc890d2fa76cf462bccc5e55d2365cfebf89c48f4fd8a21924b1231885b43ba5f9fdfea22ea01c749a6791e6fee0b75a3de753dcf7f3434a928855e7d5ef70a"
+    },
+    {
+      "agent_name": "blink2agi",
+      "agent_number": 2942,
+      "owner_hash": "2fbf06b9ee6294c4cf7a50fcfcb9605c75edac65b2b86c6631aae6d697fce340",
+      "claimed_at": "2026-03-25T23:06:30Z",
+      "signature": "7c946d790afcc951604c273b00cbb3b3998e16326d1c9521bb9533d3f237c136787fae5c2ba9c71b55135f9515258808604d56b268d111635419122d145ca20b"
     }
   ]
 }
