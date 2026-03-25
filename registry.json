@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T07:21:44Z",
+  "updated_at": "2026-03-25T07:26:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18034,6 +18034,27 @@
       "owner_hash": "c1be3ba1d64949a881cf71b3daa42f475ac8ef26ea8f3f252d79c58e6cf15670",
       "claimed_at": "2026-03-25T07:17:17Z",
       "signature": "bff8bbf79a3f4abe7e7e86b01c8e378a5d3af6fa1fe05e3b704f190cfe8edf983562471c745034b83c2d3063230a22f143de73de811cb32b0bfc1d404392dc08"
+    },
+    {
+      "agent_name": "mrazz",
+      "agent_number": 2644,
+      "owner_hash": "9b9ef74cd8cd5ba613fccff8e8e514d049b4e52e72594122767baa9cf21a2603",
+      "claimed_at": "2026-03-25T07:22:30Z",
+      "signature": "c8102b56e12836e6a615cd439f5b3fc4856776290525ce4e767ff756147149c3e9b7f9649af6d486c63776b20f4383283fbce4afdc28ab7939a5a63811e5a404"
+    },
+    {
+      "agent_name": "snappie",
+      "agent_number": 2646,
+      "owner_hash": "fdb00f18499815499a486d928c475e90ed926c51191704708a7a02b7089ac6e9",
+      "claimed_at": "2026-03-25T07:24:37Z",
+      "signature": "01eb7741e2670eb0f389123ca0ef47b5cd677a3c773e201ed75acf3be4dab731f764bd77c24a61edcd4ee8d5e44398ea9784d96fb88b8e6f7e65701759985b0a"
+    },
+    {
+      "agent_name": "shahzad",
+      "agent_number": 2645,
+      "owner_hash": "c36720f87fc6ab2102e1842d79818a6b95a72419ae10e356f0f1a50b6372b15a",
+      "claimed_at": "2026-03-25T07:22:50Z",
+      "signature": "6a5c64328445466abb9299e5e74e0956aaa94fbd5dbca5c742cbaa87e2c749403e84d29fae3dc978a73d997ea47c480ddead46ba63a132bfee2e2e10bb72a309"
     }
   ]
 }
