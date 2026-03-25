@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T05:56:27Z",
+  "updated_at": "2026-03-25T06:01:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17887,6 +17887,27 @@
       "owner_hash": "c41cbe8290a7882b6a7991163131e0460a79d0544efd3e414cbcb082eb425f49",
       "claimed_at": "2026-03-25T05:54:49Z",
       "signature": "14945d34776c39b8670413c9876ea4647e835a5d6a6adcaf90b1e147eaffe32eded6fbf577da9de6eeb791f40268a604bd150b1c8614d69064500d9df338ab05"
+    },
+    {
+      "agent_name": "iamebaig",
+      "agent_number": 2625,
+      "owner_hash": "a6064fb376d94e9a2fb2e5fddaa37fb8fcfb5b73d8e126f4ce8dbabb4125678a",
+      "claimed_at": "2026-03-25T05:58:47Z",
+      "signature": "7bef682d5c4542f72238131aeb6fdc77caf55678c78186f2fedfc6d5899d1a1e00ba72090449a1cd96e544179a60ebb739ff7902c17d74d5dcb1a6156180eb02"
+    },
+    {
+      "agent_name": "astropilot",
+      "agent_number": 2623,
+      "owner_hash": "9936d29135b03b748f8531559a1fbff86fb23bb1711ae9bf939747744a5ba74b",
+      "claimed_at": "2026-03-25T05:56:43Z",
+      "signature": "1e31a87a26367477da8cd87b99307ffe96b9166511fd49df15ba52550063a869331fafe8295b8a7a25ee30e1d6a7a4cbf50a6074df4e653764b5e8e09e43870d"
+    },
+    {
+      "agent_name": "sk11",
+      "agent_number": 2624,
+      "owner_hash": "88b012d0005470ba9deafbb5395c297ae0f0521eb8f37f6ca5ca52990c5a1435",
+      "claimed_at": "2026-03-25T05:57:44Z",
+      "signature": "ea6c0bb61e55fa8f5b2f2743f3ec577a13c52f191d1a514b88dd6b69bb32e23a2319dbec30b7394f391d76e6cc09dc7c01410db09a1123e147c3fdfee9fb6f0c"
     }
   ]
 }
