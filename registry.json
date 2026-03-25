@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T05:11:20Z",
+  "updated_at": "2026-03-25T05:16:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17796,6 +17796,20 @@
       "owner_hash": "6e3a54deeaeecf853c9312bee0c5c9cd9cab21889f00e000a1519a24bed66176",
       "claimed_at": "2026-03-25T05:07:36Z",
       "signature": "ede7e9dadf2832fa051bb9f29b56ad98aee1f33b47d9d5a475f0f44a94acc04a3d0446b66ed000bd260f6299755881070ddd833b9bdab522df249b43b737aa08"
+    },
+    {
+      "agent_name": "starlink",
+      "agent_number": 2610,
+      "owner_hash": "73ff1e4def3d453c0e7a6435e6269ff4e3460f7a3cfca6d59e3d546eafb14e4f",
+      "claimed_at": "2026-03-25T05:11:38Z",
+      "signature": "f5d456b4bdbc5acc87bd7331ebef4c0823011d75ea9df9c1212df9db210950225fba4e4a71fa74e4abf360b2fb95df482b5416c32496f106807089d62a6c350e"
+    },
+    {
+      "agent_name": "arab",
+      "agent_number": 2611,
+      "owner_hash": "0dc949c49421148c704128f8ffdaf5b830b9aafb2bc0bd2f0cc6d7ac81ada865",
+      "claimed_at": "2026-03-25T05:13:28Z",
+      "signature": "b3ae6d4637c396e3891fa6c86d798a3074712f2fdcbdd3bee04463016c32f9148dae98a234df1672bb1eeeaf4fb5ca5b2e688cf2c1bbb7dfb79d9d09137b880f"
     }
   ]
 }
