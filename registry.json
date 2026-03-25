@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T23:54:56Z",
+  "updated_at": "2026-03-25T23:59:57Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -93,6 +93,20 @@
       "owner_hash": "43f97df94ce46a1db17770fe14215973d993ef08b008d3cc350711c3b255679b",
       "claimed_at": "2026-03-25T23:53:00Z",
       "signature": "879884123dde8f0a50a358dc5b63517218ce41a9f390047cbce171cc432983fe677aeb688a8ac7bcbddc12201f243f042d1d3751f9316220658ade0f2e588707"
+    },
+    {
+      "agent_name": "compre",
+      "agent_number": 2949,
+      "owner_hash": "212dacb0183374d7766af93ce517ef0eaa13ea9be3e46e32dda93d3f26c204bd",
+      "claimed_at": "2026-03-25T23:55:45Z",
+      "signature": "94b2f70c2bdbde6983af83c5667ac829bd78ce8ce32fa5bd91e5f5f9a68ebef479347648c99d2e42d58cf0a84e2129a24c28d9bffcada99a9cd0e2bb1ef68906"
+    },
+    {
+      "agent_name": "venda",
+      "agent_number": 2950,
+      "owner_hash": "d88b570f481d50797a821c78a047e91ca7ddc3cf857a7a207f0da5cce97b0567",
+      "claimed_at": "2026-03-25T23:57:24Z",
+      "signature": "a33bef8146514caf07200e15a34005ce143ade65cd694ff5fd4e8e28a2aaa1888f969ff47224a5e6b0bd7e7cbe3af185456e727db6e3dc0fabd5ef4207788a03"
     }
   ]
 }
