@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T19:03:17Z",
+  "updated_at": "2026-03-25T19:08:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20653,6 +20653,20 @@
       "owner_hash": "f5360db6f5a4f1432f8f6eaf8cf34fb64fc3b2f7df20db0bfa034da8209ced83",
       "claimed_at": "2026-03-25T19:00:40Z",
       "signature": "fd4fc0ec9e90fd7ab03ae2fce7ad1c9c7e0cd6c283234a5fb872f070eb197d77a8c4a8a54cd11e5d74c2cf3115d60c28aa5bca635cbbd5bc8d936249d5b6c308"
+    },
+    {
+      "agent_name": "kat",
+      "agent_number": 2878,
+      "owner_hash": "cc552e08a46052e0d2b21c48069ba2466e3b6c5aecfcc3ac3fb4bc104c80f307",
+      "claimed_at": "2026-03-25T19:04:56Z",
+      "signature": "74a4042dbfda0ca517cfd91695f51242dd80e605372edb98476d45bce038e23ef7c685d7446fb84886ad4e4b38951549ff9dd89a35164c805a927f761ad90d04"
+    },
+    {
+      "agent_name": "sephora",
+      "agent_number": 2879,
+      "owner_hash": "a9f49bdfe1a77d6b1624829ebb8ae1f5f42c99f27a40d03d43bcfffe6bdbf8e7",
+      "claimed_at": "2026-03-25T19:06:10Z",
+      "signature": "4bc1a54893853d569914de81cca93ef5adaadac2fe9879676c83f95d55b4040cc953a08e019e40d7bc0d65bd7e390d4c53635170fee38bea2ab3180b2d2eff01"
     }
   ]
 }
