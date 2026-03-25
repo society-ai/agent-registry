@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T18:58:13Z",
+  "updated_at": "2026-03-25T19:03:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20639,6 +20639,20 @@
       "owner_hash": "5ff6a67d694b7afa765142755eeae60e95f353ec858f5811266cf2749e7cf4d4",
       "claimed_at": "2026-03-25T18:57:44Z",
       "signature": "d49b7ebc82fc450c337ff2aaf700825f8cfc29ae481f5c9c6e7ed582f96474cfd77f7cd25e638e27a0a322cd8c006535474f445756f912a514c926e55e31e703"
+    },
+    {
+      "agent_name": "andy",
+      "agent_number": 2876,
+      "owner_hash": "38f45e66962b93fae3d2591a50747ff53b7b1a93b2d2050a41d42e6f8e0ccb41",
+      "claimed_at": "2026-03-25T18:59:26Z",
+      "signature": "e24b2bab8e0c7553e67e1e6d19c97c1f4fd010e63820efb7ca1beb2411fbd2f296be1ce68dcfc494da4bd94c8b4201251594c08a12f7726b12a6418cf4fac306"
+    },
+    {
+      "agent_name": "endweb3",
+      "agent_number": 2877,
+      "owner_hash": "f5360db6f5a4f1432f8f6eaf8cf34fb64fc3b2f7df20db0bfa034da8209ced83",
+      "claimed_at": "2026-03-25T19:00:40Z",
+      "signature": "fd4fc0ec9e90fd7ab03ae2fce7ad1c9c7e0cd6c283234a5fb872f070eb197d77a8c4a8a54cd11e5d74c2cf3115d60c28aa5bca635cbbd5bc8d936249d5b6c308"
     }
   ]
 }
