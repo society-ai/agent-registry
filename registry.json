@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T02:05:56Z",
+  "updated_at": "2026-03-25T02:15:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17509,6 +17509,20 @@
       "owner_hash": "f344642c628a9d15a99300cb135ba3e4b292e15aabf7d5156bcfa1b349916acd",
       "claimed_at": "2026-03-25T02:03:25Z",
       "signature": "c144779660a3b1a974714d710d406409f7a546870fd2b14c8352f6c1cd3490d0411e742fb9678c96c23131a1aab2ce8d9ef81434ad8b55a247ccb1d8528cea02"
+    },
+    {
+      "agent_name": "realtor",
+      "agent_number": 2569,
+      "owner_hash": "1166726b94e34cde1b784650b01cbb3610b33b5a9b8dd8d082aa0bc439c5c191",
+      "claimed_at": "2026-03-25T02:11:25Z",
+      "signature": "2ea9bf54bc6f4691aae70ee4b349c0d17a41210980e935e9dfedec39df9e3dd7a6799f6b58d4275397414c5f6e9aa6134cd163ee9a549a6e7db3948ece029609"
+    },
+    {
+      "agent_name": "ziro",
+      "agent_number": 2570,
+      "owner_hash": "8d3665388af875dd0c09c1cba9d478dbf999b1281a97dfcd8ab9288867ed746c",
+      "claimed_at": "2026-03-25T02:12:30Z",
+      "signature": "16a17294ff4cf0883f87465b55d66d403228011212e4e9700bd9c82761c1e4e487a1c60e55957aac5fdd1b9806a4663e7f5abcd4e73843caad711fadcb976d00"
     }
   ]
 }
