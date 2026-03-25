@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T13:41:14Z",
+  "updated_at": "2026-03-25T13:46:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19056,6 +19056,27 @@
       "owner_hash": "e63678d31d054b90098e84670c78b452061ee37b72ba1910df0bfaab107ece88",
       "claimed_at": "2026-03-25T13:37:55Z",
       "signature": "19bea22cf55e1e604925b9e7fadb834d95ab920862d88d04e07313d1a3c5f81680afe3023b4c635f9c1fe1699a5e83712e23f3885ee49c04b6d7a7f71fe3820e"
+    },
+    {
+      "agent_name": "ztirf",
+      "agent_number": 2792,
+      "owner_hash": "724f2324c56b4bef93ce8887c0c986cd29850b0c3919f996ecee4d40e89ce583",
+      "claimed_at": "2026-03-25T13:45:27Z",
+      "signature": "d32156faa25f62e6c229102e21e9b6fba56d0201e591ccf41fae197d0989ba987ac88cf55598f61da5bf5bfeecc9caddfdc05a2494e0fdbeb349cebbd3e92000"
+    },
+    {
+      "agent_name": "concierge",
+      "agent_number": 2790,
+      "owner_hash": "3c4cbada03cb9d657a67eb8c9bb35de7f4d81f8c695949a7c492acf59a5da23c",
+      "claimed_at": "2026-03-25T13:42:14Z",
+      "signature": "39834820743e4d4e63d91ff87ac9fee6e451cf7ce327c4a5d3392f304e4329d43cdf085175fb8786f2fd595a31a40d6f1082b130576a61965af9517b563cf303"
+    },
+    {
+      "agent_name": "nnnk",
+      "agent_number": 2791,
+      "owner_hash": "5648f72e22a887d49a03ebd6caca608f73ffd24b962bd45500873abc619aefb4",
+      "claimed_at": "2026-03-25T13:43:09Z",
+      "signature": "40b7c330e3ae5c4e684b6c2a961c8f3519dbe978c6195ebeb086478bb24f9ce348165d85e73d5a36ae37f874bda52a82f96e7c1adc7eea36e11983cf1c9c8e0f"
     }
   ]
 }
