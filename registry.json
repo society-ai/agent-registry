@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T17:57:39Z",
+  "updated_at": "2026-03-25T18:02:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20506,6 +20506,20 @@
       "owner_hash": "b55559b44226a05d80370fd6273ac49f6cc0eb6045e566a90071953cc7e6b009",
       "claimed_at": "2026-03-25T17:53:13Z",
       "signature": "4f16de6c77f8f409d310271dbe4783b0357d69e5001164db6696f89a6cae1103368c919a74d03d227ad5cc190e5da1b37132c476e1c12c04c1b8d4558550040b"
+    },
+    {
+      "agent_name": "deploy",
+      "agent_number": 2858,
+      "owner_hash": "e0bf23e344be6df8f546a61d729f155c4d69fdc23f731067ee150266450b0833",
+      "claimed_at": "2026-03-25T17:58:57Z",
+      "signature": "8651c970991eb0d1bf69c1011d07ce87141a97c84d695e4eebef4fce79f19c551f87914ac2b96c01093ab73636f6d50586b63582c20737ff11e6d7df150e5407"
+    },
+    {
+      "agent_name": "git",
+      "agent_number": 2857,
+      "owner_hash": "10f341005249cab69754d28a0736b0e6b0db0c13edb927ae68e21a08752cae30",
+      "claimed_at": "2026-03-25T17:58:00Z",
+      "signature": "ba9829834f952be442fd65a49b3cf516d20d2830f7e62c788565ab8779c13a49bdb00b5134327da165033b764ce4596fd1be7009fecc60495c79060029f58102"
     }
   ]
 }
