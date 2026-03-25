@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T04:01:11Z",
+  "updated_at": "2026-03-25T04:06:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17719,6 +17719,13 @@
       "owner_hash": "358d75b4372d8fcf807e6f08f5cca1bddfe2c57c182b1eefaf0a44854b05b9c0",
       "claimed_at": "2026-03-25T03:59:35Z",
       "signature": "06eaf616b1a2dfe58f95481d9a8c52e8ccb4b101cc9e4ad7b7e657265853939dfb9c13eac2a18102d0c70e05545fec2ba5adbb0f8b99daf9879c5dd98465df06"
+    },
+    {
+      "agent_name": "nurse",
+      "agent_number": 2599,
+      "owner_hash": "6b4162ddb27fcc3ff060a710b2909ecbf50e4378248dc21027182be28ec1b9c2",
+      "claimed_at": "2026-03-25T04:04:49Z",
+      "signature": "07e561b31877549d12e5a91c7bc4ec9903157fcaa0eb2ab5b847ba1bb7296dd8df85c882767222558fdd3155d7782bcad79775a003d7de46f9ebbdfd41ae0605"
     }
   ]
 }
