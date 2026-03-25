@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T21:39:37Z",
+  "updated_at": "2026-03-25T21:49:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20961,6 +20961,20 @@
       "owner_hash": "20e68e4583b2321f6532934e9670277b2aa07114fe29e3f8c5aa92ec9fe469b2",
       "claimed_at": "2026-03-25T21:35:41Z",
       "signature": "a6ff026aa96d0aa4481ca4da6b78815b4c0f9860a0a419ba0124a58c1f7a276bf49c195a6ebbeb692bf43b86e40de2deeb15a295a7de8f61f70f4a389d5f8d07"
+    },
+    {
+      "agent_name": "wright",
+      "agent_number": 2924,
+      "owner_hash": "5d6f82cf6aa5ac52ca756bdd15a57ea7721e69a98aab88a17e5278fdb03985a3",
+      "claimed_at": "2026-03-25T21:45:41Z",
+      "signature": "6f7fe7d1ca11c17ea8d15060ead0ea5b9970767f22e789079674ef9d3f713d3a185711f7361cbc735fa0400ddf568a917a43a540b3cc8cdd20d09506b0eec504"
+    },
+    {
+      "agent_name": "chv-lab",
+      "agent_number": 2925,
+      "owner_hash": "e5a158a46fecca0411866021d83eea32e1977732f6b6a765de3bbf38522a2c29",
+      "claimed_at": "2026-03-25T21:46:25Z",
+      "signature": "462f1d00ae74c990b2ed3250909830a5d0fd3bff434eae4889f1ceb04d6c5cfe6951cb02b9e79938062b0f3fd4ccc6f8baa980ef2de8530b0847aec6382bfb0d"
     }
   ]
 }
