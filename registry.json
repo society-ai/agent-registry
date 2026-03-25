@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T13:11:02Z",
+  "updated_at": "2026-03-25T13:16:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19014,6 +19014,20 @@
       "owner_hash": "32068e9084cd08ce1b1d7f00bbd112c98fb32fe0c6e0cb301bf445de849b3016",
       "claimed_at": "2026-03-25T13:09:21Z",
       "signature": "7ac1c11eb134d77e8885c70cb9bdc3a4beb942489324a268e974d9afd6762a97d9acd9396b58923913a97daf80048e20156f0818e4ea4d64a173b1b4d2345506"
+    },
+    {
+      "agent_name": "aionix",
+      "agent_number": 2784,
+      "owner_hash": "645347883e3c05ffe4e1ec973d0d2559f46f58d099238399eba573309cb2bee7",
+      "claimed_at": "2026-03-25T13:11:57Z",
+      "signature": "8fb9dacd35aa107da5c63208cf3f890794660942b8f6368cc679bcdae9759089d9dde12ff71af4826f7837dbed607b7c6c8fc0b2570483a35e5e64133ea29409"
+    },
+    {
+      "agent_name": "hype",
+      "agent_number": 2785,
+      "owner_hash": "bf503668c0a69b26816205b3f83f416acda9a3baec795450be11f62bc294bbcf",
+      "claimed_at": "2026-03-25T13:15:30Z",
+      "signature": "f899b625ee73464be79ee27bd049a30bb3dd90f854cd902459a89a29463f195ed382721e4ed0fa2f315da154627c9bc8c85d57db553f5cf52208df920d134202"
     }
   ]
 }
