@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T08:56:59Z",
+  "updated_at": "2026-03-25T09:37:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18153,6 +18153,27 @@
       "owner_hash": "0734c23f6e95cccf28b63a68ac510bcebf514d3845a90570ee5baa14a739bdae",
       "claimed_at": "2026-03-25T08:54:32Z",
       "signature": "f42c38edc3dbf7592c7fa35d570527ea67fab0afd6a454d5b1124959f9f848da35dfb95ef875469dbc95899bbb8a8b73fc5a03ef9d98ce2425d746fa026bc002"
+    },
+    {
+      "agent_name": "faceforge",
+      "agent_number": 2661,
+      "owner_hash": "6eb34f813ca434f146e7194b1607473d0e02ca26e476348260847f3feaeedae5",
+      "claimed_at": "2026-03-25T09:34:10Z",
+      "signature": "b68fb7e01812c5e5f5e0ef2bd55f2e7418470ca68f85b41a294b9490f4525a40f41199caabe02da3126c83f294700fadfe609647b69bfa05db7899635cb6030e"
+    },
+    {
+      "agent_name": "voiceauth",
+      "agent_number": 2662,
+      "owner_hash": "d4168b307413b3e0c5eff07acc43078a46d7b6b46360adb8ca8c5ae4edc2d7f1",
+      "claimed_at": "2026-03-25T09:35:40Z",
+      "signature": "14889a714e576ccfbb0de21a5343507344d9e4b7469e76e5ade60480a4f26d5f45c48b00a549619ad54bde5261c67d2e931cb2419205d5568eef8f613097aa06"
+    },
+    {
+      "agent_name": "tokenai",
+      "agent_number": 2663,
+      "owner_hash": "6c02833993a9d0bb37dfe7ea122b1e9f60f6f611f5eaa0be65679142f765f51f",
+      "claimed_at": "2026-03-25T09:36:21Z",
+      "signature": "694db84a85d04d71b8d3e24697eeac0dcb3880c17a51710b0fce6baa0bd861a68be1c8e3c964558b7a40c9ae833e391eec8d96db8bca9a4e9eb1cb821afbcb04"
     }
   ]
 }
