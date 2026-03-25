@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T22:29:46Z",
+  "updated_at": "2026-03-25T22:39:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -21024,6 +21024,20 @@
       "owner_hash": "99dafc1d79362250aca6b935d42f17fd4d47adbc703718fb4bfa5b99900e88ee",
       "claimed_at": "2026-03-25T22:25:07Z",
       "signature": "17abf259c42263b99c1800d21b54bbad630ab435b71d878a13a538e614a4d9b7a54a7583061ba784b9ab14a95e3dbac5ccb81425e1899f3521cf82c6e3a3b909"
+    },
+    {
+      "agent_name": "funaab",
+      "agent_number": 2933,
+      "owner_hash": "62fc80e7ebc871a9abdce425df2111b53b63f8295de33fc6bec13ac9da065084",
+      "claimed_at": "2026-03-25T22:38:23Z",
+      "signature": "46f462758de18f24f84f6be925d02ed0701661c48dc601a15d79008c6c7d16a62565537130b33a106a717b3ec4169f8610359fba0f5898fe13713bc49d881f0c"
+    },
+    {
+      "agent_name": "albertheijn",
+      "agent_number": 2934,
+      "owner_hash": "54bdf19dcd2567570f1d5c74dcb448f9cbbc3cfa509c8180b356af2525bf678f",
+      "claimed_at": "2026-03-25T22:39:13Z",
+      "signature": "6ab794782692110bbef3bbe367d02b441ce7a2854fb966bef541a0b1b4b76b43456e4217a056194ffe731d5581acc4b3e3b840188991a8c2d87cfd6360b42a09"
     }
   ]
 }
