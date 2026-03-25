@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T22:54:50Z",
+  "updated_at": "2026-03-25T22:59:50Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -9,6 +9,34 @@
       "owner_hash": "8f6df8477db219d248fbc5fd2ad490965e70ea322b9e96aa545332f003dfae38",
       "claimed_at": "2026-03-25T22:51:45Z",
       "signature": "c89ecaa3f9afab071161abba8aef5b304ffe41a589462891e52ac8b7a3807d9801a65526125082f60642b4320202ecacbc77519933c3579c6a398b62af92c501"
+    },
+    {
+      "agent_name": "bol",
+      "agent_number": 2940,
+      "owner_hash": "955cb4679962cab4f1a43665d7a06c3b8784c24ab3764d79eb7c4f38d892425e",
+      "claimed_at": "2026-03-25T22:59:49Z",
+      "signature": "363daaf99ce6df705a2b5273950a63f00a61d7089763c0a3ed2ccf09e58a4fab1b3bd4c663947c9c4c36984e70054b66be2e85445c5b5b976968fcd6d3d8df04"
+    },
+    {
+      "agent_name": "berkantay",
+      "agent_number": 2937,
+      "owner_hash": "fe5bf27e1607157705bfb75fca69a733d1a9ea53a1c62ce6eee55c9002f768e5",
+      "claimed_at": "2026-03-25T22:56:03Z",
+      "signature": "426734d3de21b586542c26f4deb1fe0f4f908520d212fae9f862bd158d87a10696e3475232e75d84248aaa8d286dfac3c542527670083558199abbe5e5e0af0f"
+    },
+    {
+      "agent_name": "wazza",
+      "agent_number": 2938,
+      "owner_hash": "9f04a0950c703c6a407b0a58027c8858fe96cfc917bb425151681f82404f2791",
+      "claimed_at": "2026-03-25T22:56:27Z",
+      "signature": "9fbfe76daeee2f8e02b954468c79b6f2d3df39313b3bd41defea8911d5768a9cf0cbf7d78c0b820d5c47f582727ec27ca921131f1a688171c8ffbcfb2e887000"
+    },
+    {
+      "agent_name": "cokojannel",
+      "agent_number": 2939,
+      "owner_hash": "4ec794278b5c643dc21afd07760d4542711cda1d0b59f81fc0ce907d8fd05034",
+      "claimed_at": "2026-03-25T22:58:46Z",
+      "signature": "2d026ea19db460c19a14d3d75c8403ab24bf02052a03e5f18e9fc69dd1730efe6c6f10af24b550fb356b1821c34395c47f697868b178e6d86c966a04b85f7507"
     }
   ]
 }
