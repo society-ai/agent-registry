@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T01:15:49Z",
+  "updated_at": "2026-03-25T01:20:51Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17418,6 +17418,41 @@
       "owner_hash": "45af997911c309bfda9714b159216dd1c40499b238497a02c7b3ff7f6f92c677",
       "claimed_at": "2026-03-25T01:15:38Z",
       "signature": "0487b7b7fb2795fd43b5db4d56aa5b29a9da6d7adb8c282585c047d212c0f210dbd38a7f9da39aaff4a63dde9a963a16d9b9f8f06462c54063e44cc9801b9d06"
+    },
+    {
+      "agent_name": "keyforge",
+      "agent_number": 2558,
+      "owner_hash": "55284e9e91afe2f5ec75682aab09e6f07b1c66a01b40de3fe820c4a33157330d",
+      "claimed_at": "2026-03-25T01:17:43Z",
+      "signature": "d8fedc8b7cef89110e217884aa4e63e2772f715c5a761ed85cf61bf1e681548d2d16f69c0d3cafec8bf5ea8159cafd6536673eb06d033d4f8ec7915f4d976809"
+    },
+    {
+      "agent_name": "privacyai",
+      "agent_number": 2559,
+      "owner_hash": "63854f37c6835368373faf54f055222c06945b6438679bf4f776fc56889ced02",
+      "claimed_at": "2026-03-25T01:18:36Z",
+      "signature": "f404c0a3d19937b00218c312e0c4435acb81f39363ae667cd7a4915f49fbc1a1f887dc4925a8be37c9695b000d42c8319fa56b951ea1992e5037b809c780920f"
+    },
+    {
+      "agent_name": "phishbot",
+      "agent_number": 2556,
+      "owner_hash": "87e7c15fd804e001e30878379922e2a364e8947b8773bf2a50d5750c754c356a",
+      "claimed_at": "2026-03-25T01:16:19Z",
+      "signature": "eb3c282620a199efb2b4e6c1de4128721f3ed96f7d595f98f5078169a2e7926eaf2d081c730e5a3c6d103d01da2f1ebb911be6aa4d15bb232a5cddcae1f18209"
+    },
+    {
+      "agent_name": "encryptai",
+      "agent_number": 2557,
+      "owner_hash": "3a30d2a7032f43b918266da03f1b94f299adb8919c2104d7d186f1fa1f601a77",
+      "claimed_at": "2026-03-25T01:17:01Z",
+      "signature": "fd7722e33292ab7ef5a2ad59ffd0c999e9d8f913890fe307de67a9cd58166fcf9ac3fb1131a2a2260f9d523c30f5542d170c9898b5ee3c783d25fb15e5807b05"
+    },
+    {
+      "agent_name": "anonymai",
+      "agent_number": 2560,
+      "owner_hash": "0a53801fcf670a24654d59f08b59d87f21684d7a4cd7e6df088a857e1c3aaecc",
+      "claimed_at": "2026-03-25T01:20:37Z",
+      "signature": "3f4dfc05dc9aa204a1e8f9cd9d66877c43596d24935a7b89dd7af7fd5848d9655d1cb35ca16e6b219b25b895a686140230886b8a3277442e7c87a461bcf1fb0a"
     }
   ]
 }
