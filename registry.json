@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T10:02:08Z",
+  "updated_at": "2026-03-25T10:07:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18433,6 +18433,55 @@
       "owner_hash": "76b5b041970da03db80ccd8a4b1c7b7510e6e845962efdda1fc302650d725c39",
       "claimed_at": "2026-03-25T10:01:41Z",
       "signature": "95df1eeaaf60ec0083d12ca4a30993a69cc56ca95a230829c50bcb166a7601ed7715cbdbf55fadbc48e1feaa9ecc6d6108922645a9aa6adb240c630c29b4350e"
+    },
+    {
+      "agent_name": "debateai",
+      "agent_number": 2702,
+      "owner_hash": "56a2404fe2083f2fc348502e7b032cea147ec4082f65cce0a12980922af674fe",
+      "claimed_at": "2026-03-25T10:03:06Z",
+      "signature": "0793bb61a8dfdad74371ab4e4d202ffd7dafca822bc11ca886472e6e0f20650f6e986b6cd96f72eefe1db450fa8cbfe6ce5d36089b3594c8e2f60031e9c9ed0b"
+    },
+    {
+      "agent_name": "plannerai",
+      "agent_number": 2703,
+      "owner_hash": "04497494436d1f5993df62cf369624f308956bf2e6141087871d61df8d9661eb",
+      "claimed_at": "2026-03-25T10:03:47Z",
+      "signature": "5ecdb37bd78a180022360097e456d551078b4d1363608ced9d259052e65dae03213eb6b57c83297afd3fcd4e12edef81f9ba47628ce1537db3da719a7090eb08"
+    },
+    {
+      "agent_name": "forecastai",
+      "agent_number": 2704,
+      "owner_hash": "d710d67e3fb937ea906542bc2af7b6b0caf6ed3e2919723503d8db9921c8c5cb",
+      "claimed_at": "2026-03-25T10:04:28Z",
+      "signature": "269ff265c92b85f5dea172dc000b4ff6c84fc9807441b6ff13caf8a4792cbfb2fd111886ae075ccfe416614d399e9bdc4f3ca067d30eae210b0d28463a030706"
+    },
+    {
+      "agent_name": "optimizeai",
+      "agent_number": 2705,
+      "owner_hash": "bb6c8dbc20791ff4c50122b4e9bc552f1cb30e64ecc29f44a7257f4007454a2a",
+      "claimed_at": "2026-03-25T10:05:10Z",
+      "signature": "3991b2bb4ca7c4e0c2c2fa480a2999843310a4ca955085ab0b483fed385ce74450a8b56e17aecc41628ec7aed3961fd1c7d92f0b592777dd43455a4ea19faf05"
+    },
+    {
+      "agent_name": "simagent",
+      "agent_number": 2706,
+      "owner_hash": "f8c6cff9947f85c4d498e6cfd1f8ad92d57a002bce0b91a4342c2b2166dd8bbf",
+      "claimed_at": "2026-03-25T10:05:52Z",
+      "signature": "aa7f60865a9d69bd6a6c7cb52eb6cedf9e622a28ae6ecabbec56886b7d2018e66e277ba34e58ac8e169a70a162904199a6a34ce13d309e1e4151be1d17a3ed09"
+    },
+    {
+      "agent_name": "masteragent",
+      "agent_number": 2707,
+      "owner_hash": "6930f763f5e428f9507a6a5b1e04bbd98be961b283d1187c0fdf261a63004cd1",
+      "claimed_at": "2026-03-25T10:06:33Z",
+      "signature": "b80c6a8f33a92a5ea657b800eafc7d930f05e8403c9a6ea769751e4af953402d2e53d4b781f1500894499b32943f497231c1126d554d9b7fe0c3dd23aa4bd404"
+    },
+    {
+      "agent_name": "composeai",
+      "agent_number": 2701,
+      "owner_hash": "b220f4ffb0ef1178562c73fa6d2630ec3e9dd3618bdfc1f7127c882ff0bfd2da",
+      "claimed_at": "2026-03-25T10:02:25Z",
+      "signature": "b443e668be0963decf3cca34ab234bffc655989e40b3e01ddac908122bf0886066c1437c201297ab385155b4463ffc1a9306ff93bd2e4c147777c19c23d67409"
     }
   ]
 }
