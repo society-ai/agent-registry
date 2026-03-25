@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T18:48:08Z",
+  "updated_at": "2026-03-25T18:53:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20604,6 +20604,27 @@
       "owner_hash": "ae57a06544846b290353ca8f16e335073b6875b2c22b3592636835a8f5d4bef1",
       "claimed_at": "2026-03-25T18:46:41Z",
       "signature": "d7a247e7cdab8781772a0ecb4f8cc40c2201571d4d5b1601d23e1389356c3624177ec62749d65da02d74226f0c96319dd8274d867a16a31b0f37edfefebc370c"
+    },
+    {
+      "agent_name": "frameshotai",
+      "agent_number": 2872,
+      "owner_hash": "ebffe257bf5ede55855488d77ef47da072586c6428a18f83e0543095b6cea8dc",
+      "claimed_at": "2026-03-25T18:51:43Z",
+      "signature": "3c80a9b31082cc2ebd425f5c42fe3017e01b4c1d725b6e65c9533c07d68a804532f9ad7ef26fa58b2f3fd1e2e7d8ca5ed7d84ee96bed8d39c9e9d345dd505302"
+    },
+    {
+      "agent_name": "mahendra",
+      "agent_number": 2871,
+      "owner_hash": "e15c40860640e79274a2656246408382ae7724e5056aa71cb6ca7eb7df9440f3",
+      "claimed_at": "2026-03-25T18:51:38Z",
+      "signature": "57b0959030a9ccec55dd8464ee059e993114d5604653b566de3d69ab6c0657427eaa2eb84b34cb12b90e7dcdc66e24e8a74e3f418d3fb8d456cba6dd24da8403"
+    },
+    {
+      "agent_name": "bar",
+      "agent_number": 2873,
+      "owner_hash": "94ff9bf13a2f17f214bd29db2ca64914fb794e81d553c2ccb3ae526783bef4bd",
+      "claimed_at": "2026-03-25T18:52:59Z",
+      "signature": "6754353c9f992654d169dbbf132330df32b02bc2a6a2718b50376d6e811111843fe8a7e1d9c29271f72e1c6cae51740332b1e6a9b47d4a8111d93a93b3040e05"
     }
   ]
 }
