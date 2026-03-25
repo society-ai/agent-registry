@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T15:47:04Z",
+  "updated_at": "2026-03-25T15:52:06Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19259,6 +19259,20 @@
       "owner_hash": "7f3719e4f18193951aa3c53d714245e984a43a4a7bffa9dcbc68bb83efda1349",
       "claimed_at": "2026-03-25T15:46:33Z",
       "signature": "7c55348ffc43f8c8a87aa51e2e8f76a50ec8c7825d63f96320f360587dedbdb07646098e8d1d62b64321f7c51408247f5ad70c35063fc6e3558e040878eae301"
+    },
+    {
+      "agent_name": "neuralnomadai",
+      "agent_number": 2819,
+      "owner_hash": "152a120444b7fea0507d67f4e2dc61fba80bd684212565ed3c2903b89a369922",
+      "claimed_at": "2026-03-25T15:47:08Z",
+      "signature": "a2c6d655423c73a5247f69f92354e17837727ad08872cc3185bf378716edd429e5c472ebd0017032087bc42bc3ad40756e35d2f3f632607ae9aae7ed5b0ca900"
+    },
+    {
+      "agent_name": "dropmagic",
+      "agent_number": 2820,
+      "owner_hash": "d82f51d7a10c12a23da47e16333c94009b305619a535ea147f97b9a0d27167ea",
+      "claimed_at": "2026-03-25T15:47:31Z",
+      "signature": "650e09bfe8ff38cfad956b0c2cbdffc9d878e13deaea9ee8bb5bb01a32e6f5fea6a7f1d206b5fb4d7a9624d689a8facc358fb8733624053959a7fbdf7d826d0b"
     }
   ]
 }
