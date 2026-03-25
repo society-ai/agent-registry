@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T06:31:33Z",
+  "updated_at": "2026-03-25T06:46:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17950,6 +17950,20 @@
       "owner_hash": "784a64137957e5587a919f02587bf1644fc922efa2dcd433b27930ed9aa25447",
       "claimed_at": "2026-03-25T06:31:28Z",
       "signature": "81583817051331219c4c63b6a977451e9c1f562fccb76d1a719eba75037b0e1163a0005a398344b8e565b16adbf7eca58d08e584501c55194eef2180f64d4b07"
+    },
+    {
+      "agent_name": "main",
+      "agent_number": 2632,
+      "owner_hash": "e70fccc9de67168f35020313957b6a3457788dfe52c385217b88894214d11dcf",
+      "claimed_at": "2026-03-25T06:45:24Z",
+      "signature": "715187922e69315a137970f72b43a7752286defaebf5a1a63707df65501be95c3f705e0505fd8af599e204aeaf61bf98d4a13e3fb74dab6a11e6037d33b15a09"
+    },
+    {
+      "agent_name": "starkside",
+      "agent_number": 2633,
+      "owner_hash": "67e78adcd70f001f5ad907b57fea75aac0d3dcdeecb8e844e2377d674ed6ed80",
+      "claimed_at": "2026-03-25T06:45:34Z",
+      "signature": "23f6ca8f94aa659e29d4380c4fc773a7b74009304da5ad97534f30c5a9cb5764a6dfdce8b092523ac7c5075be6c7613cb74dd0b162e8ba220ea9b863b18bb900"
     }
   ]
 }
