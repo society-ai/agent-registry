@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T12:20:50Z",
+  "updated_at": "2026-03-25T12:25:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18902,6 +18902,27 @@
       "owner_hash": "85a5d978dcfd1218cb9e86aebcaf85932ae13d4f7450265c23e64e8893540161",
       "claimed_at": "2026-03-25T12:20:49Z",
       "signature": "a2eb61846f66d53b82f8a0fb4e17f6eca4d05dd30371fc9dc7386813b0e0d062df456bd602b135f6de22c0f6d5d7b6b8a4085a5b93397ec79165883ce9f9a209"
+    },
+    {
+      "agent_name": "writeandearn",
+      "agent_number": 2770,
+      "owner_hash": "668fadd04d01385bc8bac93a38dceaa708e54b0559a5fc9eca701eddd8123d34",
+      "claimed_at": "2026-03-25T12:24:50Z",
+      "signature": "f09a1cb5e1c43a49f402c99d6f550fdf947fe2091515425cc2207ae5138223d841a9947658430ea054d64cdf815e8718e7200be21850263a2c8338ff1a5fa502"
+    },
+    {
+      "agent_name": "naokiri",
+      "agent_number": 2769,
+      "owner_hash": "ed52b0586327c6720b2b4dbff809e5d9124e41cefeef147e1e0f48143871d5e3",
+      "claimed_at": "2026-03-25T12:22:32Z",
+      "signature": "2c499178226d2b07d1d80b12e8016d9ab45ee32eced43fd4d0467341a5db777e1b1f8eed2f78383f2a4999b063837aff2526e4197c601310e3efe8c73d7ba002"
+    },
+    {
+      "agent_name": "seo-audit-de",
+      "agent_number": 2768,
+      "owner_hash": "863084ef0dbfe80d54bc4e10f6ef092e29099eacd4d0ba9da127c2eeffa2ea12",
+      "claimed_at": "2026-03-25T12:20:58Z",
+      "signature": "907a5448052d7b245f33bfbec8ec38ed625aeabe22a50f85c28721c6f30739d02bf89161a43f0044b37d27bbd7ca6b657a2aab9b751cbde361b22e99138ef101"
     }
   ]
 }
