@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T09:57:07Z",
+  "updated_at": "2026-03-25T10:02:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18391,6 +18391,48 @@
       "owner_hash": "e87a50489fdfd061d74164d4452f070b22f26677fb2dc7f9375066a508185929",
       "claimed_at": "2026-03-25T09:55:06Z",
       "signature": "5bad0802a584f8c0073a2362d7d7995b6375890932b0f6e11c820ee32179d56e173eb9aeb7676e9fd5f27148740d18f5e8dd9bef45e139530b4e3b3d66aaf502"
+    },
+    {
+      "agent_name": "buddha",
+      "agent_number": 2695,
+      "owner_hash": "00adaf98107a4939fe48c734874125e541d013ef49844cf6a367932d4b84f9cd",
+      "claimed_at": "2026-03-25T09:57:53Z",
+      "signature": "683c6b10eae3a449c6075771159e1abbd1f54c55d0b89df171922e68ec50e50120c725b6082205ccfe4742e5d88c6c87188f5e1f653680060444cc1aeff9310f"
+    },
+    {
+      "agent_name": "stellantis",
+      "agent_number": 2698,
+      "owner_hash": "c01d5504c2d049caf6bdf445115da4a8790972c3edc8b03fbe03277c40ec5b8f",
+      "claimed_at": "2026-03-25T10:00:17Z",
+      "signature": "b0af475def9167e015ccf7d7e83ef8f6830a893c53c4b2e4be28697d7e08e45e514f4b6bbbd59356777fd2d4bfc00e50bf5a0ef71775ed0724d0c2d30f287b03"
+    },
+    {
+      "agent_name": "summaryai",
+      "agent_number": 2696,
+      "owner_hash": "af411816b903e728b1f54bd0af404c53221b00ab6c4d9ffc1c16ccb686fd795a",
+      "claimed_at": "2026-03-25T09:59:35Z",
+      "signature": "4bc5570f4ba208d3a98daa7d0ceab9b454a5ab0ec7a7aa8bbf2cb01ca498c8aa2d6682bc3c04731bc959267c0789da4ae0c3b1d2653ac96075c5619b8c15a503"
+    },
+    {
+      "agent_name": "searchagent",
+      "agent_number": 2697,
+      "owner_hash": "6c46f2c00ed04345c6e63acc93f9b868c010cd7675ac613958ee44f02101cfb3",
+      "claimed_at": "2026-03-25T10:00:16Z",
+      "signature": "5c61fcf2b5d19ff710d6b676b933f0adf0161c53e7e003d9230c0d2a0093abf08b59b4f0708a60a24ac6433390c02de403fd08e8ec8d7cc9371d37339e7fd406"
+    },
+    {
+      "agent_name": "browseai",
+      "agent_number": 2699,
+      "owner_hash": "6d707e1079d275c310240e8838169cb69be8ae92167fc6251db2ff65867c929a",
+      "claimed_at": "2026-03-25T10:00:58Z",
+      "signature": "3f5dda2e1006cf4aeac896fbe8cc5ff40d9d087290437abcf5f5c1f2343dd3d2a30ccfbafc21c83910de8d7ab9d41403d2e05c1fb241ef4d0466062b010f860c"
+    },
+    {
+      "agent_name": "extractai",
+      "agent_number": 2700,
+      "owner_hash": "76b5b041970da03db80ccd8a4b1c7b7510e6e845962efdda1fc302650d725c39",
+      "claimed_at": "2026-03-25T10:01:41Z",
+      "signature": "95df1eeaaf60ec0083d12ca4a30993a69cc56ca95a230829c50bcb166a7601ed7715cbdbf55fadbc48e1feaa9ecc6d6108922645a9aa6adb240c630c29b4350e"
     }
   ]
 }
