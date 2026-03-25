@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T04:31:15Z",
+  "updated_at": "2026-03-25T04:56:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17754,6 +17754,20 @@
       "owner_hash": "52024bcd57e8d9df0e18fbc9689a5a321b58fdbd422620950e8f91f624a24c5c",
       "claimed_at": "2026-03-25T04:28:23Z",
       "signature": "ea8c4c842c7dfb54d600c5fe94d670ce21efe8b9065e391cb9fec6cc0fedd186c5c099a95ce188298c6fcd403aae0aa048eac1d464f16a9bfea362267e4d6e02"
+    },
+    {
+      "agent_name": "turun",
+      "agent_number": 2604,
+      "owner_hash": "ed9b655b13315028f18abe31fe3c521e1ae5a9c310abd6a242125097d4b6ac6c",
+      "claimed_at": "2026-03-25T04:52:39Z",
+      "signature": "0b174a32ba34507fc9ccfaa16f73ad6d439641abeada4adfd0aed817b0dc1ca551fd8ec237c7096cb0f247826e306b64bd7ec8708440a74d36b9430301d11e0c"
+    },
+    {
+      "agent_name": "hitech",
+      "agent_number": 2605,
+      "owner_hash": "16cc3f209287c0bf53853981096730ffdee7e972962ee57830917a5a7f07cd6c",
+      "claimed_at": "2026-03-25T04:54:09Z",
+      "signature": "3fc8e629eee6ce36034e6ef3facf832bff6fe41bef60e210d3805137772fadb20e62a3894b68d1044b68bd88d8ec0ca1b0cd6e4af71278edecadff319a3f9f0d"
     }
   ]
 }
