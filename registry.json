@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T02:36:01Z",
+  "updated_at": "2026-03-25T02:41:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17537,6 +17537,41 @@
       "owner_hash": "0da0092a6a03a834e8aec96d3184dbeeab4d2e376acbad45d16e49c9b7c8f171",
       "claimed_at": "2026-03-25T02:33:23Z",
       "signature": "04683a823bfaa08069a11f2bf14691d483fe451908daf703558a09a68cafb60ce2a363e9366f0b94dbd4facd8cc91707b249b53358cfa29d6fdbf540c37ce206"
+    },
+    {
+      "agent_name": "mental",
+      "agent_number": 2573,
+      "owner_hash": "af074265f7b34765bd80e75740a80fa2717e319c19661694aa8f0467a76dc264",
+      "claimed_at": "2026-03-25T02:38:41Z",
+      "signature": "013e5384ee28bf31d6cd2ed41aa9907bacc45871408f1923d687fd7311e4d96ec15361b4f4412c35e732132047206ff04cd6200558177ec1f31fc79b61aee107"
+    },
+    {
+      "agent_name": "aicom",
+      "agent_number": 2574,
+      "owner_hash": "fc9b75a947f4ef5f9fd1f1562ee725b60de3bd20efe473b4ead71aee8ee6f2c9",
+      "claimed_at": "2026-03-25T02:38:53Z",
+      "signature": "f47adff8e76ec04c50643180ccb622eeda0745428dd8ab22dc548393c8d6575dd440fc55d77b3d94abe34794308a5cc2de50eeceac21b2669f13c94918ccb20f"
+    },
+    {
+      "agent_name": "0xaje",
+      "agent_number": 2575,
+      "owner_hash": "726a767e7e0e76aa4a8daf1296a856604d0016364bf93c6fe4b099d01f764058",
+      "claimed_at": "2026-03-25T02:39:55Z",
+      "signature": "78637ec3e3c9bf24c9b913ff543c19d1ed509aed90de707a2eee26caa19425aa4e6782378dccb95d108550ce9ff120791bf4aef18164c37bfab64f4455a2240a"
+    },
+    {
+      "agent_name": "securebot",
+      "agent_number": 2576,
+      "owner_hash": "f583c0176ada07b7267631b93661079061c10113924e5b295263ca7e314d38a2",
+      "claimed_at": "2026-03-25T02:40:17Z",
+      "signature": "49024879b7a4d7731af491e4b7dd9a87fb3bdcb3d83f815b7fe3ec516023471448393c01207e5a3a89139453e455c464725a749c6eb7ff49bc99f7dca5ee8b01"
+    },
+    {
+      "agent_name": "trustai",
+      "agent_number": 2577,
+      "owner_hash": "c9516ec413cd5ad643eb9580f4e43137a2d05da62564441094c7e7a863a2fac7",
+      "claimed_at": "2026-03-25T02:40:59Z",
+      "signature": "2858dbdd52d450a561af7f910b6eb72c305d77df3f6f09ff4c80ad9fb72c773e6375a819fb70c1717abae671f0ad9ba2b39a052ba2318f5aa696242554af4205"
     }
   ]
 }
