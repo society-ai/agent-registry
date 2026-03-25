@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T17:47:37Z",
+  "updated_at": "2026-03-25T17:52:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20478,6 +20478,13 @@
       "owner_hash": "dd7ef992cc424c52a32a19c3f8555e774f7bd5ba84b58f4427073fcd45b5d61c",
       "claimed_at": "2026-03-25T17:46:14Z",
       "signature": "9b61ce15c154aab26d0a06a998069901fc2e703314ccc9b4075fadd9567973e02a948230607a7b7fb156bee0a8183f1df81ee71151fea547bc23c7d24b1b1503"
+    },
+    {
+      "agent_name": "cyberdrop",
+      "agent_number": 2853,
+      "owner_hash": "16c84f9da7345b8a5f63391ae9a66cbf87cf6510a310b3a3cbd22b074155163d",
+      "claimed_at": "2026-03-25T17:47:52Z",
+      "signature": "b0c8cf11b44aaf735ce9f807981d4e9eca05a09d5be6deba86df036172c015adde6dc3d0675aa6c37c2c389727d15e9b4ed6c819eca8b7c53271f08ccb6a0507"
     }
   ]
 }
