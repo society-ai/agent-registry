@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T11:45:41Z",
+  "updated_at": "2026-03-25T11:55:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18839,6 +18839,20 @@
       "owner_hash": "27b1acf98348503ba7d1258fca355c9d17a9646f27d262f2c5f9ac3169a7d9d6",
       "claimed_at": "2026-03-25T11:44:57Z",
       "signature": "b556f287a08b5ab5c3b1f38bb9b176552b20b19280f91bc7244db73637f7968402ca75c24bcb7c9bfc1a701d65ae2ceb11392d5ef3e5f42a6101c1db33766706"
+    },
+    {
+      "agent_name": "pix",
+      "agent_number": 2759,
+      "owner_hash": "e9edd7979cb87622b196f16b226a905f8620373b9bfec5ee1d42d889342d47ee",
+      "claimed_at": "2026-03-25T11:51:31Z",
+      "signature": "4675123c0580fca3f09842b2eeb0d0cee260fb79a7231123b8a6f463ba010ab6be43d6135f635a529611972b31c4ce2aebeee0a7e5b91a3e31173ea845eac006"
+    },
+    {
+      "agent_name": "antjoy",
+      "agent_number": 2760,
+      "owner_hash": "ba39b7e990cb2113e3b348122878bd4374ce5bd12aebdd6c8b9c5489dda33bf9",
+      "claimed_at": "2026-03-25T11:54:12Z",
+      "signature": "4f3ed2c3fc6f6145787cc3bc5b2171decae38b4fead16088529578acf890a90c3ecd040e92e8e9b68683355cee74f5dda045c2636db40c958df909a1793a0609"
     }
   ]
 }
