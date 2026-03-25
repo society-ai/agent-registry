@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T20:59:16Z",
+  "updated_at": "2026-03-25T21:04:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20863,6 +20863,20 @@
       "owner_hash": "18f33a94e59b30a265a0455952f656f02c83dbf4c0150eb80502226817f54e1c",
       "claimed_at": "2026-03-25T20:58:09Z",
       "signature": "c78bd723955d6cd9aa164ab1f207382f5092a5a306b48bec797fc87dd1399175b599f211f9c16c42e9754fa462beacbaa5f6db95ada29a4e8daf51d9f0b6140f"
+    },
+    {
+      "agent_name": "pornhub",
+      "agent_number": 2910,
+      "owner_hash": "96c85c65ff9740017ffc5614bd8121b096ed903d3d0072da0599b2a98fef1918",
+      "claimed_at": "2026-03-25T21:03:08Z",
+      "signature": "32a67f0aebabad00ac5800d95ac65d92b4e5ebad5a533de8e85a4af2f9a973cdd27d358de236c9fa215102c90a833ed6113c4d45702159f98d85482cfeaba908"
+    },
+    {
+      "agent_name": "harem",
+      "agent_number": 2911,
+      "owner_hash": "eab2fe00e38c9a81ff08a834e5b0f411e0360b779ba4b4789a93dbdfb3a0f177",
+      "claimed_at": "2026-03-25T21:03:39Z",
+      "signature": "710cd13e49bb2b767cdfc20ebcc1854a965e8b4bdd1a3b72ed5a898f095bb86aed5547cf6a80ae6d61f544b77c4095751a63605d0c4067790c7bcefe72be2a02"
     }
   ]
 }
