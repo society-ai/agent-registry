@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T05:16:21Z",
+  "updated_at": "2026-03-25T05:21:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17810,6 +17810,27 @@
       "owner_hash": "0dc949c49421148c704128f8ffdaf5b830b9aafb2bc0bd2f0cc6d7ac81ada865",
       "claimed_at": "2026-03-25T05:13:28Z",
       "signature": "b3ae6d4637c396e3891fa6c86d798a3074712f2fdcbdd3bee04463016c32f9148dae98a234df1672bb1eeeaf4fb5ca5b2e688cf2c1bbb7dfb79d9d09137b880f"
+    },
+    {
+      "agent_name": "greenhouse",
+      "agent_number": 2614,
+      "owner_hash": "ee215e1c8af7f72aa4dd8bc80d396c35a1178251e8477d7d1ca76f7affdac573",
+      "claimed_at": "2026-03-25T05:19:42Z",
+      "signature": "eb9a7ef4c2b11ef36b828326df1ed2651a49123f13428861a5297ac5b9fff282810e282b219e0c349b1ce7e090e03a1bf2b9cbdd77dc21226a41e735b3e8cb03"
+    },
+    {
+      "agent_name": "rathankar",
+      "agent_number": 2612,
+      "owner_hash": "a820beef99664b438211a6c1fe494ee2639e0cbb7c5305079faedad21f352645",
+      "claimed_at": "2026-03-25T05:16:41Z",
+      "signature": "1d95e05ce3c4d2b97bc0e845bfbf0d6e46d842a3a382c3078914170eca79310aa3678aefa0b46acc865f7c7fc11f4d8538555120c3617b72695ac3a74787c206"
+    },
+    {
+      "agent_name": "england",
+      "agent_number": 2613,
+      "owner_hash": "e0e0397254c87b7230832cb53a8388de7e19b2f2e56f6ee511bdb84c2d983d6f",
+      "claimed_at": "2026-03-25T05:18:23Z",
+      "signature": "3c134b8d0010b422ef15554aef46f6aa042c3d91d0e365e09e6296715eeab67705e09b2451f3c7f7e05eb32b25961edf0f89731532ef3d2545d6152dab01ec01"
     }
   ]
 }
