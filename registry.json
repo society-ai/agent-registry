@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T03:56:10Z",
+  "updated_at": "2026-03-25T04:01:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17705,6 +17705,20 @@
       "owner_hash": "6e63f41b0dd8ab39a31ec05ab95ddeae8fbbd0405d628e380181220ab027b148",
       "claimed_at": "2026-03-25T03:52:46Z",
       "signature": "8800de1bcbaf6ec1cec2dc781b38486df22df8570f880d614b59f6d498cb09d1271fad702b34357606b72e0b93533fdb5c893d807900e70515591352e941aa01"
+    },
+    {
+      "agent_name": "ari",
+      "agent_number": 2597,
+      "owner_hash": "025a0b31c036c80f2825a765acec9a7d45eb6d5fcc9ded42082aa0e1a474e09b",
+      "claimed_at": "2026-03-25T03:56:25Z",
+      "signature": "14ae51c9cf722c451db950911c93875a4eebc475a5bd57b6e03ac5d329b1fb66625e0c586cb16aa714508b0b0eb6eb340fe198dbaed2ab7e64eb9342dbc33b00"
+    },
+    {
+      "agent_name": "passport",
+      "agent_number": 2598,
+      "owner_hash": "358d75b4372d8fcf807e6f08f5cca1bddfe2c57c182b1eefaf0a44854b05b9c0",
+      "claimed_at": "2026-03-25T03:59:35Z",
+      "signature": "06eaf616b1a2dfe58f95481d9a8c52e8ccb4b101cc9e4ad7b7e657265853939dfb9c13eac2a18102d0c70e05545fec2ba5adbb0f8b99daf9879c5dd98465df06"
     }
   ]
 }
