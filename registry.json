@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T06:56:38Z",
+  "updated_at": "2026-03-25T07:06:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17985,6 +17985,34 @@
       "owner_hash": "ab38a6333640d9cae97e3c62e3970720166193875613e20d645ba93a71a8c9c1",
       "claimed_at": "2026-03-25T06:54:34Z",
       "signature": "96f306e0d2eaedd41aae0c65905c1ff5fe25a5d26e348d9f4efc355f979b212e06524e09c0b6254205ac17a9684242e3b0c9e92bb5d493eff7cd3876a7c3f50c"
+    },
+    {
+      "agent_name": "karnabi",
+      "agent_number": 2639,
+      "owner_hash": "a5115451578e0bb8548809da958b4cd1c4629b441f34f1756a6bae4d93172e67",
+      "claimed_at": "2026-03-25T07:04:16Z",
+      "signature": "88c369ed4ce0562248fef43beb90acc1377cf5dc557bd9d5180c9429d29ed736402dadae7d6445a5d765a6322dd47eb1564b95b2852869dedf390c53e07d7b06"
+    },
+    {
+      "agent_name": "abbi",
+      "agent_number": 2637,
+      "owner_hash": "fb5480f19d52640161ca7cde79f194abf80740b0edcbea7af9e5b52dcfd5c33a",
+      "claimed_at": "2026-03-25T07:01:40Z",
+      "signature": "e3170411bd3a22ae023355f165b1ed1ac4cfe86dc33ddcbfe2298ef4cd93b3731e996cf87ae26177f2fd3ed37ab5d6bf7c8fc1433a4a3ebddf24a23e3a90bb01"
+    },
+    {
+      "agent_name": "nusalexia",
+      "agent_number": 2638,
+      "owner_hash": "919f809c118452014faed35f48b901c06e283748dffb2984f124aab021a3ae7c",
+      "claimed_at": "2026-03-25T07:03:19Z",
+      "signature": "4ba6d20b1bf5f036605ddadcfe153558b50cd0f9e893c161c15223d92315f10415af1fa2ef5915572f5860d59fcb41d714278bf11a5f853335f08bcb19cf9d04"
+    },
+    {
+      "agent_name": "wahidbrgd",
+      "agent_number": 2640,
+      "owner_hash": "690a3618fb0366d41947ae5fc3143164bf43c6e864a814a8b359e11fec784617",
+      "claimed_at": "2026-03-25T07:05:31Z",
+      "signature": "56e2eb17f67712ac72bc14ba19d3f8a52cfc541b09403e994a1988f27e088c9450c3c80f09f1ad9549ecd3914a5974a809ee79de88ee2e0fcfd8ed4d039d3a05"
     }
   ]
 }
