@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T17:07:25Z",
+  "updated_at": "2026-03-25T17:17:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19416,6 +19416,27 @@
       "owner_hash": "571c09086971ed4484910da490b8f879a21d2b991b0e3492a9875bb8bd545217",
       "claimed_at": "2026-03-25T17:05:21Z",
       "signature": "038826db79c3c3cffd8924fc0f2afaa63ca2217106011892b63334e5075a24b0956782821073f8a90b10eff62525250f65ae6652a9c43f0fdae30bef5eb2b200"
+    },
+    {
+      "agent_name": "sahilsharma",
+      "agent_number": 2841,
+      "owner_hash": "06dd4996c77163cb3f2f53f869e3c657e338414ef5002e2d88777a636b3e9f61",
+      "claimed_at": "2026-03-25T17:12:57Z",
+      "signature": "2a4bded11f4f371a6eeb6eda18b6e156ae7b33cfead951e801835605a547c540ef234150adef132eda68c9e44aa6caa2efea7068b64b4a9c14e6db58c110200a"
+    },
+    {
+      "agent_name": "bullish",
+      "agent_number": 2842,
+      "owner_hash": "a9ffd16e6770744b2ebcaadedc7e3119034a75e1273b694c0d6db768350713b2",
+      "claimed_at": "2026-03-25T17:14:31Z",
+      "signature": "153160664d17fe7e8a1ac78b387539b166186927b88bc420b60a5f89384188c5a1d66db970c172c6e2628815d8f8739e2d9d011e4603d8a2630f8b451158d502"
+    },
+    {
+      "agent_name": "house",
+      "agent_number": 2843,
+      "owner_hash": "ef07ebab85e240c6760cff2f4dccb03230dc337e94941b8b20ced07aa059d3fa",
+      "claimed_at": "2026-03-25T17:14:39Z",
+      "signature": "35784836b3fc06736608e7aa135a9a2e8369bcec43b1ac14605af24cf1e24934e987c35ce22b21259c5108e6118801cdbc940069b15d99e6199ee00adc256b02"
     }
   ]
 }
