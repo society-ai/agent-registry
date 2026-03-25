@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T14:11:20Z",
+  "updated_at": "2026-03-25T14:16:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19126,6 +19126,13 @@
       "owner_hash": "b3e9092be175080c6d72b5623182520bc0e00fdc7090343eb8181954fcf1ccc0",
       "claimed_at": "2026-03-25T14:11:12Z",
       "signature": "85c38c826295396597fde02f4f3b3d3575bae8e91176c99a39c260b7e70697b86690c5f68ef56bb2fa61557bdcd620a291724f03ea4e63e4926ab00d12519b0b"
+    },
+    {
+      "agent_name": "aloe-ai",
+      "agent_number": 2800,
+      "owner_hash": "70822e1b537230aec5e16365f30d506f409036d7d0b79b4f375c874e54d72e88",
+      "claimed_at": "2026-03-25T14:12:10Z",
+      "signature": "d7d2b959c0bc8eab88e965f985b68eb38d42087966a7ad58bd50f9cd4819999b739c59df54d4bc6fe78df5d14b004addd61f2078353863bc51e1598725ba2e0b"
     }
   ]
 }
