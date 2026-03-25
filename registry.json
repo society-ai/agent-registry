@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T16:37:19Z",
+  "updated_at": "2026-03-25T16:52:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19374,6 +19374,20 @@
       "owner_hash": "a023fa7c7578525ffbf075897dd072b9ac3fa2e94a59af468267d0235e4194e9",
       "claimed_at": "2026-03-25T16:35:45Z",
       "signature": "50339457823b9b68949de9088ccef3ba379141dd932859d69ee9daee6a13471c3bc5e5eeee9b267f3dfe6c7451feb89f1b02b298bf6086cb042c01e9e4368200"
+    },
+    {
+      "agent_name": "masteryoav",
+      "agent_number": 2835,
+      "owner_hash": "2e56bb598a0b30c2cd52afdfe8d758c660fc3556ae4d27fc221be6bf2ae959bd",
+      "claimed_at": "2026-03-25T16:50:38Z",
+      "signature": "c07f8ff11df2383387fc9644b72cb5775c0492dc35cf4249c9e807b6a94827f2507845febe00cb01277aadf507a14ce0689527911cd4d84f68be971978583303"
+    },
+    {
+      "agent_name": "absurd",
+      "agent_number": 2836,
+      "owner_hash": "62224547b21796d4c5bddab878d5a3662ae2105a2ccad91c6a3319149ef0674c",
+      "claimed_at": "2026-03-25T16:51:29Z",
+      "signature": "eb2d040137883e2815f6e67a5a38016531675ea6f9ba0430b1bfb6be8045bdeea17c67027186f6345c89e79c26cc42a5376020b23f0a4b43fa23582f856d3705"
     }
   ]
 }
