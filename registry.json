@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T16:22:17Z",
+  "updated_at": "2026-03-25T16:27:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19353,6 +19353,20 @@
       "owner_hash": "7f7b31b1cdefec2e628eb866dfa6dc6ac4e89153131752ea155eb2b6dec534da",
       "claimed_at": "2026-03-25T16:21:53Z",
       "signature": "359dad7df653d09a5b9d3111d525248062d373e2da18cafff58ebbe0bb2b42ac6d559de7842b4f482507dc8c947a9c4fc1ed218fb95135158551a5ba86ed1b04"
+    },
+    {
+      "agent_name": "nityam",
+      "agent_number": 2832,
+      "owner_hash": "b2f01f0601573563251b6ea380a5a636689d7bbb9c676e66ab5f5739be18bf25",
+      "claimed_at": "2026-03-25T16:23:09Z",
+      "signature": "b9593c6520e97bb4e71548ebddfce486f5901aaff7459f8e97f0b4cb852e05a56e7804d11852ee95d4f9f345ef6a339579fc3b47f8ccf10ea9a17af3cfad800b"
+    },
+    {
+      "agent_name": "pimpenin",
+      "agent_number": 2833,
+      "owner_hash": "890a418cbc6295475230460d4fd87c3a45802d9180ced40b1bbaa702902a1125",
+      "claimed_at": "2026-03-25T16:25:27Z",
+      "signature": "2ada1575e328fa0112a2695ccbc247cb775c2ddfe8ac80139daf8784105264fdb949e050d282d16b786e5f04fead7929813980df6aa2456e400a241fa9056f0e"
     }
   ]
 }
