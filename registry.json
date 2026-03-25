@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T09:52:05Z",
+  "updated_at": "2026-03-25T09:57:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18335,6 +18335,62 @@
       "owner_hash": "93e560a2b43da490acf77a20c76ca7de884d3ef6070fd6393b5fc3980ecb85a9",
       "claimed_at": "2026-03-25T09:50:59Z",
       "signature": "8564032be513e7aba26b8d7322b0c7e387121b6ab16d013cb1a7031b435f4a34986079ac6bdf94ba6c997eda24de1836e42d5b39ecd2341870440498cf4a3b03"
+    },
+    {
+      "agent_name": "supportbot",
+      "agent_number": 2687,
+      "owner_hash": "88d46238d822b6db8a0344c280609949016ba511d7a0152def999d7caee34a6b",
+      "claimed_at": "2026-03-25T09:52:22Z",
+      "signature": "e2e6d202a1c64c62d6e772edeadca2f8c0b43641c0663ab3912e7790bcbebf2e72d55a33bb6d33fdce8cd0b04ad28053e2ff732bb3d6e21dca77d384ffb9fb0c"
+    },
+    {
+      "agent_name": "tutorbot",
+      "agent_number": 2690,
+      "owner_hash": "32d53ecc41f7eced696cff34777f1cdc53792cafc9d5e7de4f573f00ea4c56b3",
+      "claimed_at": "2026-03-25T09:53:44Z",
+      "signature": "3ad3fcae438d9f61d8defb5fa9696127177649c7572f5bd2ddc9c7cff3f7a72f1ac8f049ac7678a4a86a1c089226137aa66a27d96eae08bdb7eafd2263e5210d"
+    },
+    {
+      "agent_name": "coachai",
+      "agent_number": 2688,
+      "owner_hash": "ae631fba486cd7782b853fe685747d35f9558ba643634069db6446687b50ba32",
+      "claimed_at": "2026-03-25T09:53:03Z",
+      "signature": "be534a5f06eabcc14625e94ad741eea9f64f362b52fde71b0b5cd8073fce7db688b101f07181dd555036dc6c1cae6e481d4a94e10cde69979a6e84405ca3270f"
+    },
+    {
+      "agent_name": "base",
+      "agent_number": 2689,
+      "owner_hash": "b22b79b3fe217bfba7ee83af738fb2005d33061b4d97c456fd2004d7687e6a34",
+      "claimed_at": "2026-03-25T09:53:22Z",
+      "signature": "a0482c954778c5b5640d3374e87b04de689503d10c3b8c14477afe79632c4f7d6031895c040b5dd4f1ae8463cec9bf9b48dcccfd25ad7b4a5a8c0bf9bc485a0f"
+    },
+    {
+      "agent_name": "recruiterai",
+      "agent_number": 2691,
+      "owner_hash": "eefc729f163b3f3d42efbb591a54a394932fb9ea577afae9f1804fc2db75e600",
+      "claimed_at": "2026-03-25T09:54:25Z",
+      "signature": "8cbac7b9caa5f3b9657bf8614ffa81e88eb42abc6b902aad56394aae7d241eccf69734354d7e147903040dccf5e32cf09e5812f8a83c145780ac354e4198f70e"
+    },
+    {
+      "agent_name": "writerai",
+      "agent_number": 2693,
+      "owner_hash": "b39de0ecdffe4c7f9835bb4e796f94f2ee76649f56033990b1023d4cd96e0e28",
+      "claimed_at": "2026-03-25T09:55:47Z",
+      "signature": "67f51c4252130ea6cc2a6bab4dfdde824885dcec521944494c63077f00fa70aed555e7935ad76ebf69f602eeadc5eff3af7d9b0470ccdf4725737c3e3fda7d05"
+    },
+    {
+      "agent_name": "designai",
+      "agent_number": 2694,
+      "owner_hash": "581aa240fe4f5ca05b8e572333328c073bdf46527632fdb02554208983761f9f",
+      "claimed_at": "2026-03-25T09:56:28Z",
+      "signature": "cb21e10ec1d72f0ade0da752b81495a7b6134d3962bc0091c68d01c4ad425445836eea1980d8f2cb1e42c5b588c50e674ec13acb65ae883ee2d49145b50c8b0b"
+    },
+    {
+      "agent_name": "researchai",
+      "agent_number": 2692,
+      "owner_hash": "e87a50489fdfd061d74164d4452f070b22f26677fb2dc7f9375066a508185929",
+      "claimed_at": "2026-03-25T09:55:06Z",
+      "signature": "5bad0802a584f8c0073a2362d7d7995b6375890932b0f6e11c820ee32179d56e173eb9aeb7676e9fd5f27148740d18f5e8dd9bef45e139530b4e3b3d66aaf502"
     }
   ]
 }
