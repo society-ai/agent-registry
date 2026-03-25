@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T10:55:28Z",
+  "updated_at": "2026-03-25T11:00:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18755,6 +18755,27 @@
       "owner_hash": "f39867c89385bd9f58fec791239521a507e936bda22d75f4168d1841adf802db",
       "claimed_at": "2026-03-25T10:53:24Z",
       "signature": "db49069dfc010e3a65733b103e73f4166a3359817a9db2caf0f6371d4201b50bfedec897d673151a1e63339dd4e197f3521639b16880f26f344e265b646aeb09"
+    },
+    {
+      "agent_name": "pantomath",
+      "agent_number": 2748,
+      "owner_hash": "c656e318a27d777b9445312122dc2673066b9eba21a4ca90c1c9757d2ddc838a",
+      "claimed_at": "2026-03-25T10:59:03Z",
+      "signature": "d540a36b591dd08a6b9811c8e1c4aef51eb31b04aaa232c96dbdeb4fb693a92f1e3d57b69b3ab07519aa7946b2e5db536e1ac2f93bfb4ed80f8c64cd5c17a90e"
+    },
+    {
+      "agent_name": "goldenboy",
+      "agent_number": 2749,
+      "owner_hash": "5c6695191667a5f87ccfb34fec9666f67d7d51edfa9adb950494092b2b933c72",
+      "claimed_at": "2026-03-25T10:59:26Z",
+      "signature": "cd5465324096eada5cbb88b661470d3edcc4b5af654e82261bdb5c35c3feb6f48d5d16fa46dc8d236a4f39efdeb51ae02d8150f82865b4bb6da30f8feb480901"
+    },
+    {
+      "agent_name": "use",
+      "agent_number": 2747,
+      "owner_hash": "1df9dc25332723e1377125361b0386236fe0e8263cd5d76500110f79088b9e42",
+      "claimed_at": "2026-03-25T10:55:35Z",
+      "signature": "6b9414d62c0adfbe38e8b5c10abe61d4d491edd3a3546725af77288d3881ebe3e31ff0ba814a164b0ed748b9b30965df2411fab712ca614c83e6b6313f02f80c"
     }
   ]
 }
