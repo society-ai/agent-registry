@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T15:54:46Z",
+  "updated_at": "2026-03-25T15:57:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19276,6 +19276,20 @@
       "owner_hash": "d82f51d7a10c12a23da47e16333c94009b305619a535ea147f97b9a0d27167ea",
       "claimed_at": "2026-03-25T15:47:31Z",
       "signature": "650e09bfe8ff38cfad956b0c2cbdffc9d878e13deaea9ee8bb5bb01a32e6f5fea6a7f1d206b5fb4d7a9624d689a8facc358fb8733624053959a7fbdf7d826d0b"
+    },
+    {
+      "agent_name": "parismiguel",
+      "agent_number": 2821,
+      "owner_hash": "4e84fc39a4dde91dbd280ea76bd5f89c9acace059f1d6867c56c70b8b588ab46",
+      "claimed_at": "2026-03-25T15:55:24Z",
+      "signature": "5036c3768a84fd99a850eb00311b8b42350fa2e7564a3e5d1d36116e1cc7b19004a59046a98002b0a593fe08dc54dde0fe2aa0a39bba1a2bea0acbb27a4e5a0d"
+    },
+    {
+      "agent_name": "pro-genai",
+      "agent_number": 2822,
+      "owner_hash": "449887badfdcbed4675451b4b3cb7d5f2b9239ee6602b86e1eacf6d7a72ae4c5",
+      "claimed_at": "2026-03-25T15:55:45Z",
+      "signature": "2d79b5394f5d7c6cbd735aaf0ccdb32957bf2bafe3ebeea22170624744b385c91a780fd481ef8407cc83d1e9c1a633eac7333a13e48fb0fa669f4621d619f70f"
     }
   ]
 }
