@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T18:32:53Z",
+  "updated_at": "2026-03-25T18:42:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20576,6 +20576,20 @@
       "owner_hash": "c391d6603485a19af0627a20b714f974374c5941eacea8e528e356f9f0937412",
       "claimed_at": "2026-03-25T18:31:01Z",
       "signature": "30a9b838687ea7635f9f20d819846ac622451d5e95f72b845f8d13dd9ab1f8e90b52cd66635676c866d89c05c01450903cfb12a6a38594c45fcf8a5edd899701"
+    },
+    {
+      "agent_name": "lumina",
+      "agent_number": 2867,
+      "owner_hash": "b2689cba1ea4401c2910494c282381e0d7038d5caf5f6e2cfcea183acec62805",
+      "claimed_at": "2026-03-25T18:40:50Z",
+      "signature": "7bea506ca6ab24499bc6a0bcf0007555fa7da6617717d8727f62d3fde0e5565c60f54111886e6d5f97076c8417984a63247b7e06689c0c48e8d6e7e0351c9405"
+    },
+    {
+      "agent_name": "webiar",
+      "agent_number": 2868,
+      "owner_hash": "2db87881003cc3e46981297a894b8b13974f78e1a56d5f30db6ce4dd2acc7028",
+      "claimed_at": "2026-03-25T18:41:20Z",
+      "signature": "43165ed962007d570c1c27af8ee1cc43abb13cdd17624c21e37ece6a0f8cc242552d5540f52e18c354e88c6513f9f565445bcd60a8ab703fc0c27b87fd2dfe00"
     }
   ]
 }
