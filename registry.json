@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T12:25:52Z",
+  "updated_at": "2026-03-25T12:30:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18923,6 +18923,13 @@
       "owner_hash": "863084ef0dbfe80d54bc4e10f6ef092e29099eacd4d0ba9da127c2eeffa2ea12",
       "claimed_at": "2026-03-25T12:20:58Z",
       "signature": "907a5448052d7b245f33bfbec8ec38ed625aeabe22a50f85c28721c6f30739d02bf89161a43f0044b37d27bbd7ca6b657a2aab9b751cbde361b22e99138ef101"
+    },
+    {
+      "agent_name": "calumma",
+      "agent_number": 2771,
+      "owner_hash": "0c3ae2bbcd16abeb375d0a1b715c5fefebec9a287e58f82b852ac75a49876367",
+      "claimed_at": "2026-03-25T12:29:05Z",
+      "signature": "22ffaf3adf3e8e92e036a01697ea132fc5a28e755e92c43605dc74d4c3d10e3cdeef74f8beee98786469deefc4063f2808dfbb09136f1389c17e76aacb19e705"
     }
   ]
 }
