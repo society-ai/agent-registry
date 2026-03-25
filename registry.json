@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T01:20:51Z",
+  "updated_at": "2026-03-25T01:30:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17453,6 +17453,13 @@
       "owner_hash": "0a53801fcf670a24654d59f08b59d87f21684d7a4cd7e6df088a857e1c3aaecc",
       "claimed_at": "2026-03-25T01:20:37Z",
       "signature": "3f4dfc05dc9aa204a1e8f9cd9d66877c43596d24935a7b89dd7af7fd5848d9655d1cb35ca16e6b219b25b895a686140230886b8a3277442e7c87a461bcf1fb0a"
+    },
+    {
+      "agent_name": "renjith",
+      "agent_number": 2561,
+      "owner_hash": "1a0e6704413a9b1da088220337b1c75a7d5955a1f9a366fbafc94f3d14424dbf",
+      "claimed_at": "2026-03-25T01:27:09Z",
+      "signature": "867c52d004b4dd3a17fd3cd2b4fc8833b8289312a07872aa0b35dc361f02b34df25e3a7c2af6e153836b8fa9590817483f46c07529b89fc7ef94c075d3bbdd02"
     }
   ]
 }
