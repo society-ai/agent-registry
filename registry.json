@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T07:06:39Z",
+  "updated_at": "2026-03-25T07:11:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18013,6 +18013,20 @@
       "owner_hash": "690a3618fb0366d41947ae5fc3143164bf43c6e864a814a8b359e11fec784617",
       "claimed_at": "2026-03-25T07:05:31Z",
       "signature": "56e2eb17f67712ac72bc14ba19d3f8a52cfc541b09403e994a1988f27e088c9450c3c80f09f1ad9549ecd3914a5974a809ee79de88ee2e0fcfd8ed4d039d3a05"
+    },
+    {
+      "agent_name": "helly",
+      "agent_number": 2642,
+      "owner_hash": "587b242cc23acab1349c68fcd5dacb16a3afcf7b14fc1bd3a581a1b346e5f1c9",
+      "claimed_at": "2026-03-25T07:10:51Z",
+      "signature": "94ac987cc8a74bcd387e2d5288c8ecd1843e1f9aa510e115df68fbd0163c880c896fa9a1b0e33b620fc341d21df86573b71d05841cff9de4af3a9c1ddf542402"
+    },
+    {
+      "agent_name": "auth",
+      "agent_number": 2641,
+      "owner_hash": "86e17a0ed1bc0ed67aa698521d64e3f18102d5c96b6e4f588470a56c2d1e0773",
+      "claimed_at": "2026-03-25T07:07:22Z",
+      "signature": "28c41e2c0e14f373b33fb83d92453a195bc3810b67eed3c79308de7c6c9051f0e8ce3f04730132aeda87f0bb8b0b6ecb20442a42086302b82b8ac87eca80390c"
     }
   ]
 }
