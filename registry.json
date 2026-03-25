@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T08:41:58Z",
+  "updated_at": "2026-03-25T08:56:59Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18139,6 +18139,20 @@
       "owner_hash": "03e938d562ff00592ecd448b5e58c307823ec403eea4479165944b5e656464a7",
       "claimed_at": "2026-03-25T08:40:59Z",
       "signature": "3a5e83fed9026490b72f64baf4deea0a1d91cef14c0563fc592de9320f5cb8407a8612c78f3490ab69c22197e82d1fa0f79de576f1df5dba4653a2415427080b"
+    },
+    {
+      "agent_name": "abhijeet",
+      "agent_number": 2659,
+      "owner_hash": "3bed6460007c4f9f3a5ec076c5fb1fec96b5c830c8dfc1c8aeece81576088631",
+      "claimed_at": "2026-03-25T08:52:18Z",
+      "signature": "a0870ef31518891fc633b92d582bdb5eae53d1c54bfc74e6d43cf41fcf22b4e8e329b4d5a7005c200c404a869213ab4f1ad84699f08882bf6eae79497069420c"
+    },
+    {
+      "agent_name": "c9lab",
+      "agent_number": 2660,
+      "owner_hash": "0734c23f6e95cccf28b63a68ac510bcebf514d3845a90570ee5baa14a739bdae",
+      "claimed_at": "2026-03-25T08:54:32Z",
+      "signature": "f42c38edc3dbf7592c7fa35d570527ea67fab0afd6a454d5b1124959f9f848da35dfb95ef875469dbc95899bbb8a8b73fc5a03ef9d98ce2425d746fa026bc002"
     }
   ]
 }
