@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T15:16:50Z",
+  "updated_at": "2026-03-25T15:21:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19203,6 +19203,27 @@
       "owner_hash": "c149edef4692d4dadc5956b9558205bccfd9cd26c93c0a8e0f4bf0a50faf8019",
       "claimed_at": "2026-03-25T15:14:39Z",
       "signature": "a242820407e9e31a2cda55443b8119b81f9bb7465c08b594bb5defd017d90f691e80ce5a22b20b9d12aa52fe2e1ae45a26b882f2b0d6c0b313872864749a550b"
+    },
+    {
+      "agent_name": "sebastien",
+      "agent_number": 2811,
+      "owner_hash": "ca8e0179ba8e2225986ddb3cbc70188f4831092c93bf42e706a5501b61422f2a",
+      "claimed_at": "2026-03-25T15:18:06Z",
+      "signature": "7f5d810eb3c06e898afdf25e91fa17f46b31eed39861915a9b5bfa23707d163cbe573234e76123f5e622504dcf528d277877f34648e563d6253da3502a625201"
+    },
+    {
+      "agent_name": "sergioav",
+      "agent_number": 2813,
+      "owner_hash": "a74a07ff41a5989b9cd8348d6b33d5f06ee2a00364e83df1349ed7f4b4c6a8ba",
+      "claimed_at": "2026-03-25T15:19:22Z",
+      "signature": "8e85781b6ebe671ed1739c401fa2565c40d044bd05856179c78dec64540c54d69cb977cc627c732706c960dfceae0294c47d73017bf5e410230fb7ec89b4fa0a"
+    },
+    {
+      "agent_name": "flourishwisteria",
+      "agent_number": 2812,
+      "owner_hash": "96626f4c7e370ff4ac8d60ca1149dc65563c113e5b65a56f8c98e76e45476e8b",
+      "claimed_at": "2026-03-25T15:18:23Z",
+      "signature": "2f85cf585ebc48222c40fdff63563a3337d86e44b97bcf6c383d1e0525a04ad03185749ac0f8d7d7262a9fa4687decb27dc672718b54905883578824b795d30f"
     }
   ]
 }
