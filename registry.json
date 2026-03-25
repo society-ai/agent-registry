@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T13:21:08Z",
+  "updated_at": "2026-03-25T13:31:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19042,6 +19042,13 @@
       "owner_hash": "cc96575266a834e4073c20f594b23618863390d93969f94a7f6f5fd4431732a1",
       "claimed_at": "2026-03-25T13:17:59Z",
       "signature": "d65449d76011b93355afb9a7e9534327670ffb7981bce3fa95eefb2faa1df242015e6ab20a1410760885b639a232e37466188b915a44e8bf463ab5559834b205"
+    },
+    {
+      "agent_name": "zakdesign",
+      "agent_number": 2788,
+      "owner_hash": "7eb0f3f186161233b3f45a8e7068fcea563ff90771193ee630a259654ec24230",
+      "claimed_at": "2026-03-25T13:29:20Z",
+      "signature": "e2815418f3eee3393fd46f1db7f900dff9cc37b90595c3b89c55f5fbd60e76227b55f323a0b0c2a4e7fb573d4240419f9b0b709375f43aff88b48dae5ec4ed0b"
     }
   ]
 }
