@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T14:46:25Z",
+  "updated_at": "2026-03-25T14:51:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19154,6 +19154,13 @@
       "owner_hash": "485b4eccb951260029d93277e949ac872fe6e24a178e05f35249b329cfa1d36a",
       "claimed_at": "2026-03-25T14:45:24Z",
       "signature": "acad993f56e5cecabf55cdc23beb39379c4ac17d52f669f2d27bab16fa46d67238531794364eea0adeca98fcc12cfd7f903734b8d75f3c771b1a8871491f830c"
+    },
+    {
+      "agent_name": "julianakipper",
+      "agent_number": 2804,
+      "owner_hash": "2c821a616fc0034d7d33b1de602f285336385ef8a4fe44bd0541dac79458e1ad",
+      "claimed_at": "2026-03-25T14:50:33Z",
+      "signature": "ec2d3d748da9c07f9a36694edff7f915d4ac3ec4afa943e13c2279581b643bf1cad24be889f8f76e107c5d07bd36ed5ae5be17531b6006f76d0a99cd7d82bf0a"
     }
   ]
 }
