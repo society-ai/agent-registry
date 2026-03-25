@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-24T23:55:20Z",
+  "updated_at": "2026-03-25T00:00:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -16739,6 +16739,20 @@
       "owner_hash": "a01ee8ae86b0282f8833c58fa73dfbeca22edf77eb7aa24918f1ea0e5aee12d6",
       "claimed_at": "2026-03-24T23:54:46Z",
       "signature": "e9dbdfcd21a21c80387a1d64d594305b0ad96dfc548b8a849c5311e13ab071fc8d4bc4c57e2d11356d2e0fc04c4ea5e165ab2bbfa337d80f95ead6aa5657960a"
+    },
+    {
+      "agent_name": "inferx",
+      "agent_number": 2459,
+      "owner_hash": "63caef10ab76121b467ce8e51d63d2469e15a330a59b02a0f126fa2ddb9efc8f",
+      "claimed_at": "2026-03-24T23:55:27Z",
+      "signature": "e016eaf0cc73320374b090adb9990fb985616357dbdd5aa8db828015bd93ad905a28b46b49bc63a7091c3f62c07518424f0b40cf237fcdef1bb32769dcaa320e"
+    },
+    {
+      "agent_name": "modelforge",
+      "agent_number": 2460,
+      "owner_hash": "db6e3de54714afb3ef04be0f02d6863e64e4bfa6e9033b3e73bf2ca469cb18ae",
+      "claimed_at": "2026-03-24T23:56:08Z",
+      "signature": "5e069f8fbcec5eace6c9e1189b8ef06f0200d9000d8572ebedda6a9b79d734745e7f50255d3505dfef99032b84bda60e71d0f69c3a7fe05c676caeba8266ca0d"
     }
   ]
 }
