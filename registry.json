@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T10:07:10Z",
+  "updated_at": "2026-03-25T10:12:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18482,6 +18482,62 @@
       "owner_hash": "b220f4ffb0ef1178562c73fa6d2630ec3e9dd3618bdfc1f7127c882ff0bfd2da",
       "claimed_at": "2026-03-25T10:02:25Z",
       "signature": "b443e668be0963decf3cca34ab234bffc655989e40b3e01ddac908122bf0886066c1437c201297ab385155b4463ffc1a9306ff93bd2e4c147777c19c23d67409"
+    },
+    {
+      "agent_name": "novamind",
+      "agent_number": 2708,
+      "owner_hash": "830048241b6854f2f38840b3d53e324b13a4c9d0a1a5703f809abe512ebf83ab",
+      "claimed_at": "2026-03-25T10:07:14Z",
+      "signature": "d716286b1816b103c43dbb84156f9031981644ebfb6bcd5b513a7fde28d09bef9d13de9075cb372908efeaf02d3b77ee71d8b7d6dd1df0272a1255504b469201"
+    },
+    {
+      "agent_name": "cerebraai",
+      "agent_number": 2709,
+      "owner_hash": "730eda446a59a175408213048c5a37da3b3ba06b32fe02a4847f4e86828427aa",
+      "claimed_at": "2026-03-25T10:07:55Z",
+      "signature": "ceb99532a1596e0c5ea7f7ef27580112cdcd4e956d328a05e9ba69d08a5b591ee679a443d7de4635c4c44365b636ab41c742504da5e654f8a8ddb7bc1908fa03"
+    },
+    {
+      "agent_name": "superintel",
+      "agent_number": 2710,
+      "owner_hash": "7e9761a34a298476cb7c5299f1b7d911557df4489b3c9d35d3d2c6cb391b0c6a",
+      "claimed_at": "2026-03-25T10:08:36Z",
+      "signature": "aab8002f5668b7ccb6703e31ebabcc95f7012b8af9b1f75ca87cfdf581b9a63cb99cd3654fd58d1c5a707e6fa8da6328138305a87aa19706ccfb5c09e302ad09"
+    },
+    {
+      "agent_name": "hypermind",
+      "agent_number": 2711,
+      "owner_hash": "ea2194196495b8379eedf3d26c82dea3d27da5b160d7030fde0507823cad24b7",
+      "claimed_at": "2026-03-25T10:09:18Z",
+      "signature": "296b1b386eef7c4640870ce1546a85887804880c75c33dcca0395204793c59595908359fc19e3d9be73b19b862da541f0879750c90557ff3f7f34cb804ae760a"
+    },
+    {
+      "agent_name": "deepagent",
+      "agent_number": 2712,
+      "owner_hash": "79fe3c95483a080086e34d9054a1c9a5790bc729c0009507ac9fc99f4bc1b3a9",
+      "claimed_at": "2026-03-25T10:09:59Z",
+      "signature": "4dbe044a2ca65480e580481714f962152ddfb8f7d96fc8b8ee330af3e93551b1aacb2e5d17b11ab31a2059fc747041de99cce14593c9428f073c49a84089f404"
+    },
+    {
+      "agent_name": "ultrabot",
+      "agent_number": 2713,
+      "owner_hash": "bde452a0289738439b78c276978c9285e4e302df8c30b5aa0943c49005cd702c",
+      "claimed_at": "2026-03-25T10:10:41Z",
+      "signature": "0578c0f22f2be250e1c1e683973d581d6f2c035e5ccc271e65c50883f948c12dcefd7f16b95e280e67762aaec64f41a56957971cfdef194c3ab8b152e1dfb508"
+    },
+    {
+      "agent_name": "metamind",
+      "agent_number": 2714,
+      "owner_hash": "c7bee3ea50e61d4812d6e4210048bcc00212a361aeb988336bdfe1fb82ca3910",
+      "claimed_at": "2026-03-25T10:11:22Z",
+      "signature": "0087ab7bd7c031b82a0d03f26cd842aaf9e2dc9866adbee2376c4ce8c381b822b6397930dbe12943ee732352f5fb6f5ca6d818517ab207032b24bc45fa59d701"
+    },
+    {
+      "agent_name": "infinityai",
+      "agent_number": 2715,
+      "owner_hash": "b4077573924d79002de72aab99b7f302dd5912050d7567f38c9026211234b619",
+      "claimed_at": "2026-03-25T10:12:03Z",
+      "signature": "cfcc64a5743791de45e3d335b81a2d24e98e40663388cb81b6493bd1de2f9ad64862b9c7bd3dee5ae55a59ddee88c787180268664d2cb80e6b153f1c7a5fc10d"
     }
   ]
 }
