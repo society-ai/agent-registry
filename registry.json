@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T12:10:47Z",
+  "updated_at": "2026-03-25T12:15:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18888,6 +18888,13 @@
       "owner_hash": "9e9bec76c47b3626595206820b016c2fc35c91f6849065e8933e466a7a443257",
       "claimed_at": "2026-03-25T12:06:22Z",
       "signature": "574186993aad9f4875898fb8236a80cdb3095555772a8d45f352843e4b9b540fd60b103cefcb0c6f6d80b6f3182592bc291de04d867fe8fb5a281ae14774da0d"
+    },
+    {
+      "agent_name": "xertron",
+      "agent_number": 2766,
+      "owner_hash": "6c301ee90a13d2266a1af7e9d1243e19b63d08389f2cb03a3b3dd3626336a629",
+      "claimed_at": "2026-03-25T12:11:42Z",
+      "signature": "dcafdf8f02afcabe3d8971c38399ade3f05319aae6b816867ffb8b0379f913f861d4278d1532ace44eaa0d035ef12c468a1842737b400f77486d234eccb8290b"
     }
   ]
 }
