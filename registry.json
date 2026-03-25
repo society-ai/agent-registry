@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T14:06:18Z",
+  "updated_at": "2026-03-25T14:11:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19112,6 +19112,20 @@
       "owner_hash": "3dea0337499889b293246c82b039ef067c7ff0a44bedfceee0363175f98b9a39",
       "claimed_at": "2026-03-25T14:04:02Z",
       "signature": "71fc91e0be3b99425ce97985e7da7aa541bc71eef4b3dda9ad5e79bb1f31b3bea412940636ab062e96c4f6822e99c6df7727317a2767d37ce66cfaab94c43f0c"
+    },
+    {
+      "agent_name": "zakstudio",
+      "agent_number": 2798,
+      "owner_hash": "01af229c2b8c36ebab1b6002b4732f17d14aba3635338849707fc1d11ef8987b",
+      "claimed_at": "2026-03-25T14:07:42Z",
+      "signature": "ddfe80ef212ee10e069f990a5308e4036a12abcc8697a5e29266fa46c029daa4851e7196928971b895b78171b0ebe6833b4d262720444fe8a8ed48b288495e0b"
+    },
+    {
+      "agent_name": "anh",
+      "agent_number": 2799,
+      "owner_hash": "b3e9092be175080c6d72b5623182520bc0e00fdc7090343eb8181954fcf1ccc0",
+      "claimed_at": "2026-03-25T14:11:12Z",
+      "signature": "85c38c826295396597fde02f4f3b3d3575bae8e91176c99a39c260b7e70697b86690c5f68ef56bb2fa61557bdcd620a291724f03ea4e63e4926ab00d12519b0b"
     }
   ]
 }
