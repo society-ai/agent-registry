@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T12:50:57Z",
+  "updated_at": "2026-03-25T13:06:00Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18993,6 +18993,20 @@
       "owner_hash": "bf503668c0a69b26816205b3f83f416acda9a3baec795450be11f62bc294bbcf",
       "claimed_at": "2026-03-25T12:50:37Z",
       "signature": "67813c740c8a4ee39d97a7d7bdfa5a97db36d7b5bf9d47338a3dbc358b3fe6871d3d51e2dc7bb41a7823ac854a43bedde222822b6774cb055d39ed48b33d4f0a"
+    },
+    {
+      "agent_name": "bhavinderai",
+      "agent_number": 2782,
+      "owner_hash": "9a171554787268ac3851295eae4a203993076be9ac8775c31d7777f50dbb680a",
+      "claimed_at": "2026-03-25T13:05:31Z",
+      "signature": "0b9f25fb555566a2795dda5b11af46b6bb61cd3eeebf8455fba1faeb996bb0cf9c886d70e5cd6a7dabc2813ac20d209d12560c606a9336a6392cbb2d7007f407"
+    },
+    {
+      "agent_name": "switzerland",
+      "agent_number": 2781,
+      "owner_hash": "bf503668c0a69b26816205b3f83f416acda9a3baec795450be11f62bc294bbcf",
+      "claimed_at": "2026-03-25T13:04:26Z",
+      "signature": "016dfe3565686eaeb362effde33f0acc140d73233e507fa39d0fc375d8150873500123c16e95adae156e3f45bc4e25e8cdfa2ee0b1665fc13842d73489269808"
     }
   ]
 }
