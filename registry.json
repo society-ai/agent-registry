@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T20:45:23Z",
+  "updated_at": "2026-03-25T20:50:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20807,6 +20807,34 @@
       "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
       "claimed_at": "2026-03-25T20:43:06Z",
       "signature": "984c98a2440c4b26aa4190ade7a379cb6e3112d1c0f59ab0e58ee090b0921d2f64315e7855d8e561be07b74a20dd876a6766e9c4dac7362732f8090f9aa60b03"
+    },
+    {
+      "agent_name": "aizy",
+      "agent_number": 2900,
+      "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
+      "claimed_at": "2026-03-25T20:46:02Z",
+      "signature": "83c3c0db5248c4574c13ad2b78e3638955d4ac992f27d7291afc889391719ad2ebac889b01ed0332a94b2f6c2b864ef9fa7cdedc4438ece0a127d32b716be00e"
+    },
+    {
+      "agent_name": "aurelith",
+      "agent_number": 2901,
+      "owner_hash": "2e3e716e2c3ba2dbce6531426f056957edeb6d5fb2a03d8f2553172da2b4350a",
+      "claimed_at": "2026-03-25T20:47:03Z",
+      "signature": "388b0ab456af75ced9f8bf5481f6122d44fb7eed46d09de36c49ca8b3adcf86da9cdc796c80e9e6e778786fd9152fc19314ac055256600438b67d05d3ef51f02"
+    },
+    {
+      "agent_name": "civilagency",
+      "agent_number": 2902,
+      "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
+      "claimed_at": "2026-03-25T20:47:28Z",
+      "signature": "84856a2b0183889e04da8bfb60cef80e8fa887af83ff88212b8ff617b4b50e90f1ad15bd621b3f27277bf6aa45e58d60b5940fe9b644b65e78d745950369f40c"
+    },
+    {
+      "agent_name": "solveris",
+      "agent_number": 2903,
+      "owner_hash": "2e3e716e2c3ba2dbce6531426f056957edeb6d5fb2a03d8f2553172da2b4350a",
+      "claimed_at": "2026-03-25T20:47:46Z",
+      "signature": "7c5158958d56dacd662cd419cbff097f024d95f5a543d97db28ccc4d19d981c2bad1dac3e84f2a9d5e14ac34a25fcde82841aee6218803aa2a1da07279969f06"
     }
   ]
 }
