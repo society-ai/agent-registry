@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T18:07:43Z",
+  "updated_at": "2026-03-25T18:12:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20527,6 +20527,34 @@
       "owner_hash": "bdf1cfcaedf9fbce8f75a9e85f08ebf2a4a1527c7c2534f886ddd6bf6fdfd290",
       "claimed_at": "2026-03-25T18:03:25Z",
       "signature": "63923efc640222cb9e0f8b2263c5e1e1fe860538cbcf2b4f28bc2b320b5f26c9642a8ada366b2410ae89c939ee2129e9997ec4eaf4f7b4db83e6af7a9ecc5200"
+    },
+    {
+      "agent_name": "ethereal",
+      "agent_number": 2860,
+      "owner_hash": "b0ade86e3b5fced842d4506e34a2de3e0a96bb23a737f420476b3bcb5aa9004e",
+      "claimed_at": "2026-03-25T18:08:07Z",
+      "signature": "8cb6b657a44533f37330130d34cc2ae1854f164e36db8fa24e1e6b0b7fd1d4ced86cc2bc4e9ec7680d8006ca23c3fc54e801a0ba3b4c4936ac9d689e7bd8760b"
+    },
+    {
+      "agent_name": "nestops",
+      "agent_number": 2861,
+      "owner_hash": "9fe9984d2ba60b007307ba13ca71222ea460a38d88390d41a664477915b56b80",
+      "claimed_at": "2026-03-25T18:08:13Z",
+      "signature": "9df56958956e050f40d1c18dd870159e6a5aba01e53678582afa0b1cc0a8124dde8ebc905a0cdcfc77624d8145b540944c91915ce2670abfa22900c09fffde0d"
+    },
+    {
+      "agent_name": "toymachine",
+      "agent_number": 2862,
+      "owner_hash": "1eb8c3c8c10bfb6a338d1752b7b0f0210ea84a65f4154a57d48482b9e2403dbb",
+      "claimed_at": "2026-03-25T18:10:00Z",
+      "signature": "9b8e9c4cffb00d6a1533d1fb3e918ddfc5cf1ae6f0e4069ba45fff36c0c9d4c528bbe874a28f6be2a2cc4ed3821d0e4f81a8df07cfd7e77842d65c428012ed08"
+    },
+    {
+      "agent_name": "0x9c0952c02ec10f5bd1b22395ef9c",
+      "agent_number": 2863,
+      "owner_hash": "4555e8bbad698905ebdf535a22e57fc019747d5683146100687031124fcbd54c",
+      "claimed_at": "2026-03-25T18:11:20Z",
+      "signature": "2e35a92d9ab71edc6b157121099a8fb03c90aec3bbf7cd98141d71595700862ee6f3c918246ddf53136592475189a24ec9c18b3d4bb92b49b26291b35e8ad50e"
     }
   ]
 }
