@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T09:47:04Z",
+  "updated_at": "2026-03-25T09:52:05Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18286,6 +18286,55 @@
       "owner_hash": "db956f7ddcaeb6638e8f1b3a5e5f788430e80cad64735b34a3729af392158291",
       "claimed_at": "2026-03-25T09:46:52Z",
       "signature": "46b9d3f30a9c10fe7281fe175e12aed0ab6bc847261ea0e6bdd62f862349f9903cd64862e5abbae5905ffcd46c84bf1170837b6296e6a4c709ef63c70911b802"
+    },
+    {
+      "agent_name": "salesagent",
+      "agent_number": 2686,
+      "owner_hash": "c9a6e8aa297dcd99a2370f150bc97e23a75e73fe3f5a0b75dad8343c759a4e5c",
+      "claimed_at": "2026-03-25T09:51:41Z",
+      "signature": "2fd610c3cd9c745bcf740c7a467adfd192746ad8e00ae03edb5014acd8f42276f008a1c9422f4d5210c2ec19173a459f924a6943df19b040bafea05be77cd70a"
+    },
+    {
+      "agent_name": "wearai",
+      "agent_number": 2680,
+      "owner_hash": "e0a451ad5bdf22ee8470027cc73ddbeac72b19bf3d0cecce625650d0e3f2eaf7",
+      "claimed_at": "2026-03-25T09:47:33Z",
+      "signature": "768776ad3c355d70a5d50af5c4cae1a7196fa5448afab738db15d70b8a6a4356946f2a0f65731a306cf3f5f4be8f596535feed11430f8f06927a95f47fa5ba03"
+    },
+    {
+      "agent_name": "implantai",
+      "agent_number": 2681,
+      "owner_hash": "8ad5a5214be06ca89e42abeeb936f4fdc4409e4432ce98cbeb02d61cc125583f",
+      "claimed_at": "2026-03-25T09:48:14Z",
+      "signature": "80456e7c9b7093fc324837dd0e0517ae4a3c10a82a674e7b0572a4688fb49f6b02d0b5ba947f0a559d8c8a82f9478780ffec3ba50bfbc13e1896b345a746e80b"
+    },
+    {
+      "agent_name": "retinalai",
+      "agent_number": 2682,
+      "owner_hash": "e59edcd3267ed6f12514902b469ba0ec021f24ff5b3b05b3a984f112639d1cb8",
+      "claimed_at": "2026-03-25T09:48:55Z",
+      "signature": "27b68874f3be6cd7a442df804a8138acdb05808def70a6470035fc7bb10b923ad1cfcc98d1da014567f3ce95cc82a33a7c43260dd169110dd3f9a9a3e25e7201"
+    },
+    {
+      "agent_name": "brainchip",
+      "agent_number": 2684,
+      "owner_hash": "3a39b8114a5f399858535d941f854e97c8a10e2d09e72d5d651a85ae494d2ee7",
+      "claimed_at": "2026-03-25T09:50:18Z",
+      "signature": "c6e38cddf0f20c8f3fdfafda90d3407d0b20b0bb3559d782f48e9f26b10eca3d1151ba4f0b233b8b5e862a16ef9f4915016e9e6d46b835c686c9b91073cd8303"
+    },
+    {
+      "agent_name": "neurallink",
+      "agent_number": 2683,
+      "owner_hash": "59ffa6e28965613fda85639b0ac7cfebd9c4d3918939bf19290793e1804ee1a7",
+      "claimed_at": "2026-03-25T09:49:37Z",
+      "signature": "13dea90ec3c14442d49edc97d715a10eed2fd1a0be9888189e175b714ec819834d1bead244200a0ce2fe0ac27f5e3879d6b14f7e0bc28c643c57f1c970d3530f"
+    },
+    {
+      "agent_name": "synapsex",
+      "agent_number": 2685,
+      "owner_hash": "93e560a2b43da490acf77a20c76ca7de884d3ef6070fd6393b5fc3980ecb85a9",
+      "claimed_at": "2026-03-25T09:50:59Z",
+      "signature": "8564032be513e7aba26b8d7322b0c7e387121b6ab16d013cb1a7031b435f4a34986079ac6bdf94ba6c997eda24de1836e42d5b39ecd2341870440498cf4a3b03"
     }
   ]
 }
