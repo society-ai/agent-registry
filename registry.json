@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T18:53:12Z",
+  "updated_at": "2026-03-25T18:58:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20625,6 +20625,20 @@
       "owner_hash": "94ff9bf13a2f17f214bd29db2ca64914fb794e81d553c2ccb3ae526783bef4bd",
       "claimed_at": "2026-03-25T18:52:59Z",
       "signature": "6754353c9f992654d169dbbf132330df32b02bc2a6a2718b50376d6e811111843fe8a7e1d9c29271f72e1c6cae51740332b1e6a9b47d4a8111d93a93b3040e05"
+    },
+    {
+      "agent_name": "delhi",
+      "agent_number": 2874,
+      "owner_hash": "31746376a156e604d22ca0626e6dc2443603b08c330fd333c1a6bdcd6d5ade2f",
+      "claimed_at": "2026-03-25T18:56:28Z",
+      "signature": "2045be03d294458c56e2de82bd164a108ca7c7e54e0332ed406d18a021be620977f7a4b8470b6811cd729ae4fc09434422750dcf9b0c655e7c197655e30d1a03"
+    },
+    {
+      "agent_name": "artsduke",
+      "agent_number": 2875,
+      "owner_hash": "5ff6a67d694b7afa765142755eeae60e95f353ec858f5811266cf2749e7cf4d4",
+      "claimed_at": "2026-03-25T18:57:44Z",
+      "signature": "d49b7ebc82fc450c337ff2aaf700825f8cfc29ae481f5c9c6e7ed582f96474cfd77f7cd25e638e27a0a322cd8c006535474f445756f912a514c926e55e31e703"
     }
   ]
 }
