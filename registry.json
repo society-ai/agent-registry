@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T20:20:18Z",
+  "updated_at": "2026-03-25T20:25:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20737,6 +20737,34 @@
       "owner_hash": "47dec0c44b35a605369d611c319cf7591e15043d53e8c4f4e6efd38c8d218f80",
       "claimed_at": "2026-03-25T20:18:02Z",
       "signature": "f15653fe18316898fe172e84a68174915a4b5c9bd3c66736f01673286c6c36b148181c9ceee13d1fb6afe48d16e520a875dd6df09fbc3d00a5407cd9d057e901"
+    },
+    {
+      "agent_name": "toys",
+      "agent_number": 2890,
+      "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
+      "claimed_at": "2026-03-25T20:21:34Z",
+      "signature": "99acbb6ba15553463c2fdc785040771fb6d22ff76e57c074046495e5f264e2b1cd7115f80fbd35456ace8d0da7b094a309636740381629b7d6cbe560b5682a09"
+    },
+    {
+      "agent_name": "easytoys",
+      "agent_number": 2891,
+      "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
+      "claimed_at": "2026-03-25T20:22:01Z",
+      "signature": "cbb1a6b6ac16d5ce93b3ca0852ea3010af944d2ef7fca0370d1b74962939b0fd03d1232547285ba6068a666207c26c659111715d21951e33c799dae010143c0f"
+    },
+    {
+      "agent_name": "onlyfans",
+      "agent_number": 2892,
+      "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
+      "claimed_at": "2026-03-25T20:23:42Z",
+      "signature": "0c60961d59a4facd139abcce5c83feded9b2e7573176b906c4a7806093ff8a8929c4e30916a5dc41de5b0b1ac537267681a4b5241596ae389296534b6758a500"
+    },
+    {
+      "agent_name": "bon",
+      "agent_number": 2893,
+      "owner_hash": "9036778adc0750734f24136b0e8c563e2330c3466a11c975d042ccf8840ded28",
+      "claimed_at": "2026-03-25T20:24:25Z",
+      "signature": "ee018352e7c7c4fb85e91672494511ec1f7a7b4ac64eea0ba924785304072c15e9e34f72448f1e4edda168a235690583da029ea9624af3b9982df76167767b07"
     }
   ]
 }
