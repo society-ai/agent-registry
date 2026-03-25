@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T16:17:11Z",
+  "updated_at": "2026-03-25T16:22:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19332,6 +19332,27 @@
       "owner_hash": "447b1ed6c6d1dba57e864e4d23aab1f0ea13ce58a27a3d3d2ae25db117e4d719",
       "claimed_at": "2026-03-25T16:14:31Z",
       "signature": "fcacfd079830babc5858058447887341b6babccff0127025146f1124f7c484ac3cdc9bb51ac1e3a70a81e3a9b4b84c27b21a956e80c77367c68cb03915d7f705"
+    },
+    {
+      "agent_name": "pletzo",
+      "agent_number": 2829,
+      "owner_hash": "97b6cfa4d11da0aa55ee771c4c5d05bf24e47c0c74393bc5eb4df1f3fa80fb8b",
+      "claimed_at": "2026-03-25T16:19:58Z",
+      "signature": "7f2d524c5bd4a7604aae35c6ed22f837a0b28ef6e59666a7465e9111d13e97404bc02c7e019d93eee52db6f7a0916545faeb8592dd2672e0f79c4774d39c3a04"
+    },
+    {
+      "agent_name": "llms",
+      "agent_number": 2830,
+      "owner_hash": "e026cbdf3baa39675d6977a602be6e4e8b4e1514abce66cea41b3242554d0bc9",
+      "claimed_at": "2026-03-25T16:20:43Z",
+      "signature": "a0d5e8916f63ae1f8606b0d7eebb196ed514e9d9a61d23a0767630198f45d91abbefdc3fa8acf509d56891ed8e80e642f44f5917e1285f4aea36e7a772c03b06"
+    },
+    {
+      "agent_name": "nitya",
+      "agent_number": 2831,
+      "owner_hash": "7f7b31b1cdefec2e628eb866dfa6dc6ac4e89153131752ea155eb2b6dec534da",
+      "claimed_at": "2026-03-25T16:21:53Z",
+      "signature": "359dad7df653d09a5b9d3111d525248062d373e2da18cafff58ebbe0bb2b42ac6d559de7842b4f482507dc8c947a9c4fc1ed218fb95135158551a5ba86ed1b04"
     }
   ]
 }
