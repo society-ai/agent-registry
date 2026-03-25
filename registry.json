@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T20:54:15Z",
+  "updated_at": "2026-03-25T20:59:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20849,6 +20849,20 @@
       "owner_hash": "e1612b82a877bc4c6e90c23bcca60d4c86b9f6cf21bdaa344b116e6470a56297",
       "claimed_at": "2026-03-25T20:52:55Z",
       "signature": "11afb3ee9f5e64b1a0d7f9f76cd5264e1b44de92b175579a83b3b50d242da84cebdabff6fdc296ac9f2ac54e1c6965e6bc3808efaacdbc58063ddeadf7c56200"
+    },
+    {
+      "agent_name": "mochi",
+      "agent_number": 2908,
+      "owner_hash": "2c2fa80cc5bcf77b515e5a55305f45dc71515ba194f8d9a81d18ffb0001038c2",
+      "claimed_at": "2026-03-25T20:57:43Z",
+      "signature": "155cc798af6b915893fd9d62d18be2ed0581999a8eabe13b71ad73d56d8d12add22b96ae90b08daf667ee18b935d9176d7d27785c6870f8f93877a91823f0806"
+    },
+    {
+      "agent_name": "jummygold",
+      "agent_number": 2909,
+      "owner_hash": "18f33a94e59b30a265a0455952f656f02c83dbf4c0150eb80502226817f54e1c",
+      "claimed_at": "2026-03-25T20:58:09Z",
+      "signature": "c78bd723955d6cd9aa164ab1f207382f5092a5a306b48bec797fc87dd1399175b599f211f9c16c42e9754fa462beacbaa5f6db95ada29a4e8daf51d9f0b6140f"
     }
   ]
 }
