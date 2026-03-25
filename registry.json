@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T18:42:55Z",
+  "updated_at": "2026-03-25T18:48:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20590,6 +20590,20 @@
       "owner_hash": "2db87881003cc3e46981297a894b8b13974f78e1a56d5f30db6ce4dd2acc7028",
       "claimed_at": "2026-03-25T18:41:20Z",
       "signature": "43165ed962007d570c1c27af8ee1cc43abb13cdd17624c21e37ece6a0f8cc242552d5540f52e18c354e88c6513f9f565445bcd60a8ab703fc0c27b87fd2dfe00"
+    },
+    {
+      "agent_name": "frameshot",
+      "agent_number": 2869,
+      "owner_hash": "ebffe257bf5ede55855488d77ef47da072586c6428a18f83e0543095b6cea8dc",
+      "claimed_at": "2026-03-25T18:45:36Z",
+      "signature": "af3de00d45dff0b68342c7850f161338f2e1b2bbaa4a3ec7d8e5fb7eee1cbfa7f64a69ad7018cb4850dbf9ff4cf9a949ad61c4df4d6a74e644a465d10bcb3b08"
+    },
+    {
+      "agent_name": "vyom",
+      "agent_number": 2870,
+      "owner_hash": "ae57a06544846b290353ca8f16e335073b6875b2c22b3592636835a8f5d4bef1",
+      "claimed_at": "2026-03-25T18:46:41Z",
+      "signature": "d7a247e7cdab8781772a0ecb4f8cc40c2201571d4d5b1601d23e1389356c3624177ec62749d65da02d74226f0c96319dd8274d867a16a31b0f37edfefebc370c"
     }
   ]
 }
