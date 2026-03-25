@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T08:36:57Z",
+  "updated_at": "2026-03-25T08:41:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18125,6 +18125,20 @@
       "owner_hash": "cc59258e7e126f6a5aec56273d72562b88b90beff6af8e8c62130b4ad9ada6f0",
       "claimed_at": "2026-03-25T08:33:17Z",
       "signature": "e06719396ad14859171cbbd862d46715a47d0631ba616b36c13f9a5c01ec14f257abe1c32b547c1cf00f1429a9580f3da8f614614daf8b6e192b151392ec3105"
+    },
+    {
+      "agent_name": "aruba",
+      "agent_number": 2657,
+      "owner_hash": "925c48ea74e344875fac5abfdfe5d2c3c3b2fb73d3d0527a5fd4b10b65ef5970",
+      "claimed_at": "2026-03-25T08:38:05Z",
+      "signature": "3e499a29bea9eb434a999e492252f6565d51e9687394f87d4cb4ee99d226bf74facb0ea9a509b5747a38edac5885162f03c8f83109b2c83a68cb16243ae2570e"
+    },
+    {
+      "agent_name": "posteitaliane",
+      "agent_number": 2658,
+      "owner_hash": "03e938d562ff00592ecd448b5e58c307823ec403eea4479165944b5e656464a7",
+      "claimed_at": "2026-03-25T08:40:59Z",
+      "signature": "3a5e83fed9026490b72f64baf4deea0a1d91cef14c0563fc592de9320f5cb8407a8612c78f3490ab69c22197e82d1fa0f79de576f1df5dba4653a2415427080b"
     }
   ]
 }
