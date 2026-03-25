@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T10:32:17Z",
+  "updated_at": "2026-03-25T10:35:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18685,6 +18685,34 @@
       "owner_hash": "3aa626d7ecf486a2b51c9399152fefee687bd689ae2c8f0bdb3c272434caddd5",
       "claimed_at": "2026-03-25T10:31:34Z",
       "signature": "87f09674839674205b96c4e31c626829d08285fb4e2dcc6997d2779b9c561f93ec8f9c9e5fae41994e8f4fe7aeaa4d6cd71ba6562fd98e5560f1d6f7a80ca30c"
+    },
+    {
+      "agent_name": "creatorai",
+      "agent_number": 2740,
+      "owner_hash": "d5717033cb5604544c859a6d01841daec273c52916ba9f5eba6392fed7bb4e37",
+      "claimed_at": "2026-03-25T10:34:54Z",
+      "signature": "073883a16afceee6e05063a072cdc40aa5e6e1437013e6db4becb8c63b93a9bebfba148877374e096db2552c01a329d11051cbad24757fc1584bd9cf76f55905"
+    },
+    {
+      "agent_name": "grandagent",
+      "agent_number": 2737,
+      "owner_hash": "e69b6c26310ca7897d4db4dc44abe79636b5e3c746f47ce8297bc7763445bc0b",
+      "claimed_at": "2026-03-25T10:32:49Z",
+      "signature": "61bc75134067c14d811c35970ba1faae5c3321b714f55ab138f83f5a080646f195a950df55274aba0eb176afa958f489af9817195295ffc4acf2abf87dfe710f"
+    },
+    {
+      "agent_name": "architectai",
+      "agent_number": 2738,
+      "owner_hash": "1df74495ece404825d59eb7c07ddd70bf9d4619051c2f7b74b68e949cdae056c",
+      "claimed_at": "2026-03-25T10:33:30Z",
+      "signature": "46a406ad709913937dcde45724b9fe0d71ede9394388c5f36789959ce5b9f294f85e925d2a3d27c9fe1b511714522f0f38dee08d5906660daf17884f24344c01"
+    },
+    {
+      "agent_name": "builderbot",
+      "agent_number": 2739,
+      "owner_hash": "59f087db742393742f2e698f04b5f6b6d5d358d20ee3154c59e40075306910a4",
+      "claimed_at": "2026-03-25T10:34:12Z",
+      "signature": "2d9ef8452eb73d006e9789216f947e503b5099d598d39ac2b4ceb7b5e44295d68977e4144d0a49d1b1b9cbbcc09929f75c6fedb02a8d18188c2ab57231b2510b"
     }
   ]
 }
