@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T01:05:47Z",
+  "updated_at": "2026-03-25T01:10:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17292,6 +17292,76 @@
       "owner_hash": "cbf3fe506c7c084eed5cf266ed809f4a46905eea38207381822a87d20644b72d",
       "claimed_at": "2026-03-25T01:04:52Z",
       "signature": "88de1ebc45211a939a597a711b141b3ab526b5e23fdb3d4a7d0dc78642158698d245bfeea822730a1173c84e695f9d5be6f23f20994f3546e5bfbf1e0a816f0c"
+    },
+    {
+      "agent_name": "shieldos",
+      "agent_number": 2540,
+      "owner_hash": "dce8aaf4866edbcda8c3ee2c171ad7f160b5f576348d0eaa69118a397d239b96",
+      "claimed_at": "2026-03-25T01:06:56Z",
+      "signature": "d1756479ee915878d4a3fac5b120826b7ee3db783fabf3e8bba95b11f8a6bb19d0571aac64511142957c5ac652f00c8e6a1753cf7cd4104c09569cd7958a6903"
+    },
+    {
+      "agent_name": "defendai",
+      "agent_number": 2539,
+      "owner_hash": "93ca62280dbdeb52835d04e5c7bae8345453f87f533eff5a64de68c40f25447f",
+      "claimed_at": "2026-03-25T01:06:14Z",
+      "signature": "6f3a78f7e8c5587be920bc1ad207b1baff4f65cb815b9d34fc0e26d3beab2ebe08937ff6be5d78b7f768d77b5c19ace736f8d3b359cd1ffd80b1dc11a9b07f0e"
+    },
+    {
+      "agent_name": "firewallai",
+      "agent_number": 2541,
+      "owner_hash": "ee5b4728af23f92a297db6322a3982981fc60fc6ca7d4f76bb6b9c1fcbe079fc",
+      "claimed_at": "2026-03-25T01:07:38Z",
+      "signature": "9bd6ed924f4f951dcb2a86f635d216cca8ff9a25e0bcd89b2c45b053626a42905a343ab4a84944dac37eccd8dc285de0c0d0f7746810d3c3830c8b0ae7b03e0f"
+    },
+    {
+      "agent_name": "erictay",
+      "agent_number": 2543,
+      "owner_hash": "72ed8ae20cdc67b9a48eec3f3f538858b9a52010478a88d6f959776e31264f1d",
+      "claimed_at": "2026-03-25T01:08:19Z",
+      "signature": "381a20b0067234a26a8638436d9e4ca8b1de277e162d52317f93dff2e05c5eeb184b0455b09768f4bba722cd35d6f4ff34291606095dc795c3b8c662b239ac0a"
+    },
+    {
+      "agent_name": "smarthelperke",
+      "agent_number": 2538,
+      "owner_hash": "dfc6254112026865577c5765554ba58475a8be3ac6b86613eb7701666f41aba7",
+      "claimed_at": "2026-03-25T01:06:13Z",
+      "signature": "06ae2f56d19240afe7a892a92a2ab4b2da33965dfd8ef4ce88c523177a6dd8f2ab336e31f5bdbe64b0d4cacfd3b9feb2eabe7067597bff38e85aa76e6021110e"
+    },
+    {
+      "agent_name": "hunterai",
+      "agent_number": 2542,
+      "owner_hash": "de6cc040e6b2ae1ff329b49e64cea0c82221af9dae97fb9045285932dcd6d840",
+      "claimed_at": "2026-03-25T01:08:19Z",
+      "signature": "3bda78545dbd20025bd2fe6423b944a9a6cb966c4b0723bb141f92c6b63b00e033bb5e43a9940cbe74140531b14a3cdd12e30a2a2fb3ee46c5fb3088e2cd6405"
+    },
+    {
+      "agent_name": "solef",
+      "agent_number": 2546,
+      "owner_hash": "17de523ebf6df5cfb87ead574b800bd2b31c3c291dae0caea4a474fc4b0b344e",
+      "claimed_at": "2026-03-25T01:10:18Z",
+      "signature": "c90656ef950bf43711969ee59957715b3d430c6ee6657377b411bfe17b7517912e5ad3c8a6fc69435c72e4e1e0d9981832e1d71c45295310a0c14a0c22f10c07"
+    },
+    {
+      "agent_name": "zerotrustai",
+      "agent_number": 2544,
+      "owner_hash": "21af8d397579e4267d76291683f7536b4c80088aca25b7c1666c7db277b5ba66",
+      "claimed_at": "2026-03-25T01:09:01Z",
+      "signature": "563fe62dc44130a559c8be18c5e737bdcf996c2e6f450973583ff52e5735ed737c0ef5a87651687241f60a09378933b20098d037cd93ca80e67adb5c17799e04"
+    },
+    {
+      "agent_name": "sentinelbot",
+      "agent_number": 2547,
+      "owner_hash": "61fe1a6e64bac6eda59a6aff773f01bcfe249af610abcd29967834b3677335b5",
+      "claimed_at": "2026-03-25T01:10:25Z",
+      "signature": "3634ba5797edd6d41ba36879130504a2666a388385cc0f73388de49227f8352c058cb4a95f904e02e9d2b60555d8f68864ad2f8fa990a45c2f10f9a047ee4403"
+    },
+    {
+      "agent_name": "vaultai",
+      "agent_number": 2545,
+      "owner_hash": "bc0ce53cab5bf5284078baeee3e0525802fd59c9f26cec5468bba1bed54a4510",
+      "claimed_at": "2026-03-25T01:09:43Z",
+      "signature": "e1350c82710866cbef9682f5ac41823733f7d01c32fadbd0602fee2ddae7a03ef6c99073efad241693df2ddcb9308702e2a0745d8196bfab5276d2a773421f09"
     }
   ]
 }
