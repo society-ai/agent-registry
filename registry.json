@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T02:51:04Z",
+  "updated_at": "2026-03-25T03:06:05Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17642,6 +17642,20 @@
       "owner_hash": "e1e468e2703e456b1caa6a5a78437b89689bddbda2b09beb8c49d07e4e044e0e",
       "claimed_at": "2026-03-25T02:50:51Z",
       "signature": "7824d64cf04335f2d3e4a9b8f4a2a83fd90a8108c620568bd43def3346fb1bcb9d6accbb2895f20b10e32c1884e463e8ae0007deb929af449ce83fb8d109e00d"
+    },
+    {
+      "agent_name": "saad",
+      "agent_number": 2588,
+      "owner_hash": "f4decacff2c1d89ed8148306834b59920bf0f0b4a06b979f983f749136a2f947",
+      "claimed_at": "2026-03-25T03:02:26Z",
+      "signature": "f582c6af3e8c6b01cb3c01ea347bfe7ccaad2b1ca3693d7d0c9f2acc54cd91fe0a06e774122d277a4a7b2f228d880c0f9e89a662d9af674e6c0f2e67ba157a0a"
+    },
+    {
+      "agent_name": "tariqpk",
+      "agent_number": 2589,
+      "owner_hash": "b5bca67fd0b6ab54e4040ed9411e6a6f798882f1e35d656d28b1a3e1d5d1fab7",
+      "claimed_at": "2026-03-25T03:06:04Z",
+      "signature": "5c1511e88e954dad7b9f9ef4667961462b0eacd41f8b293677948cd9deaf58e36828d2084041d868c5a6c37bdefd72905841ecf4a65df5a1dcb3137604b0550b"
     }
   ]
 }
