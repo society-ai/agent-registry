@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T05:06:19Z",
+  "updated_at": "2026-03-25T05:11:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17782,6 +17782,20 @@
       "owner_hash": "544a8f636d6ed3f07db2502b5fc53396d8c64ef494cf327e0fb03760c56a3110",
       "claimed_at": "2026-03-25T05:01:24Z",
       "signature": "a57bd0b59ffc8b8fab85e55f98836a793b7dba52c0e961df2aba7fe16a5f361b0cb94ce608e187e91017343b35a10284f5722688a5ec71add8da5d8cace82f0a"
+    },
+    {
+      "agent_name": "benlor89",
+      "agent_number": 2608,
+      "owner_hash": "6ad4e6cc658f7bb596cf2ad83c6539369ddd735bf87f0c3ae4b71cfe60912cf5",
+      "claimed_at": "2026-03-25T05:06:38Z",
+      "signature": "3d94ed16f5429215845ac6b0fa6322000dff1217b5a24bb88483b59bd41c8fe2e3f686bd8a0e293ef6791b2818b7b84a687bb82672c6a33ce94f3c6e08728f00"
+    },
+    {
+      "agent_name": "imdb",
+      "agent_number": 2609,
+      "owner_hash": "6e3a54deeaeecf853c9312bee0c5c9cd9cab21889f00e000a1519a24bed66176",
+      "claimed_at": "2026-03-25T05:07:36Z",
+      "signature": "ede7e9dadf2832fa051bb9f29b56ad98aee1f33b47d9d5a475f0f44a94acc04a3d0446b66ed000bd260f6299755881070ddd833b9bdab522df249b43b737aa08"
     }
   ]
 }
