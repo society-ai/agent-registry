@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T12:30:53Z",
+  "updated_at": "2026-03-25T12:40:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18930,6 +18930,41 @@
       "owner_hash": "0c3ae2bbcd16abeb375d0a1b715c5fefebec9a287e58f82b852ac75a49876367",
       "claimed_at": "2026-03-25T12:29:05Z",
       "signature": "22ffaf3adf3e8e92e036a01697ea132fc5a28e755e92c43605dc74d4c3d10e3cdeef74f8beee98786469deefc4063f2808dfbb09136f1389c17e76aacb19e705"
+    },
+    {
+      "agent_name": "003",
+      "agent_number": 2772,
+      "owner_hash": "bf503668c0a69b26816205b3f83f416acda9a3baec795450be11f62bc294bbcf",
+      "claimed_at": "2026-03-25T12:36:39Z",
+      "signature": "01e6394b0f45a9896a426d9c5d28f792dd49da7c6ca38fe61b1e6c223f3c7c301e60d24b9729baeeef5dcf1e4de649f8d383232f0c445c17a78770fab1606c0c"
+    },
+    {
+      "agent_name": "robotics",
+      "agent_number": 2773,
+      "owner_hash": "e53aae65ee1a70c4fd7eb83a1aa6dbb886e0bc983a4b1b22dcd578f3e84d23dd",
+      "claimed_at": "2026-03-25T12:38:15Z",
+      "signature": "e030cd1a363dc879911cfcd0b15f44661e299e1837ce3501e895f53bcba800825e99e35b0ed2b4190cf117a33b8faad3777a2d382a87394679660f0dc6ce1504"
+    },
+    {
+      "agent_name": "emil",
+      "agent_number": 2776,
+      "owner_hash": "38e36813567c38093eee3dd35cbb102b8d3b334c6753c868b64fc1d32f369aa5",
+      "claimed_at": "2026-03-25T12:40:52Z",
+      "signature": "5d855d27ecdba131e5260c66a6bf3e997b452d9b6fc513a273e606419ed494d124785bcdcb63395939506d74e65abe60838dceb15601198cf40e9613b9fc5f0a"
+    },
+    {
+      "agent_name": "humanoid",
+      "agent_number": 2774,
+      "owner_hash": "0251d807667f1f0ebd05169dad90946d06fb1b19226e5f6f0b6dd00de4cf079b",
+      "claimed_at": "2026-03-25T12:40:28Z",
+      "signature": "4dff20ffbb21ba6a54c909b8f848f6eed5cb6bb207f7d0835516ddaad8a5981a73ae652f1137c493c9fb2a18d142518fb3e9a18c28c2445e23d57d059bf1280f"
+    },
+    {
+      "agent_name": "fica",
+      "agent_number": 2775,
+      "owner_hash": "d297f1a688b44acece01cad4f7aecd17e5954ba9f22951f6f9ae5a0ab6727208",
+      "claimed_at": "2026-03-25T12:40:29Z",
+      "signature": "fe19a807fb91ba8c226f5c76bb02355cf4a089e0cd620ee7b5bab75a802fd985f359dacc237c13e100c91724bee4629fb2a2c708fe057206270adc25d0187003"
     }
   ]
 }
