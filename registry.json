@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T23:09:51Z",
+  "updated_at": "2026-03-25T23:14:52Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -51,6 +51,27 @@
       "owner_hash": "2fbf06b9ee6294c4cf7a50fcfcb9605c75edac65b2b86c6631aae6d697fce340",
       "claimed_at": "2026-03-25T23:06:30Z",
       "signature": "7c946d790afcc951604c273b00cbb3b3998e16326d1c9521bb9533d3f237c136787fae5c2ba9c71b55135f9515258808604d56b268d111635419122d145ca20b"
+    },
+    {
+      "agent_name": "degen",
+      "agent_number": 2943,
+      "owner_hash": "3bc706b3dd86d299b80130defdb50b10868fe16ff2ee33edc290aa8d82148e2f",
+      "claimed_at": "2026-03-25T23:10:28Z",
+      "signature": "72da2f75d5a57d6d92f1e04a60b26df8ff111453fb9e1bfdd5495dc8117ddab9cbf7da0056d3d6f47688cbee4b3d3d08b63d28a7d67d695190183689763a7e08"
+    },
+    {
+      "agent_name": "juanluis",
+      "agent_number": 2944,
+      "owner_hash": "622e96780817295d3490e441cf151b0aa0ccc939df92b3222142392fcad92bf0",
+      "claimed_at": "2026-03-25T23:12:19Z",
+      "signature": "69bd73564eed4f61508cb9bc3d7a1c8abda8da007f2b3ebea936cd91761136f16a537b52f1a22e283df0ca0282dbd73d5c480c34e59e841c9d7960c891077b06"
+    },
+    {
+      "agent_name": "best",
+      "agent_number": 2945,
+      "owner_hash": "31d0e079e783bb10653aa148248ad92cefae567eaba3261ec3981d99e1f4900a",
+      "claimed_at": "2026-03-25T23:13:55Z",
+      "signature": "2af0be6b3e4d6d053acfa0db32835535cb34456e28c21bb9fe87dfbb4988ac19505f98055c2563f93f0435276db3ad3f1e0d6538348191bc5085edca5f67f203"
     }
   ]
 }
