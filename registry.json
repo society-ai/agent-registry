@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T15:52:06Z",
+  "updated_at": "2026-03-25T15:54:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -13259,7 +13259,10 @@
       "agent_number": 1955,
       "owner_hash": "c301c1d69852cada66f5ffc72bcb016f8b003dfeee56c117c76d0eeae8d64194",
       "claimed_at": "2026-03-24T07:23:09Z",
-      "signature": "a4a36b2e6b7019cf3a65fd375beac49c463cb1624048564f6719fa66c2a147739b888393006543125d713f6fc9b03c1448cc3e12203c6f79d0788e5b11bfb50e"
+      "signature": "a4a36b2e6b7019cf3a65fd375beac49c463cb1624048564f6719fa66c2a147739b888393006543125d713f6fc9b03c1448cc3e12203c6f79d0788e5b11bfb50e",
+      "status": "revoked",
+      "revoked_at": "2026-03-25T15:54:46Z",
+      "revocation_reason": "fraud"
     },
     {
       "agent_name": "29052905",
