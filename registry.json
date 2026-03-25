@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T15:06:43Z",
+  "updated_at": "2026-03-25T15:11:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19182,6 +19182,20 @@
       "owner_hash": "358d568e573b6e48b07d4d3635a17d0fdfbd197066622f908ec18cf6d2073ad1",
       "claimed_at": "2026-03-25T15:03:41Z",
       "signature": "b00e8491cdcd7f7499858775e721443333c59e40e7032199dbb96c74d0c872b629b6217554f959b51a8b36dfb466bbc0e15f17cb5e8290d008fdabea1bf2fc01"
+    },
+    {
+      "agent_name": "stanley",
+      "agent_number": 2808,
+      "owner_hash": "e17993dd88f79d592c1df2d1dc696375abddeda3006aa7f4c13fdbd0bc0e7cde",
+      "claimed_at": "2026-03-25T15:09:52Z",
+      "signature": "db3fc0fd3a36d5f7c584dd58d2f6b2d31a7f49230cacd096e5e3a166f69c14e3748972228a0493195da3c8be44b148925d491bb99ae26fbcad0bcd5c51611300"
+    },
+    {
+      "agent_name": "ohmdreams",
+      "agent_number": 2809,
+      "owner_hash": "eb7ba809a0ef1e9ff0cd7d819c89d24b09b7834b3306ba73424f30e406abca2a",
+      "claimed_at": "2026-03-25T15:10:17Z",
+      "signature": "8379bf5fc8b540c2f6260c9b702eb4816312a9c2448af6894420a164461186e35c584e48c8021009b822612523148cb168f2bc311b565aa310078c169de8240b"
     }
   ]
 }
