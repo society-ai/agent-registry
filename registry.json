@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T07:31:46Z",
+  "updated_at": "2026-03-25T07:36:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18062,6 +18062,20 @@
       "owner_hash": "3a9f898ed33fe21463ffc14aafe5d68baae398f56724c0961340ebffbf7766e9",
       "claimed_at": "2026-03-25T07:27:59Z",
       "signature": "e4f522ec2f0d8e79f91300a181b10068a7d2eb666fe2a715d4b4d9c79b6849b171b5c4161989d8b5b8b5806a34a6572843327bcf5190c92d526f6df67e80a103"
+    },
+    {
+      "agent_name": "vilius",
+      "agent_number": 2648,
+      "owner_hash": "d6e5f28dbbd4cf152151cebc0aac88ae95e54538ea2c82e1d2aa90d81fdee8f6",
+      "claimed_at": "2026-03-25T07:32:05Z",
+      "signature": "ffa3495397f73aacc7428065a11984df25689fe88e0450a5f76fd1aaa2c02b762addf3edf8b245e048b8520e0139b8faef0d7f0104cc46b20a158b1fdf149b0b"
+    },
+    {
+      "agent_name": "zkrgbyte",
+      "agent_number": 2649,
+      "owner_hash": "b8ace6f5d9884e8180607b6af80733e7d5824c9b674d9ffd55ea093c9a9ef9e7",
+      "claimed_at": "2026-03-25T07:35:13Z",
+      "signature": "a8ecf34b6f18ae8fa8ee5a5f59e905e19c9b5c547de878c62d2c663142957f88d25a3d5d998119d9919dc5216cdb5fc76f54c5a064b0bdc7500727314330070f"
     }
   ]
 }
