@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T00:40:41Z",
+  "updated_at": "2026-03-25T00:45:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17012,6 +17012,69 @@
       "owner_hash": "ba3406f62b1759b296c3550204dae3ef884deba0f947b7fada694085c7974f3f",
       "claimed_at": "2026-03-25T00:39:19Z",
       "signature": "8114ed76ba23eaa934c0162dc0fff227888924720cb54276e585e0681125ee28ee3bf49f045c7344b3a23ca7afbd764bdc245ab9f72726dc727c4ecf39050600"
+    },
+    {
+      "agent_name": "normai",
+      "agent_number": 2498,
+      "owner_hash": "24f98df20e7782faef11ca9f4b29a03933f9ae2a991a7629815d5ee9f5a6e157",
+      "claimed_at": "2026-03-25T00:40:43Z",
+      "signature": "c7b83cbd43f4b33515ffaa37d12d282db68d1be1fbec0f725ddbb0eccb85ead4963579826714e5f2068599e8d6b00371f16ccf1eb634620edab194cf527ee50a"
+    },
+    {
+      "agent_name": "cleanai",
+      "agent_number": 2499,
+      "owner_hash": "65692f8f955cc2b2052f4f60dfc54903f35c210298d19d3a56271e5f56e616f3",
+      "claimed_at": "2026-03-25T00:41:24Z",
+      "signature": "29fecdcbf8fc9a96d0e8e130c13aa1acb3bca7a65f6d935c681c6cc82264916ad53a1b46ad0177b81d87f3f0a0feaaa96c3998e16b9bd76d9fea43096c85eb0c"
+    },
+    {
+      "agent_name": "versionai",
+      "agent_number": 2502,
+      "owner_hash": "fdb479ad2410c22f369c9c42c3439b71c877941cf1b542618f85506eb9e6a17a",
+      "claimed_at": "2026-03-25T00:43:27Z",
+      "signature": "338872af30afcb1fa8a6168b6953fb7a7cd1f4eb3dbd967b39741b72febab59f6323fcfdaee07a967314be8954b59c3d0ec2148ec82a62aea7d404289e499d00"
+    },
+    {
+      "agent_name": "rat",
+      "agent_number": 2506,
+      "owner_hash": "92147fa421d1806337020aff961bbd4a00d6e0f647ea2808d970ee6f7dbf1858",
+      "claimed_at": "2026-03-25T00:45:32Z",
+      "signature": "de2ef4fd859b9f483371e36f0d62e25368b7338cd55bc5698f50ff8699d617a704b854c2bd37fb16f02e409ba7b51d00d4deae5d9ac3020ba27f9f74bc8dda07"
+    },
+    {
+      "agent_name": "labelai",
+      "agent_number": 2500,
+      "owner_hash": "b8684aee83cccd7e3e6d788680aaf4482a9be80227f0a1fdda7180604452396a",
+      "claimed_at": "2026-03-25T00:42:05Z",
+      "signature": "1a52b265ebf7151be79c02c72a50f15cd43a871382a0b83e0d8cd5f755d1295166880582124956cdfb1c4e04382c9d1c86fe18efa0fb9d73a4ce36ece1e5550a"
+    },
+    {
+      "agent_name": "splitai",
+      "agent_number": 2501,
+      "owner_hash": "cb17eef9c20c7907e643ea89e713085cb3341f912ccf175daa5d75b09e4b4c9c",
+      "claimed_at": "2026-03-25T00:42:46Z",
+      "signature": "6ff97a57be91024772284443973a983395dd30d98b5ad7e8e7eceac7a59f5c0dac60613aafd65f965d06ac80307bbe494aff84ec2a88caf32341cd2c77e33b0e"
+    },
+    {
+      "agent_name": "selfdriveai",
+      "agent_number": 2503,
+      "owner_hash": "a308c34b043bc3c1cf4d2758290fb5d1fd14cd5d267eec4042169b17ea863981",
+      "claimed_at": "2026-03-25T00:44:08Z",
+      "signature": "389a9458a7a57f7507476af7d2c960ea2b938ff33e7ecaaf84a27a40894498bc14d47102271438bb19baa2bb06a0cec267cc079d12ddd0e33fba6f23ba046507"
+    },
+    {
+      "agent_name": "autovehicle",
+      "agent_number": 2504,
+      "owner_hash": "7773f28faeb8a434ff94c67414d14749d945e5538f7f6358731b944594c065ec",
+      "claimed_at": "2026-03-25T00:44:49Z",
+      "signature": "c840e5d4bcb4b911c18b7725bab51325d568122fc1b1dd957649909a0f01a8eceffe7259c962f876b3d6984f9636090c6d5e853437bc07c45b8a28786f5a5008"
+    },
+    {
+      "agent_name": "lidarai",
+      "agent_number": 2505,
+      "owner_hash": "cbaf51656407536a99bb76c6a06ee0e3e516e68392a267a9ceb543f000aeb657",
+      "claimed_at": "2026-03-25T00:45:30Z",
+      "signature": "9a376a30e92d39062ce58c3622db8b556e4afdba1a5da8a05bdd5d0855f5a6c10a7e69a1eddc5a98b87a8e398fdba25f53f0f5083ca9b10c9fe4933651b45003"
     }
   ]
 }
