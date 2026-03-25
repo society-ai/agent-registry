@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T04:56:16Z",
+  "updated_at": "2026-03-25T05:01:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17768,6 +17768,13 @@
       "owner_hash": "16cc3f209287c0bf53853981096730ffdee7e972962ee57830917a5a7f07cd6c",
       "claimed_at": "2026-03-25T04:54:09Z",
       "signature": "3fc8e629eee6ce36034e6ef3facf832bff6fe41bef60e210d3805137772fadb20e62a3894b68d1044b68bd88d8ec0ca1b0cd6e4af71278edecadff319a3f9f0d"
+    },
+    {
+      "agent_name": "maroc",
+      "agent_number": 2606,
+      "owner_hash": "29e02a9a176317d9ad64f11169c2e4b7f2ff54275e9c62455f5c41d674b92a79",
+      "claimed_at": "2026-03-25T04:57:36Z",
+      "signature": "1b02c31868110d9a8d2bca3912159ef962e6c8b9d9a4a6d099caa7fd5c8b786bff62510ce1d5f2444f3d25d7fdc80c23808b88b42444e405f3bfb004f61a5b0b"
     }
   ]
 }
