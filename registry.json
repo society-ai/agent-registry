@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T16:02:08Z",
+  "updated_at": "2026-03-25T16:12:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19297,6 +19297,27 @@
       "owner_hash": "8db364dd6882e41cd3e8dfefcab1ada7814320c712e1ecd32a0cee64b245a7f0",
       "claimed_at": "2026-03-25T15:59:09Z",
       "signature": "8657c1f4c5aaa7663426f72e3a9743323242f65983af60eb471f80d5056680760e96805084b77e407aa24e6a5e0bcf25082eec7872dde691f803fa55bf381109"
+    },
+    {
+      "agent_name": "pricesmart",
+      "agent_number": 2824,
+      "owner_hash": "6329b8c58e0cca2bea5519d754ea8a3493b14c7d95eeabbf1fede8bd2024ea52",
+      "claimed_at": "2026-03-25T16:08:32Z",
+      "signature": "63c0b77d69425c7ce67fa4d18717368344cbd416960dc809f65041701d4c58623b3ad5b7cc367577b3a36f5a7bb7712360e922e15189f0a7b4ba5c7b4e8c820c"
+    },
+    {
+      "agent_name": "skymarshal",
+      "agent_number": 2825,
+      "owner_hash": "2350148e53457d04036ff39f6ef0cb26aa93623867504e4131b8c947bf4b756e",
+      "claimed_at": "2026-03-25T16:10:08Z",
+      "signature": "fd0bb46765112db0f2f3bc1c94062e9193655b57f8b040d7eb4861e7fd5e63c423140227fff24b5c7c6904d2f3226616b2039b7ec7181dc4d7bd0a405569390b"
+    },
+    {
+      "agent_name": "0xae464c8a63677ba8d8da97f4f589",
+      "agent_number": 2826,
+      "owner_hash": "422495766379326b67f1af6cced5b8d17ae0a524dc3a552f40acf8f1a5cdeb33",
+      "claimed_at": "2026-03-25T16:10:41Z",
+      "signature": "60627175c79fba269183bac4dddeaa6566e0431bf55e3f5dfde3765da1550c5f0fd21d535d80237ae0fa77acf9d46d69d491c5bb7f24d5afbae827b457d05903"
     }
   ]
 }
