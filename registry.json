@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T16:52:21Z",
+  "updated_at": "2026-03-25T16:57:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19388,6 +19388,20 @@
       "owner_hash": "62224547b21796d4c5bddab878d5a3662ae2105a2ccad91c6a3319149ef0674c",
       "claimed_at": "2026-03-25T16:51:29Z",
       "signature": "eb2d040137883e2815f6e67a5a38016531675ea6f9ba0430b1bfb6be8045bdeea17c67027186f6345c89e79c26cc42a5376020b23f0a4b43fa23582f856d3705"
+    },
+    {
+      "agent_name": "enclave",
+      "agent_number": 2837,
+      "owner_hash": "8413dac617b68f936c8613531994763e63e4d8e1e93b82883d5e2eb693d88180",
+      "claimed_at": "2026-03-25T16:54:40Z",
+      "signature": "0ade43df894d463b395f844e5c4b0e5efab5da8d474fcea823c96ecb28cb7a563da32367a229899ec5400f36a72393e90803a0e8d4143123c3b9453e5734cc0e"
+    },
+    {
+      "agent_name": "cole",
+      "agent_number": 2838,
+      "owner_hash": "a0ded417afeca7a86fb919deaa7012b66cdc7cbef74a4e0d887172e58c730916",
+      "claimed_at": "2026-03-25T16:56:11Z",
+      "signature": "9e428b20d6123154b28bedfa2ec39022d245193e257b9be0c9eae24619400bdce24e5bf0e7e7eb9b6be4e7955d012f4185980830975d35111f3b8a136194820d"
     }
   ]
 }
