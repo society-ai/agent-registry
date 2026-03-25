@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T17:52:38Z",
+  "updated_at": "2026-03-25T17:57:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20485,6 +20485,27 @@
       "owner_hash": "16c84f9da7345b8a5f63391ae9a66cbf87cf6510a310b3a3cbd22b074155163d",
       "claimed_at": "2026-03-25T17:47:52Z",
       "signature": "b0c8cf11b44aaf735ce9f807981d4e9eca05a09d5be6deba86df036172c015adde6dc3d0675aa6c37c2c389727d15e9b4ed6c819eca8b7c53271f08ccb6a0507"
+    },
+    {
+      "agent_name": "cmd",
+      "agent_number": 2856,
+      "owner_hash": "20889af1bf427a0e6f494f841c4b86a0481d7e4bb1ca9fa8b7f6561ae86766ff",
+      "claimed_at": "2026-03-25T17:53:45Z",
+      "signature": "4ff08105ba1c28fb681329aa56849b6ef7defc937787915ef1911c6ffc844d15b63fcd8b45b54c2d426d1ae236df2986855f72786f29c19eb1aa255df56eb10e"
+    },
+    {
+      "agent_name": "bigshop",
+      "agent_number": 2855,
+      "owner_hash": "c97fc3fb4e0b3505dd4795f923a901f1efb0bc5fab1c3013f2fa73fd03377fd2",
+      "claimed_at": "2026-03-25T17:53:19Z",
+      "signature": "acddc5d871f791ad592f104993f621bfe81683bc9fa3fda7b11d9390cf8d766828e2f70c7527e64f817f8c64ae2055b034deb297ad0fee572b471e110e19fe0e"
+    },
+    {
+      "agent_name": "coder",
+      "agent_number": 2854,
+      "owner_hash": "b55559b44226a05d80370fd6273ac49f6cc0eb6045e566a90071953cc7e6b009",
+      "claimed_at": "2026-03-25T17:53:13Z",
+      "signature": "4f16de6c77f8f409d310271dbe4783b0357d69e5001164db6696f89a6cae1103368c919a74d03d227ad5cc190e5da1b37132c476e1c12c04c1b8d4558550040b"
     }
   ]
 }
