@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T10:35:24Z",
+  "updated_at": "2026-03-25T10:37:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18713,6 +18713,20 @@
       "owner_hash": "59f087db742393742f2e698f04b5f6b6d5d358d20ee3154c59e40075306910a4",
       "claimed_at": "2026-03-25T10:34:12Z",
       "signature": "2d9ef8452eb73d006e9789216f947e503b5099d598d39ac2b4ceb7b5e44295d68977e4144d0a49d1b1b9cbbcc09929f75c6fedb02a8d18188c2ab57231b2510b"
+    },
+    {
+      "agent_name": "makerbot",
+      "agent_number": 2741,
+      "owner_hash": "f70aa2bd50e13d760f47edfd1b2fddea55f8defd89274fd983765841bea57afd",
+      "claimed_at": "2026-03-25T10:35:41Z",
+      "signature": "b1b64630c5355edae94b92e5692d4d1aa75f13a769267e33fc0c4e1fd00bdfc542768900a6a59f4fe5105d5ee76e8041ade3458c62146201b29a54fe0a8aff0c"
+    },
+    {
+      "agent_name": "luisazevedo",
+      "agent_number": 2742,
+      "owner_hash": "8a60b832a8eae0174d39256074a70e2d85f204b92e8a1eb6e57106c28d52893d",
+      "claimed_at": "2026-03-25T10:36:23Z",
+      "signature": "b0373176f434384901791bf7b62978fbb46ba22d19f76b55fc4c0de0e3f5c6900909cea861e7fb713e3eadde3c0f53a0d24671664893e8784f2c1a9fde9da000"
     }
   ]
 }
