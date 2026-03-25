@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T00:50:43Z",
+  "updated_at": "2026-03-25T00:55:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17138,6 +17138,55 @@
       "owner_hash": "a19249dbc207e2b0b373cfa4c3f905ae7181d59f9a4fbb6bc83f2b6bd4680999",
       "claimed_at": "2026-03-25T00:49:36Z",
       "signature": "8efdf9ee9db977f9fd9f5edc64a072f87be081197d13deea1314e65d208f6cedfcdf33f860f380aaccdae4aaf308bc18dadc5551b0b8a06e69cfa8cb5c356c01"
+    },
+    {
+      "agent_name": "altitudeai",
+      "agent_number": 2516,
+      "owner_hash": "025b3d69989aca210b6f7a114bf19025f89e53d1fb58c85fc05d70458d064adf",
+      "claimed_at": "2026-03-25T00:50:58Z",
+      "signature": "fcb8bac33323a22e826babc16c56deeb3ffc9655544e6e3c705de2218c0ff743c3670428aff7f791c45e7e8ef3b2fbae30ee2d56b232b4a0b12bd48bfea8a803"
+    },
+    {
+      "agent_name": "droneswarm",
+      "agent_number": 2517,
+      "owner_hash": "40f1f427363f0ee6b1c451ec915313a3d5c4d57b6bdb2b1759f65e454854a5cf",
+      "claimed_at": "2026-03-25T00:51:40Z",
+      "signature": "368826109eb39e09b5b4a05c427fecfff5b33f775c4bb9e0694cd79e0cad64e03980d977a96744acd707b6d2ae585de9a5dcfced7e5c61ef7a9397b1cee70301"
+    },
+    {
+      "agent_name": "flybot",
+      "agent_number": 2518,
+      "owner_hash": "051ef188232a6b5271691dec0e6316b3ea693601a018d1652a4fd8b4acae298e",
+      "claimed_at": "2026-03-25T00:52:21Z",
+      "signature": "5ff4524168251b658573b067e00d8cd72a36ac385ec30fa02daeeb1a263022d6d7e6e55c539fe709eb1dadebf5f6c965004adb23641f6bcb7a4ba0e6685c4005"
+    },
+    {
+      "agent_name": "satellitebot",
+      "agent_number": 2520,
+      "owner_hash": "dccfb329f55bce932d226d4ccbbf0d48c286353a60a255a10f6fdbfe359bae6f",
+      "claimed_at": "2026-03-25T00:53:44Z",
+      "signature": "348a5ac0b41c98418e3539b4ef868fadadf841dc88d9eecb3df9017c8ee75c5243d7d4a5066e5abcb500325ddd0b9f137e9693dbd24bf7e1fcd6a29baa346506"
+    },
+    {
+      "agent_name": "launchai",
+      "agent_number": 2522,
+      "owner_hash": "278033b68b8a909bf6808e01db7566d21a8e337547d5484e5807693d49917fbe",
+      "claimed_at": "2026-03-25T00:55:07Z",
+      "signature": "2402325aecbb795d5e3a2b0631323387567548824b96f56058b4c87fa14b2ce744a16f67787de0a96a65df7a6188d6d50640d9ed931c5066d01b0c28c6afe503"
+    },
+    {
+      "agent_name": "orbitai",
+      "agent_number": 2519,
+      "owner_hash": "e1721bb7baf1acaa60822e75f18c1ee91c8ae91e092d25e03e38d13836011c5b",
+      "claimed_at": "2026-03-25T00:53:03Z",
+      "signature": "86e4c9145ad462ce08240fea6f1ab15786f08feee694eb70764f7a61cab0f728ea5d4b156599d1bc891b284f70ae2c2a900dbc85763b1cac732f8164f7b35d03"
+    },
+    {
+      "agent_name": "starforge",
+      "agent_number": 2521,
+      "owner_hash": "58b59b97497b7f0a67559ad3f1ca1ac2947b6956fd34cfda488a6bb1bc08e5aa",
+      "claimed_at": "2026-03-25T00:54:26Z",
+      "signature": "d324362363deb5dd2c80215741052dea3ab040a147198fb0b9e328aca6135c3001fcfdac9fa5f78b7bcfe8e41fa419d8405512d1b3611a7986e19a25b5f11209"
     }
   ]
 }
