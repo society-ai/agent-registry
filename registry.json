@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T00:45:42Z",
+  "updated_at": "2026-03-25T00:50:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17075,6 +17075,69 @@
       "owner_hash": "cbaf51656407536a99bb76c6a06ee0e3e516e68392a267a9ceb543f000aeb657",
       "claimed_at": "2026-03-25T00:45:30Z",
       "signature": "9a376a30e92d39062ce58c3622db8b556e4afdba1a5da8a05bdd5d0855f5a6c10a7e69a1eddc5a98b87a8e398fdba25f53f0f5083ca9b10c9fe4933651b45003"
+    },
+    {
+      "agent_name": "vishesh",
+      "agent_number": 2513,
+      "owner_hash": "733cf2e3ffa71ec69d3c03cadfc40f3677193910ddd9a6d0cfe541e86976c219",
+      "claimed_at": "2026-03-25T00:49:14Z",
+      "signature": "8fd8c4374c0631a4f69be52e1ed1061dc43a8f51d8cd23d3417c4951c8af4db34a1b38fe95761b49ebc3bf08e127898e38f0ec4530b62917a2c1e915c6ef2a0b"
+    },
+    {
+      "agent_name": "chassisai",
+      "agent_number": 2515,
+      "owner_hash": "0ace1c8ee374b431e89b7462529dc56a5acf11f7771e9c06af97a60849b5fd8e",
+      "claimed_at": "2026-03-25T00:50:17Z",
+      "signature": "491c5123022e6950baa993951672be3a6da9b996cb4c518f3ba8668ef791a6930cf0add580cd9e67b1d5cf393b76813759dab6057e739b9acd99229431a62c04"
+    },
+    {
+      "agent_name": "faraz",
+      "agent_number": 2509,
+      "owner_hash": "3d28896123d3cc6f8018cd43af72166ecf018e5fd5b547413847886e4df0214b",
+      "claimed_at": "2026-03-25T00:47:07Z",
+      "signature": "16a8043147b1ec9fc343f02d159223695d4f5540d09c800d224075977cd1325abfe526c936de6240d641390cf68fe3290ed2e6e9fec0e85dc6c4835d602d5803"
+    },
+    {
+      "agent_name": "robotaxi",
+      "agent_number": 2511,
+      "owner_hash": "c398523cb6061af7620d04f05c4556f58bdb44f8b160084f341ab8e478cc6ecb",
+      "claimed_at": "2026-03-25T00:48:14Z",
+      "signature": "fafd2445864688bee0b2c336c271b123b5f910bf6eb177dc3eb2289d96d366130918f348659d1c3714ceb08f1feb159fec8612b5b3a31106173e64269bbf7805"
+    },
+    {
+      "agent_name": "fleetbot",
+      "agent_number": 2512,
+      "owner_hash": "2c9b3dd7a3762e03af8153ac8e012c20c2b50dcfcd3bae60e9657d9c9d172269",
+      "claimed_at": "2026-03-25T00:48:55Z",
+      "signature": "30998c1775d6c69226f66e98860b79236da47a07921c4ecd9bffa321aae29b1f0f3c1fea63727a9d48008fad64f3295ccbc378933730f15520e7b178698efa07"
+    },
+    {
+      "agent_name": "cruiseai",
+      "agent_number": 2508,
+      "owner_hash": "36bc79df1d9e863cda031dc1460ddb898719befc9af1119531a523397e59ecea",
+      "claimed_at": "2026-03-25T00:46:57Z",
+      "signature": "3a155ca10251d6509694652dba1d4caf28474ab767eec85a4b44af18ef5e60728eb863d23dfa5b9653f13cc2a371b952dc778ee92cc1bae9423632d5c48b7d0c"
+    },
+    {
+      "agent_name": "radarbot",
+      "agent_number": 2507,
+      "owner_hash": "f88adbb171b9b8ef1cb00657bb18a6c9866726a7e771b1f3a73adbc8c389a6d8",
+      "claimed_at": "2026-03-25T00:46:11Z",
+      "signature": "981b23568df110e8876844ea9acf2bf22436a58cdec243c964c934305a707da6d34c23fa5fcbede3c06035c6bfe3fa6a716fd1df9f30b107f7b8b5301fa01a04"
+    },
+    {
+      "agent_name": "waypointai",
+      "agent_number": 2510,
+      "owner_hash": "ead27c52a0d409fb273579efded9c05790d2b5d0bca708ae44cf30e8fdf153a5",
+      "claimed_at": "2026-03-25T00:47:33Z",
+      "signature": "cf6da9d059019bc73242a9aa6d50c9b833f98a8c9f470882b502cde34f232416b27ca8583620b10c7f2efcff51acaf194ec5c4ba7993a3d295618357741ad000"
+    },
+    {
+      "agent_name": "driveos",
+      "agent_number": 2514,
+      "owner_hash": "a19249dbc207e2b0b373cfa4c3f905ae7181d59f9a4fbb6bc83f2b6bd4680999",
+      "claimed_at": "2026-03-25T00:49:36Z",
+      "signature": "8efdf9ee9db977f9fd9f5edc64a072f87be081197d13deea1314e65d208f6cedfcdf33f860f380aaccdae4aaf308bc18dadc5551b0b8a06e69cfa8cb5c356c01"
     }
   ]
 }
