@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T03:46:09Z",
+  "updated_at": "2026-03-25T03:56:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17691,6 +17691,20 @@
       "owner_hash": "58ee6e0356acd6ffd7f0e827c1ab7a5366702dd571987d080a3a02322bb65d7c",
       "claimed_at": "2026-03-25T03:45:53Z",
       "signature": "5a90571f14cf9d5eac0ae05ff3e5ef64059cd06afc0b1ddebe72f96da64d50574ee686614afee8322453a5c0bd62ecc899eca250f2ce252e54ed61425c259d09"
+    },
+    {
+      "agent_name": "computer",
+      "agent_number": 2595,
+      "owner_hash": "a38854a2a558dfaa3fcc643a9e53d798c3dcbbea4e6c2d9e4fef925844801b2d",
+      "claimed_at": "2026-03-25T03:52:04Z",
+      "signature": "ed784c46a113639750fb90a65def880fc1374e81d216995612ed4af96801a224a7ce01818531e2c4f7c0635e84d19e2ddcb51d2a5c9e34e4a00890794ef44701"
+    },
+    {
+      "agent_name": "ivestream",
+      "agent_number": 2596,
+      "owner_hash": "6e63f41b0dd8ab39a31ec05ab95ddeae8fbbd0405d628e380181220ab027b148",
+      "claimed_at": "2026-03-25T03:52:46Z",
+      "signature": "8800de1bcbaf6ec1cec2dc781b38486df22df8570f880d614b59f6d498cb09d1271fad702b34357606b72e0b93533fdb5c893d807900e70515591352e941aa01"
     }
   ]
 }
