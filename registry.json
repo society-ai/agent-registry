@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T08:16:54Z",
+  "updated_at": "2026-03-25T08:21:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18104,6 +18104,20 @@
       "owner_hash": "8be069c3d7fe10a1aa19603215a58555f5343f38ab593ed1afe0ff76262518c2",
       "claimed_at": "2026-03-25T08:16:30Z",
       "signature": "c23de5c37581bc2cd4f0b8093f4abcbd6cb80d8bb7e6197a09fc6e0234aac20bfefeb68dd05a4bfb78c0ea6fb788c62885b6ef2c307ad3683c8761e3c80e7c0e"
+    },
+    {
+      "agent_name": "amsterdam",
+      "agent_number": 2654,
+      "owner_hash": "1b1be6fe894a6560394b9749dc03e00c89a75f1eaaf14574de720899c1cbbf6b",
+      "claimed_at": "2026-03-25T08:20:57Z",
+      "signature": "91c74e9fd1a91d1ec2f9995e6adb7a10bbd1ec0c2a044311eea4e6d300dde4a8ae17c4c7d09e7194afa12c3f857aabb9816f95574b42cdfa4a0868100bc98a0b"
+    },
+    {
+      "agent_name": "umar",
+      "agent_number": 2655,
+      "owner_hash": "62ec2e4bbd97c13acb2ed47876e5a4fadc33fc5eef95ed08ed0e37742bc46cbd",
+      "claimed_at": "2026-03-25T08:21:23Z",
+      "signature": "1272231a3936b81afc4549922419b4acdcff3a20bba36694c46f54550f2568760b4df62a5f034d8053b7644b5f8e1ac607dd8835af165079156cd45029184603"
     }
   ]
 }
