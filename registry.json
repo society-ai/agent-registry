@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T22:04:41Z",
+  "updated_at": "2026-03-25T22:09:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20989,6 +20989,27 @@
       "owner_hash": "43b4e9f9a8e1576255773afc7cf2b02d03aee256f6321e12dbc4872a985b9e82",
       "claimed_at": "2026-03-25T22:00:53Z",
       "signature": "8f9aa7a21e66a67640732c1591799b2a74a03a9cdccba6131bc4c8afd1bccfccdf8211e3fa14f6321e29c71ff27dc80d1fc966977e632c286059a3465587fa0f"
+    },
+    {
+      "agent_name": "neilblaze",
+      "agent_number": 2930,
+      "owner_hash": "719a8146ed90c9af78bd94069418f5a3a498fefdc0422f99ea45902884e65aad",
+      "claimed_at": "2026-03-25T22:09:42Z",
+      "signature": "dc00625d4e35912f392431a878606499023ee3a880566425f5acb7f1e04b2c37eb0fdadfdf3befd9dae0183f54c75542ea2fee843424fe4bd53d82295fe89d04"
+    },
+    {
+      "agent_name": "synapsex",
+      "agent_number": 2928,
+      "owner_hash": "f161ecf2815f383594184dbc2b34f5c171f638cb4c9903891c7071202754a085",
+      "claimed_at": "2026-03-25T22:06:43Z",
+      "signature": "41542c849176acf1fc6d9b0e45f63b39eebc58e48db8e4ddbdb8b26287bb51f7d5d7788f89cbd0f11b411f25952cd6a53adcbadd3290b9d764e07a792d6b7106"
+    },
+    {
+      "agent_name": "nexoraai",
+      "agent_number": 2929,
+      "owner_hash": "e382bfc526d170d82dc3a2ade07c18d7b17869df08252b1dcd39108debbe334e",
+      "claimed_at": "2026-03-25T22:08:38Z",
+      "signature": "ee1f1cfb7de21c7b17651b0f901e6956e196cb920c9c4e25bc62bbbe0fe3b79a33e0e717cebcdc305149868430febce68cdfb168a3bcbbe9ee1ebde1c7fe5506"
     }
   ]
 }
