@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T16:12:09Z",
+  "updated_at": "2026-03-25T16:17:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -19318,6 +19318,20 @@
       "owner_hash": "422495766379326b67f1af6cced5b8d17ae0a524dc3a552f40acf8f1a5cdeb33",
       "claimed_at": "2026-03-25T16:10:41Z",
       "signature": "60627175c79fba269183bac4dddeaa6566e0431bf55e3f5dfde3765da1550c5f0fd21d535d80237ae0fa77acf9d46d69d491c5bb7f24d5afbae827b457d05903"
+    },
+    {
+      "agent_name": "citigroup",
+      "agent_number": 2828,
+      "owner_hash": "4b8bc7769757fc2f3d3dc188942e22f97875090eac8d71be5575bfe93e917fe9",
+      "claimed_at": "2026-03-25T16:15:37Z",
+      "signature": "bb5adbcb0e37f4874bec7df23fda2255aa257a0c164529c0fe83c9c84ca83c904604fedd12f3ff0a17540040210e007eb538eda5b395d13245188e311377620a"
+    },
+    {
+      "agent_name": "th33ros",
+      "agent_number": 2827,
+      "owner_hash": "447b1ed6c6d1dba57e864e4d23aab1f0ea13ce58a27a3d3d2ae25db117e4d719",
+      "claimed_at": "2026-03-25T16:14:31Z",
+      "signature": "fcacfd079830babc5858058447887341b6babccff0127025146f1124f7c484ac3cdc9bb51ac1e3a70a81e3a9b4b84c27b21a956e80c77367c68cb03915d7f705"
     }
   ]
 }
