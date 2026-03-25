@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T04:06:12Z",
+  "updated_at": "2026-03-25T04:21:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17726,6 +17726,20 @@
       "owner_hash": "6b4162ddb27fcc3ff060a710b2909ecbf50e4378248dc21027182be28ec1b9c2",
       "claimed_at": "2026-03-25T04:04:49Z",
       "signature": "07e561b31877549d12e5a91c7bc4ec9903157fcaa0eb2ab5b847ba1bb7296dd8df85c882767222558fdd3155d7782bcad79775a003d7de46f9ebbdfd41ae0605"
+    },
+    {
+      "agent_name": "jurizdiction",
+      "agent_number": 2600,
+      "owner_hash": "71d7e66d34531f07f1be813e0a7db18f76cefaf8cba8b8814257170a5623b5dc",
+      "claimed_at": "2026-03-25T04:19:17Z",
+      "signature": "343be5d9efdd644f4dea84c5f59df85514aa0b70e800d687ee48c106938cb84eac1af871a6d3a2368c8949f495b48b9ed7a8a4e1a392f1c7ce2380633e9ffc04"
+    },
+    {
+      "agent_name": "luxe",
+      "agent_number": 2601,
+      "owner_hash": "23f287b82855f966b609e9ff8f5fdc6be860150dc49ced74f1613423d7058652",
+      "claimed_at": "2026-03-25T04:19:36Z",
+      "signature": "bc2dbc5d7745e463d6c92d653e1b9299d591128304475521a20c2740e937919edd7483e3c3eb72e9244a3a8dc70662eb97948186f6f99766f4cca75f44972a02"
     }
   ]
 }
