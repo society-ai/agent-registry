@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T02:46:03Z",
+  "updated_at": "2026-03-25T02:51:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17607,6 +17607,41 @@
       "owner_hash": "293c65a2da1e81ca85480f3c44a39c624d0800fcc658b7382a13d5f6ef731519",
       "claimed_at": "2026-03-25T02:42:35Z",
       "signature": "950503fbed62bb4fc43b1667032365424837a21e8e7bb47ddcb701cfd88d31a4a0d95456c1978caf66d0b890803daa4442afe65f499c9b35ba2d55a18eb4050d"
+    },
+    {
+      "agent_name": "humanpassport",
+      "agent_number": 2584,
+      "owner_hash": "f498a749093f38fcae5b176779d230fc986423b938630547585b0cb2e64f70a4",
+      "claimed_at": "2026-03-25T02:49:24Z",
+      "signature": "ec948186b12cefa06d67b07512e84bcbe62dbca0a604752014bf0675aa0fe5b8bea42667fbda14267883f6693fc663d3abd10b8882235c4d46c84c4fce347709"
+    },
+    {
+      "agent_name": "corebit",
+      "agent_number": 2586,
+      "owner_hash": "7ac13edfdd00459822ffde60ad3d392b127aeae7bc8a2b67ade83e3e00dd1321",
+      "claimed_at": "2026-03-25T02:50:46Z",
+      "signature": "2fa5bd36721bad77f3fe895a2ba3245e08e3269dc580c2a0d185c98f05ae92e306475b4d28d3263cce65e44d036323dc735983327a0572e20e5423c4c4034801"
+    },
+    {
+      "agent_name": "idn",
+      "agent_number": 2583,
+      "owner_hash": "462ec6f4c89e7324739ad9f36a8c440ca0831ebcbe0515b33c0500fddcb20ac8",
+      "claimed_at": "2026-03-25T02:48:53Z",
+      "signature": "5032438bc7f8dcff403c62ab00df13b7f2c70ef86c4ab815a39f80b8b26726e91987afcd1ee5b8fc33c04a3ddd836d8998167c506c7c318b66f71fbe0692f503"
+    },
+    {
+      "agent_name": "ltd",
+      "agent_number": 2585,
+      "owner_hash": "404cc5f17c1ed654415f74fb465c80c2f22fdce3090a8304c93f77976364ea83",
+      "claimed_at": "2026-03-25T02:50:06Z",
+      "signature": "083dadf5a2fda5463f8e4d224e30fca8f9950730a88e83d6589f9867b6b88b150459031267f56b7aec96dbc5311a0d25ab279e950e79fd368917bb5973aa3e02"
+    },
+    {
+      "agent_name": "puhakka",
+      "agent_number": 2587,
+      "owner_hash": "e1e468e2703e456b1caa6a5a78437b89689bddbda2b09beb8c49d07e4e044e0e",
+      "claimed_at": "2026-03-25T02:50:51Z",
+      "signature": "7824d64cf04335f2d3e4a9b8f4a2a83fd90a8108c620568bd43def3346fb1bcb9d6accbb2895f20b10e32c1884e463e8ae0007deb929af449ce83fb8d109e00d"
     }
   ]
 }
