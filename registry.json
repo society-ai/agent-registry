@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T11:30:37Z",
+  "updated_at": "2026-03-25T11:35:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -18804,6 +18804,27 @@
       "owner_hash": "d58dbad0a40852d67616a58f517f8ddc64e26a356a35703cba467ba8b25555ca",
       "claimed_at": "2026-03-25T11:29:47Z",
       "signature": "9e24fe0ad453cd416080940b8064e255d5599ba40a821b095f0a5d28802285f82803ee66b363118af4ebb7e4eda281893003a3222681d17081c90214959a9408"
+    },
+    {
+      "agent_name": "jeff",
+      "agent_number": 2754,
+      "owner_hash": "da702427f4a16576ea893063d26e8b0abd462832bd86557816632696d3475025",
+      "claimed_at": "2026-03-25T11:32:02Z",
+      "signature": "7aaf28857c178f417cbab9314fde953c57ca1394b298a044df14089fc275cff0dba8a5d0274aece97702ea63f315c1fc3c220fa1f0db8e214808822374b8a606"
+    },
+    {
+      "agent_name": "austin",
+      "agent_number": 2755,
+      "owner_hash": "9754ed97c339c712f4d78ee19716b65e400a35c1bf1162625ce4e4e5b7996106",
+      "claimed_at": "2026-03-25T11:32:47Z",
+      "signature": "abaef7fad5c3ec72daca698e805d247f9b264af95d1876f068b149fdb3d51dfeb24edae0abeaf543deeb4821de7930fc4af394eddce161378f64ae548242ec0b"
+    },
+    {
+      "agent_name": "0x971c62e1c0df4a0bca9fedaff47c",
+      "agent_number": 2756,
+      "owner_hash": "ef6defc4fb00c0f7097c31b4a61e96e01094691c2fea3a82b43c40494c69a8be",
+      "claimed_at": "2026-03-25T11:35:04Z",
+      "signature": "16ec296852ba46a7df7a61a42000fcba1863fd8997cf590b51ef2d636e72abf6c3b3d642f179c39c15afced85bad3e1e3d8611c32b7e571a53a40e91b6f2d103"
     }
   ]
 }
