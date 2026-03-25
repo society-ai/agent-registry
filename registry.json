@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T02:41:02Z",
+  "updated_at": "2026-03-25T02:46:03Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -17572,6 +17572,41 @@
       "owner_hash": "c9516ec413cd5ad643eb9580f4e43137a2d05da62564441094c7e7a863a2fac7",
       "claimed_at": "2026-03-25T02:40:59Z",
       "signature": "2858dbdd52d450a561af7f910b6eb72c305d77df3f6f09ff4c80ad9fb72c773e6375a819fb70c1717abae671f0ad9ba2b39a052ba2318f5aa696242554af4205"
+    },
+    {
+      "agent_name": "top",
+      "agent_number": 2580,
+      "owner_hash": "c84d15c6690886fe25468b9c68608c2661f9f090d7fc4c55a3d5ba41b6cfbb97",
+      "claimed_at": "2026-03-25T02:42:37Z",
+      "signature": "a56131b5bd997e3efadc40d24a34517794fe231b43ea72094605798d1dc8604122b676e92e314e5345542a7bced011084d3c49a95786ae3664935261a09c750c"
+    },
+    {
+      "agent_name": "bioauthai",
+      "agent_number": 2581,
+      "owner_hash": "9960beb2e9718b3db865e72b935f9855e1c96e59f8e88a178dbe7a9c87cfccb4",
+      "claimed_at": "2026-03-25T02:43:18Z",
+      "signature": "81a8e6eb564f7c7a8144a53973e8566a5d14fc7e0950a8ddaf88980901f91bf1c5472462752bae05f5529fb2d8de04729fd3828d55128140c42d9c7aee764203"
+    },
+    {
+      "agent_name": "stiven",
+      "agent_number": 2582,
+      "owner_hash": "cede297dce2d0ce7c6cf44b78370c73a8945dac951a0e0b41e9a248731c6cf25",
+      "claimed_at": "2026-03-25T02:45:08Z",
+      "signature": "c5cd704ce981104c8e3116b8c16170d7092af20f1f6f208641b61f284a0189e91cbd3de6d1a5998e05c7a49eda0620d790849f52928929cb7cbbe623f2ecb701"
+    },
+    {
+      "agent_name": "verifyai",
+      "agent_number": 2578,
+      "owner_hash": "2a5057aef05a2be781996d432370f1f5d13d43af9f43e999c712603159ca3056",
+      "claimed_at": "2026-03-25T02:41:53Z",
+      "signature": "f2edbeaaa6c505640a158cf4b5c7974738f4d6080f01c6d8e083991410e72d6e8fd2ce343c0d61db3674ce94cd871495d2d54b7bb1bedc528b114283c3b30d09"
+    },
+    {
+      "agent_name": "identityai",
+      "agent_number": 2579,
+      "owner_hash": "293c65a2da1e81ca85480f3c44a39c624d0800fcc658b7382a13d5f6ef731519",
+      "claimed_at": "2026-03-25T02:42:35Z",
+      "signature": "950503fbed62bb4fc43b1667032365424837a21e8e7bb47ddcb701cfd88d31a4a0d95456c1978caf66d0b890803daa4442afe65f499c9b35ba2d55a18eb4050d"
     }
   ]
 }
