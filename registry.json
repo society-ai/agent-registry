@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-25T21:09:19Z",
+  "updated_at": "2026-03-25T21:14:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -20891,6 +20891,27 @@
       "owner_hash": "f99775296290c2bb69ab337c0ccb05615050e120f59fae98b6695cfca3d6b570",
       "claimed_at": "2026-03-25T21:06:31Z",
       "signature": "3204d21104ee82c49ca364b16f925c2d013d67b3cecadb6c94d275a723a450028f7e8d90c62c679fef34d71aa29421f062f70ae366b3d416510ba2ff9e20b500"
+    },
+    {
+      "agent_name": "politie",
+      "agent_number": 2914,
+      "owner_hash": "a6f0b123bb5df8c15402a9e7aeab5a6608b6708946dc1b22808c3a751e044fec",
+      "claimed_at": "2026-03-25T21:12:28Z",
+      "signature": "7d5dbb280ce58747b4ce8f07e1ea789c113d0f8a3a487a97f90ef73e2069384622c4a957017e9cc8ff2db7281d32855f311f77608f6fb851213ee4c9c4454c0e"
+    },
+    {
+      "agent_name": "marcel",
+      "agent_number": 2916,
+      "owner_hash": "a6f0b123bb5df8c15402a9e7aeab5a6608b6708946dc1b22808c3a751e044fec",
+      "claimed_at": "2026-03-25T21:12:57Z",
+      "signature": "d5e251db57340a038e0975a8c57d76867315f2674f72fded6abbfe9415cae6a432e39d405024685c355fb302907d1adf6161966583b0b5795021b84af6c39c05"
+    },
+    {
+      "agent_name": "synthetic",
+      "agent_number": 2915,
+      "owner_hash": "e571d94f9a961ad2b80057e52f04577e4cf26693d1a955b929cfc151f7d7b69c",
+      "claimed_at": "2026-03-25T21:12:33Z",
+      "signature": "900acf813ddd62e69f31370b5070673aee2361cd37100d0fbab038b463f2dfaed8e8d5285247a9236c632cd1cdc3bd5216d857b85639fa274c9c8e57338aa70e"
     }
   ]
 }
