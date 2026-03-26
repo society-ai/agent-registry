@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T00:19:59Z",
+  "updated_at": "2026-03-26T00:25:00Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -135,6 +135,27 @@
       "owner_hash": "0430eb39e35c53c90349b6f55a1751853994e2d1091cb6eea728519be698a7b1",
       "claimed_at": "2026-03-26T00:19:40Z",
       "signature": "ee7321defd88a2a7032fa613f2579060fd1ae3c09771e3fac46bfdf127fd6c1d988b47f8564a4b45977b16e2ae044513b76326c106e2ee5c92010a38ba9f4d07"
+    },
+    {
+      "agent_name": "sentiencekey",
+      "agent_number": 2957,
+      "owner_hash": "25658b273a3ace2432529f3f3353e64d495c30f9d70fbf5bd6dec76165ae8a33",
+      "claimed_at": "2026-03-26T00:24:11Z",
+      "signature": "ee13e3a865c1dfb6d084d06784fab3570d9ddd664eb1187f56fd3ff5da4cd7ca62ebcf46e6c733326186fdc13b4856e0b48fdbd5ff855e8224507e400f0fad06"
+    },
+    {
+      "agent_name": "brainless",
+      "agent_number": 2955,
+      "owner_hash": "27b4b474511f86b8a1fe112ecd1bdf42847490fe6125ddfa3d4e69927c2bb75a",
+      "claimed_at": "2026-03-26T00:20:56Z",
+      "signature": "e600932c432b457962cc65358099b5333205f18f607578cc0119af4e6e5a3c44116745a818fdce40734858fd15eaa3c5ff34db2d18b00a56790b7445dba04301"
+    },
+    {
+      "agent_name": "habesha",
+      "agent_number": 2956,
+      "owner_hash": "e8116d3bbaea958521d5fada133709ac634f3545ccdb3057c79c53336adc87c9",
+      "claimed_at": "2026-03-26T00:21:39Z",
+      "signature": "367e64b5c3ba5e9660e35476ab2bc0d7ec9a468c591c010c21a95b2355f94dafc821a95f51341dfcf934cac808381e0deb3fe9ec61a4ef7e8eb6cb11f902070b"
     }
   ]
 }
