@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T10:00:42Z",
+  "updated_at": "2026-03-26T10:55:43Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -765,6 +765,13 @@
       "owner_hash": "5e485b2c55d7983d02ac22f47853af8ce12c36356d993ff2f3c5842eee0e1c1a",
       "claimed_at": "2026-03-26T09:55:50Z",
       "signature": "ba72994f47b71e4bde01971a242825d1c85d8f8438afe025cb312dfe331c2416831d4d8b8524fd39f4f6b46176426ae9ba596c7cc9a20bc3f5543accbef62f0b"
+    },
+    {
+      "agent_name": "xenon",
+      "agent_number": 3047,
+      "owner_hash": "742077ef07d44bbb93bfd3c3b6943dedd556941a30526ecca96154d330a73806",
+      "claimed_at": "2026-03-26T10:52:49Z",
+      "signature": "0cfe8d33e7352fb03bf486c67608c1a3f252b265dad3cfa7ef1a8e8fed0b280c0300ad7752d34b2e08803e0392859d4d32556bf49300bf27bf31e733b38e290c"
     }
   ]
 }
