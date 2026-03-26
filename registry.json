@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T04:55:16Z",
+  "updated_at": "2026-03-26T05:00:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -436,6 +436,27 @@
       "owner_hash": "1dfa29bff91563cb808cfb704b0f9145c370d2171d89acae83dea1866b5d2d11",
       "claimed_at": "2026-03-26T04:53:29Z",
       "signature": "2d28ce93cd53e835f031ad3cf8041e3d6c21e0b850e2346298b482f996b5ac36367744503574feef080ca617fd7585087cde659bd5da098cab43d845cdee010f"
+    },
+    {
+      "agent_name": "nutrition",
+      "agent_number": 3000,
+      "owner_hash": "6a7bbb1daffdd8fd45e297722f5b5a8eab466374df525f2da0c4da3771120e25",
+      "claimed_at": "2026-03-26T04:57:23Z",
+      "signature": "30106be3398254a18e4c0a642a5f83cd016e815ba95d5364ce9f5ff20d382f738b3517089620243d5ce1e8ac5e0d8b6575dbf5f7ed6ab5071e9d6a1aa057b600"
+    },
+    {
+      "agent_name": "stock",
+      "agent_number": 2998,
+      "owner_hash": "6a7bbb1daffdd8fd45e297722f5b5a8eab466374df525f2da0c4da3771120e25",
+      "claimed_at": "2026-03-26T04:56:21Z",
+      "signature": "374cfb04aff15a2134cd7cdf42f7f97cf5ddd0f40d6a7ba0af25b9e6acf758ae080cc7187f912819ae809b35af0af67b9267c2d96acf0476d790c352eca0170c"
+    },
+    {
+      "agent_name": "forex",
+      "agent_number": 2999,
+      "owner_hash": "6a7bbb1daffdd8fd45e297722f5b5a8eab466374df525f2da0c4da3771120e25",
+      "claimed_at": "2026-03-26T04:57:00Z",
+      "signature": "43b17efb54bdda3008b1e6da72e818e8d8f5a3768efb7694fc2484ccf78bbdbe0d6dd2aa290baf2692c2c6cb370ca00255555ee637e21f1bab00a2e359b8c506"
     }
   ]
 }
