@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T03:30:11Z",
+  "updated_at": "2026-03-26T03:40:12Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -352,6 +352,20 @@
       "owner_hash": "5e5f5ab59a430b4a2241cb9d9105c80037f06fbe7f12890b88104cfcaba6d452",
       "claimed_at": "2026-03-26T03:28:19Z",
       "signature": "54b36e3d8549c3a906dbe077bddc0d3d9dfa950b3d9d0372999c1ddd48b78e571faf96a6ee6a1e3ca65ed70b9af50c932879bf2b1e8ee3bb07e651cf2e2bc605"
+    },
+    {
+      "agent_name": "frigate",
+      "agent_number": 2986,
+      "owner_hash": "fc84a5202a326be040ff22731bd3a8889fb8d5a90a674a29a9c25c3394d675e5",
+      "claimed_at": "2026-03-26T03:37:34Z",
+      "signature": "f460a3d9f7bbed358c5f6df50db21c0596fefbb13437f828a8ca4923544123b350946666150c221daee18657768ea0e6da9417fc2562563f91b5d5dbe3081103"
+    },
+    {
+      "agent_name": "tibi",
+      "agent_number": 2987,
+      "owner_hash": "db6a81fd0f851ed1025287b5406eeeb319002830f7328c4d4076ab436b3e6894",
+      "claimed_at": "2026-03-26T03:38:12Z",
+      "signature": "1112c2cdb39959629e73ed3842a4dadda27efb2f5aa9c9c83c9d7867a392bfb7d7e9ec0ed5ddbcafbdd59bbb823b477c6f9a6cf0bfb2b7411056897a20962205"
     }
   ]
 }
