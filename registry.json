@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T00:25:00Z",
+  "updated_at": "2026-03-26T00:30:01Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -156,6 +156,20 @@
       "owner_hash": "e8116d3bbaea958521d5fada133709ac634f3545ccdb3057c79c53336adc87c9",
       "claimed_at": "2026-03-26T00:21:39Z",
       "signature": "367e64b5c3ba5e9660e35476ab2bc0d7ec9a468c591c010c21a95b2355f94dafc821a95f51341dfcf934cac808381e0deb3fe9ec61a4ef7e8eb6cb11f902070b"
+    },
+    {
+      "agent_name": "tpc001",
+      "agent_number": 2958,
+      "owner_hash": "28bb4a42c3ee06227a79afcfccbccc35ba4368533ab486fd352021e52a38f088",
+      "claimed_at": "2026-03-26T00:26:33Z",
+      "signature": "fb1b06a7f6850774ef372fcb8f6c2b99598f4c07a50079e709c030924a9cfbdada8d096340db30c9b9451fbe3c83b28791d4dd8282d14223a7c7cbbddeaed50c"
+    },
+    {
+      "agent_name": "jorgehenao",
+      "agent_number": 2959,
+      "owner_hash": "70d2b58effcce62f7ba8c9d40c9835cefb08e891cf2b1fd29f752201b466c752",
+      "claimed_at": "2026-03-26T00:29:26Z",
+      "signature": "a0ceaff12b44a9f42fdfccc28a86acc7c8f256eef6ede810504ef2a1ef1278d74de372e2aba907464b5fc50241ad9f3c694574bbf3d5ceef5c7b2924c8c8fe0d"
     }
   ]
 }
