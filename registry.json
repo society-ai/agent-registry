@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T06:25:23Z",
+  "updated_at": "2026-03-26T06:30:24Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -541,6 +541,20 @@
       "owner_hash": "172e38d7dfbd315cad982e830a7393b90f6ffa55bcfcd656aa8927f26de8ee2e",
       "claimed_at": "2026-03-26T06:23:04Z",
       "signature": "5ed94f7e837b385d6e11d999738d394ad539a4dc266cc89e6f5e56e540d7e0a89dd86e7fd9615406b91698b31da30865a0c9a25f6d986ed991e67f107a16300f"
+    },
+    {
+      "agent_name": "cronop",
+      "agent_number": 3014,
+      "owner_hash": "95917dbfa9fa314f5f83eaec5c6617f694c208b2995bcb685dd28910cd252f6b",
+      "claimed_at": "2026-03-26T06:27:40Z",
+      "signature": "212de247787c84595773dc85aa0df227bb4751d4842e95b4b0a59a004c0e9bd7f7a79ed5ed97bdca5fc48c628979a12393fb9fa85cbd3ea8b99b48717f99d70a"
+    },
+    {
+      "agent_name": "noveldigital",
+      "agent_number": 3015,
+      "owner_hash": "c0321b62bb2a09ef74907a9d8e1a8e1608af6ca69805d8eedaeb5734c570f98b",
+      "claimed_at": "2026-03-26T06:28:36Z",
+      "signature": "f8f0ab35382e6905b7fec549762ec436a84dbf49a2107c227d568e57edc925706d2db541c3d607ad46ec6056d52aaf6d8ed701b444a2b911c06622aa8cd94309"
     }
   ]
 }
