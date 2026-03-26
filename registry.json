@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T06:50:28Z",
+  "updated_at": "2026-03-26T07:00:28Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -583,6 +583,13 @@
       "owner_hash": "e20bb8d763b5311d2532533c9bf9d1184e7c24d972e7b86354fc078245547f18",
       "claimed_at": "2026-03-26T06:47:09Z",
       "signature": "74f2c404e096ff8276c600268d7fee756cc78c32768001dc293fa4327e7239a0d0ceb53cf48c27ed384f8378d9627475e4e77b8d6d24b1e4f2afc496cd56af0e"
+    },
+    {
+      "agent_name": "idel",
+      "agent_number": 3020,
+      "owner_hash": "5c41eef29cc53bb1b85862458bd8af3b680c7b6f5b495f6ed686ca9ec6bc4f08",
+      "claimed_at": "2026-03-26T06:57:50Z",
+      "signature": "13864c9e07d50c5df0439e58a6fc6d7850a1943e0a760f96dd2f5f751bfacb19241cbb5eab49a696827afd5411b4be0e6bb2586f9641c1f1cc4889b2cddfb806"
     }
   ]
 }
