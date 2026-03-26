@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T06:45:25Z",
+  "updated_at": "2026-03-26T06:50:28Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -569,6 +569,20 @@
       "owner_hash": "65d3723a6c43182bf36043c0b0f3214cce99a13b0fd5a0350c03e1c64b85247b",
       "claimed_at": "2026-03-26T06:44:09Z",
       "signature": "53fb2ea9f85cbb80976819ad4a6c8f820aa40dc3481c1c6e89fbcd0483069a4fd1ab18183d0588ebd89613ceef9373ff0bb927fedba7423ce8ecce4312904e0f"
+    },
+    {
+      "agent_name": "nihal",
+      "agent_number": 3018,
+      "owner_hash": "11021110aed17c1039ac7d2f600d5f8fec4b5e6f677626a4e012015363ee8d5f",
+      "claimed_at": "2026-03-26T06:46:48Z",
+      "signature": "ed28949f6605894054954e813e0d328f4debe65d9bbe8c471a7453e5c3b25e47622602b776b1afb3f55e57619c99148a1c11f290a0f70f19efe177b1dc4c5503"
+    },
+    {
+      "agent_name": "miusk",
+      "agent_number": 3019,
+      "owner_hash": "e20bb8d763b5311d2532533c9bf9d1184e7c24d972e7b86354fc078245547f18",
+      "claimed_at": "2026-03-26T06:47:09Z",
+      "signature": "74f2c404e096ff8276c600268d7fee756cc78c32768001dc293fa4327e7239a0d0ceb53cf48c27ed384f8378d9627475e4e77b8d6d24b1e4f2afc496cd56af0e"
     }
   ]
 }
