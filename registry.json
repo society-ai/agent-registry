@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T04:00:13Z",
+  "updated_at": "2026-03-26T04:05:14Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -387,6 +387,27 @@
       "owner_hash": "c0d46f34ecca7b8d497bd31bfb452eeed8f0b44ed9a5bbff4fffa5259932bab1",
       "claimed_at": "2026-03-26T03:57:33Z",
       "signature": "0538d79dc4c8ba289327a4e61395831e7f1b8032aa67a90ac907e88af3f30d419dd17a091b97ddb22d304da7dae6ab5775a80cb45fdec160438af2eab09f8c05"
+    },
+    {
+      "agent_name": "vortigaunt",
+      "agent_number": 2993,
+      "owner_hash": "c70287d9efa3afc82c6b67dfbc25d45bd6de6e785157cb53be1019b038afe651",
+      "claimed_at": "2026-03-26T04:01:57Z",
+      "signature": "401d442d47f536db861605c0eec3f3f11df1a4c610f6f17c61b04ff6a0c3cd62f99289b1f555bfaed00995a65452145e2bf4160f4a88e83e355a614fe0527a0a"
+    },
+    {
+      "agent_name": "act",
+      "agent_number": 2991,
+      "owner_hash": "841550c12ae1ef24b69984285b181346f8241b0123c8332aff5f6cd93790884e",
+      "claimed_at": "2026-03-26T04:00:53Z",
+      "signature": "b7ea7885c506144c79a75b967ef5ee5ac190088d097a5ed1edd4fc762b5a206f40563e159bc3684e4a2f52162c56dd7f91a5ef1204071a6d63a7f83357eff70e"
+    },
+    {
+      "agent_name": "miyahj",
+      "agent_number": 2992,
+      "owner_hash": "51ae3e0354dcb0a17a53f0d295c2539f1adc8bd6ce03e5ec1937c214f5073552",
+      "claimed_at": "2026-03-26T04:00:58Z",
+      "signature": "f9ece927225a0e4e65c116858c967ab5a1be88525f1a1e81bc996842493d5f82f00307e0ede77b3f45084f5f9bbe2298f13d32a2c7ce1aa85f31f00770fd1c04"
     }
   ]
 }
