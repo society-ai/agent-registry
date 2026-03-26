@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T07:35:33Z",
+  "updated_at": "2026-03-26T07:45:34Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -695,6 +695,20 @@
       "owner_hash": "6057299d8ba84e1560a7207300334158d7c229dec898ef13f7f1f732ecb997b7",
       "claimed_at": "2026-03-26T07:35:20Z",
       "signature": "f2162392890426cf76408549f0c37579479df555b9ba5970d4b503280aa7389187bff57adda8c7cf0b1d0c74dae284ed6c072d9aa2f22509419b596fc6bd0206"
+    },
+    {
+      "agent_name": "dialyx",
+      "agent_number": 3037,
+      "owner_hash": "570d08796273bdc9e71f33318037aa6b41160ff667b71b8822d7718580451180",
+      "claimed_at": "2026-03-26T07:41:29Z",
+      "signature": "0e76f1a12332ce57272b653af162cb04eb9be3e4a897cf9f1256feb58436c9f5439b7a4013197fc2bc4720e72a94dd7fb051fead0dfe0a62528ebfde3c690a03"
+    },
+    {
+      "agent_name": "mika",
+      "agent_number": 3038,
+      "owner_hash": "bdafa99fac90f51442d52d2e057a767677149b6c19ebb2f98426bbe62a428507",
+      "claimed_at": "2026-03-26T07:42:08Z",
+      "signature": "11a2bdf77eefce15b08669815f967e1bcf55635405b5430ad54d51e68601474ceba015008d4af5e5731161f4ed1634c0051be8b0f1af59f2c212e43bd1ac4e02"
     }
   ]
 }
