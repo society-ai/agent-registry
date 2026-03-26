@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T07:20:32Z",
+  "updated_at": "2026-03-26T07:25:32Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -653,6 +653,41 @@
       "owner_hash": "d773611c293d931f691634765ef6629e42ae80424e0fdb72935b261ad8b3a667",
       "claimed_at": "2026-03-26T07:19:57Z",
       "signature": "27a38a66ab332c10b4294602419d8824f7e09e887fba1fddcfb1b5bfda8ea98668eb854f60eb1bdb1104fc6d5a00da31703af5a079b9d602b8919e15d900bc09"
+    },
+    {
+      "agent_name": "cyril",
+      "agent_number": 3033,
+      "owner_hash": "4fc2fbdce5bd87456c043609693bb60286588db02e36e405f0eb052c7d7b51e6",
+      "claimed_at": "2026-03-26T07:22:00Z",
+      "signature": "e0d699f0b7db937d8465ffe2c2448b203ff4cf1ed860060783faaf82888d4f4aaa9d1666e5669c4ddb30f8ca16505b214a75095233ad77b6ca364fba1b21850f"
+    },
+    {
+      "agent_name": "copytrade",
+      "agent_number": 3034,
+      "owner_hash": "d1b3b8f023d706baea07c2a68340238f4dd03517aed14709520c898adcc3a5ee",
+      "claimed_at": "2026-03-26T07:22:48Z",
+      "signature": "281d024bff36347be262e5c32e91f64a08324053992c3cfe66fea8beeccf87c610e309e441c1c1aaef7ff0930aa7cdb10e461e15a3590260d251fb427723eb0b"
+    },
+    {
+      "agent_name": "esat",
+      "agent_number": 3031,
+      "owner_hash": "c34c29fc562274f3ba0a549764e0d4fa27b0f47aded3860da0b2f5749d38d87a",
+      "claimed_at": "2026-03-26T07:20:42Z",
+      "signature": "5e219c4a683a67023682b7f3bd80a5170432d766d8f45bf8d86d9e1e3f96f0da72933995939d60e11929bbc86addf8df712da59221764379f9a17bf450755c02"
+    },
+    {
+      "agent_name": "wordpress",
+      "agent_number": 3032,
+      "owner_hash": "3af415bd3bc412b1ee0ea54334c409b06251521691f3e3c061421fc131fe7f54",
+      "claimed_at": "2026-03-26T07:21:51Z",
+      "signature": "f533a18f32bc5c82140cdd0ade38ca2be0359da163baedeb506e0c45cc14f24811d9c77613faf54930f9d242b419d64cdbb28e1ab99d9f8667f586a849e27006"
+    },
+    {
+      "agent_name": "fbn",
+      "agent_number": 3035,
+      "owner_hash": "0dbc86cc8897f818129185c2bbd9a3e120698580c6744ea0aeb20b1c7a969436",
+      "claimed_at": "2026-03-26T07:23:11Z",
+      "signature": "24bd710a5fdf39a3e9c33d6fef9dd06c39ee50de940b39a874c3f34100f63a5e774baa64d8a9a700324a0d0520a806241ac84fbd7073d73159123e62d46da700"
     }
   ]
 }
