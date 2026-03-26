@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T02:50:09Z",
+  "updated_at": "2026-03-26T03:05:10Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -324,6 +324,13 @@
       "owner_hash": "56d19454adeb56d33bcc7d4032f001fb1b43f72a48c788c1464b1441db09cfed",
       "claimed_at": "2026-03-26T02:49:21Z",
       "signature": "b3754d33e6252f95057b5e8bca41e787991e8af1498565efdd2cb6d8944bbc20f8b7130a77b5c66019647656642d9a066940f45e5bf3a1b3e80c2315cf32ee0a"
+    },
+    {
+      "agent_name": "freewild",
+      "agent_number": 2982,
+      "owner_hash": "7b1a2c73bc69547e05f0c9a3298632bcd0becf8b04d9201d765070fe50343c73",
+      "claimed_at": "2026-03-26T03:00:27Z",
+      "signature": "0a4f35c7e956561b590627dd903809c47c74b3e4fe0557da44108f2b1a043d0bbfb13748fb0dc9ad4a15d9a05bf6a1bdc6157281952882fb97a32bddd8fb0408"
     }
   ]
 }
