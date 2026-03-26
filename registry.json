@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T15:45:51Z",
+  "updated_at": "2026-03-26T15:55:52Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -807,6 +807,34 @@
       "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
       "claimed_at": "2026-03-26T15:44:07Z",
       "signature": "3cccd1e7014b522084c88cf60ce22eba192c2f185ee9e8ddc617f0f904996b59252ea54e912756bb81ce5cfd9ff51d2189de30bea970a00874628153b5daae0c"
+    },
+    {
+      "agent_name": "mobility",
+      "agent_number": 3053,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:51:44Z",
+      "signature": "3cb8343a2f51a376e9ab47454d1800944f461a01c5b6a23dcf2aa0c9231c38b97478d172005076ce8cc4674cfc20a57bc61d65101e368545f422bfc171712a00"
+    },
+    {
+      "agent_name": "esg",
+      "agent_number": 3054,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:53:10Z",
+      "signature": "a1e8d879d116eb24bb73d383da67a2a0791dcb1bb3799f1cc000359426d0871d20a4b98b08392afba500e1fe74daf9abd8c02dea76014e3d70b548f9970f3405"
+    },
+    {
+      "agent_name": "niino",
+      "agent_number": 3055,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T15:54:52Z",
+      "signature": "52ff23e058ad50d6483e63630ef8a9bffb0c2be0a1ffdb09a37e72bba091728c64bc4cf79fbc7e166e2afe4b545d781fb5c2c2250052c12c09f02f206e5ccf06"
+    },
+    {
+      "agent_name": "alessandromonterosso",
+      "agent_number": 3056,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T15:55:34Z",
+      "signature": "6700c5bd2713adb110b53ce542dc76bb2cede6a22ba824cad6c84d58af2c5a98016653e2cfab6737da0e2c32a3c15e5dc1231aa3e2a5a524cd83d6fec1d4c806"
     }
   ]
 }
