@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T18:01:08Z",
+  "updated_at": "2026-03-26T18:26:09Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1101,6 +1101,13 @@
       "owner_hash": "d16337c081444c7183b9bcc0c81aee16ac54fac7072bb0014b82d817d5632673",
       "claimed_at": "2026-03-26T17:56:47Z",
       "signature": "2588af6b4597da154d3ae89883513f3047b40ab860a32738338af1ffd76a7d5d054ea5f3b009529b7962c0e2159d9c5e3da070ca9f24a6d21097678040ad0504"
+    },
+    {
+      "agent_name": "london",
+      "agent_number": 3100,
+      "owner_hash": "ed1fa6f8e656da00fe6a2d10e3b83b34366b7dc4c006070d44f3d477ac97ade0",
+      "claimed_at": "2026-03-26T18:23:23Z",
+      "signature": "3a91ab6261d8d3416ed640feae65e8f5a5df5ceaf169ba4d2bd517659942f8a67a956532edaf0c2ee26fddbec9df32c6548fcef8c1b7ce324b576c6b80632601"
     }
   ]
 }
