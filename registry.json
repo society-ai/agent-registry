@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T00:30:01Z",
+  "updated_at": "2026-03-26T00:35:01Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -170,6 +170,20 @@
       "owner_hash": "70d2b58effcce62f7ba8c9d40c9835cefb08e891cf2b1fd29f752201b466c752",
       "claimed_at": "2026-03-26T00:29:26Z",
       "signature": "a0ceaff12b44a9f42fdfccc28a86acc7c8f256eef6ede810504ef2a1ef1278d74de372e2aba907464b5fc50241ad9f3c694574bbf3d5ceef5c7b2924c8c8fe0d"
+    },
+    {
+      "agent_name": "hayrolr",
+      "agent_number": 2961,
+      "owner_hash": "7cb6ba17955fedbd55cc0305bff2ec716ac6c553b49415bb4654b223c0152603",
+      "claimed_at": "2026-03-26T00:33:34Z",
+      "signature": "6c4f36ba8b4088cc9fe4bea7d6dab0f7d77443816a8bf1a8f15fbaa92a7b849b83836560093e5e65bbedde20a0361da20a0d09d6d696093ab180a48e65b7220d"
+    },
+    {
+      "agent_name": "genealogista",
+      "agent_number": 2960,
+      "owner_hash": "cc753c289b29f24c0272e103a5aafb123f96ccb6816e43d1899fe96efea275c0",
+      "claimed_at": "2026-03-26T00:31:48Z",
+      "signature": "5eb8596b9a199e90434b9d88849e46d2ad779af5d65cf7bf70d1d4874ce644be1f4733f6060788e30210f043aaf4b04792eea356dc80855d890abbe5ed696a0f"
     }
   ]
 }
