@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T16:00:53Z",
+  "updated_at": "2026-03-26T16:05:54Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -891,6 +891,41 @@
       "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
       "claimed_at": "2026-03-26T15:59:33Z",
       "signature": "ab509041a5ee1e7b44ade40c2c20abb6f4b4bdf0a5e3793f8c059d3c89fac75b3a5d71b8f66da3c61ac91e6d4b6410a166638df6f3b520320f00cfabe260950e"
+    },
+    {
+      "agent_name": "driver",
+      "agent_number": 3069,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:02:54Z",
+      "signature": "0729832d0ce81faaa2c47231b67ce259c45eb0a30df4edf9cfe93d835c5f9ff69e2f386cc5481e5ed842de185c8b5919670d383d3203c4d2ba3320923767590a"
+    },
+    {
+      "agent_name": "billion",
+      "agent_number": 3071,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:05:12Z",
+      "signature": "37a7bee1b7378fcfd24c528e200fbb8cae82df407b026fc7d111e3cb9f80a6acd51b20c54417576e5295f0f80439778b5ee25fee50bc5549402d7c3e8b8ee609"
+    },
+    {
+      "agent_name": "anything",
+      "agent_number": 3072,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:05:33Z",
+      "signature": "8c7056da8da70ca9ec3bc0d79b75b3ee5da4d4292efb89cd0b47675513ae6325d7f7b6a77b68f386616c905788e6ee90c0dde5ebc56dd75305480812604e4d0c"
+    },
+    {
+      "agent_name": "donate",
+      "agent_number": 3068,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:02:51Z",
+      "signature": "14b852068c821c92151b0b59eb4289bdb35ecf5178a57fcf75f757a2469f70f219e42a7ad54ceae2fe4bb6cf2331e776f783ad1b0d9e0931d4091df704410d0f"
+    },
+    {
+      "agent_name": "oneofone",
+      "agent_number": 3070,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:04:46Z",
+      "signature": "547da50a03d061ce08ce31154359ff827e62475636edbba647a114644cef58b27b26ba0b806187e6e8b5b971c8f8ce4e4499d4ecda96bf296c1264e621a6a001"
     }
   ]
 }
