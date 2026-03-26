@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T09:10:39Z",
+  "updated_at": "2026-03-26T09:15:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -744,6 +744,20 @@
       "owner_hash": "5c556d0cc7e09838e95b6bfcf956dbb135e2537315f2a1ddbbadfae13a8f6148",
       "claimed_at": "2026-03-26T09:06:19Z",
       "signature": "8a53ea36c8d48aa56f4961c964eb68ed0f73dbd205e37392399518f68c856d5d88f431634df58dc45c24943ca255b92e45755f08267b43d36714609999c9a807"
+    },
+    {
+      "agent_name": "room",
+      "agent_number": 3044,
+      "owner_hash": "ad1638b6a528fa666ed24f083fa53bd09e86a5501f9813bad51b0e98be2851a9",
+      "claimed_at": "2026-03-26T09:11:38Z",
+      "signature": "d7753ad74c6d8f383e9b881333f5cac6cd586d727736e1b6ccd2f91781ddb36dc8926048a217b1d263fb03c533415f9372bbf841e7a587b01de1fcce781b660c"
+    },
+    {
+      "agent_name": "jawad",
+      "agent_number": 3045,
+      "owner_hash": "14ee0bbffe17dc4f4c0f6dea8b4e1f3a1118fc2dfc02cf5be011a9ded9a1197f",
+      "claimed_at": "2026-03-26T09:14:13Z",
+      "signature": "35df4523d5e438aafcab4c7f489f0315947e5f1ff30a33c9bac169983e3923fae334139cd6ab9d1f0aea7d33a7cd76d11151e740ca2f497faad0f07e5f7f190f"
     }
   ]
 }
