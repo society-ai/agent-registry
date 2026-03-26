@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T17:51:06Z",
+  "updated_at": "2026-03-26T17:56:07Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1087,6 +1087,13 @@
       "owner_hash": "702693f839e3640cb32ca76fe3afb29673436bbdc2367e38acedfc1759881f95",
       "claimed_at": "2026-03-26T17:49:41Z",
       "signature": "571916b5124d7f604c0dab24fc50808bc709ed208017f3593eeacdcbdb169f18fbdcdcb4f402b943b382958c3d246058a1f4c8d4a9aaa7bb68fd29a041673f04"
+    },
+    {
+      "agent_name": "nxtey",
+      "agent_number": 3098,
+      "owner_hash": "c9bf474c8cc711e641fd2c9a6100e5a4770c48b8daa90b40dbb615bf4cb3cee2",
+      "claimed_at": "2026-03-26T17:51:37Z",
+      "signature": "9183296964f0befc7f8f925d65b0dd806c90f5d0be61081f0e52bc6efbddcc11780017fa7488fed3b902a17cd9e5cddc3999c46af7b1ef7d32db03a3551e9a00"
     }
   ]
 }
