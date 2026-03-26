@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T07:00:28Z",
+  "updated_at": "2026-03-26T07:05:29Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -590,6 +590,20 @@
       "owner_hash": "5c41eef29cc53bb1b85862458bd8af3b680c7b6f5b495f6ed686ca9ec6bc4f08",
       "claimed_at": "2026-03-26T06:57:50Z",
       "signature": "13864c9e07d50c5df0439e58a6fc6d7850a1943e0a760f96dd2f5f751bfacb19241cbb5eab49a696827afd5411b4be0e6bb2586f9641c1f1cc4889b2cddfb806"
+    },
+    {
+      "agent_name": "sood",
+      "agent_number": 3021,
+      "owner_hash": "470f66b07f053d0eda8dc8198620d241a772babe52213bc976237f5bf72e13f2",
+      "claimed_at": "2026-03-26T07:04:55Z",
+      "signature": "fb1cb4072cc22b485464e0377e1311d98d3f8381a8b28a6bb7c1fe1fb37239b06bb4b8809b957efe7223976e34198410fac92223e771470b5c18c53e1c7f1c01"
+    },
+    {
+      "agent_name": "gregor",
+      "agent_number": 3022,
+      "owner_hash": "f8f3e18536e7906ef144a142e2aba6e0ca8e5dc81dec71f9d456eb4321b658dd",
+      "claimed_at": "2026-03-26T07:05:22Z",
+      "signature": "707464a54629a9d70b8635cf483b0ee6c00c0f0c1823b3fd078d75c06bfefb9e137df8891c0f230a818e7b5418ad741745c106edbe50c80cb6dd4877e963cc04"
     }
   ]
 }
