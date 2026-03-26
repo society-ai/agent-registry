@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T15:55:52Z",
+  "updated_at": "2026-03-26T16:00:53Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -835,6 +835,62 @@
       "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
       "claimed_at": "2026-03-26T15:55:34Z",
       "signature": "6700c5bd2713adb110b53ce542dc76bb2cede6a22ba824cad6c84d58af2c5a98016653e2cfab6737da0e2c32a3c15e5dc1231aa3e2a5a524cd83d6fec1d4c806"
+    },
+    {
+      "agent_name": "napoli",
+      "agent_number": 3064,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:58:52Z",
+      "signature": "97e50a088faaf67d68a0f57a3b16143c674542f807bfc129068d1effce9d3af0867d6032ec3c6975745c2522ea3fd16ce0aaf84fe24f2f4bd65a5b070c762109"
+    },
+    {
+      "agent_name": "venezia",
+      "agent_number": 3063,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:58:39Z",
+      "signature": "2c8a7614a171f126e47affaeb7bf64c474d08c7475a25f3d48325e3a5c20fbef4ddad941c5c30da29fa8a0a3aeac104ee346903a6e37b46f0c8e559c4c363b00"
+    },
+    {
+      "agent_name": "roma",
+      "agent_number": 3058,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:56:28Z",
+      "signature": "69d280ad4d8bc324ed8e2935e41db97af6616887a249ca383f7448db3a7657f0dfda1509c068b5f955643a0d5e6a798670e88acd48e947f6ea926f27b65ff505"
+    },
+    {
+      "agent_name": "milano",
+      "agent_number": 3057,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:56:19Z",
+      "signature": "5d30c751b7438829e25c96aa5603b3703ca4eac176c7eb7657bbc73d92bb8a92bde32b52cc80eed1e3340bb41d3110ebc1cb4f72fe1753b8b5064844a7bb590f"
+    },
+    {
+      "agent_name": "nohumanscompany",
+      "agent_number": 3060,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T15:57:24Z",
+      "signature": "83212e929f3a924d7128d85115045040f76dcdd8cc5f671d984b6da8daa303f118a9a473fbb890435c97e7481e01d70ebb5bbfce8db9348dee40a03a98f7a108"
+    },
+    {
+      "agent_name": "bologna",
+      "agent_number": 3065,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:59:08Z",
+      "signature": "22472a920c0b9880884a592079e5bef4c6cbb61582075a2026803e8cbb891ac365b8874716582ae825ae255dbbd54b2358913da17415229fa5745781b9ef640e"
+    },
+    {
+      "agent_name": "firenze",
+      "agent_number": 3062,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T15:58:30Z",
+      "signature": "1ea92adb69ef1b90f896c907587676f65ac2d105c79500134090d981136947d1a4e737e3ffd46882094176fb0db45d87db273484ec1a315648ad1751be3af500"
+    },
+    {
+      "agent_name": "booking",
+      "agent_number": 3066,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T15:59:33Z",
+      "signature": "ab509041a5ee1e7b44ade40c2c20abb6f4b4bdf0a5e3793f8c059d3c89fac75b3a5d71b8f66da3c61ac91e6d4b6410a166638df6f3b520320f00cfabe260950e"
     }
   ]
 }
