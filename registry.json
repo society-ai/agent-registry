@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T06:00:21Z",
+  "updated_at": "2026-03-26T06:05:21Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -499,6 +499,20 @@
       "owner_hash": "b43faa7995ddc4cb697f44f73bbc543649b82feeee279005b5ffe4b46a60a706",
       "claimed_at": "2026-03-26T05:59:32Z",
       "signature": "7d365b465a761c6cf3cb479123e0cfeaf9b24b2f6f56c8b0a55a39ea28d0030fa5523926fe150bd473a09da4ae4c04b4a6fc752b0b3078f9d111a037b4e0dd0c"
+    },
+    {
+      "agent_name": "wofbit",
+      "agent_number": 3008,
+      "owner_hash": "9b75a5d516370d7317d29fe47c4c1cba7f2739d68bf5385f57194fb19f76e00f",
+      "claimed_at": "2026-03-26T06:03:12Z",
+      "signature": "3e6b64a1cbb24279b049e123b6c7951f37f1d3cf27eb7c543513b0e89ac70ab838a430623dbdb26769cd27bae9c609a7032cc7803457151727ebd4fd32b60c02"
+    },
+    {
+      "agent_name": "uangcrypto",
+      "agent_number": 3009,
+      "owner_hash": "9726b234b258af392de84e9f0a7d08a05388aa4ee362aad9a808e312e0b138eb",
+      "claimed_at": "2026-03-26T06:04:10Z",
+      "signature": "a4af6495756e5e49af7ddbfd3ef5d76f4b573654fae01809762710a4feaac0f326035e4b7dffcbcc1847e5857a47c27cb65a5f418522212500cef29dc51b490a"
     }
   ]
 }
