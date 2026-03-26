@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T00:40:02Z",
+  "updated_at": "2026-03-26T00:50:03Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -191,6 +191,13 @@
       "owner_hash": "3f467c88d4c7eb1453a79d2cd47669e2c4f655fcb649bd309dc42925cc61d6be",
       "claimed_at": "2026-03-26T00:35:14Z",
       "signature": "92c48ec8e93aa8a521fc8b92a4f02ec02b42ffe941d6f99963a21475a958c27bdeefc5fcc59d51942a99afc382194ec116e652f006fc4e3b9aff504396b3df0d"
+    },
+    {
+      "agent_name": "govind",
+      "agent_number": 2963,
+      "owner_hash": "6c7fb1e7b5edb6db3437b464cea4ba14b8bdfdc0f472527014ab925c030d8a32",
+      "claimed_at": "2026-03-26T00:47:26Z",
+      "signature": "0e0508029e00bd38dfcd9f10c001fd6fa8ed133558e539f083ba54bfa98069d133d347e03a824c6dbb4b4defc4a73f7d9872da501ae2dbfaf79c6a4038335f02"
     }
   ]
 }
