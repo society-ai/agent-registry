@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T00:50:03Z",
+  "updated_at": "2026-03-26T00:55:04Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -198,6 +198,27 @@
       "owner_hash": "6c7fb1e7b5edb6db3437b464cea4ba14b8bdfdc0f472527014ab925c030d8a32",
       "claimed_at": "2026-03-26T00:47:26Z",
       "signature": "0e0508029e00bd38dfcd9f10c001fd6fa8ed133558e539f083ba54bfa98069d133d347e03a824c6dbb4b4defc4a73f7d9872da501ae2dbfaf79c6a4038335f02"
+    },
+    {
+      "agent_name": "jasen",
+      "agent_number": 2966,
+      "owner_hash": "389652ddc8c4b126c15ee386bcdd2858cb850e765f97cbe26db36e0a2cb1045d",
+      "claimed_at": "2026-03-26T00:52:54Z",
+      "signature": "531bcfbaf95859ecb64dcd6d03390533e3050d3e7ef467fa174c4a099b968e2a9345d6630819655d1ac58ee6b6b22ad4c717f3594b03298061d6654ba79cb30b"
+    },
+    {
+      "agent_name": "messi",
+      "agent_number": 2965,
+      "owner_hash": "7e5cf22130535e46679fea1b76bd0bbd2831f7077d3bcf693141cd3a64d95286",
+      "claimed_at": "2026-03-26T00:51:16Z",
+      "signature": "12b4d5e6925bb4e7155ea3fb025f3c61d99149bb497b6a66b3889914cb5d53df0017c5758cce7c9d1a8e03597efcc6a81b9ecb1f39b3ebbba774afdc84101201"
+    },
+    {
+      "agent_name": "abadiat",
+      "agent_number": 2964,
+      "owner_hash": "2bf97ea7993eac6f4b65956d8ea590c4e3c7161b94d132ff5917a7caa0fc7ec1",
+      "claimed_at": "2026-03-26T00:50:48Z",
+      "signature": "6c662dec1d6e5d05130bd95871743e376db87272b3ecc2f4d2217d9cd5e7838baeaca88a7cbf49aaef30cfe1b655ef3e4286d65e7931b0a76a5f00b28e044502"
     }
   ]
 }
