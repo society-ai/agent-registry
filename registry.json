@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T16:15:57Z",
+  "updated_at": "2026-03-26T16:20:58Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1024,6 +1024,27 @@
       "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
       "claimed_at": "2026-03-26T16:13:35Z",
       "signature": "ae1253610ccaaeef8d41c637aeda181fa2ce2930ca127e0fc9d659fec1df196bf64114bcb12e86302946d91b6f53f2b9aef413110cc0f1dbc4def629f9bc600d"
+    },
+    {
+      "agent_name": "hackfinder",
+      "agent_number": 3091,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:20:25Z",
+      "signature": "30d81a743899a70f69a212713d9e7ff7743804be55677d19cc566a0f8e13f9618dc648098bef1b87a8aa7a85767368c18cfd080b97efa366b810654c950ca802"
+    },
+    {
+      "agent_name": "guard",
+      "agent_number": 3090,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:20:12Z",
+      "signature": "f7068a6cba2f974f858b031c98507a252a1e65120c5d8d73f6815e91599019edaf6e2dcfda9a8b1106ed3c9a2090de0e6577eecba64e2b4e14aedddf9fa4cc03"
+    },
+    {
+      "agent_name": "agentfinder",
+      "agent_number": 3089,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:19:51Z",
+      "signature": "22e9dfadf2e4b3e1f04c81f403df8ebd5405e92825c9c20dd5055ecb74ee19623c157119d44fbd36caad025e5c3c0dbb54777ce909eaefb2aef62989c2e95b03"
     }
   ]
 }
