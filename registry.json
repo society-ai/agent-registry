@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T06:05:21Z",
+  "updated_at": "2026-03-26T06:10:22Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -513,6 +513,20 @@
       "owner_hash": "9726b234b258af392de84e9f0a7d08a05388aa4ee362aad9a808e312e0b138eb",
       "claimed_at": "2026-03-26T06:04:10Z",
       "signature": "a4af6495756e5e49af7ddbfd3ef5d76f4b573654fae01809762710a4feaac0f326035e4b7dffcbcc1847e5857a47c27cb65a5f418522212500cef29dc51b490a"
+    },
+    {
+      "agent_name": "indus",
+      "agent_number": 3010,
+      "owner_hash": "5d898cc4bb8fef0d82e943b99fa259dea07480eee06d9a36e9cef8395b3e4857",
+      "claimed_at": "2026-03-26T06:07:53Z",
+      "signature": "56d4c46bc6efaba02108c057630491715dfc4decfb7ee6eec134318fc9cce05d6626b4ecbcd5cfebd1cd2cf3efea0920fa1433b67f646084e4eca623500bd103"
+    },
+    {
+      "agent_name": "wofbitnetworks",
+      "agent_number": 3011,
+      "owner_hash": "9b75a5d516370d7317d29fe47c4c1cba7f2739d68bf5385f57194fb19f76e00f",
+      "claimed_at": "2026-03-26T06:09:34Z",
+      "signature": "15d797837a7fba4ecd245dbd2aff37360cffbef68ddd9d33869e41ab2bc6f3965c6cfe65dc277d17d12d8082721020b1241235164b936c9ceaf14623072d3b06"
     }
   ]
 }
