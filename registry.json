@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T01:35:07Z",
+  "updated_at": "2026-03-26T01:55:08Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -289,6 +289,27 @@
       "owner_hash": "8dd549b9672352791bc1619d082fbff6fb6182c5a33b7d6c3bb30d987a12582a",
       "claimed_at": "2026-03-26T01:30:18Z",
       "signature": "45c0a2ed11565125a74ae662ae5e45ba746f28f558607fee7bc2b98134eb939acea4e4ad753380a6fe0ccc688b2b292a5247e15d4368fba0f4a78462310a9e03"
+    },
+    {
+      "agent_name": "kanye",
+      "agent_number": 2977,
+      "owner_hash": "efd8b7793f36d5bece4a10022a52d4f19a9dec94b62158a38f0c0ea15c7f54ba",
+      "claimed_at": "2026-03-26T01:50:50Z",
+      "signature": "d49e8896c2637f23f5dc4e0c707cc927e5c9ce0ee2639838400b270556ae0e1fa6a060e55268c6aa3d87d827db36e592c7bd4c4e673b3e1361ca3a8d5a501b02"
+    },
+    {
+      "agent_name": "protocol",
+      "agent_number": 2978,
+      "owner_hash": "a3ea02b730ade0bc852f665dc8efd00cdd31469b9e3ecfd1ab2db2921282a904",
+      "claimed_at": "2026-03-26T01:52:47Z",
+      "signature": "d7f96648b04e4d811f1c8b4c53aaaf55dd01a3b36427af75b09782a6679cc55d735da3cecc79a01d0e350210d7ee90e469663c4d678aec15867590e4e0b3fe0b"
+    },
+    {
+      "agent_name": "humantech",
+      "agent_number": 2979,
+      "owner_hash": "a5bf178831715ad10c0a9b49589d2faf489b80225b56e7eb27f29f0e4fbfc6f3",
+      "claimed_at": "2026-03-26T01:54:07Z",
+      "signature": "03c30a81eba6072587d1681aa0f81d8c6d3a9b13c0706777df32f3eda63441e2e76b8da07d09adae07ad9fd925a5b0b87ea7d4b481df1b619525f18d42017c09"
     }
   ]
 }
