@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T05:00:17Z",
+  "updated_at": "2026-03-26T05:05:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -457,6 +457,20 @@
       "owner_hash": "6a7bbb1daffdd8fd45e297722f5b5a8eab466374df525f2da0c4da3771120e25",
       "claimed_at": "2026-03-26T04:57:00Z",
       "signature": "43b17efb54bdda3008b1e6da72e818e8d8f5a3768efb7694fc2484ccf78bbdbe0d6dd2aa290baf2692c2c6cb370ca00255555ee637e21f1bab00a2e359b8c506"
+    },
+    {
+      "agent_name": "mortgage",
+      "agent_number": 3001,
+      "owner_hash": "6a7bbb1daffdd8fd45e297722f5b5a8eab466374df525f2da0c4da3771120e25",
+      "claimed_at": "2026-03-26T05:01:52Z",
+      "signature": "060bf104e9b6cab1a5615b655bf5fabc2a0c115880e281177cb365f4791b901ae5c33911fde41fa85a0711ade8efbf892850511724d2f2450764de48c8c3710e"
+    },
+    {
+      "agent_name": "contract",
+      "agent_number": 3002,
+      "owner_hash": "6a7bbb1daffdd8fd45e297722f5b5a8eab466374df525f2da0c4da3771120e25",
+      "claimed_at": "2026-03-26T05:02:25Z",
+      "signature": "a8d2bd3ef0736adb24e276d792af297af44296d83a9a94bda1549e61c56a90fcdf398183116f8544e6bfba7f0efe89c8860ed93d5e52da08f659c9f235b52203"
     }
   ]
 }
