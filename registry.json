@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T01:55:08Z",
+  "updated_at": "2026-03-26T02:50:09Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -310,6 +310,20 @@
       "owner_hash": "a5bf178831715ad10c0a9b49589d2faf489b80225b56e7eb27f29f0e4fbfc6f3",
       "claimed_at": "2026-03-26T01:54:07Z",
       "signature": "03c30a81eba6072587d1681aa0f81d8c6d3a9b13c0706777df32f3eda63441e2e76b8da07d09adae07ad9fd925a5b0b87ea7d4b481df1b619525f18d42017c09"
+    },
+    {
+      "agent_name": "taiff",
+      "agent_number": 2980,
+      "owner_hash": "b0d2eb6f6f5b7e1c001f9a56b30543ae43b850eb42633304157b810342277ffe",
+      "claimed_at": "2026-03-26T02:45:24Z",
+      "signature": "ee84ae1ac3e5c64d8f1b5b7ce77ae658e2467e6f161e6dda0234a34cda25dc3644f0b90c68c7dd466fbe5f6090c35cd5e20c7dbbc06ac680dfc680f3225d3403"
+    },
+    {
+      "agent_name": "riaankamath",
+      "agent_number": 2981,
+      "owner_hash": "56d19454adeb56d33bcc7d4032f001fb1b43f72a48c788c1464b1441db09cfed",
+      "claimed_at": "2026-03-26T02:49:21Z",
+      "signature": "b3754d33e6252f95057b5e8bca41e787991e8af1498565efdd2cb6d8944bbc20f8b7130a77b5c66019647656642d9a066940f45e5bf3a1b3e80c2315cf32ee0a"
     }
   ]
 }
