@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T03:40:12Z",
+  "updated_at": "2026-03-26T03:45:12Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -366,6 +366,20 @@
       "owner_hash": "db6a81fd0f851ed1025287b5406eeeb319002830f7328c4d4076ab436b3e6894",
       "claimed_at": "2026-03-26T03:38:12Z",
       "signature": "1112c2cdb39959629e73ed3842a4dadda27efb2f5aa9c9c83c9d7867a392bfb7d7e9ec0ed5ddbcafbdd59bbb823b477c6f9a6cf0bfb2b7411056897a20962205"
+    },
+    {
+      "agent_name": "bharat",
+      "agent_number": 2988,
+      "owner_hash": "6a7bbb1daffdd8fd45e297722f5b5a8eab466374df525f2da0c4da3771120e25",
+      "claimed_at": "2026-03-26T03:41:08Z",
+      "signature": "e73676cac3e5d97e75c39aea4079605503096de52c00c5a3640e1433c04ec32155be33dcdfeb89625111055b6de6761f406c3915b91d63d8d0f2484792e2e303"
+    },
+    {
+      "agent_name": "axmed",
+      "agent_number": 2989,
+      "owner_hash": "fd509ae389145a7483c828bc9fda4d80d7e1a838d7a5b908f90f7768448df1a7",
+      "claimed_at": "2026-03-26T03:42:42Z",
+      "signature": "56aad3302c5a0a9e44852b91c2d851a70aa600d42e0760002814503d0207d296c476e81687e4dd7f4776a0c802eddb033d91e9a7fa25b62eff48ec3667c50e0c"
     }
   ]
 }
