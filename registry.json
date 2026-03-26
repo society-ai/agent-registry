@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T16:20:58Z",
+  "updated_at": "2026-03-26T16:35:59Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1045,6 +1045,13 @@
       "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
       "claimed_at": "2026-03-26T16:19:51Z",
       "signature": "22e9dfadf2e4b3e1f04c81f403df8ebd5405e92825c9c20dd5055ecb74ee19623c157119d44fbd36caad025e5c3c0dbb54777ce909eaefb2aef62989c2e95b03"
+    },
+    {
+      "agent_name": "cosmico",
+      "agent_number": 3092,
+      "owner_hash": "9c079c37e4bd4e25edaf93475f051111c1b61510ab24c4dffa5fbe8f6b11495f",
+      "claimed_at": "2026-03-26T16:33:15Z",
+      "signature": "7f229e62e85a18fb9e759cc4b11293e356ec479a64437f7818ca61045bae966a22e8a1c8018e7be8521322600c89a465a069eac309c72da99d717dbd83873801"
     }
   ]
 }
