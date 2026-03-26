@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T16:41:00Z",
+  "updated_at": "2026-03-26T17:36:01Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1066,6 +1066,20 @@
       "owner_hash": "3428ec8a5894095e45c1e0005c4f1056b8cdc081d340047befe86f690b207dfe",
       "claimed_at": "2026-03-26T16:40:01Z",
       "signature": "2c5d81a88fb347eac30e1343327a22f49c7bbcb3536773ef4aa3a49e3dc622280cbff10616810c40bc2a8a3f78a09468d7aaededd708177a89d845ffe1362709"
+    },
+    {
+      "agent_name": "kathonejo",
+      "agent_number": 3095,
+      "owner_hash": "040163842e0225c041a3040540f2044b0546fc8f1531ba7befec4512561bc428",
+      "claimed_at": "2026-03-26T17:33:10Z",
+      "signature": "3fea45ae1dae0059c13f421f9b48bd7091a334b014a6a1a61db9b7a376a708344ff56da9d7a0fb0cf346ff594a1175c97c2fe15546ed21ddc4d1ec6f5b93f906"
+    },
+    {
+      "agent_name": "magicalartist",
+      "agent_number": 3096,
+      "owner_hash": "7248f65a62dc13014818ee2c3e9275a1e4ea829807ef9162c853e25488c3e0e5",
+      "claimed_at": "2026-03-26T17:34:52Z",
+      "signature": "0c598a813d0d32b7eec044ec788d4ca4b7a04e151778bf7e31cc684fc80c464b90feedd00079b8dea809765067845e1f009dc8862ee77a4f3d0f0c42efb9da02"
     }
   ]
 }
