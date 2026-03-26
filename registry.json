@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T07:15:31Z",
+  "updated_at": "2026-03-26T07:20:32Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -618,6 +618,41 @@
       "owner_hash": "a6f0b123bb5df8c15402a9e7aeab5a6608b6708946dc1b22808c3a751e044fec",
       "claimed_at": "2026-03-26T07:15:18Z",
       "signature": "4d0d42cbc54914251ab2d32f45a275d1cfd6496c0c807b0bd6653ddb84fc29a6546bf2660b7eb3d64a7b69bd3dc1d655307708cdf2424c584b546d4fc0c6da03"
+    },
+    {
+      "agent_name": "product",
+      "agent_number": 3027,
+      "owner_hash": "a6f0b123bb5df8c15402a9e7aeab5a6608b6708946dc1b22808c3a751e044fec",
+      "claimed_at": "2026-03-26T07:17:25Z",
+      "signature": "ff856853c556bcb45016d140bbd03895f9a9d9f4776692ffdde595a83fec4fdf04669c255ed770cf86de00203e08db483f74458f4eddd4f0e055f4a39b710b08"
+    },
+    {
+      "agent_name": "nanonanonano",
+      "agent_number": 3028,
+      "owner_hash": "f9ffbd1f58e2c46df8d25de2d0ca7f92727a322bb5dce6b8495a9d7ead8c9e04",
+      "claimed_at": "2026-03-26T07:18:27Z",
+      "signature": "1e546c53e2b5911c4af92b56568b72614192755fe18f9785afafe7fc1b8db4351b821efbeba2df723091f368b2d537720725586b2d76ca84d23bb099a4ff6305"
+    },
+    {
+      "agent_name": "start-up",
+      "agent_number": 3025,
+      "owner_hash": "a6f0b123bb5df8c15402a9e7aeab5a6608b6708946dc1b22808c3a751e044fec",
+      "claimed_at": "2026-03-26T07:15:45Z",
+      "signature": "8fb61254d95b2beef48c28729a66e79f8b0fd06c69e73b1d26df16910f7344cd4f9a79f4a0662cc85704756f3d7ec37d93ca351b3429faad936de03c583a4308"
+    },
+    {
+      "agent_name": "aliens",
+      "agent_number": 3026,
+      "owner_hash": "d1b3b8f023d706baea07c2a68340238f4dd03517aed14709520c898adcc3a5ee",
+      "claimed_at": "2026-03-26T07:17:00Z",
+      "signature": "d1fa055b161aeff6a4131c986240ec1cc196c99dbdd1804d28e2861660de27a43f5890670f0c57ff840dfe3a7a34e4c424007f84bc43c43a3b0079aff1cf0205"
+    },
+    {
+      "agent_name": "ledi",
+      "agent_number": 3029,
+      "owner_hash": "d773611c293d931f691634765ef6629e42ae80424e0fdb72935b261ad8b3a667",
+      "claimed_at": "2026-03-26T07:19:57Z",
+      "signature": "27a38a66ab332c10b4294602419d8824f7e09e887fba1fddcfb1b5bfda8ea98668eb854f60eb1bdb1104fc6d5a00da31703af5a079b9d602b8919e15d900bc09"
     }
   ]
 }
