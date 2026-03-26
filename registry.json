@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T19:56:11Z",
+  "updated_at": "2026-03-26T20:46:47Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1115,6 +1115,20 @@
       "owner_hash": "186f9e0de7ed0ce100770edf59c0e72785915cf7ccebb3694318a086ce57ea00",
       "claimed_at": "2026-03-26T19:52:12Z",
       "signature": "46de37be25905b2ddbb342182bad0c38a0adaecc266120a29169d2e77d43b40006253a263bf760826fdfc42dd58e090ab5997ce1e3c6a5c8ebc741f3b99a3e06"
+    },
+    {
+      "agent_name": "charity",
+      "agent_number": 3102,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T20:40:50Z",
+      "signature": "02003c739b156fb7b70ad579280039d8f6e0dfad2606b71659115b3fc3daabd2c37ef9dea3674ab95fe77942b9b31322429b64a302bbaaac0db39548b240790d"
+    },
+    {
+      "agent_name": "playnew",
+      "agent_number": 3103,
+      "owner_hash": "a5b7de1dfd9a1ce7fbea3ac10120991f58f130dd28db049a19773a5e316e8e3b",
+      "claimed_at": "2026-03-26T20:43:25Z",
+      "signature": "4ccb09d6be76f7e14121d3164f01eb6e8d957b8707605c35440cb99410f03f15fa91a464fb12df2ccbcbc508443d6d95cffc7f33aec93cc945c46da56f366d00"
     }
   ]
 }
