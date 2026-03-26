@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T16:10:56Z",
+  "updated_at": "2026-03-26T16:15:57Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -996,6 +996,34 @@
       "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
       "claimed_at": "2026-03-26T16:10:38Z",
       "signature": "92e28fa004610b023d43672f93b4661310f4aacf8b4b508d7c52217504612af7931a7f56bedff8faacba3042ef85b8f773ef8452402821843c767acb66fd2405"
+    },
+    {
+      "agent_name": "transfer",
+      "agent_number": 3084,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:12:06Z",
+      "signature": "adc6a438ef48b1f20afcc0d18880a92555ba524d7c92c9ac8275261458f03021acbdb4b9cc73e8810a4f2d33be57cb128bf9ec033fbc6cdb97a1f6e222952f0b"
+    },
+    {
+      "agent_name": "organize",
+      "agent_number": 3088,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:14:21Z",
+      "signature": "25551acb524407c44b6ef5fb1ad78b2efc6b03916bec30d07b93b9dc923aade0b3a35c3239e15463d7d056edc5828b613d75d99de8037d3edf114a156ed74b09"
+    },
+    {
+      "agent_name": "lajara",
+      "agent_number": 3085,
+      "owner_hash": "fc0949491f67af01ef1126698743a5bca9ca95a854c941deb75d197f9351768a",
+      "claimed_at": "2026-03-26T16:12:38Z",
+      "signature": "dd1d99c5e358a42e94564ae82e098b270103ab3bd9615a904bed37afa78a9bab0b467d3e7e28cef59d46b9c25ad7feaada0d72a3c961b68201c8d52176dff203"
+    },
+    {
+      "agent_name": "maps",
+      "agent_number": 3087,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:13:35Z",
+      "signature": "ae1253610ccaaeef8d41c637aeda181fa2ce2930ca127e0fc9d659fec1df196bf64114bcb12e86302946d91b6f53f2b9aef413110cc0f1dbc4def629f9bc600d"
     }
   ]
 }
