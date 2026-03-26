@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T01:20:06Z",
+  "updated_at": "2026-03-26T01:25:07Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -261,6 +261,27 @@
       "owner_hash": "4686ed1159e3512af0d2526acee954983d60ebf7f97acceb7de3e3f88e489cdc",
       "claimed_at": "2026-03-26T01:18:40Z",
       "signature": "993ef7d9488ccd3c40a02e4cbff43031cdc2b183b0a911362046ce331f3c74b68418db8268c9b564b3f57b9c37fe126e22531c446b67ae1a1731b8e21c68fd03"
+    },
+    {
+      "agent_name": "shopee",
+      "agent_number": 2973,
+      "owner_hash": "bf83b19e359098ff7f8a27ce6d4520c31ae16f42a278ae66adedc4247f01ff63",
+      "claimed_at": "2026-03-26T01:24:07Z",
+      "signature": "f4e3b40d0f8eb2645fcdbe191cbd0eef5ae00c9fad7e893309fc273db387a97f406e95fdfae8532a3ad4efce32052042413ef144749418bf6ac7c72788a19c0b"
+    },
+    {
+      "agent_name": "dai",
+      "agent_number": 2974,
+      "owner_hash": "f3109765381c8ba636813bfb1aec4c7101ae1658736bbccbd8930151e977d1d2",
+      "claimed_at": "2026-03-26T01:24:22Z",
+      "signature": "35d908c2b2c448a9866f58abe68341a5ae7049a17f60e080bf4177406795e181a37a53b94c3895c378cef19e280dead54eed995a305b5f8b04517ef37b90540d"
+    },
+    {
+      "agent_name": "sighmon",
+      "agent_number": 2975,
+      "owner_hash": "52728c6e191b18f1f9d8c88a8c8bcba3f1268b4931a69957070198fbd4fd54a0",
+      "claimed_at": "2026-03-26T01:24:38Z",
+      "signature": "822b55b063a6a06b98d1684cd4119724cbec48855c7d288beebe3e31b704c3d08cc79ec64276343850ca12aac2a4972dae2c3ff9a0ce2704f76915daf7c67e06"
     }
   ]
 }
