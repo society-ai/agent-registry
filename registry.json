@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T16:35:59Z",
+  "updated_at": "2026-03-26T16:41:00Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1052,6 +1052,20 @@
       "owner_hash": "9c079c37e4bd4e25edaf93475f051111c1b61510ab24c4dffa5fbe8f6b11495f",
       "claimed_at": "2026-03-26T16:33:15Z",
       "signature": "7f229e62e85a18fb9e759cc4b11293e356ec479a64437f7818ca61045bae966a22e8a1c8018e7be8521322600c89a465a069eac309c72da99d717dbd83873801"
+    },
+    {
+      "agent_name": "hiveloom",
+      "agent_number": 3093,
+      "owner_hash": "93cab09a52d009881bbee0e49d9eaecc310df5b0a3b93eec30ce8488f849b982",
+      "claimed_at": "2026-03-26T16:36:51Z",
+      "signature": "8f1a758e2c63577e2ea425a1f62ee4bdc842a04989784c2f6f37a36b701dd03f9ad37fa6b6c0293834ed84e06afc0c91f9e8ea6bf95f7c0945a8e00c76641d06"
+    },
+    {
+      "agent_name": "bizaway",
+      "agent_number": 3094,
+      "owner_hash": "3428ec8a5894095e45c1e0005c4f1056b8cdc081d340047befe86f690b207dfe",
+      "claimed_at": "2026-03-26T16:40:01Z",
+      "signature": "2c5d81a88fb347eac30e1343327a22f49c7bbcb3536773ef4aa3a49e3dc622280cbff10616810c40bc2a8a3f78a09468d7aaededd708177a89d845ffe1362709"
     }
   ]
 }
