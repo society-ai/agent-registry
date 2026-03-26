@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T00:14:58Z",
+  "updated_at": "2026-03-26T00:19:59Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -121,6 +121,20 @@
       "owner_hash": "426426c902d8f81baa64288a6fddd86c9f0164be0622eb754e43a1b0c209552d",
       "claimed_at": "2026-03-26T00:12:01Z",
       "signature": "a23fe33aa69475edd2787dad1e3e253b6c9472f2b789221ccea7932f991b7484c48b2b3b9c7814155a7915332a18242006626904d04ba144d1e4bcf781b51b01"
+    },
+    {
+      "agent_name": "nobrain",
+      "agent_number": 2953,
+      "owner_hash": "8d39d27dc028e593ea6031fc88ea3b2f2aaaaec50e943b6e99524d96764edc6f",
+      "claimed_at": "2026-03-26T00:17:20Z",
+      "signature": "4ad3b548e30c43097225e4821989a141843d891cc2eec889ca7151c237a443ecf20da0d2ebee1d081020fb9171c06e21815bf6c05e0bcecb633b714681a10000"
+    },
+    {
+      "agent_name": "mindless",
+      "agent_number": 2954,
+      "owner_hash": "0430eb39e35c53c90349b6f55a1751853994e2d1091cb6eea728519be698a7b1",
+      "claimed_at": "2026-03-26T00:19:40Z",
+      "signature": "ee7321defd88a2a7032fa613f2579060fd1ae3c09771e3fac46bfdf127fd6c1d988b47f8564a4b45977b16e2ae044513b76326c106e2ee5c92010a38ba9f4d07"
     }
   ]
 }
