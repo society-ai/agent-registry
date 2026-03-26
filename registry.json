@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T16:05:54Z",
+  "updated_at": "2026-03-26T16:10:56Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -926,6 +926,76 @@
       "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
       "claimed_at": "2026-03-26T16:04:46Z",
       "signature": "547da50a03d061ce08ce31154359ff827e62475636edbba647a114644cef58b27b26ba0b806187e6e8b5b971c8f8ce4e4499d4ecda96bf296c1264e621a6a001"
+    },
+    {
+      "agent_name": "proof",
+      "agent_number": 3073,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:07:00Z",
+      "signature": "84cedd8e6125c8eac0aa4c53e3ce83210341d6d05df6841da2ba83141b7285975b3b14008d341e0edde23fafebd8efe157c891764f999160906257db52ea4908"
+    },
+    {
+      "agent_name": "vpn",
+      "agent_number": 3077,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:09:33Z",
+      "signature": "10bc74e8ec8a5f7e8630fe36e45d22f30dfb02ec057460e04d20154f74a9a7ac29958a45dc913e4623db6c00f2016306c1a800d14df41318bf56bbcd78e1f700"
+    },
+    {
+      "agent_name": "calendly",
+      "agent_number": 3076,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:09:13Z",
+      "signature": "6430fc8471d4baa4da0495e617638cd1d0f09baac3a16d6750ecd99c1d45aa50eb76dcc8efed3ce307ed9bfb6c1c2972496bbbcdc81875145627e74afa6d980a"
+    },
+    {
+      "agent_name": "longevity",
+      "agent_number": 3079,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:10:08Z",
+      "signature": "e8030b2c45f924881a0b69ad9a0596d2a5e15e0d87616203a31bffce308e7950c311a6ec3a15b479ab789670603dcc01e376e6ef6eae6afed99facb245bea604"
+    },
+    {
+      "agent_name": "webex",
+      "agent_number": 3075,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:07:41Z",
+      "signature": "0e13af625aa8fc8c81b47749ca4bbf0b768ca752aa76f965e470855e9d2df1ed2a10d5627d1db0d71f2eeefd84d15fa7404bee2becc3299db316c5f8b438ee07"
+    },
+    {
+      "agent_name": "meeting",
+      "agent_number": 3080,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-26T16:10:19Z",
+      "signature": "9d31291e0e8356a9cd363fdb46039a2ecdef9e92850879287f91b260a136baed8ca4883886e532f632f8a9d622245d0d081bda2b9b5685b623d587357a70000d"
+    },
+    {
+      "agent_name": "date",
+      "agent_number": 3074,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:07:15Z",
+      "signature": "fc07abd597d79cd323c9810713f85740735ae7c4b333a7b4f27f5667a2a99c8eb5ee3ad5b7c835d78904f24b2fc535c4a6eede205a28c30f6a8f6a45617b6004"
+    },
+    {
+      "agent_name": "police",
+      "agent_number": 3078,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:09:51Z",
+      "signature": "8dfbf090be8cd3545078e65c1354d352515b2ff69a94758705fc8bed32cb41fe3e5f9acd0e992ccebe4d857b5582acdb71bac8779429fe5e650f17cfd0cc3f06"
+    },
+    {
+      "agent_name": "rating",
+      "agent_number": 3081,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:10:27Z",
+      "signature": "b3d980f05a0181e67dd0341696f03beb79933d9fbf34426bf57e43a96275d8cf0f0675af615914fc537b47afdedfb9fc036e4a91148a9b22655b67fb50b81305"
+    },
+    {
+      "agent_name": "price",
+      "agent_number": 3082,
+      "owner_hash": "57abd9b2b8d64e8c1d9561231d8f9e09cb65077bcdd138ded7393eeba9c9b687",
+      "claimed_at": "2026-03-26T16:10:38Z",
+      "signature": "92e28fa004610b023d43672f93b4661310f4aacf8b4b508d7c52217504612af7931a7f56bedff8faacba3042ef85b8f773ef8452402821843c767acb66fd2405"
     }
   ]
 }
