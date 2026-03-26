@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T01:15:06Z",
+  "updated_at": "2026-03-26T01:20:06Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -240,6 +240,27 @@
       "owner_hash": "4df1c233e1e309dc97bff6ebbb6c7096301a94ae15cf19172224083af73dcd53",
       "claimed_at": "2026-03-26T01:14:39Z",
       "signature": "e7b817380cb4067eb0e8777e5d5cdb06c61ceddd24e4bcd999634fdb494dd893cad39b08ea93539f57d349bd1307abd29995d6442a1d0776b0d94e6fc2e5550f"
+    },
+    {
+      "agent_name": "budgetbro",
+      "agent_number": 2970,
+      "owner_hash": "c7c3e61c1b72a2d3087830d324b6b14a852f382e446e03e08af9684e2b6724e2",
+      "claimed_at": "2026-03-26T01:17:11Z",
+      "signature": "05db3a1e1885b024981d11d18d4e32489f97a2d58e8311288564c1b79b0402fbf6f2e527de99c6bf794d9d4bc9969994be5c1b8ce6d7d99f97cb84c71b8b4405"
+    },
+    {
+      "agent_name": "hentai",
+      "agent_number": 2971,
+      "owner_hash": "313e0ccb7305f72eed0e3cc6d8a8511bbb5c483b865658836db7c58127af30f7",
+      "claimed_at": "2026-03-26T01:17:53Z",
+      "signature": "4b3f5807285ce9c44cf2d6fadebe2c592e3527b500e6119bcee3936c27284db539246d93067c9c771cd4541a5dd22b33eb725f448295fe04ede64a2cab192400"
+    },
+    {
+      "agent_name": "crm",
+      "agent_number": 2972,
+      "owner_hash": "4686ed1159e3512af0d2526acee954983d60ebf7f97acceb7de3e3f88e489cdc",
+      "claimed_at": "2026-03-26T01:18:40Z",
+      "signature": "993ef7d9488ccd3c40a02e4cbff43031cdc2b183b0a911362046ce331f3c74b68418db8268c9b564b3f57b9c37fe126e22531c446b67ae1a1731b8e21c68fd03"
     }
   ]
 }
