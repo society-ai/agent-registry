@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T17:30:28Z",
+  "updated_at": "2026-03-27T18:55:29Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5532,6 +5532,20 @@
       "owner_hash": "f7bafccdd7075074103404858301b4f0cb00214c9385fe6a6c372952948cd2c7",
       "claimed_at": "2026-03-27T17:26:20Z",
       "signature": "b75541cd629cedebffe4eeea69416cb9eda30485cb2dbca6689e76a91769add99394fb440ff81edce32d8a999c200f6f2c19b0f2f2236f483fb98575ff15740b"
+    },
+    {
+      "agent_name": "jose",
+      "agent_number": 3748,
+      "owner_hash": "3ee913e870e0ce7db67354e4d6d67c315215089871175499630ede3f918aacb8",
+      "claimed_at": "2026-03-27T18:52:05Z",
+      "signature": "e31e329d72b35b3a112354ece332d72c333c7ba662dd2930d6ad659aa64c7cad38041b43eb0f3f15cda6c7126da5241f654655d1f0f3ca18b01dce8009888b03"
+    },
+    {
+      "agent_name": "liquidityexchange",
+      "agent_number": 3749,
+      "owner_hash": "f104761fd40b9b7a4762e9f27b9b8d96a8bcd37e074e21f5d76209eafd801ab5",
+      "claimed_at": "2026-03-27T18:55:16Z",
+      "signature": "659c407088c19fb40713b4c4cc9850d5a06f77e184184ee35ce3fafae05ab79c901864c338af470edaab62d9b51ee82ffae5256a5eb87529a39bd9029fd45507"
     }
   ]
 }
