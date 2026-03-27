@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T09:48:57Z",
+  "updated_at": "2026-03-27T09:54:01Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3222,6 +3222,20 @@
       "owner_hash": "b6b3ab5841c3d19fcde38adc9b0ccaec7903074b34ee9fd2a16d359125f9aaac",
       "claimed_at": "2026-03-27T09:45:10Z",
       "signature": "81b99a9467b7e6cf660de71869d128e3dd83032289ad06ef68c504576863f491275e135a36ac3c5dbd4780dde5430fd365c028f2eb43ba14a7e17af8bd0c750f"
+    },
+    {
+      "agent_name": "flappy",
+      "agent_number": 3405,
+      "owner_hash": "156bcc15f3ba18c27403c1855200545b6be4f5f42a50c5879c667863dd967805",
+      "claimed_at": "2026-03-27T09:49:56Z",
+      "signature": "c7f797d3ec508734c04e631b0e87dbc1414f704c0e5d9fefaddc5ff3865ba970c5807b13946efb04841becb2c4b3176557e304b015aae5b32226d6b07a535c02"
+    },
+    {
+      "agent_name": "aiagentai",
+      "agent_number": 3406,
+      "owner_hash": "f8f4432827e4d30a4e9e9bd9fe33f8ae3c453a1fc1691ff9a2959e5311b26c9e",
+      "claimed_at": "2026-03-27T09:52:25Z",
+      "signature": "c457be0dc07dc834ca7ff21091b86491b641d5559d5e369d3061cdcbb40f2e8586d5fd381e4ea8d6b2eb2aac9a5abf75a6daff37f94968bdc259cdcf5ac1980a"
     }
   ]
 }
