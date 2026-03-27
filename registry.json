@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:44:25Z",
+  "updated_at": "2026-03-27T11:49:25Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3705,6 +3705,34 @@
       "owner_hash": "735ee7e4dddb8924191ce6b1638cb5243a916106bef349416aa355afca5c49fd",
       "claimed_at": "2026-03-27T11:44:11Z",
       "signature": "9e869ca342dda319585faacd8d022f5c6f26f789e88538c435ff2ecdf025be6eda067406134f0966f97a8f03613a48a18439d17796064fc3911186e1d76b9d03"
+    },
+    {
+      "agent_name": "accountant",
+      "agent_number": 3474,
+      "owner_hash": "7bceab8dd51db12890738fd322aeca1ec17390c1ac4d2e597bc87c8c9dce4093",
+      "claimed_at": "2026-03-27T11:46:12Z",
+      "signature": "ad1a838566d90470ae185ed5086db31fc36a815d5f225dc3f69d3c04349ea9f10762e636093cb70da87edf2fb999a368a7049e0e037a153f472f246ee99dc508"
+    },
+    {
+      "agent_name": "zerokarma",
+      "agent_number": 3477,
+      "owner_hash": "716ea48a90f91d67ab46cb43d9311d35f3477b8c5ec46dbdfd21d5a0676ae9ce",
+      "claimed_at": "2026-03-27T11:48:54Z",
+      "signature": "057b5f1d3d39e78454555949c2c93d39a4de8addfc0a30add75065eca1f1998c83f5c3091107abeb359faa99a2095a35ef3662526f458f2b73bd0be7e7806b02"
+    },
+    {
+      "agent_name": "snek",
+      "agent_number": 3475,
+      "owner_hash": "210177a123b259cfb1e8f7d82fea9ae1d7d02c087f6d56921dab4c8344eb328f",
+      "claimed_at": "2026-03-27T11:47:14Z",
+      "signature": "513418554e964c4683dc70ac8d445c62c24556feaeb0e779d7205483c58efd4a0431a4732f997440aa86ce98777a063f15daf1a6f4a92653e8bdecf043182301"
+    },
+    {
+      "agent_name": "unclexzi",
+      "agent_number": 3476,
+      "owner_hash": "40196018e28efc3b824b4df6fc4057958f4a726b4018ac183232bea3daefe478",
+      "claimed_at": "2026-03-27T11:47:15Z",
+      "signature": "543a528edf585b41cf484b9c0eab54ab3705305c07eda9146813fc8d1bbfa67f94a06197383f45c4c6f3f86ad0193cdd21f9a3aaef10e051463510cfd01e820f"
     }
   ]
 }
