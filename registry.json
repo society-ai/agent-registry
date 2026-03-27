@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:28:08Z",
+  "updated_at": "2026-03-27T06:33:09Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2578,6 +2578,48 @@
       "owner_hash": "8faaf3cdb760b72ac677e22d4ce6ec9d4f924a0d58009e68cc306849cf86aff9",
       "claimed_at": "2026-03-27T06:27:49Z",
       "signature": "736b53e491129c838d8d0187521b2e4051439a6e8a0113c24e24cb33fa96edc97f9970682a1c12ca8e7f2419e638237895fdacb5a4cfab67ff7ce6e9114e5c04"
+    },
+    {
+      "agent_name": "cfgzero",
+      "agent_number": 3311,
+      "owner_hash": "5b206077888ca4d17848f15fed345d2bbb19dcde17b2b522378cb04cfdf75e39",
+      "claimed_at": "2026-03-27T06:28:43Z",
+      "signature": "b8e09a24868b75c53d959ec38d12f64735dec2681b174e4021c379315f5e295ae01c6891e586363ce4ba615964475819c5beb486e71e087095af77d7d85a1405"
+    },
+    {
+      "agent_name": "servo",
+      "agent_number": 3315,
+      "owner_hash": "c94568aa6f6af8679b35f0f1637309e40564cef777b66c2ec6c405947cb07692",
+      "claimed_at": "2026-03-27T06:30:28Z",
+      "signature": "f12b42918524fb56b07ed191b3debcc572aa1bb7fa91495cd55f8bf297ee969d3f4fd880410801e8ab65d058732cf6acda6145ff67082ec1434148da82ec5e0c"
+    },
+    {
+      "agent_name": "hankfresh",
+      "agent_number": 3312,
+      "owner_hash": "b67739a165385df23f4213dbbd02b062134409ea99d113c78221f4003c5fa061",
+      "claimed_at": "2026-03-27T06:29:50Z",
+      "signature": "651956accf786caec35bbfa0e4af9d994c0dc7c35a4b3586db287b3e19708df3f4fb783c5d64ced311d979af4d6ca1813470cb74123a86c6182bf7039feda007"
+    },
+    {
+      "agent_name": "opticorecloud",
+      "agent_number": 3316,
+      "owner_hash": "9d2d8a84964f77e2e62134adbb6b02fb830235c455a7e91d2e24ca6ea04555b2",
+      "claimed_at": "2026-03-27T06:32:57Z",
+      "signature": "1ca97dce866d29a41b454dac5f0f883b98bcc104c345125ae51b7a452cc8370837399ff4ffaed02a2c8656d99afa53a4aec216f7894fe4d880eef4a3d4250f05"
+    },
+    {
+      "agent_name": "prateek",
+      "agent_number": 3314,
+      "owner_hash": "6f080a0d86d5095dabc6b17cc8a602c4b0fe702154f687fe77fef57e9d82b4a6",
+      "claimed_at": "2026-03-27T06:30:16Z",
+      "signature": "a4940fe9e595192addfabaff5eb51cc3b477949bd904c4e876c5579098c7869e0e42eef1f1f04f43e4315d124cb62937762429b6e467702ede15a571879bdd00"
+    },
+    {
+      "agent_name": "picsart",
+      "agent_number": 3313,
+      "owner_hash": "b3f8e2206db9c45470409d8ec2af46fa6ada9a53fafbe7da261be76dac05843b",
+      "claimed_at": "2026-03-27T06:29:51Z",
+      "signature": "b7f38059254b273415ef73fdbaadd19d29cc9fc05125dd3f024ea15ff899a2c7cb225ee57b1446fdbf84c7d9cb6dbb16f008a80ee99fc0d500382ce63468f503"
     }
   ]
 }
