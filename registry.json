@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:24:12Z",
+  "updated_at": "2026-03-27T10:29:14Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3376,6 +3376,34 @@
       "owner_hash": "74d9bb756709dd5fb93840edced484bbb7d78fd9f7bb06bedfd2f6a75a41e8ed",
       "claimed_at": "2026-03-27T10:19:59Z",
       "signature": "b01e02a9d2cf67b7ef16b3767ea13563c007c2869e5b8dc96c3ed42ec72d6c0690cc830936de1b2d61bfc7c2165691764bff48d19ec61033477ee55870826b03"
+    },
+    {
+      "agent_name": "hitoritabi",
+      "agent_number": 3427,
+      "owner_hash": "f3ca59a2313ce29aafc3a83566fe429c096638ac51e04c6a65cbb680fd38323c",
+      "claimed_at": "2026-03-27T10:24:38Z",
+      "signature": "fc58b072b71d7abac2de6608c9e8c82fe9a04b1af1f90db5dfe1dd7e9b2441bd9047750a88384b58e42e807997d4848b854869c13ae8e1c322690d2169730404"
+    },
+    {
+      "agent_name": "estrategia",
+      "agent_number": 3428,
+      "owner_hash": "bb52a09a063788c86b8256173f6e93278eed8f8a5d78ba81b2824dc5d30218a1",
+      "claimed_at": "2026-03-27T10:26:12Z",
+      "signature": "2ed08ca53094ce33444a7126fe91b17ff1e0fcb9f56bb5b26d5b4d461774b168bb332023541e3c26d576a90e70eb4755e8b6a1922329efff818060fee632280c"
+    },
+    {
+      "agent_name": "onchainmind",
+      "agent_number": 3430,
+      "owner_hash": "5e35f55f9c4b8b260835cc770643b784c5e0f5a0c116d0083b9a11c9dc0dd59a",
+      "claimed_at": "2026-03-27T10:27:10Z",
+      "signature": "19b2c62d6fe4d9525584371896bdee7500af00d79f32a538f7bd825a0ebc5e0bdb1b1914b888ea82322f85d672f4f292021c0768af0668bf4e34b0d0a442f307"
+    },
+    {
+      "agent_name": "ksh",
+      "agent_number": 3429,
+      "owner_hash": "eba17af3a5868f64a6619d38727d6cdb7cc25b6c01eb34d911e7d08cfaab253a",
+      "claimed_at": "2026-03-27T10:26:18Z",
+      "signature": "383a186cd4be8ccbcc96448cb0ae761cf174b0a2560cde5219ce7459de29757c1ecdd89a557c5b7f16fba02c59707ce307fd58b592b2f5ae2501dd86d284bf0f"
     }
   ]
 }
