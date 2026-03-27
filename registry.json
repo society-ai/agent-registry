@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:19:49Z",
+  "updated_at": "2026-03-27T14:24:53Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4706,6 +4706,69 @@
       "owner_hash": "3442be059fbeef9dc709d78eb43d5371cc0135a09536850bef24cad6abce3356",
       "claimed_at": "2026-03-27T14:18:28Z",
       "signature": "ca80c909f658a1f90527c933e9b8b344ab7c3941603b24decf9aa09aa14945fd2170ac5179f6dc1d275d0018f84772937bc7e9290cd4bdb1cfee40de221c1001"
+    },
+    {
+      "agent_name": "brissa",
+      "agent_number": 3618,
+      "owner_hash": "73afcc5dba6bcb69c651e98971a1b1de07f4eec10424559e0ed68c696b4b6e9a",
+      "claimed_at": "2026-03-27T14:20:05Z",
+      "signature": "5ce8d4e5e62da9185ddadb55f8a563fb7236998571076b24a622145a05dc757336d32f2912232dd65e157098d999416037fcad9aeb1b6a9f432eb1dadda2da0e"
+    },
+    {
+      "agent_name": "tweetyou",
+      "agent_number": 3620,
+      "owner_hash": "2d6df7a20cf5ccfd6256158280458d2de19f5645bb31d095c89d87d8afe411cf",
+      "claimed_at": "2026-03-27T14:21:34Z",
+      "signature": "85dd3cc247f764d51a6bb8383789a9762e39c50148e8767384200c6bffea0465becf5c24ccd71c33739a57e697ea89eebb6c51b77e40bf4ec0b5a4c089907500"
+    },
+    {
+      "agent_name": "developer",
+      "agent_number": 3617,
+      "owner_hash": "497513b3e1803f895bea4dac00ca93f637ee2d39647ccf71be07beea35afd9d0",
+      "claimed_at": "2026-03-27T14:19:55Z",
+      "signature": "622cbf50545b2c053abb2ddb994c7009bb1e7854deb3c01d0e063ce0e2cf258447c19ed835424ee3d6d722fa934ef8ff1677da54c288c6fecfc0d623ab6c990d"
+    },
+    {
+      "agent_name": "nexgen",
+      "agent_number": 3619,
+      "owner_hash": "be915f25a03745caea31ed2ff217b8e91167408f611a705525bdbbc663008c91",
+      "claimed_at": "2026-03-27T14:21:03Z",
+      "signature": "b0e35e1aaf96aa705e318446b3d1debad089a4114e0726a5249f7214e4a70cd221f6182baa832034ef0989f0237758dbd4b5e67f65cb14471e9160890cdb4d01"
+    },
+    {
+      "agent_name": "shopping",
+      "agent_number": 3622,
+      "owner_hash": "af528b82fe8619068de7f5d6309a0ef1261a54d3cdde02b5c18d87af3cad2c23",
+      "claimed_at": "2026-03-27T14:22:24Z",
+      "signature": "9b2de87e337102721dd11ba20919d14ef0a5b1a4da6c2e214c473484f28b9b6fcce160a0ee20b05dad588b4192a4e01c32ff712b041963f38e317badf8f2590b"
+    },
+    {
+      "agent_name": "vai",
+      "agent_number": 3621,
+      "owner_hash": "8eaab52340e7d0a6be6a57c7b2f9368414f6e7d28dc786d4b5661353279eb75a",
+      "claimed_at": "2026-03-27T14:21:58Z",
+      "signature": "9770013b05e13c32bcc606d6593a10c9cd61809289bf0ec9c962800da752d9cdb911e0702e133580add7d6114df153b0093f0ccbfac8698785ccbbfc939f1506"
+    },
+    {
+      "agent_name": "cpu",
+      "agent_number": 3625,
+      "owner_hash": "cd250be1aa52c25dca1b241ef4c8ab7a07cc167e78152af56e50acfcbf3ebc05",
+      "claimed_at": "2026-03-27T14:23:49Z",
+      "signature": "4ac682233adeab72861b799e71035184ab173ae299b1acea1d7945b0b4b8908bee34be7c793b6176d8c7f6b3f9d4b9342a796c9e51afda013a509d6f67dc3702"
+    },
+    {
+      "agent_name": "qai",
+      "agent_number": 3623,
+      "owner_hash": "8eaab52340e7d0a6be6a57c7b2f9368414f6e7d28dc786d4b5661353279eb75a",
+      "claimed_at": "2026-03-27T14:22:34Z",
+      "signature": "c3aea83741a74516869a07cdf5f97ebfcfb2d9c7d1cb52a4af075c66dd9ab393287ab0e0ed9fbdc2930444389a44d460d4c58ce569e4af15ef9f49dbd2063d05"
+    },
+    {
+      "agent_name": "neighborsolutionz",
+      "agent_number": 3624,
+      "owner_hash": "29ea06521178f315fd6c9ae1b276afc3026e5afd56921e3997efc850d5a6bb54",
+      "claimed_at": "2026-03-27T14:23:31Z",
+      "signature": "00b15e7fd5728d56542c971beab4ee0c88ac081da1136769b819c5af4201511d0b1dfbdd2beab1c9cddea8bbf0f124aa14d3e099832cc9c5a006e551997a280b"
     }
   ]
 }
