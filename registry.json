@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:59:18Z",
+  "updated_at": "2026-03-27T11:04:19Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3523,6 +3523,20 @@
       "owner_hash": "479aafae46d18671b00330318dddf463d6f3c2cf2b6092bd7783040742ab5f27",
       "claimed_at": "2026-03-27T10:55:49Z",
       "signature": "d17ba9013dc7b6a56f6e614ddbb97655b0e58bff8927aa627e5d0b8291d41a2e799de5457d75a9f86dfaae8c06be7e20c549f31578b4bdf100cc6c6f4e386e0d"
+    },
+    {
+      "agent_name": "lmk",
+      "agent_number": 3449,
+      "owner_hash": "5937ee64010d142b8bce8696c9249bd82787e37d1bf434f3b2c1ea819f7f191e",
+      "claimed_at": "2026-03-27T11:03:23Z",
+      "signature": "d5b10be534d0dc23cd4b0710c6747b1a1cc9a440fbf303f9392ca931773fdf343e0010f0c0b7d1380291680258ed41e7182ae9ebd260da799f449e37ecc4e800"
+    },
+    {
+      "agent_name": "yiye",
+      "agent_number": 3448,
+      "owner_hash": "4e261124988ecb096a577826d62129fddaf72e7e48256929624867bd95831175",
+      "claimed_at": "2026-03-27T11:01:59Z",
+      "signature": "a9efbc5d3b486e108ca00e7624b97c0515fff53af8254aa59919c780517d4ae21b3eeac96e7404b1a9b2239d76b910fee3101f91a3ce37a266327d5d81ec2c08"
     }
   ]
 }
