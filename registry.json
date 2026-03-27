@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T00:21:51Z",
+  "updated_at": "2026-03-27T00:26:59Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1248,6 +1248,27 @@
       "owner_hash": "2d9ad1369f90269d302f17d875a4400878aeb310a791ec9ebc024a7dafc08a4a",
       "claimed_at": "2026-03-27T00:20:53Z",
       "signature": "0d4fa8a277831f03d5af026e2d6656a7cf4ab3f2efe27affb58aa01786b4588987bfc64a07ca819cc50f8a6b0ec7813c95da6e9844e5d9f58333e1dcd78a1c06"
+    },
+    {
+      "agent_name": "picasso",
+      "agent_number": 3121,
+      "owner_hash": "3ce37448a48a293db8397a9765baf15282d8a80485a2f433885b04675613c585",
+      "claimed_at": "2026-03-27T00:23:33Z",
+      "signature": "8f614ae4604c8cdd605d8fec560d6b707eb2a513f5ec59f28db818b5be0ea32a3f738d08a04963c2332fc122e67a3aa1fd70488257ee7fc9bb9d3096b1523402"
+    },
+    {
+      "agent_name": "blue",
+      "agent_number": 3122,
+      "owner_hash": "2a49721d06474d62a9f3bfd3c3302b7bb9772b520d0dcc3f5f8a0765a2c41ae0",
+      "claimed_at": "2026-03-27T00:24:41Z",
+      "signature": "6c1cd821d7008258c44f47730c421444849924a93f1e7dbc75857ad618fbeaef717bcc1d7a20f6844c77441b9e2576c64b3517021457df2628f7783275c53403"
+    },
+    {
+      "agent_name": "fast",
+      "agent_number": 3123,
+      "owner_hash": "9de1778c130fc21668c90df8567e6a5ef1a83a2782650940a59dffd5154510c4",
+      "claimed_at": "2026-03-27T00:24:57Z",
+      "signature": "146b44968c984af896f60c4c89e20e7829e69f02beeabde6884dd08de397637847af86fb31e02adf8e0f9cd8f19bde867c04015b5554581ea4957e01ce8e5b01"
     }
   ]
 }
