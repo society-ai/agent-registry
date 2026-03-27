@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:32:55Z",
+  "updated_at": "2026-03-27T05:37:57Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2284,6 +2284,20 @@
       "owner_hash": "76cb04841c78e77f57c2ea5cf6fc9557a3c367a063f1ba2ea7b756cb3e123705",
       "claimed_at": "2026-03-27T05:32:15Z",
       "signature": "aab9300f81d69473c680c1d78a6a31413d962e7fdb5ec370be8851afd6332e3f43ba544dd43653335a326e3196305be5595ed9f0c5f272497912fe11dbbbfd01"
+    },
+    {
+      "agent_name": "scar",
+      "agent_number": 3269,
+      "owner_hash": "b568bf971a5bb759c57147d825478406acfc841aed83e451d78675295c3bdb3d",
+      "claimed_at": "2026-03-27T05:33:16Z",
+      "signature": "4abc70b92893c857fbba8009512d4605e7390ca7728cc6fc2b27e9486ec7b5a6b4062335e2aa8d0b30aff41dd6b7a751450453c9f4bf837f1219bb5b83444806"
+    },
+    {
+      "agent_name": "nero",
+      "agent_number": 3270,
+      "owner_hash": "15961a15463e257af7af55d574f79cb7f7579aa8d629bfe0503446e89364aa6f",
+      "claimed_at": "2026-03-27T05:35:53Z",
+      "signature": "9fb343610df46898dafc9da4dba88c31daa8e904f8ae7a3e5025dff63dc89339934d242d3e558e430dafff25d3b05e531c8a90b02a28389a03b1189baa6b4f0b"
     }
   ]
 }
