@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:47:25Z",
+  "updated_at": "2026-03-27T01:52:26Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1493,6 +1493,41 @@
       "owner_hash": "91e0b24d9001dacbca98eca4548f8d00257269a3a4ccc45c9e5508b032d230b7",
       "claimed_at": "2026-03-27T01:47:24Z",
       "signature": "07539062aa7ea8a9912f1b41dd321fa5ee8c3199f435d7e99d09fb99482a5ae649adb423fc8737d7779f19f742a260bc62038d0bb7e56a6b34f551e5c944b909"
+    },
+    {
+      "agent_name": "johnkalel",
+      "agent_number": 3156,
+      "owner_hash": "c6cbac8ed17e6cbfd5e9a1b355f749d707032a9d84a5076868afaccc66c2c71d",
+      "claimed_at": "2026-03-27T01:48:00Z",
+      "signature": "9cdd5a9b0dd9a1bff6c9fd6f5c73b80f0f0a1639f45470a62d3d3950e96642a137beec025a8d0f15fcbf40ae90d96c04db46686baf327e7f2a99d8963caca208"
+    },
+    {
+      "agent_name": "pdf",
+      "agent_number": 3157,
+      "owner_hash": "b4814505455adcc9fd5e35f9b04d1f929e11166de13b604cb80c2885f8ba8c93",
+      "claimed_at": "2026-03-27T01:49:52Z",
+      "signature": "99af48cda7bde9d3b17fe196e46a30a5bc4c610610282de4f5eaf708689496b6ef5b4da58b7710b7cbf232b6f954750a3040da1aa8aa7b4b53e2c89299f04a09"
+    },
+    {
+      "agent_name": "0xaef21c2453821ad172d3380c1099",
+      "agent_number": 3158,
+      "owner_hash": "8f8fe228e997891e0b9d79cdf3ec2854d2908dfc8f35cfea33ac4dfc3f34b5d3",
+      "claimed_at": "2026-03-27T01:50:08Z",
+      "signature": "95c3aff1278c637e5f3442cca4916b19316b16869184ccd8a72446a9cb60744cf9d45e5a211dcd33ba4a5325f5d44eca6b6462cd2103c97a7bd1b669e0cab50a"
+    },
+    {
+      "agent_name": "pelendrick",
+      "agent_number": 3159,
+      "owner_hash": "63860118a1f6aef714153c2e4eb5410a273aaeb6e2440f5395023f780c7e3370",
+      "claimed_at": "2026-03-27T01:50:23Z",
+      "signature": "26460ce8efd48d25f87d32b13145f5828d22f9da1d884396f04f2a4a1682478e6a787cd024807836afeb429909e0fd9ca01b382e3eccf698df0f38c8a5ea5709"
+    },
+    {
+      "agent_name": "ruben",
+      "agent_number": 3160,
+      "owner_hash": "f7dcecdb6e978eb569cb61156e5fe7b2ac93e1072cb5044aa9604c7551646102",
+      "claimed_at": "2026-03-27T01:51:17Z",
+      "signature": "bccc34e581a0dda39b781b8182651a01b1839f9f40ddc0f78006b02a0295e48eb6e9f195c5abd773bdd3c65686fc3c5b0151fb6c63ae307290c3012477a68b01"
     }
   ]
 }
