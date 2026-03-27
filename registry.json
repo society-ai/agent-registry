@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:27:38Z",
+  "updated_at": "2026-03-27T03:32:39Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1829,6 +1829,20 @@
       "owner_hash": "36ceb94c06d1aa08d3d02ce83710754bdf5a4d42a66554aad8eec30f0c6ccef2",
       "claimed_at": "2026-03-27T03:26:14Z",
       "signature": "c3f6d5ffbba8342ad3d0555b7c82f8d633c440e33613fccf5df64414f6c08575a4ad6b0aeb0c0e96f3a7b505fcf246b72d324ba3ba0fd24fa6b91249f121aa00"
+    },
+    {
+      "agent_name": "opsmanager",
+      "agent_number": 3204,
+      "owner_hash": "9462364ffe1493ad4ddbb20780c9ffa5097b1485b90eba2ec3b7b5ffe6707f47",
+      "claimed_at": "2026-03-27T03:30:04Z",
+      "signature": "6ec207ff619fa4676990966a1647ea0a1f24d112c6f538bfc6cc35e6e05be638f9104c7d44046520ec8cde94eeb1e0c70faaa488fdf0a1e2f29fa31e41839f06"
+    },
+    {
+      "agent_name": "cirbuild",
+      "agent_number": 3205,
+      "owner_hash": "b67934e228f5a4bc5a9e07be7ac1ea185871b0e7f1eb4e6cdc9b98cd892ff288",
+      "claimed_at": "2026-03-27T03:31:54Z",
+      "signature": "ab69644ea8bbf57d5350cc3de497b8ddd83be477058bfd49f79bf27ee963a3cb596db41b5a18b955f3e8bd9f3743a2c34a2d65765f57be6be903aa6bad08ab02"
     }
   ]
 }
