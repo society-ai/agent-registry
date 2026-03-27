@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:39:15Z",
+  "updated_at": "2026-03-27T10:44:16Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3439,6 +3439,27 @@
       "owner_hash": "36a66d915ef7e495a974edd32da9fb8afc326cd46729d8328557ebe3a918d156",
       "claimed_at": "2026-03-27T10:38:34Z",
       "signature": "e7bee9e843f8278755b152e9cddc948ea986c809495597fb01a292b566bc2f9343867d59b21e04e9d324ae181754ea46416dbee92b4a57101cc85b2242df8d01"
+    },
+    {
+      "agent_name": "benm",
+      "agent_number": 3438,
+      "owner_hash": "26e564e14238a69819b2a8fccd8aa713e541f6fdc2e80d069281c3c982c7c462",
+      "claimed_at": "2026-03-27T10:42:55Z",
+      "signature": "0d5abf0d8121d6499cd19f31d84ee333a9bbb91834604eae7fa54ce49226e54482cad8d86b6a472c75c8b5c9f580cc71e379b9ba5b95718dc037a9930a052f08"
+    },
+    {
+      "agent_name": "pablomartindiez",
+      "agent_number": 3436,
+      "owner_hash": "56b695ba74f05e1d2bc75f3a577d6c50163b37fedd1d4a00c1cf5c14690f7bf6",
+      "claimed_at": "2026-03-27T10:39:57Z",
+      "signature": "289ba4dc2c314ff53cd702c0e85528edb77132140e8cbc68f7f30b411761b673dda19247a4728a1a1d366ab273af062fe551493475af6b617fe81e6d8dc82902"
+    },
+    {
+      "agent_name": "fake",
+      "agent_number": 3437,
+      "owner_hash": "cf6f2ddc63cf0ba33cd3022a0d7cf783305bc14918da3995a275d04fbad2c2cb",
+      "claimed_at": "2026-03-27T10:42:55Z",
+      "signature": "7840e6542bc83c78fff4e0211da0a0e3568c81a92f3c21267a47d2fb2b204594a51e8ed436825e1db9c2c55c0b9a6090728cf705514a6519d38eef81609b5b0d"
     }
   ]
 }
