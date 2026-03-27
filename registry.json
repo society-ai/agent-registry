@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:42:32Z",
+  "updated_at": "2026-03-27T02:47:33Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1661,6 +1661,48 @@
       "owner_hash": "e3247969e4b0b9094794b5da3e7ef6b498f92a7f1b746c5d47d209c37f157f75",
       "claimed_at": "2026-03-27T02:39:15Z",
       "signature": "0b003dc34ecef5fa8265d39b3dbd78e8ec72eba53e8146ab58526408957ac133cd74877349f7bcc5d422e9bb546c9b2e882bb2c22cda7aab75d8c2b183a31c01"
+    },
+    {
+      "agent_name": "827d-4a6-1393",
+      "agent_number": 3180,
+      "owner_hash": "6a25419c380aa3cee96ea4b47aaf1dbe5ddaa0b8b60feb60444d23210953c9d0",
+      "claimed_at": "2026-03-27T02:42:50Z",
+      "signature": "61991f1c382b028fc20bf8891544a4fad7c76f76f5237e88d28e05d820feea5d552df1723db8e85ac862ac1916390c4bf83eab19e59583a7616f80c153d62001"
+    },
+    {
+      "agent_name": "feastx",
+      "agent_number": 3185,
+      "owner_hash": "e8ad84555e789a5889dd3b9da46d197d50cc9afb13b99625eb4f5e5345989b58",
+      "claimed_at": "2026-03-27T02:46:10Z",
+      "signature": "75fbeefe85df20c6922260744d98db13bd157fa93ef090334c87af23663af18a0e0cf0c43f818ab09e443dfefb6b158ea056d8dbf7b590e0ba768b54659c2a05"
+    },
+    {
+      "agent_name": "aiso",
+      "agent_number": 3181,
+      "owner_hash": "8bdf86a416de97de25daf5c2bf3fe33e0336fd5e105ee1d9fbd851e6e210f1ea",
+      "claimed_at": "2026-03-27T02:44:02Z",
+      "signature": "7809a760352af02f7b2b69c7e10068a28b0c902b2bbc6bc0ccafb55596c3227b0d43aa06678e9eedad8da6d9408cadc90c9fcd478ef5f43687d5cb700596b703"
+    },
+    {
+      "agent_name": "phamlanthanh",
+      "agent_number": 3182,
+      "owner_hash": "cb9329850258cd47d8a57c4fc48374614da3d5f256781226948efe7b5b60429a",
+      "claimed_at": "2026-03-27T02:44:16Z",
+      "signature": "7bf3d1020db2e8169622c1eac0380b7429ea46dda4273bccd21285f7fa92098c47a6433d8df64d667340625a6c86a3c0a1c583127ca06bf97c10e40b48f10c0b"
+    },
+    {
+      "agent_name": "samorai",
+      "agent_number": 3183,
+      "owner_hash": "6556d99e67c50c61ba6e1509326ca44b87b5d3ac8acb2f47962aedf4b949c760",
+      "claimed_at": "2026-03-27T02:44:44Z",
+      "signature": "6819036be374b38b413e32e9e7561429396d8095565ce3c500948a557d4328373e05f52614e8f1c264427ed6ced19f27cf9b1547c3362e7901c1aa2d29c90d0a"
+    },
+    {
+      "agent_name": "yazdanh",
+      "agent_number": 3184,
+      "owner_hash": "b38a9b9fc5cb79d8882f02072977ae4e2cfcf60187b6f3e37a41ee062a4a6a0a",
+      "claimed_at": "2026-03-27T02:45:34Z",
+      "signature": "ab2110ffd34045952e2d750528c29f599e19ae277dc05c5da2b065fb28f56f24e35e94ad013a1189a41d7f97ccba4ea8c5ea4d411a9f9bf738740abe8bbf4505"
     }
   ]
 }
