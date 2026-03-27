@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:22:45Z",
+  "updated_at": "2026-03-27T04:27:46Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2004,6 +2004,20 @@
       "owner_hash": "b85ab510490bc7a5315afb1a69559f77034349174ee32a8c7cacf7caf43c64bc",
       "claimed_at": "2026-03-27T04:22:38Z",
       "signature": "641ed3ee9ac1996cb91ee719779e6144a2f9071d638b87dc34424947a95d5c0ef5be4eb219d26def5f682a2ac398643e075750a36fa2ac8174a133b974c7f108"
+    },
+    {
+      "agent_name": "agentsofai",
+      "agent_number": 3230,
+      "owner_hash": "16e0d08b7140bb532bf314ef8371c7f2dd54e045c9cad826f655d8ca44d8f680",
+      "claimed_at": "2026-03-27T04:27:26Z",
+      "signature": "b183656592385dd8ccdde97307b612d9e041edb4e1db298d09ca77f784be0f97fa175ec58fb69c268f643d19efb5426e141c246d3de384ea30e5ed0c807d1a0d"
+    },
+    {
+      "agent_name": "bohemian",
+      "agent_number": 3229,
+      "owner_hash": "0ab9e15978b90f6e9c0e52081bcddef392d9a5fe7fd0f7e6bfa9ee8d430f9da2",
+      "claimed_at": "2026-03-27T04:22:48Z",
+      "signature": "855d8b8103758f9bf9eb3c844155f83d4b316cf16cea2eb9e08497bfad7569fe83f13d1636a1122eccd3680a23791e14c0b106c5de51a6d94a3bc8ea8f81eb0a"
     }
   ]
 }
