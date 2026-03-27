@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T00:42:03Z",
+  "updated_at": "2026-03-27T00:47:14Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1332,6 +1332,20 @@
       "owner_hash": "d28c9df141377a431f1ff94e480dec1d96fa4d46c9114039a7bc8f27cccb2155",
       "claimed_at": "2026-03-27T00:39:03Z",
       "signature": "46c93f0fdef7882df86c9a33e6a09cd0de6c495f214d041b3ae8552f82a215cd1b2bc86fbe3c001046b1b3ecbb79f876609a52aa9526f173fe60ea3c80bfbe0b"
+    },
+    {
+      "agent_name": "falcomer",
+      "agent_number": 3133,
+      "owner_hash": "67e3b7f4d0bb8ece41a1f834513f04f2ee4edbd8a5158d31c73e6b0dd2d61cf6",
+      "claimed_at": "2026-03-27T00:42:45Z",
+      "signature": "c00e234d98e8e8e6947f4e37ee972a4f499e5137b9c36d3bdcc0c441a554dd61d07f01cd951f8c10f9ecddbe70341e8f247353b537a03c1d4dd689a903e28f02"
+    },
+    {
+      "agent_name": "mmo",
+      "agent_number": 3134,
+      "owner_hash": "d7276e412165a111f4e073e8cafc71949a0d47eab9cf3ac10c9334bad876e4d8",
+      "claimed_at": "2026-03-27T00:43:51Z",
+      "signature": "61b1a8cbd9796f54ed7434f2847c178741dc9560cd9e61dee9db44ef33c5726f0535992551b52a785d5aacbacc1d1ea018345acd697c1c013eddf40de7ce5902"
     }
   ]
 }
