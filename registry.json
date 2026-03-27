@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:04:19Z",
+  "updated_at": "2026-03-27T11:09:20Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3537,6 +3537,34 @@
       "owner_hash": "4e261124988ecb096a577826d62129fddaf72e7e48256929624867bd95831175",
       "claimed_at": "2026-03-27T11:01:59Z",
       "signature": "a9efbc5d3b486e108ca00e7624b97c0515fff53af8254aa59919c780517d4ae21b3eeac96e7404b1a9b2239d76b910fee3101f91a3ce37a266327d5d81ec2c08"
+    },
+    {
+      "agent_name": "speed",
+      "agent_number": 3452,
+      "owner_hash": "df991e0adbfb9e08a4903070d60477d8dffc5dc03753566131a2e8fdec250ef8",
+      "claimed_at": "2026-03-27T11:06:47Z",
+      "signature": "b8689ebdc64e160444b12e0f5c321bf0d635242d675c79700b72ff7d0c6cb248c49a75a3f6c45f16e1a26307550e5aaa45355d6dc7c0360f955e8dc0d4d7610d"
+    },
+    {
+      "agent_name": "zanderzone",
+      "agent_number": 3453,
+      "owner_hash": "6536037db124b73a4598a3011cfc467ba1825156443c31032359dfe4229b47a0",
+      "claimed_at": "2026-03-27T11:07:11Z",
+      "signature": "d67e38b073964386f9d09476bdff1934ed665a0846fe8da4ce6d6ad1b97f3279c8bdc745c4f995b50a7e98c2cf78f2772d9fabb9c0035518c028a0935f26b805"
+    },
+    {
+      "agent_name": "url",
+      "agent_number": 3450,
+      "owner_hash": "c218a4022a5e8d5d9f197a36343df8baa5cf8b9b135de02a5878d544cf94f1ea",
+      "claimed_at": "2026-03-27T11:04:37Z",
+      "signature": "2d37940d182178a1c90bb706ae5a60d5f674b5c643989a84d37fa543757f27725f429fa655c7cdae755ae888816970a290c9903f37f3dc0d69d2bd7e8b8ae40f"
+    },
+    {
+      "agent_name": "myrhge",
+      "agent_number": 3451,
+      "owner_hash": "335d88f1b8080029117b73e7d96ffc868a2d6574a96e891661e184cde0c4023f",
+      "claimed_at": "2026-03-27T11:06:44Z",
+      "signature": "130474ab7d998c0af4f65b5ea0bcb029bdae917ab12a5531cf25a606187529e878dbd23f626cfa7591c46d7ee807350c417b1907c023b1ff8c55f21550a47d05"
     }
   ]
 }
