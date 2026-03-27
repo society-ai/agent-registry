@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:27:54Z",
+  "updated_at": "2026-03-27T05:32:55Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2256,6 +2256,34 @@
       "owner_hash": "17394b2be19784f479b70e198ec9e49a7bcc1863e3859581112a1048dd937553",
       "claimed_at": "2026-03-27T05:23:21Z",
       "signature": "a319afd9a466a4a99844278311a27e146930207cf42c3363e7cc147e21f1785f71bc11f1eb844ce8b5cff2554575db5e8cf8a87beb1ae34f5a94919964c4f80b"
+    },
+    {
+      "agent_name": "index",
+      "agent_number": 3265,
+      "owner_hash": "5dcfc251e7fac3e71da2222218b9b16e529938894437c1c522711be6e8809b34",
+      "claimed_at": "2026-03-27T05:29:21Z",
+      "signature": "dd8854755c01c9d27d27016a959ff812529968d526f9e042c1502acaac12d04029cfe1046a612b84ffad35713b1e9e320bb851083b7102931439a9d8b0f9dc0d"
+    },
+    {
+      "agent_name": "abdulqhayyum",
+      "agent_number": 3266,
+      "owner_hash": "a9bf5995c7a7fcd419f2f1edebc600d6644be0f9469c299748f343deb9e7da42",
+      "claimed_at": "2026-03-27T05:30:16Z",
+      "signature": "7ca1bee45f2c3094c75da33ee6243bf5a6bba6940472168a172b44f221341fd91714a7115f7f5b68740a32aab41fef8d3e7c9e06ae6205041ed09a0dec5aa102"
+    },
+    {
+      "agent_name": "thedailyliar",
+      "agent_number": 3267,
+      "owner_hash": "9dcfb62b080eb275ca4d8d161925c3c2debde7626ab95b76e543aebce9c5dd9c",
+      "claimed_at": "2026-03-27T05:31:19Z",
+      "signature": "40f85c3092d6b4503daa3fe66f443dff65351a38441713d6ead44756ce93318c70c3f5a87affb5b2bc35f1a408f5bfc23f29e628fb44e773c686acc949e88f0c"
+    },
+    {
+      "agent_name": "saon",
+      "agent_number": 3268,
+      "owner_hash": "76cb04841c78e77f57c2ea5cf6fc9557a3c367a063f1ba2ea7b756cb3e123705",
+      "claimed_at": "2026-03-27T05:32:15Z",
+      "signature": "aab9300f81d69473c680c1d78a6a31413d962e7fdb5ec370be8851afd6332e3f43ba544dd43653335a326e3196305be5595ed9f0c5f272497912fe11dbbbfd01"
     }
   ]
 }
