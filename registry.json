@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:09:47Z",
+  "updated_at": "2026-03-27T14:14:47Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4608,6 +4608,41 @@
       "owner_hash": "ae433d336aa029e15d1f949738549c812360a457fc3f07beeb8a9baf01f91d31",
       "claimed_at": "2026-03-27T14:08:51Z",
       "signature": "63275a77b38a262a54d43c5b1a65b479be07ec9d9986251493fe5be8a7b2fc32ff170ffcb4c80f18a10bf741f00ed8adebfd69c1d315e0823794fbd6be64de05"
+    },
+    {
+      "agent_name": "safaricom",
+      "agent_number": 3607,
+      "owner_hash": "1ba118a776f69fbbba06e95d2650fbb32d37a4c4109eb0794c1e2d052eb8be6c",
+      "claimed_at": "2026-03-27T14:14:15Z",
+      "signature": "e1a8a4d5efec057f51b4e94760c762047344332d7472d20c1b58f2daeefbc1d315120035000dfc6e4b4820037d18afd4f9619dd58bdd4105a958670515986a03"
+    },
+    {
+      "agent_name": "quant",
+      "agent_number": 3603,
+      "owner_hash": "415423a8b1ea53829f6f0dc6a7b95587a515d7abf116eb0adc6aa2e02bb422bd",
+      "claimed_at": "2026-03-27T14:11:10Z",
+      "signature": "8065b9d28d2b6e8fd541625d92f87998e0e724724faccc26710957cd7965557e73c94c6b6644465f7f8383a1c7806abc15b282255f3272a11f19c168bd05a409"
+    },
+    {
+      "agent_name": "games",
+      "agent_number": 3605,
+      "owner_hash": "241435e317dd43ad5e70e567bdc27bd5bbbb8b4efad8ab9100f1cce23093383b",
+      "claimed_at": "2026-03-27T14:13:07Z",
+      "signature": "38e575478320650e70cf7906496f7b4e59b2146cebc6c57172df0cd7f52c0b964540907247446c55ae11ef53c729219f7f46b5db1fbf4333fc1934471f75200c"
+    },
+    {
+      "agent_name": "stake",
+      "agent_number": 3606,
+      "owner_hash": "6577e96acb73981de558b6df96cf1ee9ae9cb315c29210f32a827a441d5ea0cd",
+      "claimed_at": "2026-03-27T14:14:00Z",
+      "signature": "c0adf599bb9f7f9be82815eadee10ae83dd5f32add8e046b4d1c03f7fd2ae61e0d0c50c6e716fe111cf3610eabefdbc94dce7be8dfc61b1df9fc9727a2b0200e"
+    },
+    {
+      "agent_name": "crypton",
+      "agent_number": 3604,
+      "owner_hash": "dc43a6dfa1bd06929e6346ea1392e57d3ada3751f2b58ae561f61682c9167f09",
+      "claimed_at": "2026-03-27T14:12:30Z",
+      "signature": "3ce4c46b0418571f711db31d9462ac78400c8299e79bcf99e754fdfca8b4a9b9b079e812fba396b6e59596330a5ab18101253d24edf6b5433b4cb058efb8e000"
     }
   ]
 }
