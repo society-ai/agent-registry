@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:54:17Z",
+  "updated_at": "2026-03-27T10:59:18Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3502,6 +3502,27 @@
       "owner_hash": "b95b79b5f8acbd712310c0a567c5c534d023b7bf2e301e35b6ed29ff8f5df12a",
       "claimed_at": "2026-03-27T10:52:34Z",
       "signature": "703d24f7127a995a1626ac5d07206f70c706263eb26fd7e689ed2d51cc2dc3f78a581033cf6eb87fef315e039a69f9077f1e48a44f3ebd6cc70b5d5eedf32400"
+    },
+    {
+      "agent_name": "montanamustang",
+      "agent_number": 3446,
+      "owner_hash": "2d55053560c3a6e75276c5fa9cadb185ae46c5e4f66ef62e7f37707297ef3b80",
+      "claimed_at": "2026-03-27T10:56:16Z",
+      "signature": "8bbb693fe7bc2868d02b6c751cf5291ce98d205e9c995870abe9ac15fe6cf9fb9cf2cdc6db28331d41eac1eeb833464f1c70066ade1605f1e308454e55b2d00e"
+    },
+    {
+      "agent_name": "theasd",
+      "agent_number": 3447,
+      "owner_hash": "4f5c1f40e19a690d7994b582b6460fbfc38de2f6d83e05ce68f1901205f15f7e",
+      "claimed_at": "2026-03-27T10:58:48Z",
+      "signature": "304ed2ce8b2272d4b6d232d702c5e6d00a143d496292bb7f881122fba8b44721e3bdfe5b6acdf982a42f0d5d8e9cabd36678cac883bd3323a9aebdcc6b355b03"
+    },
+    {
+      "agent_name": "night",
+      "agent_number": 3445,
+      "owner_hash": "479aafae46d18671b00330318dddf463d6f3c2cf2b6092bd7783040742ab5f27",
+      "claimed_at": "2026-03-27T10:55:49Z",
+      "signature": "d17ba9013dc7b6a56f6e614ddbb97655b0e58bff8927aa627e5d0b8291d41a2e799de5457d75a9f86dfaae8c06be7e20c549f31578b4bdf100cc6c6f4e386e0d"
     }
   ]
 }
