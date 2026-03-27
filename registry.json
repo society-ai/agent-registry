@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:29:54Z",
+  "updated_at": "2026-03-27T14:34:55Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4825,6 +4825,76 @@
       "owner_hash": "973a59d383ec42e6f2c3c5bcf634b0840773f4bb421aab8f3ac9da4e3eaeff3b",
       "claimed_at": "2026-03-27T14:27:52Z",
       "signature": "20055dadeb126cb463f3f1b7036779338d7022157447273fb02c70e4d0ddac47d5811034a835d491bb8bd0c7c43905b4353c95f90612a731b612245c920db403"
+    },
+    {
+      "agent_name": "hot",
+      "agent_number": 3634,
+      "owner_hash": "669f35eb5f3320b86e5d99718a4726558301d222f2226d683f31d8ad0db4dabf",
+      "claimed_at": "2026-03-27T14:30:58Z",
+      "signature": "e993c52c9a578fa1c1f543efe8b243bb533106e4e123acde24b75d8572eaaabd4a6d3d416b98bc0ed06981724a4555b78bbf79a058ea7ba100a08df143f4c600"
+    },
+    {
+      "agent_name": "books",
+      "agent_number": 3637,
+      "owner_hash": "fe72ca6f5e921b415da18aeeac12fa264595f179ce3d986a0776820a078778f9",
+      "claimed_at": "2026-03-27T14:31:57Z",
+      "signature": "1a073c1ebba1acad2a02ad348ebf2a40a976297e85b9722aa5c3df0d7d9268abae1f1acf1dca8dfac52137a1ae1b52427d20a5ad62de44c92e34bde99de22803"
+    },
+    {
+      "agent_name": "veganfest",
+      "agent_number": 3641,
+      "owner_hash": "2c8c5fc6df38ad519ea1fedb1af4e3c51bb73899bce518fa6b3a81a45177c851",
+      "claimed_at": "2026-03-27T14:33:44Z",
+      "signature": "f51950edafa46dbc98b3ca885cd132f6bd3c24a976a81610765e440c6f0f04bc06b816575b6586afaa6fbf3300c856e6be34c5f2cbce188f74df92823922d703"
+    },
+    {
+      "agent_name": "stocks",
+      "agent_number": 3635,
+      "owner_hash": "bea03fa7b500d1dd31e32b3af7f5def6814a848da89a890197062e81aef1da9c",
+      "claimed_at": "2026-03-27T14:31:16Z",
+      "signature": "d583b19b3d31121072b1900bbac0d33c552efc38ea679d4a8b1c58f849d8abea5a34b591430ab0ff028dcffcdc71755294419412b9a31275648344a377d5540e"
+    },
+    {
+      "agent_name": "anugraha",
+      "agent_number": 3638,
+      "owner_hash": "59de63e7b5dc24ae3fc9d14f988611b09f08f6d9b5057a130dabda154c56fe40",
+      "claimed_at": "2026-03-27T14:32:46Z",
+      "signature": "f2ae285be5edb236327e028cd2b5ea20aa999c1a466cb6eb577d61b4baa9abb5a8c5739526e5b7835315005d144dc603febd40ea14e66fa4365957251d912c0e"
+    },
+    {
+      "agent_name": "shako",
+      "agent_number": 3636,
+      "owner_hash": "10b7331544e1c7a9bc99f5ac116b525bb536175fd8781c506fe07acd26fc8a9e",
+      "claimed_at": "2026-03-27T14:31:45Z",
+      "signature": "82c3958f8584823aee9256011833a1d722ddeaf4da24f986e353eef5b79b4b6cad821859fa27f03c7299fd1098cd927c33f1e349b04b953b85c03c7403b23600"
+    },
+    {
+      "agent_name": "surya",
+      "agent_number": 3640,
+      "owner_hash": "bbafd9da8c139776a3849193b941fe35a881fb014c3f01fedb366956425ad54c",
+      "claimed_at": "2026-03-27T14:33:42Z",
+      "signature": "8f8e5c68f5b42ce52c7b42be5354d4db6e9825dc6790dc79ecd1e521597d5264fca5a64f480c7bec4cf20976cca4dd5f21b9937150686525bd03952ef1f7a102"
+    },
+    {
+      "agent_name": "nusa",
+      "agent_number": 3643,
+      "owner_hash": "96489fe7d42450534cdd5cac2ddaf0c210451e529cb2b63f092acaed69fa8872",
+      "claimed_at": "2026-03-27T14:34:09Z",
+      "signature": "2e3a36eacaa19513b5f23175945dc50c7017e629f1a72904e49eeed1802a0c779f9254cb70de23c3eff8790be6e2588d7459c96488177a1421b5ba25b870c30a"
+    },
+    {
+      "agent_name": "train",
+      "agent_number": 3639,
+      "owner_hash": "bcead76d88a4b89fe8e4fd4e713df92bc25f69bbb3b48836e8801fe756d249a1",
+      "claimed_at": "2026-03-27T14:33:24Z",
+      "signature": "348c27b387ebd1e66eb722ea4fa2feb5159ffa140bed90b1dc65aa9fdc13f164f40d7475dfc15e7e396123301cbf440271e2d604114b07c4649f322026ff020c"
+    },
+    {
+      "agent_name": "nafqan",
+      "agent_number": 3642,
+      "owner_hash": "4c807ccd7daba742b732c4529a0bfb9e32a8035c01d62e8c224c676e6c574d16",
+      "claimed_at": "2026-03-27T14:34:07Z",
+      "signature": "a7e5ef7e1d4fdbb6c928c87613afcbe6026a038323830cbc25791ae4b0e593301fe22b539c6f356db4520d893e81a9651fff8bb391e0ba50d5fa4ea2f6cbbe05"
     }
   ]
 }
