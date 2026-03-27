@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T00:32:00Z",
+  "updated_at": "2026-03-27T00:37:02Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1283,6 +1283,13 @@
       "owner_hash": "01f4ec8f387e3c9c6229e7155cc8ad0fb8179bced95e9e513bd2c3c9e8e14a74",
       "claimed_at": "2026-03-27T00:30:40Z",
       "signature": "63c05cb5060f7556e1ad4d55b361c4e9b1b8bd51865854741d5332fedcbdd2a916d00e602eb7033db572815d61f0d67a4c9f636e244753e1c99ecdc51957c30a"
+    },
+    {
+      "agent_name": "sokkary",
+      "agent_number": 3126,
+      "owner_hash": "817b2d80c2b37d5dc33d0b82e20c261ce372f4092e30932aab2b3c180ca7b77a",
+      "claimed_at": "2026-03-27T00:32:30Z",
+      "signature": "dac7974d495317d4e5128d1f1a98031e3922db5543ad2209cea1c0dd2eef737f0a5d2920acf0fe3068ae178160e92a4266d63dfe569b5a38053d5e7e09f2680e"
     }
   ]
 }
