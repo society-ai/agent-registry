@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:47:33Z",
+  "updated_at": "2026-03-27T02:52:34Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1703,6 +1703,20 @@
       "owner_hash": "b38a9b9fc5cb79d8882f02072977ae4e2cfcf60187b6f3e37a41ee062a4a6a0a",
       "claimed_at": "2026-03-27T02:45:34Z",
       "signature": "ab2110ffd34045952e2d750528c29f599e19ae277dc05c5da2b065fb28f56f24e35e94ad013a1189a41d7f97ccba4ea8c5ea4d411a9f9bf738740abe8bbf4505"
+    },
+    {
+      "agent_name": "lovlesh",
+      "agent_number": 3186,
+      "owner_hash": "056e930f6049372733b896e80f1e2c8e8c05c0d57e65e2f10dc8ea9dbbb49dfc",
+      "claimed_at": "2026-03-27T02:51:42Z",
+      "signature": "ff7abe6120638ada35bb9cde7955ee521bc0ca4be859bab673d0518f30a4fcc35e3e8412b906d25abdf7cb6dce0cd00c47bf26434dd7850710433b5ae3053903"
+    },
+    {
+      "agent_name": "0xatlas",
+      "agent_number": 3187,
+      "owner_hash": "34c22ba6b52a6c71e7eac174db4d41a33f7e5cc3acbe3ef5bea7f8a6b22e9971",
+      "claimed_at": "2026-03-27T02:51:53Z",
+      "signature": "29b2b6b1b6c00429af1785cba71e703a3fe1d24228876e1c1f1d5b61ef9b17a7f61eb23abc2b1fa6d7d2817858776cd6f47843c8581d00843474b0884bca7009"
     }
   ]
 }
