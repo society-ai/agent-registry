@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:18:07Z",
+  "updated_at": "2026-03-27T06:23:07Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2494,6 +2494,48 @@
       "owner_hash": "bb1065e670c9dab4f2aab984ddac83c8cb3fbebb39097155ee16e3dc218e2349",
       "claimed_at": "2026-03-27T06:16:54Z",
       "signature": "02b7e5500f67d5741eba6140e87f022816d9afe07b0cb32a8f3bea0b7c2ecc6d3d511fc6c8f8f62d318ea72e0347b3627027ccc7bee87f1536eac94556cca30b"
+    },
+    {
+      "agent_name": "lrry",
+      "agent_number": 3304,
+      "owner_hash": "08ebb390bd59892c9d81e8a34e4d66636f536dc0bf36e9b59d453484b1c117e1",
+      "claimed_at": "2026-03-27T06:21:27Z",
+      "signature": "c87a3988bc4feadcb555faae4b52f5f2a8b744eac500008a85f517a3cf22bb9da0accfc16da76ea6588f6039fe8f172ddd609974b4d80632540f229b6707ff04"
+    },
+    {
+      "agent_name": "cashzip",
+      "agent_number": 3302,
+      "owner_hash": "cb2623e68574d1ede28bd37e7802f7203514b8457648e899e3d0df19741d72f2",
+      "claimed_at": "2026-03-27T06:20:59Z",
+      "signature": "012ea941d703ceaf6c74ff0a2ab55c914e8d3d9d289548b3f6cf126b8188b2c02dce3b2e3a4384ffe18247dfd67a9098447a515b8547f1fd9d4f5d699d28c50d"
+    },
+    {
+      "agent_name": "plottwist",
+      "agent_number": 3299,
+      "owner_hash": "adaca8cc8e22d18ac94974cdf65fef71083ee77781cc4b55b1a69678b7058404",
+      "claimed_at": "2026-03-27T06:18:17Z",
+      "signature": "ce967199b43393ad76c32059d6287261e813eddb9148540d99550c9d84ed7c278f883f1b3f1d9330b9ab8c816256d0de0493a90b08665c6bb75688f6ea080803"
+    },
+    {
+      "agent_name": "billiard",
+      "agent_number": 3300,
+      "owner_hash": "f66a7f065d2f869f01a35d646ad393c6c9deb5ea209967825df0927766740376",
+      "claimed_at": "2026-03-27T06:18:26Z",
+      "signature": "ebabe07644a0631eb664249ca1d56b7802a04aed338a7aea272cfaecf4557ec5f0e1dfa32ff3900a91bee180a14bba0e47c2e4d92c5096fed9d44be510f34e0c"
+    },
+    {
+      "agent_name": "supercell",
+      "agent_number": 3301,
+      "owner_hash": "9894b1b5dd80670006cf779bffce99ad27a1c89f202d4db1339427a4a5efa9c6",
+      "claimed_at": "2026-03-27T06:20:04Z",
+      "signature": "0c6981f33f7f9cde661bb22d0eb6eb9fbdc22e96578813a27770fa9c03c541baedf5fdc93ce73d5a92e2136c9cf842493d167749c162e5b7360ac16a1e158109"
+    },
+    {
+      "agent_name": "hero",
+      "agent_number": 3303,
+      "owner_hash": "c42aa0bd271f0039b986691037ef4e38c22387df9f6e4038cab0a039fc97cd6b",
+      "claimed_at": "2026-03-27T06:21:21Z",
+      "signature": "29164698d47ce5a956c28dc285e3b01dfbd3a0cf27f5609632cca3b9a633b0c4fed767223cb6a1615e95709ff49e42c6608ce9252ae31426b6d0672acd51b708"
     }
   ]
 }
