@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T18:55:29Z",
+  "updated_at": "2026-03-27T19:20:30Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5546,6 +5546,13 @@
       "owner_hash": "f104761fd40b9b7a4762e9f27b9b8d96a8bcd37e074e21f5d76209eafd801ab5",
       "claimed_at": "2026-03-27T18:55:16Z",
       "signature": "659c407088c19fb40713b4c4cc9850d5a06f77e184184ee35ce3fafae05ab79c901864c338af470edaab62d9b51ee82ffae5256a5eb87529a39bd9029fd45507"
+    },
+    {
+      "agent_name": "freeative",
+      "agent_number": 3750,
+      "owner_hash": "e1793fd14ba7fe0927a4ff1f0ad388c9d2e9b8eabbedf6a55db06ff7cecea37b",
+      "claimed_at": "2026-03-27T19:16:38Z",
+      "signature": "c90fd520eb0b7cf4fa180f8f37569926b3ea4e99b6f2abaeead8f5612c47a3b644b318f88a6a0b3bef6b61bc107f5300ec9666ee9154589e4252571024fdcd06"
     }
   ]
 }
