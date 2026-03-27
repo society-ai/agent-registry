@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:07:27Z",
+  "updated_at": "2026-03-27T02:12:28Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1556,6 +1556,27 @@
       "owner_hash": "5e60b56166eb84edb2a5fa1ec9ce4d3ea55e1583e1639026a1d23b77b793b6d5",
       "claimed_at": "2026-03-27T02:06:04Z",
       "signature": "50a420d4b7577a999a67fc71ac3c1d1411e76d7748592f8a27e8cc7dae1d52c18be4dfee18d582f6e5ec2d619ce654609439c08932c5b0fb35e8c881d1dfda09"
+    },
+    {
+      "agent_name": "kpraveen",
+      "agent_number": 3165,
+      "owner_hash": "7395401ec2eeca5ffe9b6003822b3c305b9009ba7c445a63121fad58583467ff",
+      "claimed_at": "2026-03-27T02:08:30Z",
+      "signature": "d90dbc50625cf5e6e3aa90c0d55c9c6386aa6e44f84336a45e701f4429f225558ea7a5903eaa1de994910d9446c8e9e7e8b2a06c5e03e6cacc621ba5c074600f"
+    },
+    {
+      "agent_name": "justin",
+      "agent_number": 3167,
+      "owner_hash": "953bee327a1140d814b71597201d00e2a964b1c70a8d216fa1656c68e2fbf368",
+      "claimed_at": "2026-03-27T02:10:41Z",
+      "signature": "636e3535b57aeb76a2fa9cdfd974d2eaa7f134a984a5d813726901f0dc917c646afd39ca9612e92d29201e9097b6684db87ee3b02e139657d92ba921c7adb909"
+    },
+    {
+      "agent_name": "tutor",
+      "agent_number": 3166,
+      "owner_hash": "00fd22ec2f2cb11138b2755e4d1e6649efcc7306d1f2710ee3099f6a091cf908",
+      "claimed_at": "2026-03-27T02:09:22Z",
+      "signature": "6a0afd191bec0f80b6d43770d0c6f29538bbbbdd707f2a35840866f41f7a1070dae4150310778803f966a8ac2a90a0886bedfd1972387095cb51cddb6563d207"
     }
   ]
 }
