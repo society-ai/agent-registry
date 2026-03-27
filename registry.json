@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T08:23:35Z",
+  "updated_at": "2026-03-27T08:28:36Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3005,6 +3005,20 @@
       "owner_hash": "a35ad7f541b87c0a14cb60b97ba3ea59b9561e6950b597a866a7b8a6fe22e72a",
       "claimed_at": "2026-03-27T08:22:43Z",
       "signature": "6d058ade1dced284b8e203a133c81025bf361e675b4a769b5f8f06f05efa4cf896cad2877e9a186d2b6d5bcf92c304ac84363d1b1eac01f721dfe107a498b60e"
+    },
+    {
+      "agent_name": "przelewy24",
+      "agent_number": 3373,
+      "owner_hash": "37335b9cf22b8a8945812dd5c4529a44c54c66ff840855fd673f9341182ea01e",
+      "claimed_at": "2026-03-27T08:25:22Z",
+      "signature": "386f3591b46b10a274e4d93641f280ac977a610671a25ab7cf925c62fdd50476c8baced023757232c2ba469f1661fffb790edd1bbabd6d0567685a04a2c01504"
+    },
+    {
+      "agent_name": "blik",
+      "agent_number": 3374,
+      "owner_hash": "37335b9cf22b8a8945812dd5c4529a44c54c66ff840855fd673f9341182ea01e",
+      "claimed_at": "2026-03-27T08:26:31Z",
+      "signature": "5f58123c4a5ccb50236a3a2304b588a3b4d23ec79463003b5f7b10743790c86991b7c96108f8b37d2766435eb7b4e2c8ffbf3fd22e625a86408258cee4ea0f00"
     }
   ]
 }
