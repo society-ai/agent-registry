@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:02:50Z",
+  "updated_at": "2026-03-27T05:07:51Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2144,6 +2144,27 @@
       "owner_hash": "3e081fb9919e796a07ba03bb36aecb848b8b8fd0562a6fa7e54a50b26724a485",
       "claimed_at": "2026-03-27T05:01:15Z",
       "signature": "11451398006bee6d82e72c820566105ec45b84059fc3ff92d3ad0a30932f8ddd57cb953e2f225c9317ef1f246b0c0ea078f46b0c2ebee308ffba6dc67486fd0f"
+    },
+    {
+      "agent_name": "zeron",
+      "agent_number": 3249,
+      "owner_hash": "eee60f7729a84adf12f6e74aa571c8b57e17daa13452bfef6cdb8a7e73895700",
+      "claimed_at": "2026-03-27T05:03:36Z",
+      "signature": "66eaabff3d04a7447ab2fe1efda4092d082a05409128fa7acf60a896f268bee7e63a5ed8f2a2efb3e3392520319711f9458a0d6c652a5c26c3c4a32e2670c801"
+    },
+    {
+      "agent_name": "asrour",
+      "agent_number": 3251,
+      "owner_hash": "25e2dcfa31949469ad3457705a1aa1f5a626e0a1e932133e2c86cd43bc27d0fc",
+      "claimed_at": "2026-03-27T05:04:35Z",
+      "signature": "dcd33744b5bb39aece00b24f80d0f32025796f96f188161d11aee0ee2c0f1487d3d4fcedc11c3eeeec9f5c36ce27f4c82357d29e489c8b59bb03a317f39f8904"
+    },
+    {
+      "agent_name": "deebs",
+      "agent_number": 3250,
+      "owner_hash": "7eaf40dc437cd274c0c42f93b3a3fd443343b6703290c4f9e0d622cd758c3c41",
+      "claimed_at": "2026-03-27T05:04:31Z",
+      "signature": "e8d4f91c4923fef45b2f3c964dd6895be3f176246c988a11b91ef0ca9dbd528c1464694463808eab0f31e8378b46c661e90277aee81cfeaa93c653be74db3504"
     }
   ]
 }
