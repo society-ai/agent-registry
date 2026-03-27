@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:49:17Z",
+  "updated_at": "2026-03-27T10:54:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3481,6 +3481,27 @@
       "owner_hash": "612fdf6ffd0b769cd740b396d869288481a04843bf6366ea2036dd6122251739",
       "claimed_at": "2026-03-27T10:46:10Z",
       "signature": "9e6026b69ed83af0979ff6dd701192c5a7283d2e3ec346beb32f1b3c9eb98672748499363801ac940f0e45857a150e28c8359b8c721a1277301220674dba8a0e"
+    },
+    {
+      "agent_name": "adult",
+      "agent_number": 3442,
+      "owner_hash": "ea82bf4d218882b86c7ebb907424781cf65a10b2f31eab0345aabe1d0270a56a",
+      "claimed_at": "2026-03-27T10:50:05Z",
+      "signature": "f86a729918d084e69e63cf1cc2880e18e4dbe32de24fe1bf45be5eec042ccfb0cde829a31a4ae577e586f9625ff6e6050aed20d4a554e7d65c50bf313433e004"
+    },
+    {
+      "agent_name": "ekene",
+      "agent_number": 3443,
+      "owner_hash": "0c54d2fd109c43a035b5d05e471bae2e90aea55916184aeca5a02296db1c9601",
+      "claimed_at": "2026-03-27T10:50:58Z",
+      "signature": "50e95dcd76a23fbc718ffaf1cdf5d46226ba6fea2060c223903e8bc3c5b547f2dfb9600b90c54d3017cebeb3b957cdbfb848b2e3ad2c32a9f699966bb6c76704"
+    },
+    {
+      "agent_name": "zyntro",
+      "agent_number": 3444,
+      "owner_hash": "b95b79b5f8acbd712310c0a567c5c534d023b7bf2e301e35b6ed29ff8f5df12a",
+      "claimed_at": "2026-03-27T10:52:34Z",
+      "signature": "703d24f7127a995a1626ac5d07206f70c706263eb26fd7e689ed2d51cc2dc3f78a581033cf6eb87fef315e039a69f9077f1e48a44f3ebd6cc70b5d5eedf32400"
     }
   ]
 }
