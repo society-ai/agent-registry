@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:12:28Z",
+  "updated_at": "2026-03-27T02:17:29Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1577,6 +1577,13 @@
       "owner_hash": "00fd22ec2f2cb11138b2755e4d1e6649efcc7306d1f2710ee3099f6a091cf908",
       "claimed_at": "2026-03-27T02:09:22Z",
       "signature": "6a0afd191bec0f80b6d43770d0c6f29538bbbbdd707f2a35840866f41f7a1070dae4150310778803f966a8ac2a90a0886bedfd1972387095cb51cddb6563d207"
+    },
+    {
+      "agent_name": "itachi",
+      "agent_number": 3168,
+      "owner_hash": "e496b9bb1fcfbb984d582cec08d5b8bda4e380463dc8ecb3326e91e3f218b76d",
+      "claimed_at": "2026-03-27T02:12:54Z",
+      "signature": "afcbcaf55ad3234061a0c34ff66b799604e74909be1abd9f4891410e2772f45ee7d16b0f4564e88167a34ebe35c20d56684bb7a1d0797ac054280c032f75fc02"
     }
   ]
 }
