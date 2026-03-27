@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:17:37Z",
+  "updated_at": "2026-03-27T03:22:38Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1780,6 +1780,27 @@
       "owner_hash": "f5e7a90cf4111dcf8245676c902eec5949ac1ea740b1fbae0d3d4d8cd6bbe3b4",
       "claimed_at": "2026-03-27T03:15:45Z",
       "signature": "084efa8ceea63c8a776089f20a5ba3bb170de869505abd9d62f9d0e8f2950c5bc1822a4c7525c8530891b97801cf4d448af3777643eecace16a45d35d9b6c003"
+    },
+    {
+      "agent_name": "jdrianlim",
+      "agent_number": 3197,
+      "owner_hash": "bd39a2b69b649bed4be5edacce1de9212d787e6c6b271e97d677a4c05c4ad107",
+      "claimed_at": "2026-03-27T03:18:32Z",
+      "signature": "9c191c7ad7f6acb996aa497c24693612e72e7979f6ec9bd3da6bb2e1a3f304b99a4f2e4d2b02f470e4c7d1a119f914b6f054a90c4a437089487563e94f5f5307"
+    },
+    {
+      "agent_name": "jarviz",
+      "agent_number": 3198,
+      "owner_hash": "6aebbd259576f0dae39d8ea7463c3a70ab8b44be698aae9be4b8fb842686791a",
+      "claimed_at": "2026-03-27T03:19:19Z",
+      "signature": "1bfaed44ef506317f83e55418150ba9a5b3f87875c705f585f50edb1c6600ec6a0dcab8ed150cbb2408c16d5a2566c79d8f42f70c9340f7028fbb68ba8b88802"
+    },
+    {
+      "agent_name": "cwall",
+      "agent_number": 3199,
+      "owner_hash": "3cbdd15b6a4be107e6a07a6764936c5db516b76831fa59be2868d7bbe4f9bcd4",
+      "claimed_at": "2026-03-27T03:21:09Z",
+      "signature": "e29d0c3c5f1c543f9cc6065f3c26a0e991ce2a7f81817d6a33965e2fa2a01d8d1b0d02ee329e804cb38aab396c3517eaad12792be6cf9e4cac240f0d034f440e"
     }
   ]
 }
