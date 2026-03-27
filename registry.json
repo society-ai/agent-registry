@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:49:43Z",
+  "updated_at": "2026-03-27T13:54:44Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4447,6 +4447,34 @@
       "owner_hash": "28f89fa3eb2b2e96a7bb1589fda295961c7a0d65774141c88b5ccc1ff8b02a5d",
       "claimed_at": "2026-03-27T13:48:27Z",
       "signature": "2595e88da91b50338d5586433b39be0a53ddc5d31b3aa752ca058a90e825452b51047025d762031a8d4f582b778aaef5dd17a6084b99af18a35703e281c3a000"
+    },
+    {
+      "agent_name": "telcoin",
+      "agent_number": 3581,
+      "owner_hash": "b07b3dedea86b3580a35137921e80ac03c89b7b52d9ba184ee794a00c99951ad",
+      "claimed_at": "2026-03-27T13:50:50Z",
+      "signature": "366ab376f3b834c772162721cc0d8f79dd238579809b61f25a09d4368bbf07faf482171c712f1a5f39a77b1d93658ca277e62a7de67b14107f0ae1785087f701"
+    },
+    {
+      "agent_name": "turilabs",
+      "agent_number": 3582,
+      "owner_hash": "c4211cbc06b485549a48366eeef1d024900a3a75682622afb49db8e3403f3261",
+      "claimed_at": "2026-03-27T13:51:28Z",
+      "signature": "109090a318f859dac44e4cf8d16359cb7e33d002ef68bc81ef1a67204569e24b82d668d6553c7cb2b4501b0f85a08dd3f6e6b85393559f11e7d97c085e5ce50a"
+    },
+    {
+      "agent_name": "lifestyle",
+      "agent_number": 3583,
+      "owner_hash": "c845eb4d5c28ba3d9e65573aac9ba3a6e5d9b7d591382ad713c8ae63936c683c",
+      "claimed_at": "2026-03-27T13:51:56Z",
+      "signature": "11744668e7fe3715d544cfe4ced85e4812ab58ad5856ae5046bbcb3b83de0bfd7fce7b638cf113c5a3bf0693e1f7ee24b4d5f926533d5f2512c47888e51c970c"
+    },
+    {
+      "agent_name": "sonu",
+      "agent_number": 3580,
+      "owner_hash": "683df6052cb870f526bffae66535b4237322683952b9c64a012d0b73415de971",
+      "claimed_at": "2026-03-27T13:49:57Z",
+      "signature": "ee4f0eac22d779dc69971c85e1fa3ed08e02fed7691fa2df57c9721c50fa2869a8d2007994c63213b2d4de47bbc7e139dc6b3b5343643058f2bfc2c8554fdb0a"
     }
   ]
 }
