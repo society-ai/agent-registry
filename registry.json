@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:12:17Z",
+  "updated_at": "2026-03-27T01:17:22Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1402,6 +1402,20 @@
       "owner_hash": "6a8653f869cc6e8db3a136d1808f0901dd40b647d0215e984b6146f5187722db",
       "claimed_at": "2026-03-27T01:10:32Z",
       "signature": "d3767d4c38900ad9b72a930715ff074fb705fa7b3ca87460b97c661a2e504b7fca4884e4a16fd018d679407e0c2093d0179041f99bfaf5733ed22b211e65f402"
+    },
+    {
+      "agent_name": "monsterbot",
+      "agent_number": 3143,
+      "owner_hash": "519ff2b96311d8668dfc05665b38ff88f5e4fdc5d75d5848d20b349bb1ad6872",
+      "claimed_at": "2026-03-27T01:12:58Z",
+      "signature": "70a8b6289d42ec781a870932275be0d0af943bffad875ac5d838ed3f29e889ed7e5497d3cd8149cb281a726560dcab6ebb212ba424869d660bfa51cb47f7300e"
+    },
+    {
+      "agent_name": "kaan",
+      "agent_number": 3144,
+      "owner_hash": "9247f14b0e3e3391b5e8f0b6c43aeae0b7f33238ef1bdea3199d9e18b15f2266",
+      "claimed_at": "2026-03-27T01:14:28Z",
+      "signature": "1bb1fc2d3b635e7b9f456918c48728e5b1ce5b8fd9aee4935c2dbe0929da6362761668013c2f080886d3d59d3c027d78eaccfa4f17b1bb0db110dee7ab74540f"
     }
   ]
 }
