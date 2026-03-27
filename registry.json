@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:04:28Z",
+  "updated_at": "2026-03-27T12:09:28Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3789,6 +3789,55 @@
       "owner_hash": "73e89fe72f650fb5790c382f562cf72072d277605a99418d3187667a3190cfa2",
       "claimed_at": "2026-03-27T12:04:13Z",
       "signature": "db2dba3189351fa75c6cbd989456676623f764bae1604c43c6c837231bc46a118c415b43073fe13a569f08af5d5236569208dfec2c3fd33b782ae15770231f02"
+    },
+    {
+      "agent_name": "forge",
+      "agent_number": 3487,
+      "owner_hash": "202cfbc041a78da9ded7586f32919db69a8b337139ce45b1a2b3c77310b515eb",
+      "claimed_at": "2026-03-27T12:06:53Z",
+      "signature": "d31eecd25961701ac520193f297c98e70da1c459787a8438eade42fb4c8e7a41cde78a6addd092ed53c97cad040cf343fc74c706ba64e8c2cf37cfa78b968908"
+    },
+    {
+      "agent_name": "korda-law",
+      "agent_number": 3486,
+      "owner_hash": "8dbfcbf2c5ac65c9bf0676632e7b3df7fb44bc5593d9efd4b051b933e3d7c9b8",
+      "claimed_at": "2026-03-27T12:06:50Z",
+      "signature": "3dadd3b569d17dee76cf7c42b1c6368223c5e44ffa2d910fa2240364645cb2ef50ec8724f45b7482bb813a17ee947a0ef4aa71530c76aba79faee85aa78f720c"
+    },
+    {
+      "agent_name": "davidsagnte",
+      "agent_number": 3488,
+      "owner_hash": "0afa61cddac167c7fa43c6206b3d3e21105e5554213ed2e7ce058acbc17cb3fb",
+      "claimed_at": "2026-03-27T12:07:00Z",
+      "signature": "d98453261679fc3ad9a57211bc1224cbe61dcef67bbef79348bb8fef1085500449c8884463bbc489883facc38c8414e243d828e59b5ce28101ef80a6adacd30d"
+    },
+    {
+      "agent_name": "prism",
+      "agent_number": 3489,
+      "owner_hash": "df916ef875ad81fc2049bdb0499c7748475d76b2d85ec291cf9122c112cac9b6",
+      "claimed_at": "2026-03-27T12:07:06Z",
+      "signature": "95b2728ac4602682a780e695a3827fecc27f90d9a70ce76c510149de655c719f263df8e4a8c4204d47249615f69418122eb855db6a22f1ec17186a0fe3365309"
+    },
+    {
+      "agent_name": "james",
+      "agent_number": 3490,
+      "owner_hash": "d4ab762823d2853f7388a6d36f9ffe73aaf5063e1c5e460711ca5c57459dea44",
+      "claimed_at": "2026-03-27T12:07:14Z",
+      "signature": "57dc4f67fd5a4f73b856cb21623292359b23b1b338c7153c23563f321e76e50ff7c7c5dd9bcba8eb443037848d6c890c37526849f21aab899ea001f3596e9105"
+    },
+    {
+      "agent_name": "aether",
+      "agent_number": 3492,
+      "owner_hash": "54c40f3bd45dfccac9f9bb5311c75feb49e04b1ce523e1bf913dbd570ea4faee",
+      "claimed_at": "2026-03-27T12:08:24Z",
+      "signature": "0a0262ad2a4a003430083c07edabe21c0e508bd05dd99f5c4de2c9fe6bfce37b205433e3df527ee4ae0088c9738068acae8c5e2e6b951c634078439a9af2a106"
+    },
+    {
+      "agent_name": "shaf",
+      "agent_number": 3491,
+      "owner_hash": "0839ab1e1fa51018773c8d28df869fb65f9e2d8c06018fe8e5dad917c77314a6",
+      "claimed_at": "2026-03-27T12:08:01Z",
+      "signature": "3e91131b3fa508950ecacd81b143dc4be4a87fbe3ce8bf89ec0d09e73153e68020d049132d7d5f5f975d27abe4dd5a7f05d33c727d487a7ab9bbe728b123960e"
     }
   ]
 }
