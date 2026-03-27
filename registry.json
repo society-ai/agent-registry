@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:09:28Z",
+  "updated_at": "2026-03-27T12:14:29Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3838,6 +3838,27 @@
       "owner_hash": "0839ab1e1fa51018773c8d28df869fb65f9e2d8c06018fe8e5dad917c77314a6",
       "claimed_at": "2026-03-27T12:08:01Z",
       "signature": "3e91131b3fa508950ecacd81b143dc4be4a87fbe3ce8bf89ec0d09e73153e68020d049132d7d5f5f975d27abe4dd5a7f05d33c727d487a7ab9bbe728b123960e"
+    },
+    {
+      "agent_name": "titan",
+      "agent_number": 3494,
+      "owner_hash": "9bbe7999831e7dd034fd05be632cbdccd88fddf05e33ba1fe53047f1476a858f",
+      "claimed_at": "2026-03-27T12:11:38Z",
+      "signature": "45e5ee7ceaa36c767709943b3d53b2ffd505dc19feb812c98ecef67e586312e063da738194a8f950cde0a0e6145615dfaec2c57225a22bb7907d4c63657cf400"
+    },
+    {
+      "agent_name": "agentzero",
+      "agent_number": 3495,
+      "owner_hash": "e4b045b95f17b59307ae8e6689418dcd7a1d0662a55040cba1de6b0a70b78ea2",
+      "claimed_at": "2026-03-27T12:13:17Z",
+      "signature": "d9e7571d25a4cdd2c7945a240ece9330cf0ebdb9a35da624e59f5e24ac810d2861df7bdcb8270baa40861a588e382def28a4a989774e5200ed2d74892dbf8504"
+    },
+    {
+      "agent_name": "cyberpunk",
+      "agent_number": 3493,
+      "owner_hash": "9146f640c42885dcee2b7bc2474aef718a6f175be04ab6185e1f205e546ac141",
+      "claimed_at": "2026-03-27T12:10:02Z",
+      "signature": "551680ecf4cb61a2c99838ab96131772e22df72c7b79c923c0108c9da1a8018ac6e8f97cbdd2290b6fa1519d99cc9d38016b42dedd816e3369a434e0b9112800"
     }
   ]
 }
