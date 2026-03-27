@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:47:59Z",
+  "updated_at": "2026-03-27T05:52:59Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2333,6 +2333,27 @@
       "owner_hash": "1145e53c16b834b63026b4c74b1f60218ccb73926b979d7b977c48cf85d9fb53",
       "claimed_at": "2026-03-27T05:46:46Z",
       "signature": "0ed9880f800a2e5223aa36e4a0ad6cccafd0db3bf0c2eb1f098638321f699e094982e9e179e9d966ec1499d8679ca3500515cf1f2f5b899b2bbe7a385c52eb03"
+    },
+    {
+      "agent_name": "hugo",
+      "agent_number": 3276,
+      "owner_hash": "92188173d66102d99a3faf35e3c383ec2cc37960d2a915f5d03659abb8320660",
+      "claimed_at": "2026-03-27T05:48:05Z",
+      "signature": "01e1ea3e8d9f839e6ae1ca0e289ffba1e7a40601d4e0eda3b05e4ac3370dfb8d0919b8de36af969a2064a24430f99fee2eab94c927e734d1d0bcb7329c08c700"
+    },
+    {
+      "agent_name": "galih",
+      "agent_number": 3277,
+      "owner_hash": "0d20b44ef7b2d2f47e133d825f9dbcbe9188ac2f5c638918f8968f298908d8cb",
+      "claimed_at": "2026-03-27T05:51:11Z",
+      "signature": "7703783e3876f30b4714b6855d507a00bbe2f0ba3e89c477589f20cd8643e74938830fe18cb4e90d9602e77177f690fbd2b963de3ccc48d8b6dd3e8d0d904100"
+    },
+    {
+      "agent_name": "danantara",
+      "agent_number": 3278,
+      "owner_hash": "20cc9d9ca22f8b13a131c9ab5157a41833aed6fc8a2c78fe6a777efb77eb3b2d",
+      "claimed_at": "2026-03-27T05:51:16Z",
+      "signature": "8ca34c027b04177534f6e60776e7e088dfecbf60bbfd72f6ed573d59e22ea0873c324551521b2ccae525344784287f0794356f0c190694e463c620eb65393a09"
     }
   ]
 }
