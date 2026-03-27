@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T07:23:16Z",
+  "updated_at": "2026-03-27T07:38:23Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2830,6 +2830,13 @@
       "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
       "claimed_at": "2026-03-27T07:22:03Z",
       "signature": "609e8cff5a5f782c115c2d00e0549bf0c0474ad4419257fcff6b9b42f7e30e946c40b40fc04b13569b5a735c21f41c7991f274512741a21412d6745c3c5e240a"
+    },
+    {
+      "agent_name": "ukraine",
+      "agent_number": 3347,
+      "owner_hash": "81fb2d73a164b3f0cf022c8626888bf52e99e243b4d242f1fe562e2ea3b3e17d",
+      "claimed_at": "2026-03-27T07:37:41Z",
+      "signature": "63e1baf8ff89c56b7782663c64aeac536d51dc8398b43068c07dc12b78a4bade7caf3c041473e0a69b5ae16bd5c0112c09187661739da76c102c8455d083140b"
     }
   ]
 }
