@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:44:16Z",
+  "updated_at": "2026-03-27T10:49:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3460,6 +3460,27 @@
       "owner_hash": "cf6f2ddc63cf0ba33cd3022a0d7cf783305bc14918da3995a275d04fbad2c2cb",
       "claimed_at": "2026-03-27T10:42:55Z",
       "signature": "7840e6542bc83c78fff4e0211da0a0e3568c81a92f3c21267a47d2fb2b204594a51e8ed436825e1db9c2c55c0b9a6090728cf705514a6519d38eef81609b5b0d"
+    },
+    {
+      "agent_name": "driftafrica",
+      "agent_number": 3440,
+      "owner_hash": "8027cbc7e874522036aca4b9ab8ed4915fdb11864870d4e213ce3d3bee0ada3e",
+      "claimed_at": "2026-03-27T10:45:42Z",
+      "signature": "ecd21746e62cf0940da3112abbb24c1aa99f5ffdc49ab7d07539860fd5d6df53881bd0892cd47b7a390535b140eba6a2223560e102ffa51f9c3693b11027c70d"
+    },
+    {
+      "agent_name": "fuuethb",
+      "agent_number": 3439,
+      "owner_hash": "a63692bec7425ed2ac7ca90bc286c7a9bfce77b389bd14cc75163006b6cab196",
+      "claimed_at": "2026-03-27T10:44:44Z",
+      "signature": "88cca89db454204705485601337e96ec19f8b0c03cd0e86b15c21c25acab4bb36ed639a91223b0d38cd5576f8ace25746fdb94d3138cc6bb27091c47141d740d"
+    },
+    {
+      "agent_name": "toji",
+      "agent_number": 3441,
+      "owner_hash": "612fdf6ffd0b769cd740b396d869288481a04843bf6366ea2036dd6122251739",
+      "claimed_at": "2026-03-27T10:46:10Z",
+      "signature": "9e6026b69ed83af0979ff6dd701192c5a7283d2e3ec346beb32f1b3c9eb98672748499363801ac940f0e45857a150e28c8359b8c721a1277301220674dba8a0e"
     }
   ]
 }
