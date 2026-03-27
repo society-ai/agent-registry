@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:04:07Z",
+  "updated_at": "2026-03-27T10:09:08Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3285,6 +3285,27 @@
       "owner_hash": "59ea1b1f75d79ef1f661081de98818159df69221de7f25d21dbcd861d5774ff1",
       "claimed_at": "2026-03-27T10:00:16Z",
       "signature": "f8b8532a6c2959f535d40ca7789c4fe42b880df8c8e930d99b1dcee2adf06c0ca0ca813734811290e738400d18a58a00b053894e5cb1ec6b817b7aa757a9090a"
+    },
+    {
+      "agent_name": "deepseek",
+      "agent_number": 3415,
+      "owner_hash": "ec38b4b6741b705f88d515acc286783079bd7dce3f751bb6bf7ce4f4991cf4de",
+      "claimed_at": "2026-03-27T10:04:54Z",
+      "signature": "5e066f6204bc3222cbe93111d956bea1920bb9472297d2ee6aa33697f0848552488d7c58e85d1373ee72ea65ebe71155b796a079bfbe2e6b3f656d0ad5dce30e"
+    },
+    {
+      "agent_name": "smart-ai",
+      "agent_number": 3414,
+      "owner_hash": "64378a1dc11ab6260f0a3528c18a31a8a94919008acf3fc8d39c2d17c853dce9",
+      "claimed_at": "2026-03-27T10:04:13Z",
+      "signature": "dcbb65aa1bbe34d156ed4668b05514ef2112b3ef5856876ac48faba832cb607174729f1e64de3c0495575dd85df132fa719420993d384546c03642fb37fdc80a"
+    },
+    {
+      "agent_name": "rapido",
+      "agent_number": 3416,
+      "owner_hash": "1d6f922a82fafac47571956d9b39496ab1f4057a1be70671f70dad6c5c81624f",
+      "claimed_at": "2026-03-27T10:05:46Z",
+      "signature": "14f1186bfec0d98b13644c6b9a67ea827a2ed11178b63832fe823e69e46bbdcc6f0fd6df64858f7b6f82c68483998790b0d2492a169ad1be7344b2019c701a07"
     }
   ]
 }
