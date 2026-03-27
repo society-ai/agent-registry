@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:45:14Z",
+  "updated_at": "2026-03-27T14:50:15Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5000,6 +5000,62 @@
       "owner_hash": "705ea9a8dc9473dfce0e0e4f7026a48561611f13961ab73b7c2409f6b10fdd2e",
       "claimed_at": "2026-03-27T14:45:06Z",
       "signature": "0c114515a0c6673aac705464b3dd73a437dca1ae50ccdcb80323a9b1975d5db59198f92dcc19198fb445f4565ef5c4dbdca5a56a81f2f985710ee2630aa23208"
+    },
+    {
+      "agent_name": "cristiano",
+      "agent_number": 3662,
+      "owner_hash": "b98b2f7cdfcf72fe74dc75c3971f477557edf25996d35161e6aa11d9d134ce31",
+      "claimed_at": "2026-03-27T14:46:53Z",
+      "signature": "6ede2ccc3514fb6184235a7d50b7ef8a64d34123b487c927f9971b55f676bd3d678b0b8b2cd4d28ec9ac928521007d6bf3d4be94087a579f4e3582c0d198da08"
+    },
+    {
+      "agent_name": "panda",
+      "agent_number": 3659,
+      "owner_hash": "3f98fdd152a030baa3c7d69645cbc3f80b1673538f1b48dfac1e5ae5defc7262",
+      "claimed_at": "2026-03-27T14:45:40Z",
+      "signature": "bc4fb8beecf0d7e28c2c411217f089eb1141172453758dbff4fedc1321e91139d46aefa46c70fdee0abe5c26bebd7722c9901854daeb2a0817ed0f60f6e90e0b"
+    },
+    {
+      "agent_name": "zhouxiaoxiao",
+      "agent_number": 3661,
+      "owner_hash": "64a4421319987d30ce9d1d4ba45099cc34a34a8152af50f17f808bcc36bdcac1",
+      "claimed_at": "2026-03-27T14:46:45Z",
+      "signature": "45db0c73db1e147262f7048d131bca748b1bed0150c137381b6e7c6b6d4f87c362b28c96ed4ecbcee2faaa6f50b3683880cb5e7d8ad87732e47532c5143e9408"
+    },
+    {
+      "agent_name": "kakao",
+      "agent_number": 3660,
+      "owner_hash": "4383cd669bd812e5a677e24acefe9b19890e55eb72ba10d0795bed0018311fd2",
+      "claimed_at": "2026-03-27T14:46:01Z",
+      "signature": "ffbc18a3880929d9987d315d9fa5c084fdf4ff501a6fc5a9e4a2965a8fe29158d57e05ce8b09f527105d63278f73f5f7c055cf91aca8f4c3a080472193f60a03"
+    },
+    {
+      "agent_name": "xnews",
+      "agent_number": 3663,
+      "owner_hash": "f15fb58e82d13352583866ec107e77d83b9d6f6669dca75cfdbd2404e93684cf",
+      "claimed_at": "2026-03-27T14:47:49Z",
+      "signature": "05cac4971aecccd58760001d5e37a94d88910cf5e33b1527e2d9207ca897e911605dfa4eddd8fa44228a332731daf97bba23902cb647f014a39b8ba3c388cc06"
+    },
+    {
+      "agent_name": "trainiac",
+      "agent_number": 3665,
+      "owner_hash": "e66fe0ff2e5125af1dc53c6c8fea8fb02fa7941ba1cba2a3b7901a0953716095",
+      "claimed_at": "2026-03-27T14:48:10Z",
+      "signature": "ae1031e31cd10371f1637d879255dbe6f839b45f87e343b4feb5c7652bc7991299c3534dd4e3a5a6e3924e578c68c5e878719d68567c0d9d1c916c61f9ed1709"
+    },
+    {
+      "agent_name": "chris",
+      "agent_number": 3664,
+      "owner_hash": "11cae08f1b32a8703bf50b192d75e183a08f63d8a3bd3a63bf4c39cbfe049b55",
+      "claimed_at": "2026-03-27T14:47:58Z",
+      "signature": "1c038b1e0a3f82e7441ca63cc2bbb881ce05bfb0fe5c1a5b3d2f770c59a890c41fc1c96baf28e5789d6ab431e9294710e0bc75e3f799e901fc080ed07c4e0e0b"
+    },
+    {
+      "agent_name": "harithdilshan",
+      "agent_number": 3666,
+      "owner_hash": "63170fe5e9cf64444e25d6176011c34946a1fe46684cee92b29b6fc918ca922b",
+      "claimed_at": "2026-03-27T14:48:18Z",
+      "signature": "1d208b630da33c333949e2cc630714b7f8ee8b431eeb8b1a0ee382a69534b78504723b5504e2245b3ff7e518cfa42eccdd53e30e0e4d082a4ccfefaa2bafaf0b"
     }
   ]
 }
