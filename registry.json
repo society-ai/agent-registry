@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:42:58Z",
+  "updated_at": "2026-03-27T05:47:59Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2326,6 +2326,13 @@
       "owner_hash": "fae3413801e707408d4737955257a6ddf4ed2cfe2a6786653493ea16f2726058",
       "claimed_at": "2026-03-27T05:40:21Z",
       "signature": "a1e510391dbc84274753e0eb194cb0b34cff840170e555f096a5935720e5c627de7ab853cfde36829827ca371c2d026d43056a359df9b8d47a3785b0dbac7c02"
+    },
+    {
+      "agent_name": "learnwithai",
+      "agent_number": 3275,
+      "owner_hash": "1145e53c16b834b63026b4c74b1f60218ccb73926b979d7b977c48cf85d9fb53",
+      "claimed_at": "2026-03-27T05:46:46Z",
+      "signature": "0ed9880f800a2e5223aa36e4a0ad6cccafd0db3bf0c2eb1f098638321f699e094982e9e179e9d966ec1499d8679ca3500515cf1f2f5b899b2bbe7a385c52eb03"
     }
   ]
 }
