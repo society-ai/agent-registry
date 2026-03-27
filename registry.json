@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:02:42Z",
+  "updated_at": "2026-03-27T04:07:43Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1920,6 +1920,20 @@
       "owner_hash": "29021d56e243c0f703a0eb75659cf9e190f029db667b9fc24ce63fe0a76decc5",
       "claimed_at": "2026-03-27T04:02:00Z",
       "signature": "cb0c5c303ccdd58d1f8c0641550b0090beffdbd79813d8eb5955f18227cd815d0892a0f65aefea92a076c2caf01ddb269b9db3624cc7fca3a2276154e83e7600"
+    },
+    {
+      "agent_name": "haas",
+      "agent_number": 3217,
+      "owner_hash": "e8d44128b2a4f4bc9465bde6a01048163d5c4d0406cce3ba44e748341b1c29d5",
+      "claimed_at": "2026-03-27T04:03:47Z",
+      "signature": "78988fdf55de674bc6a907253f9a9218ec89e69b96259111b7159d5ba8659cc0396c98fdd9e65d5bb5dfdbcabd70ef4bff2213605b9843140b53b0fbe957dd04"
+    },
+    {
+      "agent_name": "monke",
+      "agent_number": 3218,
+      "owner_hash": "7c013a4b5eaa3f4ff2eba4b1f4b60f2033e953d241eec94646a4c6a98757a361",
+      "claimed_at": "2026-03-27T04:03:49Z",
+      "signature": "da4188f4d877a6a4cedb32b3cc8dfd7fd144f3b08f6a62ac6488bfc0a8bdfe4dde31dbb37480674a4c68ea26fbb3ba1e21df4225aaea19972b3d62ed478eb801"
     }
   ]
 }
