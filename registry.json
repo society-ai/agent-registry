@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:37:32Z",
+  "updated_at": "2026-03-27T02:42:32Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1640,6 +1640,27 @@
       "owner_hash": "aab97e168d57c8e1c1475cb251735e1032ad5b4d7cb3d344adecd19424b0f4a7",
       "claimed_at": "2026-03-27T02:36:31Z",
       "signature": "61ee891f019937d6bfa8d4bca3abe21c31239d1f6b88d7649cec10bc59cb58d51da56cc3a05540da75a8ee411c96bf8add86ff2913106c17cac2c8cf22202f06"
+    },
+    {
+      "agent_name": "simo",
+      "agent_number": 3177,
+      "owner_hash": "26234b6deb9cb28518a0f8928888bafa564503f3737241eefffc41b1449f2053",
+      "claimed_at": "2026-03-27T02:38:25Z",
+      "signature": "fa611163314cf294f8b6e5cbc0e90444ba156f75154274126dbf12000f169ddc211c00327627c8a0377157f94ec86a850b564ba35decfbdf94cccfd1527f0b08"
+    },
+    {
+      "agent_name": "wakeel",
+      "agent_number": 3179,
+      "owner_hash": "2ee5655511cb6981c83d191d7b6e3241be6fff5212874747c931c3af315319c3",
+      "claimed_at": "2026-03-27T02:40:22Z",
+      "signature": "2cfea1549a5b830e7df23f49d78f0051605b28e711de45bc2c47a5d16f576b1e3df1411df234e8e217558230e3adb53d75ba6fbd4a625a4bc5cb97e4c7ac9a06"
+    },
+    {
+      "agent_name": "dataonly",
+      "agent_number": 3178,
+      "owner_hash": "e3247969e4b0b9094794b5da3e7ef6b498f92a7f1b746c5d47d209c37f157f75",
+      "claimed_at": "2026-03-27T02:39:15Z",
+      "signature": "0b003dc34ecef5fa8265d39b3dbd78e8ec72eba53e8146ab58526408957ac133cd74877349f7bcc5d422e9bb546c9b2e882bb2c22cda7aab75d8c2b183a31c01"
     }
   ]
 }
