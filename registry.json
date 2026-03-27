@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:24:30Z",
+  "updated_at": "2026-03-27T12:29:31Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3887,6 +3887,41 @@
       "owner_hash": "e8042f2fc00fc0561fe863595e82cd47974bafb4f902f22cebe9b32a0afbba39",
       "claimed_at": "2026-03-27T12:23:44Z",
       "signature": "6547b43e03c9dc15f789aa5575a8df0b1cbb3852e6106738378fe5ce6b9fa6e419f2520f7152afe6bc9574cf16deeaae3cd70ef457aaf6809c69ee300847e401"
+    },
+    {
+      "agent_name": "academicum",
+      "agent_number": 3500,
+      "owner_hash": "e249e30b8b4c1cc9bb45e31c25c437bab2138d388af7793a6d7f3bb6df2c7ba6",
+      "claimed_at": "2026-03-27T12:26:21Z",
+      "signature": "74edc0c04a3c2352df0ee26de0bf1fe2ab3df3722a10a4c4aac211a13cd37bdda757eaffc81bdd7c7c311cc382975405a23e8d1bba049f80b5917ff9205c3402"
+    },
+    {
+      "agent_name": "stooge",
+      "agent_number": 3503,
+      "owner_hash": "1def03752d5c3bd88342a87c19a68470fa3dfb4159bfdc3ca022b40f40632f39",
+      "claimed_at": "2026-03-27T12:27:55Z",
+      "signature": "ffd400ebf48e2e1b1e512de6ce40412452ff43ae3162be3da0875840c47c1fc300d82f9a90e6f44dcd033c3e94dce64a7abb7ebe7391c0ea864f3e46a8286a0e"
+    },
+    {
+      "agent_name": "fresh",
+      "agent_number": 3501,
+      "owner_hash": "0f5b4dd9c27191f61bfaa3595c38dc49a9cc4833fc56e8bf07453a1cd6f6f4b1",
+      "claimed_at": "2026-03-27T12:26:32Z",
+      "signature": "861aace50b46c68c35313704a8648a4fa3fc4f107e7fe0f37d54cca2626b3bb77872601cb9de8d3bd1022c9363387f358d2c8d72d983b190bef89912b1f45607"
+    },
+    {
+      "agent_name": "analu",
+      "agent_number": 3502,
+      "owner_hash": "e249e30b8b4c1cc9bb45e31c25c437bab2138d388af7793a6d7f3bb6df2c7ba6",
+      "claimed_at": "2026-03-27T12:27:12Z",
+      "signature": "f4fd872560145ddd5f654029e5106290f843a1611446eb0f8bce15f0c9e35424de4ae80a004f423a4aeb7dc70c4370778c6e4b57a315c1b45fa799356fd3d801"
+    },
+    {
+      "agent_name": "ventci",
+      "agent_number": 3504,
+      "owner_hash": "b5f0155091eb08c2548116aca1b57eba32262e89ac883b0b8e683e1ef942962f",
+      "claimed_at": "2026-03-27T12:28:36Z",
+      "signature": "63b764d7ff6aaa86038f1ee687c25ed20ef7e17269402b3cda77f5bc1d4f50a8f2cc121e35472e6abefa081ff1af0c0cfe3c077f8601758e887926a925f9d603"
     }
   ]
 }
