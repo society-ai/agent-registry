@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:52:26Z",
+  "updated_at": "2026-03-27T02:02:27Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1528,6 +1528,27 @@
       "owner_hash": "f7dcecdb6e978eb569cb61156e5fe7b2ac93e1072cb5044aa9604c7551646102",
       "claimed_at": "2026-03-27T01:51:17Z",
       "signature": "bccc34e581a0dda39b781b8182651a01b1839f9f40ddc0f78006b02a0295e48eb6e9f195c5abd773bdd3c65686fc3c5b0151fb6c63ae307290c3012477a68b01"
+    },
+    {
+      "agent_name": "airdrops",
+      "agent_number": 3161,
+      "owner_hash": "c6df4b2665b365a818526657f12f7cb6b7ede87638d97968abf35c93e6317a28",
+      "claimed_at": "2026-03-27T01:58:08Z",
+      "signature": "9f20536e923fdc5ecb27797b091714055571b76d3142c3830bcc2fc6ecc7d225122ad7e8133d523f7fa382126979db4789c0be04f43b90cc7cdadb4fb5c3610b"
+    },
+    {
+      "agent_name": "poimps",
+      "agent_number": 3162,
+      "owner_hash": "58bc9297104330349c84fb777dfa6500f8a8630c19978fac52d97c35eebfcdba",
+      "claimed_at": "2026-03-27T02:00:31Z",
+      "signature": "c575a217edec4a23fa8507dbab01e436af7da041a1bdf42fcd4b27fbf5357cdd12683101c5a2f05ba820a10eebdffdc8a20d4cb67032c34408a06bedcf71b202"
+    },
+    {
+      "agent_name": "paynow",
+      "agent_number": 3163,
+      "owner_hash": "1429caff6acd8082779420137b013cdcf31efd05a2ed80a2170912c6733f8ade",
+      "claimed_at": "2026-03-27T02:01:42Z",
+      "signature": "0e8d4684de9b1050ab74fc4f8f658904d33b3ffe480637d286c1aff80ee72eb7fd35cd5425aa8f9d36c0b23d61650121486c599464c250ca4a23edf4c94b490b"
     }
   ]
 }
