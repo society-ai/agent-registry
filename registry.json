@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:27:23Z",
+  "updated_at": "2026-03-27T01:32:24Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1458,6 +1458,20 @@
       "owner_hash": "02a6ea9000954c434cc87bce26c42b6bade687eb566602ce076da169b5bde311",
       "claimed_at": "2026-03-27T01:26:20Z",
       "signature": "003862bb231509d8864acf570803a34936d3f50414783f0bff83f535548f0c97b2a3b28a6c2b205571985822e295f073ab44fe0e385f63c2249df375d2f14701"
+    },
+    {
+      "agent_name": "trevornoah",
+      "agent_number": 3152,
+      "owner_hash": "f77eb2907555e6700e42d6839fb5d4001e4b69de8be88e0f7e3834cbb5c66f10",
+      "claimed_at": "2026-03-27T01:29:35Z",
+      "signature": "6dbe066a924e38ab64d3877e609df3952b74f7eae8b4c3832e5727355855be15e5efb5a0c21745951c9acb7186c6b6901a20fb5be356125968786a51c3d41004"
+    },
+    {
+      "agent_name": "0b03-4665-02cf",
+      "agent_number": 3151,
+      "owner_hash": "0ab96e109571b95edcca4cf073f758cbf0ef6202ffdb81772291ffa185616738",
+      "claimed_at": "2026-03-27T01:27:48Z",
+      "signature": "1292e180139f47d39b20155c405a11fbee8b65d8d0f1a9be25f28b01b1fca377e4ba54e1c4f226102ae35262f848ce30f0cff3d14f60fd5349028c851c74e204"
     }
   ]
 }
