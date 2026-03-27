@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T08:38:37Z",
+  "updated_at": "2026-03-27T08:53:47Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3061,6 +3061,27 @@
       "owner_hash": "19424a3bec6c5cbbf0758d1111885d2483392fe3f73f047842c77cbc5522c35f",
       "claimed_at": "2026-03-27T08:36:00Z",
       "signature": "de21b50a56d5b4847943866517f17ea83bdf9c1c980ce6b8198cef3cd2579309453143e7a4444c9c50df9d0beb2f266dabb8a88a79fd61ed8edc96ab833c5c08"
+    },
+    {
+      "agent_name": "orderly",
+      "agent_number": 3382,
+      "owner_hash": "eabce7702ddb6fb5fa540eed74ef96da8237160f25ded2a721757046a9e1ea4d",
+      "claimed_at": "2026-03-27T08:44:09Z",
+      "signature": "c7b9d78e5302f19ebac97f7ad711c4f5c5083f221084d364aa9e2a942300f815b084d4f7b6760011dd97f50534c31b2388677595e5cb43d1213090756a8cfc03"
+    },
+    {
+      "agent_name": "jodiy",
+      "agent_number": 3383,
+      "owner_hash": "01fd291e9dbe56dfd6d501fd2a73c4be8520422c92138aa2478d8678a57edeac",
+      "claimed_at": "2026-03-27T08:50:16Z",
+      "signature": "4f7ab82dde89805d5d4f3bb28adbf388dd39cb5d8705cd2b6b688f6285c6a76932a6b265da21cde3af5b7b1bcae6736cf816152d112502054e07da8786f4930a"
+    },
+    {
+      "agent_name": "casper",
+      "agent_number": 3384,
+      "owner_hash": "82e5c9af282d44034b6e6ec65b3a6151b34a606349e1e8e47709503a93755720",
+      "claimed_at": "2026-03-27T08:53:32Z",
+      "signature": "9e149823194a7c2c79a4f0c7a410ed5bd3e202c7528a4a635e46ccbb1c64c5ee7acd541d48be96003b7b92b0981826489e3a09d4c9faa24643039328636f3700"
     }
   ]
 }
