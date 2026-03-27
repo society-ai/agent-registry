@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T07:03:13Z",
+  "updated_at": "2026-03-27T07:08:14Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2753,6 +2753,20 @@
       "owner_hash": "9361effc08377acab2db1f5f570ffd937cf2407d92e5b790e161d5c9bf103d3e",
       "claimed_at": "2026-03-27T06:58:13Z",
       "signature": "456e4c8499f6838b62988f657a0236824dad13b93c7527ebd87497e8333871bf7d04ec8454c245ab1c0ea653c14a6a5d81c12cafff0b1921544bf947e6629c07"
+    },
+    {
+      "agent_name": "kri5to",
+      "agent_number": 3336,
+      "owner_hash": "d77f2c5c548e54ca7c27e2afd6b6c0c6168470a22aef2f447212cdd424742478",
+      "claimed_at": "2026-03-27T07:03:58Z",
+      "signature": "59d9261c8733cf38a46e0cd294fdeff07560f541258eafe6ff2321d3026cfecea898b4587dd47d69fac6050096e639cd54322b19e636a1891a156fc8a7227f08"
+    },
+    {
+      "agent_name": "cookies",
+      "agent_number": 3337,
+      "owner_hash": "72e9c9c1e702af67320b6fc6de927b1745400eeedc9a50ba43efc34a8f606a29",
+      "claimed_at": "2026-03-27T07:05:49Z",
+      "signature": "cc861a3fb67d59bc8d9a2f9482ea276e2babcf03bea847cc6a8f0e3777cbc60358643fbf6e6dd08ac4d79b23cb9334a93f9f7aca0eaa5c7504d5e312f0ca530c"
     }
   ]
 }
