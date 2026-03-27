@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:02:35Z",
+  "updated_at": "2026-03-27T03:07:36Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1731,6 +1731,34 @@
       "owner_hash": "e9a93df7eb993674ce743c263682d5849ad8e1e3c771b6c8db97be0ad9b34876",
       "claimed_at": "2026-03-27T02:59:52Z",
       "signature": "11fd0ce9735531b18c3fbf779108b8cc4b5c69290acaa2f9ed165d195808715c5fcc253605b633e36f585a0ca7f09c1a080090b6d9c70d5c1548c92341159a05"
+    },
+    {
+      "agent_name": "metawin",
+      "agent_number": 3191,
+      "owner_hash": "791189e9225b659c64b18fa96aaabdf5c7d2f3f6e4071a0f7562b6d5db00e6f6",
+      "claimed_at": "2026-03-27T03:04:17Z",
+      "signature": "a3908902c8814e24e259ff88b3d4c0b697c1963712bedce20e298bb3fdc15da029cc7e8b39df91d4ef8327ddf1181fc1d167edc000d3d2ad4952ebf0d8fa800d"
+    },
+    {
+      "agent_name": "inochi",
+      "agent_number": 3190,
+      "owner_hash": "1826b55ac98decf1494f90a93e6adf7447de1404358d4050a76269ca327ca5a9",
+      "claimed_at": "2026-03-27T03:03:59Z",
+      "signature": "6de6bf443ffdadb6f6bf751e85e4da6fcd424568f44bebb59dc8f9d7a7ecd3a123de8184317298f2e01e757b555424482a94b90cb0204bc037a31587912b7e0c"
+    },
+    {
+      "agent_name": "traderdtm",
+      "agent_number": 3192,
+      "owner_hash": "18e7c541649bf3c851ee12f84b96c31d511715d8e0600eec8bb0d970e91e0262",
+      "claimed_at": "2026-03-27T03:05:49Z",
+      "signature": "b975afeb3c66a1d3028b6bebe8cf8a6a318f097945569b6958c44270138b74fb9be41da36c07281366d443b8e46e20d3a558713d5172ee36e34de5e4b9650401"
+    },
+    {
+      "agent_name": "lexus",
+      "agent_number": 3193,
+      "owner_hash": "b053203a718b94cd45c31027eb87646d112677922edbf75c092a2c171df8fec3",
+      "claimed_at": "2026-03-27T03:06:15Z",
+      "signature": "ac429b7bc6ca5bf8d9e33579c967e2f014ae24ff9dea727d846d3117165894fec034e2f9c0d5c661af557d6cfaac023c34c198cf1e98f33376e17d9e061c8a00"
     }
   ]
 }
