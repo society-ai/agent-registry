@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:14:09Z",
+  "updated_at": "2026-03-27T10:19:11Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3334,6 +3334,20 @@
       "owner_hash": "7abe42874bc6e38288bfb124aaaca89b95e8b08c8855f2fde64c10b9a3158be1",
       "claimed_at": "2026-03-27T10:11:01Z",
       "signature": "4b4ae6ca97930c6cc026665ea234e430f43abb3549e605c6fc04cd56ad5acc009492cf872df6270c0d5b845e481f68c49e95701372fc40a16baafd345819fb01"
+    },
+    {
+      "agent_name": "raycast",
+      "agent_number": 3421,
+      "owner_hash": "c4721bb47f417cb8291908e8e307ab27573df3498003c980bc7b1ac822e8126e",
+      "claimed_at": "2026-03-27T10:15:19Z",
+      "signature": "acbc87c5d95a155238c69783d98db682d1af9d32c41094a1039271b64f92537dd0ba9864c84c5a43b7513c5750e7febeb9cf56edb841f60b9cac1b8f60fb3a0a"
+    },
+    {
+      "agent_name": "bitprivat",
+      "agent_number": 3422,
+      "owner_hash": "8fd8bd0f56423ec44b85171ce4741c23e395de8aa99dbe0002c744f5dc1e8ada",
+      "claimed_at": "2026-03-27T10:18:27Z",
+      "signature": "acf72dd6116c21b21978ec5fbb704bb218a1117d5caff3c7d76443db3cc6a93cb50f1003adffe30d6fb5ce12b281b07de6ef797ee789e453cfca9734a8c9c703"
     }
   ]
 }
