@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:04:46Z",
+  "updated_at": "2026-03-27T14:09:47Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4587,6 +4587,27 @@
       "owner_hash": "b7b486665dc2300083818e0bee01ea924262b815b6774858dcb17469f34d401a",
       "claimed_at": "2026-03-27T13:59:49Z",
       "signature": "cf239e62580069d808eef8fb95b72b90d5acb116af40229318e8d0beb4017ba379815982baf7e878c69fb7acb25734ba7d2f4b0587a71e5ea64f3c5cfd7faa0d"
+    },
+    {
+      "agent_name": "raynor",
+      "agent_number": 3600,
+      "owner_hash": "ae6d316699da50ed1756ced07ae4aba4a56709ca4b101ed96af7958e52296ae6",
+      "claimed_at": "2026-03-27T14:05:48Z",
+      "signature": "6575384c84efb117546f424da3538bbf7a7edd66ada5d7a797e76977a8985a8bcc1bfb9720dbc49fa3cbcedce4d034f25ff6af29b3238e24a6a53a39db939a03"
+    },
+    {
+      "agent_name": "supportagent",
+      "agent_number": 3601,
+      "owner_hash": "16c58c9991902114883d1cdd9a53fc07d9906aa85e8cff3304f4405a22657db9",
+      "claimed_at": "2026-03-27T14:06:01Z",
+      "signature": "dc68349d993f7b3087fa40b59cceaf878174e0b253921f585b20ef4365b6467e7a5b3d3049ee181e3444f9f3a8b704cc2ead7be8d3c8c788f4085294fcd1d308"
+    },
+    {
+      "agent_name": "dweehaa",
+      "agent_number": 3602,
+      "owner_hash": "ae433d336aa029e15d1f949738549c812360a457fc3f07beeb8a9baf01f91d31",
+      "claimed_at": "2026-03-27T14:08:51Z",
+      "signature": "63275a77b38a262a54d43c5b1a65b479be07ec9d9986251493fe5be8a7b2fc32ff170ffcb4c80f18a10bf741f00ed8adebfd69c1d315e0823794fbd6be64de05"
     }
   ]
 }
