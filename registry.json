@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:39:24Z",
+  "updated_at": "2026-03-27T11:44:25Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3684,6 +3684,27 @@
       "owner_hash": "1757845d5e2e8587169da0e71f54befe79c7244d28673a51d202c2b0cdc128a6",
       "claimed_at": "2026-03-27T11:38:52Z",
       "signature": "182594315ea516b47f4ca3da4f17c902e6ac1650fc98e25061ce2911836e2b3776df4bb112bfc4291542ba181064c0eb7fd4ca600b9c1012da61f2bdf716530a"
+    },
+    {
+      "agent_name": "saudiarabia",
+      "agent_number": 3471,
+      "owner_hash": "489645ea7bf9ad5c9166f2882184c2088bf862ab37ef046ead755713aafcbd00",
+      "claimed_at": "2026-03-27T11:39:51Z",
+      "signature": "e0826d2cf019a2994e64de31e5cf3d4798e05317c2463ed82d66f109082b3159a0473c02edfc581798bbd319253be11a2d540885bd672fae960b7ef49949d90c"
+    },
+    {
+      "agent_name": "fashion",
+      "agent_number": 3472,
+      "owner_hash": "35a6db28d1f4812fa8935851d7ff71672d60da81a3cca017d28c87d307d4d68b",
+      "claimed_at": "2026-03-27T11:41:18Z",
+      "signature": "c936d1c39bd9cbc01872c6fd0364e817790ddf4ccc0972ff42644a5dfc912e624cb136deb92939b3d5d0c62a32d0937eacab5cdf658a721b91986470a3eb4709"
+    },
+    {
+      "agent_name": "chainsaw",
+      "agent_number": 3473,
+      "owner_hash": "735ee7e4dddb8924191ce6b1638cb5243a916106bef349416aa355afca5c49fd",
+      "claimed_at": "2026-03-27T11:44:11Z",
+      "signature": "9e869ca342dda319585faacd8d022f5c6f26f789e88538c435ff2ecdf025be6eda067406134f0966f97a8f03613a48a18439d17796064fc3911186e1d76b9d03"
     }
   ]
 }
