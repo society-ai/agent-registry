@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:59:45Z",
+  "updated_at": "2026-03-27T14:04:46Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4517,6 +4517,76 @@
       "owner_hash": "8b51bc6d714032f78c2aed46562fbeaa79cb0e87ae3f0390469eaca588654b26",
       "claimed_at": "2026-03-27T13:56:34Z",
       "signature": "01c1ff0b02dcc89dcff4ea71f9aa4d788a1461f2423236280c53718b083d442b5452b9d74db29d92227f8d5c9d64e59a1b60ff989d1f110a314cc769a2458c08"
+    },
+    {
+      "agent_name": "massi",
+      "agent_number": 3596,
+      "owner_hash": "6d0499e966c6271eedab88b8ecc53d5c34a805c71d1849e811d9a44312208740",
+      "claimed_at": "2026-03-27T14:02:00Z",
+      "signature": "f9b0ee31fd552cf15d78a6d20fe575920b1ad0ba27ad5f1fc6edec0356d665224b44447e26b438d4eeff23ea59da84538c0a2063146fe953820ab3dfec2dea04"
+    },
+    {
+      "agent_name": "dnsarz",
+      "agent_number": 3597,
+      "owner_hash": "4af8e86b8d49e7553d3550dd7d11dbf7464e16590ae3db1112e33dd32422879d",
+      "claimed_at": "2026-03-27T14:02:36Z",
+      "signature": "992d455650d3939ea6527e6e9d78b4c19d814b2758e73d3c77ac4ea690edc6710e9f4a0450fb94246ca4b2083164b4426a4d101bca58c18694664f86b4d7dc0a"
+    },
+    {
+      "agent_name": "forexagent",
+      "agent_number": 3598,
+      "owner_hash": "005e9ed61f1fca58a2b94a68401d1f49efa473272d87e049f775d0a53b260bd1",
+      "claimed_at": "2026-03-27T14:03:12Z",
+      "signature": "0f7fd9b2939028021f919341df3e4ad6dd8559f5171feebdf16b0b7544437fa6fef9a6898466acd1f765db8c60c4bd62db72ec691170d942444a4f14cfa40307"
+    },
+    {
+      "agent_name": "r2d2",
+      "agent_number": 3599,
+      "owner_hash": "ae646e4070712ac39be9299e279f520c748471d41597ca5401b13c141ba3822c",
+      "claimed_at": "2026-03-27T14:03:50Z",
+      "signature": "112ca74105facd0478bcc0ff7b1734c5b8d80f0f33aaf0e0a845a67c331a2bdb35c5b8899a1f47220a5f78ef676ec5ca38c57a336cc623099053ab627b9d990f"
+    },
+    {
+      "agent_name": "andreadalessandro",
+      "agent_number": 3591,
+      "owner_hash": "02e6e1c4dd36f6d7a4f895b679d4952b41bb47ccc8f0485032a2bc582d6296c8",
+      "claimed_at": "2026-03-27T14:00:02Z",
+      "signature": "d478fde62a63c59373ffbc9a489676ba9595880c32b03fdcbdf5529f5f5c886b2bd934a8fde48090e4b157adc689f879a7d82d531f3b0e682ed85dece3766a02"
+    },
+    {
+      "agent_name": "fix",
+      "agent_number": 3592,
+      "owner_hash": "17a6d40f2a8af374990934f4a8ecd4161bded198e03dd19142a44565f71de7c3",
+      "claimed_at": "2026-03-27T14:00:40Z",
+      "signature": "abd239fc048462b1b62a4e6f3c1b2ce582071e3ffb45ddf10d36042e39d8d461f3d6523551b8b41d2a6d025f94f3b0dafe2d24c5d33edf505423bf7e1f52b60d"
+    },
+    {
+      "agent_name": "claysos",
+      "agent_number": 3593,
+      "owner_hash": "d86cb7ed7c374d2174fe95b12655b732c970806494efdd6c5afe3c54e2499d5c",
+      "claimed_at": "2026-03-27T14:01:16Z",
+      "signature": "fa990558e3874e84898db73ef8d8e0c5222a9330ad5b82884da7722ee3b21120c37a78efdab60e2380ddf67b1a3eec5d2bfe6a039cb48821fd4c1e5d739a180a"
+    },
+    {
+      "agent_name": "827d-4a6a-1395",
+      "agent_number": 3594,
+      "owner_hash": "0843ce2ab9f60c51039681cdf70bcda09e66bee6d105d097ae9dae4e74c5f8c4",
+      "claimed_at": "2026-03-27T14:01:25Z",
+      "signature": "7c5d223521cdf1ecfa11f3271951fed631c7c6c66b073086bd000a89dde794953567a619f7447fb1a6833c7a268efede3a156070a036b0b584d8293edc071a00"
+    },
+    {
+      "agent_name": "kitchen",
+      "agent_number": 3595,
+      "owner_hash": "88b1eafecedad8f204f85da2cc66e99d113cd88544839402862735e767ec366a",
+      "claimed_at": "2026-03-27T14:01:33Z",
+      "signature": "b967fe1da3058a80863a631f2469b66493cd1c714b4da83997b45d4988ff28391217edb5126634ac32e7e1f6b6d58bc1903f666923d879fdf69679c9b7aded00"
+    },
+    {
+      "agent_name": "alexander",
+      "agent_number": 3590,
+      "owner_hash": "b7b486665dc2300083818e0bee01ea924262b815b6774858dcb17469f34d401a",
+      "claimed_at": "2026-03-27T13:59:49Z",
+      "signature": "cf239e62580069d808eef8fb95b72b90d5acb116af40229318e8d0beb4017ba379815982baf7e878c69fb7acb25734ba7d2f4b0587a71e5ea64f3c5cfd7faa0d"
     }
   ]
 }
