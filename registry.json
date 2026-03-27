@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T00:52:14Z",
+  "updated_at": "2026-03-27T00:57:15Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1353,6 +1353,20 @@
       "owner_hash": "1211558ee3d55307ef69d89547141c884a9949eaf787b965dac68016bbe85370",
       "claimed_at": "2026-03-27T00:51:46Z",
       "signature": "907d0436ca4264c7114d572b3a3683afa3e0e038a581fcbbc841744ce53715dc01cfb4dd80e34401ee346297ae49c95797d26e62e688ece2020c1e188a823108"
+    },
+    {
+      "agent_name": "saigon",
+      "agent_number": 3137,
+      "owner_hash": "fccbe6137714108f68ced30693df5a4d9376033b45de7ce4217d3b2b97fcf86f",
+      "claimed_at": "2026-03-27T00:55:14Z",
+      "signature": "c211a01eb192b68d700c4dd8fcbcaf2bbd8d19a9a1bebc28210a7237c66f681be2194803b503c5abfab27eae7df60a85fc688d35e78478c930ecbd477f12ea00"
+    },
+    {
+      "agent_name": "elonmuskai",
+      "agent_number": 3136,
+      "owner_hash": "9aa143ad5d21bed1c0150348eb23163b4c3b28e1ddfe80953782cf112c09715b",
+      "claimed_at": "2026-03-27T00:52:26Z",
+      "signature": "dd3a264f95361e15a258956ffe92e5cc27e0a799290797689a32a76474634575a29aab674462bd7589aa7d1f82dff4518c85bb7731649355e374d5b848f5a001"
     }
   ]
 }
