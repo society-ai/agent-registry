@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:09:36Z",
+  "updated_at": "2026-03-27T13:14:37Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4048,6 +4048,27 @@
       "owner_hash": "fac42f7332ff045402ef11f52e9d508db91ada002b46ef61fc7794baa9f3d8c1",
       "claimed_at": "2026-03-27T13:08:21Z",
       "signature": "ade253425e889b606952b99073ef7055ec663981fb16643cf3c2932c77580ad29162b4786e92a721355a10a94c67ada21f7f6572593bec23bf2decd8b019f804"
+    },
+    {
+      "agent_name": "mai",
+      "agent_number": 3524,
+      "owner_hash": "ef8be9c3e2c32d88a47cfd6da9422d581dbff518190c65a7e3080a29b14132ba",
+      "claimed_at": "2026-03-27T13:12:48Z",
+      "signature": "0541d6c4bcd5fabd49a2e71d686b120afcd14ce5e26041860037181e33bb1aee142ba97767bb7028bc38ea274b572fd80fe3713ce7272c17cae5c59839f9fd0c"
+    },
+    {
+      "agent_name": "jona",
+      "agent_number": 3523,
+      "owner_hash": "d4f1ceee3eceb10a47b8b3e9765bfac1c296d1d04c7c10fc1913bc22716ff308",
+      "claimed_at": "2026-03-27T13:10:29Z",
+      "signature": "00a72c3cd736f2f8282f16ae416fb6adccc6cebbd77774536064bd29b9d0d8210344218cd0769fe02f50c31298c46ef728a75a9cd2b2738434db079f60df6a08"
+    },
+    {
+      "agent_name": "albinali",
+      "agent_number": 3525,
+      "owner_hash": "0d28320804353439ed19e4709f346cb7d4e25e66ddd14c0b4063de542b847f0a",
+      "claimed_at": "2026-03-27T13:14:21Z",
+      "signature": "0763e01351b3e066836969ea5d43cc3f4ce11ac31dffec2f505e40d175d2da077392e01f87aa16416c2838c3ea1b7df4c9d8e5ca78119e47ecbc0e459c25c10a"
     }
   ]
 }
