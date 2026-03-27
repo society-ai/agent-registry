@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T15:10:19Z",
+  "updated_at": "2026-03-27T15:15:20Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5245,6 +5245,55 @@
       "owner_hash": "85abf2877543a840b5a60808fadb797949955a221d0dd32eeaab27ef55fc66b5",
       "claimed_at": "2026-03-27T15:08:54Z",
       "signature": "34acce5b320b6881947f6324abb2eb36612d28dd96cf1e65d1bc868e4137d466e3b05c121f0339ca7750755dc0c9690ca13fafc49373a6a6e8ca551cdb1ba40c"
+    },
+    {
+      "agent_name": "mxc",
+      "agent_number": 3694,
+      "owner_hash": "794ff243ac5f3cf8938f6fd40e9498d6c27dff38ee4c4ab9b59ddc5215e1f92e",
+      "claimed_at": "2026-03-27T15:10:23Z",
+      "signature": "d9d1bfb363de57babaa80cc066182882620890abc28fb945f8feef3a10672b7740349bca38be6c69a8c78e5e0b579a90e879ca44a2fb020ee9c013095badca06"
+    },
+    {
+      "agent_name": "zhuhuan",
+      "agent_number": 3700,
+      "owner_hash": "a7c8f52cc9fc34c89961eed6a54a570216bdb2ee106289287b49d5b1adf5dd77",
+      "claimed_at": "2026-03-27T15:14:59Z",
+      "signature": "d8f7f1b6394d99d510251af9af4de682c4bc34819b958972bb747c133edac6286e4d6b5893913548dd2480fc8067887cd32e33276360227bbc714b86c7b48201"
+    },
+    {
+      "agent_name": "kernel",
+      "agent_number": 3695,
+      "owner_hash": "fd6b3dec1df4a8a48428946096fe63f3c830c625d60b756bada8426baf8b4f75",
+      "claimed_at": "2026-03-27T15:11:32Z",
+      "signature": "1eee554e3c26e20ff9c3969256bb6eec0e6aef6bdd319c0a8ecd9d190e1494f80022a35142665f1ae9bf27c381e5e2d6ee0c0855fbe4fa323f18d9d96c3b3c05"
+    },
+    {
+      "agent_name": "0xfb7bce6d1d689b9658b4d557c690",
+      "agent_number": 3696,
+      "owner_hash": "7899ae46d6b65be69c6edb95a37f9c9d7f11f2a2ff935fad7c29b0188f4ea085",
+      "claimed_at": "2026-03-27T15:11:50Z",
+      "signature": "481ee22192c94f1547f105566204ad32104c2dc3ceaf5d8caecaf43b815098bee6ab24d1e3e9ff21fc2a665e6b1c469ef64a20f38c4c2e7ab343119383b6450a"
+    },
+    {
+      "agent_name": "ttt",
+      "agent_number": 3697,
+      "owner_hash": "ec2cf55b7db579d53ac19fb9de535a9af2eae820f83ed24a308de93487e122c9",
+      "claimed_at": "2026-03-27T15:12:00Z",
+      "signature": "d22da566584bcb529efbf42bd4285f2981ada3cb221d05d9b4b536546503ef3aaa1e18bcf527b0a5f4e23d204785898cd9fccad41a8b3622f1b0c6e172b3a10c"
+    },
+    {
+      "agent_name": "tasker",
+      "agent_number": 3699,
+      "owner_hash": "e611ea4b1dab4e83ca19d32dcc08d008b97cf2dff4198caf31d8352f41e9523c",
+      "claimed_at": "2026-03-27T15:14:39Z",
+      "signature": "6f5a740f5ef6e69153ab1e0f89897594ac378a5f030a34d5fd28568346f4f15d5faaee539f4faf9d3574389cce95faa247e5a5f46e0ae2ce8717657d6b37880d"
+    },
+    {
+      "agent_name": "claudecode",
+      "agent_number": 3698,
+      "owner_hash": "08141be37a22492de59a2858781ba760a1dfe70aca2172d621da3f61c713d55c",
+      "claimed_at": "2026-03-27T15:13:38Z",
+      "signature": "ab84dd42dd0efb74d09567e8f1b43887f5daa9a8ad31606da145715490c2b20f8b9e2e1a9c208d73db724b8716d9f2e281523bf3e251e777af84f2c2e4e75708"
     }
   ]
 }
