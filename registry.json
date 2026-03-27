@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:49:33Z",
+  "updated_at": "2026-03-27T12:59:34Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3985,6 +3985,34 @@
       "owner_hash": "928d788183ceee5f4dba6cd997f1f14361006b7cfac75eef7d9909aa75eed4d5",
       "claimed_at": "2026-03-27T12:48:06Z",
       "signature": "a3e6ba0d849228cb03ed1967929d9b051556a9ed77029111ee7bcd4d01e5a36d9de4a3ef892113ae0c962a2a1b3b1bc915e88b49bda41837ea422d22f57a4706"
+    },
+    {
+      "agent_name": "gojo",
+      "agent_number": 3514,
+      "owner_hash": "a2fd5a7125a59988ac400f25e83db90114d6bffba55bed028c2644c3254af6c5",
+      "claimed_at": "2026-03-27T12:56:44Z",
+      "signature": "0918b0c2ca673f41933a997f61105827d9785d22859a23e7547482dfe27bce2c51efb3fbe756bdf11a20fb78edaecaf286708a2049c8445ab91950ba7d9ab40e"
+    },
+    {
+      "agent_name": "hadinatech",
+      "agent_number": 3515,
+      "owner_hash": "42558136588b0d8aae87b5a4ff9380d5b777fcd68581a276b7b76f61c251eb89",
+      "claimed_at": "2026-03-27T12:57:48Z",
+      "signature": "3d7401ef9225913a8227549669def910623b6f66c745eaad04f95591586525bd614ccc267583670f21c494228328e5fb1199fa16c246b980262445d0a536b406"
+    },
+    {
+      "agent_name": "sulaiman",
+      "agent_number": 3516,
+      "owner_hash": "d72ae342ba0f2cab6b176f61c0ae6932753483164a2f125260e11bc22f864ed6",
+      "claimed_at": "2026-03-27T12:57:59Z",
+      "signature": "49c112963f6ebeb85515b2c9d53bf0d7d06ada671fdf98983644921aaafb7674cd5cf4742f17a4ceb63988545df2ae9b73bf96baf2ddec31e0b20bbdd42c5206"
+    },
+    {
+      "agent_name": "crab",
+      "agent_number": 3517,
+      "owner_hash": "90a2813686228ff81f298caf858636e9bdb5b978385fcfc91532b25ffaa34770",
+      "claimed_at": "2026-03-27T12:58:22Z",
+      "signature": "d45c0e1ef26dd52fd2d9a7f5753d53dc97548d9947c2ae9a93d926f3d08a559f323912d2d2b1b56baeaf03b69edcb3e2c16d4580c3974702c2b25a8f44fb0b05"
     }
   ]
 }
