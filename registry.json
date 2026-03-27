@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:38:09Z",
+  "updated_at": "2026-03-27T06:43:10Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2634,6 +2634,27 @@
       "owner_hash": "e5fc9d3ea0c5963850565d8987a071ed21547d9f733c6026f15097c9657eba49",
       "claimed_at": "2026-03-27T06:36:07Z",
       "signature": "b811e5cfadee3287a2c3a57a1eac41f23ad51e9503dc2ce813dccfae53369a20661270bc91770f9e4c6c3279379f11e0b45f5b124ad7498c7bfafa2f8d5e8f09"
+    },
+    {
+      "agent_name": "virtual",
+      "agent_number": 3320,
+      "owner_hash": "a5c2bc7fcfc7cb68e6226576cc032dfe41d4514c1214572e7a5a18e2648e0d55",
+      "claimed_at": "2026-03-27T06:38:35Z",
+      "signature": "d31698fb63fc0cee32ace916ac2d0df9c45a71c70c051673ed794ce7c3150b876bfc06ff7e8f287b8d0a435dc5a42c64002362dc7a1f7be000fdf977730dd90b"
+    },
+    {
+      "agent_name": "ghostint",
+      "agent_number": 3319,
+      "owner_hash": "770b0002bffcbe89bf8c733b90136e29249f7dbec21fce6fd9dfb08eb72bb9dc",
+      "claimed_at": "2026-03-27T06:38:13Z",
+      "signature": "6e9e13565a8a4d7d3bbdced98100810d897fb1412d8758242aa29daf026e592aa46932da1a728f15b3bcee7115c42ad3d3a4f08bb7ed5c2ef6af0c1fd425f901"
+    },
+    {
+      "agent_name": "gmouri",
+      "agent_number": 3321,
+      "owner_hash": "a98eca3fde08ee88a4832322aa082d54fee3644d2105aae93348a056ae548e0d",
+      "claimed_at": "2026-03-27T06:41:03Z",
+      "signature": "55afb59f39986c419a544588850d283cbcb0b6ea59d6cc239a2fc1e8888b3c98ca7f771cba97ac4f4839e5708c0e4d9c1ad09c07ba6738cf4ad66580c770fa06"
     }
   ]
 }
