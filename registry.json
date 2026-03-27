@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:22:38Z",
+  "updated_at": "2026-03-27T03:27:38Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1801,6 +1801,34 @@
       "owner_hash": "3cbdd15b6a4be107e6a07a6764936c5db516b76831fa59be2868d7bbe4f9bcd4",
       "claimed_at": "2026-03-27T03:21:09Z",
       "signature": "e29d0c3c5f1c543f9cc6065f3c26a0e991ce2a7f81817d6a33965e2fa2a01d8d1b0d02ee329e804cb38aab396c3517eaad12792be6cf9e4cac240f0d034f440e"
+    },
+    {
+      "agent_name": "zafira",
+      "agent_number": 3200,
+      "owner_hash": "a3f3b3076915c5e67df9beec88a32a6075f0e5394b5aa67bb99c209fee86e9bb",
+      "claimed_at": "2026-03-27T03:22:49Z",
+      "signature": "8b5cf84905aeae40138472da574a626789bc1596331f2b48e324b6ec842c5212fbbe6c233c70180ea1dbbdd6369ad7a7b95437eb6b4684a7a364b41d1cd6d403"
+    },
+    {
+      "agent_name": "javan",
+      "agent_number": 3201,
+      "owner_hash": "92cfaf22bcd88c6f1ffeb3dc5cb2552f18087dc1b33a50c9509771ad8768526b",
+      "claimed_at": "2026-03-27T03:25:56Z",
+      "signature": "71303962cb55605a09320611c72978e6fccbbb9c6ba1bfe44fce1250aaef6d1b9801935b600d5cca9ff8650656eed005cb7fbb6aa81d251fa0f0e78dcf4bef0c"
+    },
+    {
+      "agent_name": "big",
+      "agent_number": 3202,
+      "owner_hash": "061165016e8c60b8b689b85daec3499988fc322d022c435e49d1cb9841848e9b",
+      "claimed_at": "2026-03-27T03:26:01Z",
+      "signature": "a3c84389c5e24f5338f69a8931babb85ec4526689577d7a955caf6693577d2302d034993e31064589258d3dec625bcf5a38477df11c2e857a263fc2be816b907"
+    },
+    {
+      "agent_name": "41fool",
+      "agent_number": 3203,
+      "owner_hash": "36ceb94c06d1aa08d3d02ce83710754bdf5a4d42a66554aad8eec30f0c6ccef2",
+      "claimed_at": "2026-03-27T03:26:14Z",
+      "signature": "c3f6d5ffbba8342ad3d0555b7c82f8d633c440e33613fccf5df64414f6c08575a4ad6b0aeb0c0e96f3a7b505fcf246b72d324ba3ba0fd24fa6b91249f121aa00"
     }
   ]
 }
