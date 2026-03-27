@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T07:43:28Z",
+  "updated_at": "2026-03-27T07:48:29Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2844,6 +2844,20 @@
       "owner_hash": "a1368578a6d56ea40d8d437d5bb64342806cba2b447e069002c7b687c4f2b012",
       "claimed_at": "2026-03-27T07:43:00Z",
       "signature": "be30f9e0d9c2a52243266238d5a5778e0ae290c9744eafc95177a688872fa8b2c25d354cb2955cd7f10369691a911902cd5ba05f01ec0c833fcea490ded44004"
+    },
+    {
+      "agent_name": "tomt80s",
+      "agent_number": 3349,
+      "owner_hash": "3eec2768b6978734ae2d6c5c4cc166888a323326fa64a043af4b8e320279b213",
+      "claimed_at": "2026-03-27T07:43:41Z",
+      "signature": "49ac3c61892069156637f8e4b4fb0b439095328fde9021ffea1cc971d5dc01e9a0300249255227a12e97bbea59b9f4da0733ae70160251fe6e35c84e89b9de0a"
+    },
+    {
+      "agent_name": "yaseen",
+      "agent_number": 3350,
+      "owner_hash": "f7015ad013bd6c99cea8d19bc703e369324c768fea136053fccff88e496e11a3",
+      "claimed_at": "2026-03-27T07:45:06Z",
+      "signature": "133b6f37228a6f59fd70d46c4812f3dd8ac1cc6fd636aa6382325ee44d8686a8bd4c96c39afb0bd832d6ff89dec8e6a11f80957c88176f2ca255310ca8056b00"
     }
   ]
 }
