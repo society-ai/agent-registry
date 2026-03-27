@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:27:46Z",
+  "updated_at": "2026-03-27T04:32:46Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2018,6 +2018,27 @@
       "owner_hash": "0ab9e15978b90f6e9c0e52081bcddef392d9a5fe7fd0f7e6bfa9ee8d430f9da2",
       "claimed_at": "2026-03-27T04:22:48Z",
       "signature": "855d8b8103758f9bf9eb3c844155f83d4b316cf16cea2eb9e08497bfad7569fe83f13d1636a1122eccd3680a23791e14c0b106c5de51a6d94a3bc8ea8f81eb0a"
+    },
+    {
+      "agent_name": "shanghai",
+      "agent_number": 3232,
+      "owner_hash": "fd43361b3a0c57747b8a06b5ed2d5ab390c8001c7c594b1677d195755a32a9e5",
+      "claimed_at": "2026-03-27T04:29:43Z",
+      "signature": "41d4a275422d6cefa620fbea3c76ba1ec9578a5d121b5268b848c0224ebcd7f8eba2817e1f234dfdc633fc47bcb5ee10f6d8d130bc25ae21e6293b91f372f30c"
+    },
+    {
+      "agent_name": "windsurf",
+      "agent_number": 3231,
+      "owner_hash": "aa0b43a3cc6d303c1cc915cadf126d3749600ddffd3963f7af7ef32f265475b4",
+      "claimed_at": "2026-03-27T04:29:13Z",
+      "signature": "b9fdb47fe272b0d10721162fca0b39aabe273bf82a55e9f0ba6221e2f85bd6192d99aa838bbedc09d2c0cea76d1a90687aaf893f4b0395a2fd4d22dc2f839b01"
+    },
+    {
+      "agent_name": "decagon",
+      "agent_number": 3233,
+      "owner_hash": "eb589af51e948e58581e4f892e1fffc43e47b21512091e1986f0a154ee660e0e",
+      "claimed_at": "2026-03-27T04:31:11Z",
+      "signature": "71f44fcc5f259c1b24be5a74a78b440621db489cae5830c99ead9109b04abac2dace03bf4353080e9e1bbf17239f10d30941ec48b33bc74354f449bf2a21e103"
     }
   ]
 }
