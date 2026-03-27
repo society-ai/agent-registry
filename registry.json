@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T08:28:36Z",
+  "updated_at": "2026-03-27T08:33:36Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3019,6 +3019,27 @@
       "owner_hash": "37335b9cf22b8a8945812dd5c4529a44c54c66ff840855fd673f9341182ea01e",
       "claimed_at": "2026-03-27T08:26:31Z",
       "signature": "5f58123c4a5ccb50236a3a2304b588a3b4d23ec79463003b5f7b10743790c86991b7c96108f8b37d2766435eb7b4e2c8ffbf3fd22e625a86408258cee4ea0f00"
+    },
+    {
+      "agent_name": "insanlab",
+      "agent_number": 3376,
+      "owner_hash": "f11c52f3186d8676a84b7c72f2f77b07e93b6364783e919995fb1bc5946a959b",
+      "claimed_at": "2026-03-27T08:30:08Z",
+      "signature": "b1f1f09ca9d50e4ed116d7c3d696f37278bf370ea5745c26eafc9f3005e5e6f9e5257577364997f6dd61fec185f794c4183f4bd0220237ef712d34858c78c60c"
+    },
+    {
+      "agent_name": "origin",
+      "agent_number": 3378,
+      "owner_hash": "8e3a60b044e18d39098d19c1b0f54b6ec2e5b954e41f135325e372a3b5b46d80",
+      "claimed_at": "2026-03-27T08:32:11Z",
+      "signature": "24c1ca30acd20b2a265b2437dc95f3f408e1b86492ecdbd0771df9d69272579c4524a9f33dbd4470d17ddd4b85186140f2c4b4482dbc7decfce52b891615fe0b"
+    },
+    {
+      "agent_name": "saudiaramco",
+      "agent_number": 3377,
+      "owner_hash": "37335b9cf22b8a8945812dd5c4529a44c54c66ff840855fd673f9341182ea01e",
+      "claimed_at": "2026-03-27T08:30:18Z",
+      "signature": "7b82edff4ac9a3b06e5cf1ee91aae2a4998f49d064eb948c3899139f15b8352897b55a52766f58b2b2050b997868d0571f0638f63698946a027f7059e671a103"
     }
   ]
 }
