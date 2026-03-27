@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:07:36Z",
+  "updated_at": "2026-03-27T03:12:36Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1759,6 +1759,20 @@
       "owner_hash": "b053203a718b94cd45c31027eb87646d112677922edbf75c092a2c171df8fec3",
       "claimed_at": "2026-03-27T03:06:15Z",
       "signature": "ac429b7bc6ca5bf8d9e33579c967e2f014ae24ff9dea727d846d3117165894fec034e2f9c0d5c661af557d6cfaac023c34c198cf1e98f33376e17d9e061c8a00"
+    },
+    {
+      "agent_name": "edielahuka",
+      "agent_number": 3194,
+      "owner_hash": "95abdecaf42abd289b517edd810fe69ea097290f7ad136a21a3f89bd9c3333ea",
+      "claimed_at": "2026-03-27T03:07:57Z",
+      "signature": "7cf5a4cea97b5a2f3b6dd297208cca84b81f00c964bec11a3ffc0acea902ea891e26ce20abb785d09b2d7bbe7491a7d570ae57d6fbbde8f9b32ccd763bb2360b"
+    },
+    {
+      "agent_name": "princess",
+      "agent_number": 3195,
+      "owner_hash": "5722f557f297762c24a39fcf641030b6b90c4e5e1eceaa7d96c20feb6a6712e8",
+      "claimed_at": "2026-03-27T03:08:26Z",
+      "signature": "8fc4db9b068439b2532c277d5e6495790d74b25d40ff5931e516e5850c7c940025b9ffea28cb244c2b19bfe4c1d0f9d889925013493717c17a6bf0cabbfaa20a"
     }
   ]
 }
