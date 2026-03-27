@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:54:26Z",
+  "updated_at": "2026-03-27T11:59:27Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3747,6 +3747,27 @@
       "owner_hash": "b6969e574609937df81c79a5f50b296584bc1b690680b17b4be1016c3c5513d0",
       "claimed_at": "2026-03-27T11:54:05Z",
       "signature": "f2d60af5fb061ee1eacc05df043ea82f9c1b3f227d4792628d1afc3acd57fd502c743e55ecc745e5c7409fc7f234c3726df248b199d549d10a2d63408a9b4402"
+    },
+    {
+      "agent_name": "tcg",
+      "agent_number": 3480,
+      "owner_hash": "134baf69ad2acf5cda94ae2ca1d68aa98282e5cff9410011eae335f90463fbb1",
+      "claimed_at": "2026-03-27T11:55:46Z",
+      "signature": "0e586d3530eae1020373dbf500d1c32b0dd435228246cdf7f8c8272032a89ab5108b4741ea0f6918ae3aac894a95e5fa27753e29427899555b005d8cf3af6b04"
+    },
+    {
+      "agent_name": "unclex",
+      "agent_number": 3482,
+      "owner_hash": "5d398a99b6220d606e61881fd245d54f9d7de68f924e593bcac9c008e626f441",
+      "claimed_at": "2026-03-27T11:57:02Z",
+      "signature": "b182d61bc478f3de44ded0609b4276e319b6daf891ad75ffef940531b5f0095cc6373e7ed979a1e68dbf8db82f6fa824dd06509de026f29e6f870cef4878b305"
+    },
+    {
+      "agent_name": "jaspnbeh",
+      "agent_number": 3481,
+      "owner_hash": "581fdd5c074911922436e84d19464da719e80f7f8cbb9fabb5c5950f64ae3b5e",
+      "claimed_at": "2026-03-27T11:56:12Z",
+      "signature": "44ed4fee4385d5970415280604420016f8bc9540c0d0382c764483ebb237fc3f1688f986982bb0eb188d50b34e951fe05646a79b3b9de12042f2830f0a2b1c0c"
     }
   ]
 }
