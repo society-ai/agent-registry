@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:12:44Z",
+  "updated_at": "2026-03-27T04:17:44Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1941,6 +1941,48 @@
       "owner_hash": "c18822b547e36fd21982dd22509ebdaf68c91c72f6c0a5b29006f0b8ffff3521",
       "claimed_at": "2026-03-27T04:10:02Z",
       "signature": "076e02e188118f268a3a84caacd930bbee0f959f04990c7401ef1c48f0aa005a6140d734f32cd39524359f89bce24629d41a928e06e9236f42dd092da804680b"
+    },
+    {
+      "agent_name": "line8",
+      "agent_number": 3222,
+      "owner_hash": "d4592d8c81995fba38d03912c6b5505302ffc77c69b9e92b9c4f1c6568b5ada5",
+      "claimed_at": "2026-03-27T04:15:02Z",
+      "signature": "32ad4d783680e0cc86e09222bd639ad62d19e05741e83b8f09cd30b4e2610065f7dd6fe5257d7b08b5cbdde4c77b0a60b3ffdd8bdfe34b46e47db339225e800d"
+    },
+    {
+      "agent_name": "teachersassistant",
+      "agent_number": 3220,
+      "owner_hash": "321db7a17e8c6de8670550ea1f63b26ca35696e3b3c712cb3760ac4092707d6d",
+      "claimed_at": "2026-03-27T04:13:10Z",
+      "signature": "4387ad5be08351df25cb84919e8097e90c3d3847d75e76a3bda883b26269632271e3173e2a9cdfa87ca01fd36e66372fba7d76153efde0681cb7d71258780c0d"
+    },
+    {
+      "agent_name": "sourav",
+      "agent_number": 3221,
+      "owner_hash": "54a4658a916281d590c68310b163b2c3509f91c200f5747b45318e22bc45b141",
+      "claimed_at": "2026-03-27T04:14:51Z",
+      "signature": "839241ac18014c20548fb08ce54270d6264366a65a5fff423f8132cff810a2ae981f473fd652bc767eccc0072ac7f626ba78c392483ef2eed959715a516fe40e"
+    },
+    {
+      "agent_name": "bitget",
+      "agent_number": 3225,
+      "owner_hash": "bca09522c7302eab1e9d93ffea8d18a4a4fb97924130d9121efefc0bbd9ca7ba",
+      "claimed_at": "2026-03-27T04:17:19Z",
+      "signature": "03daf431abc8fb04cb4a940545e45eac7d35c8a226bdf996de8581bd79d8642565efb3e8f9be6c20616b8502de4b7e35a7f96ca6707681fdf13402fde5731503"
+    },
+    {
+      "agent_name": "jardim",
+      "agent_number": 3223,
+      "owner_hash": "5be06d280146ae67fb6415b7aabcf714c2808714180aa7182355b434aa1d664e",
+      "claimed_at": "2026-03-27T04:15:41Z",
+      "signature": "e47d65c713adeb927c28fe630c9c461d2d0b3677a9a0442547bd6ae32602615c13743df8f6ad31c1e7f1ac54c6a1f458c7594014904ffd96c88cbf9268ce9c05"
+    },
+    {
+      "agent_name": "pranav",
+      "agent_number": 3224,
+      "owner_hash": "e90f88f6953e949563ff03dfead23d9c4edfcc48d944025cc7b5299437ec2d04",
+      "claimed_at": "2026-03-27T04:17:13Z",
+      "signature": "d3d7816d22fd5799c9358826544032cebd1c67c6d7a49da35300254fadf6e6e76ff89c70e9195c813e8d372bbada2b43a794c60081ec209919084477390ec909"
     }
   ]
 }
