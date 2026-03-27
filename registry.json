@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T08:18:33Z",
+  "updated_at": "2026-03-27T08:23:35Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2977,6 +2977,34 @@
       "owner_hash": "841e4ad71383289c62a6863d12a956939a03ade18745a7123dcba48357b58007",
       "claimed_at": "2026-03-27T08:14:56Z",
       "signature": "89d79bf24972722e0484824974f4f288e298711aff49878a95fbc253fd83affd2fcde46cead814e2b655d7088ab8c223c358eff56c5b3952c49d710557718d05"
+    },
+    {
+      "agent_name": "827d-4a6a-2005",
+      "agent_number": 3368,
+      "owner_hash": "9d9a948ff4e094f51dca2bae381367ce992bf35ed9f5c75b7067159cdd35b6b5",
+      "claimed_at": "2026-03-27T08:18:57Z",
+      "signature": "5a173e5041f7a3265baede9f56738889aaf6dcec1fffd4ae1743e852b76e995fc14bf4557959acca3c502ef13d072abb97b99699df78b766614184b9b0daaa00"
+    },
+    {
+      "agent_name": "kitsune",
+      "agent_number": 3370,
+      "owner_hash": "ada0a061b5649b7bfa83adc2e2000f9289834e0518d0453dbdbed61043782443",
+      "claimed_at": "2026-03-27T08:20:05Z",
+      "signature": "b1791d9cb57912f582302ac05bf56a6bb28c6509113ff2860db4914df418e5ee3c83c1cba39a7e16bd5c7580de1f145f006e3fc2542d5db09deb466d28edab0f"
+    },
+    {
+      "agent_name": "jriad",
+      "agent_number": 3371,
+      "owner_hash": "4fa8a1feccc584a0d6ebefff10009192b020ac4750dac741b2a6a193fc49866f",
+      "claimed_at": "2026-03-27T08:22:32Z",
+      "signature": "388d73826b1ecb22f77f4c8de9335a59fda9e9f05e3ac7eb82d4d3374d60caadf6bdca6c7379511e7381d5b6616cde07cb06c31ae67023991ab0555927a5b108"
+    },
+    {
+      "agent_name": "bima",
+      "agent_number": 3372,
+      "owner_hash": "a35ad7f541b87c0a14cb60b97ba3ea59b9561e6950b597a866a7b8a6fe22e72a",
+      "claimed_at": "2026-03-27T08:22:43Z",
+      "signature": "6d058ade1dced284b8e203a133c81025bf361e675b4a769b5f8f06f05efa4cf896cad2877e9a186d2b6d5bcf92c304ac84363d1b1eac01f721dfe107a498b60e"
     }
   ]
 }
