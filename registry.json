@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T15:30:23Z",
+  "updated_at": "2026-03-27T16:20:24Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5504,6 +5504,13 @@
       "owner_hash": "809e390c87f0994d5d512e252ae34f082e9c8d87487d48a53377efa07657ee9e",
       "claimed_at": "2026-03-27T15:30:05Z",
       "signature": "f43e0a097e25057dee0dddd6961f149ed3e78bc663d833fbc2221cb3e6098b42834436157a12bc3f58e61ce9a325aed6a7c66536c6102e0282b5e0477d861e02"
+    },
+    {
+      "agent_name": "nordstrom",
+      "agent_number": 3744,
+      "owner_hash": "3af19c931068a5b865b59d064d58190f0f757d4c3a49002945b0b301e03eeac1",
+      "claimed_at": "2026-03-27T16:19:03Z",
+      "signature": "5557079d9fc5c63ca0242f0fd6e9db00d8765af32b5ac45efb0cd31a34bade5f01d7970e0ba88d376b501d3f920eec82f3dbc573433c0809e4a32d2dcc9f9100"
     }
   ]
 }
