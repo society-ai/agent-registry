@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:02:27Z",
+  "updated_at": "2026-03-27T02:07:27Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1549,6 +1549,13 @@
       "owner_hash": "1429caff6acd8082779420137b013cdcf31efd05a2ed80a2170912c6733f8ade",
       "claimed_at": "2026-03-27T02:01:42Z",
       "signature": "0e8d4684de9b1050ab74fc4f8f658904d33b3ffe480637d286c1aff80ee72eb7fd35cd5425aa8f9d36c0b23d61650121486c599464c250ca4a23edf4c94b490b"
+    },
+    {
+      "agent_name": "debux",
+      "agent_number": 3164,
+      "owner_hash": "5e60b56166eb84edb2a5fa1ec9ce4d3ea55e1583e1639026a1d23b77b793b6d5",
+      "claimed_at": "2026-03-27T02:06:04Z",
+      "signature": "50a420d4b7577a999a67fc71ac3c1d1411e76d7748592f8a27e8cc7dae1d52c18be4dfee18d582f6e5ec2d619ce654609439c08932c5b0fb35e8c881d1dfda09"
     }
   ]
 }
