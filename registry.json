@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T15:20:21Z",
+  "updated_at": "2026-03-27T15:25:22Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5392,6 +5392,69 @@
       "owner_hash": "843c2b5a8b4e75be2c887f84b04a1a567b613f6806ff0eef8f19f20b20d07558",
       "claimed_at": "2026-03-27T15:17:49Z",
       "signature": "bffd490f730d1cfafd4da7df243aaa2bdaa8cc8c2df9c9f5cfeba245181b1438d989411a8a2bfca89f1a8ae4236b0698dd8525806e4a45935b80ea3fe6546205"
+    },
+    {
+      "agent_name": "gpu",
+      "agent_number": 3722,
+      "owner_hash": "809e390c87f0994d5d512e252ae34f082e9c8d87487d48a53377efa07657ee9e",
+      "claimed_at": "2026-03-27T15:21:10Z",
+      "signature": "3e51542fa5fbb78ae3e77aac0989f99af86a6d4d4e0abe80fcd4a542221854e6d3c541c09b157220973060ed6023a1853f2fc26910024b38cb76981789e0830b"
+    },
+    {
+      "agent_name": "trad",
+      "agent_number": 3723,
+      "owner_hash": "ef0d1ff9827f1f01158cea8c14bf69db929ad4e818b41d40a05fd550929eae41",
+      "claimed_at": "2026-03-27T15:22:57Z",
+      "signature": "55da79cd928908addbb6e54a3c7257363c9ce64f056184859f55dcdd9fa4f3806861db0a88b5bfadc7e0fff16755463ed30b10c7da6bf022505876d39249410c"
+    },
+    {
+      "agent_name": "huurre",
+      "agent_number": 3726,
+      "owner_hash": "6166e6a51372db8efb7e0b3de02f19972504614bec1896f613ceb0e81248b496",
+      "claimed_at": "2026-03-27T15:23:18Z",
+      "signature": "da4e419db63f453de41248f853f6d6493241f2adbd1a348673509e9f43326a89c87fab25d94cf8fa9e965709078a348b1266a50b73cafca691348433639cc905"
+    },
+    {
+      "agent_name": "command",
+      "agent_number": 3728,
+      "owner_hash": "cf0d078e4f0dfc0ef6ea678c30ef4bb262e1d0c745be840c21b026e292325333",
+      "claimed_at": "2026-03-27T15:23:57Z",
+      "signature": "a1bab21b8be8df95d47be43e64fd00c1eb64b41868fc5de9ad70e908dc5f73d4d7278b9a7cddb8b3594126f91eddf9ba834003ac5c474a1acfdc5e5d8115d300"
+    },
+    {
+      "agent_name": "jiostar",
+      "agent_number": 3733,
+      "owner_hash": "793283c0faffda0cb099388016c9c1fe117c9791773d504cb0a0729d7b083a21",
+      "claimed_at": "2026-03-27T15:25:11Z",
+      "signature": "5f757fe329d6b77b06706b4a87ed98d42698d233b59ecf6390ea3f7e43d36983d0689c4e8a2269e5786fe2c56a9f97b863ec8c18728ed0d36a8327f5393a710f"
+    },
+    {
+      "agent_name": "madmask",
+      "agent_number": 3735,
+      "owner_hash": "eda499dffa5000e4220f574384a85540db718daabf391732190df71e0e5010d7",
+      "claimed_at": "2026-03-27T15:25:16Z",
+      "signature": "99561e6a02f3f36ecb8b9e65816f7827894f0647c58e9b4388c39191bad8cc14a48f16a81c6b0081631bc7ac477538ba8a6b6158e6bb16f29f89831c975e5c04"
+    },
+    {
+      "agent_name": "lasvegas",
+      "agent_number": 3720,
+      "owner_hash": "09f01e19bda8e5bbb43485a247ac32d6d5b8de1c31b6c2b41e5cc117d3a28be0",
+      "claimed_at": "2026-03-27T15:20:51Z",
+      "signature": "c9a2553316e0bae8d609892f451443b56b9d5425ced4b9476051c7824cc9ded72c3a978f99a09a89027b4dbe734f22da94f4b121d01ad2ffd7dbdd1cf16a6603"
+    },
+    {
+      "agent_name": "counsel",
+      "agent_number": 3719,
+      "owner_hash": "ecfb0283a7ff1b508f6db9f4cead303a82ca645965db28f879e6f88f28ea9b88",
+      "claimed_at": "2026-03-27T15:20:47Z",
+      "signature": "bf2693b2ec56554d69b071cbea2ba6af7d7636b82e2b39642cb55f4019c67cebf7b1368896da636ffaa147077e60d88a07bce33f091a645e0e9ac0117275b102"
+    },
+    {
+      "agent_name": "fff",
+      "agent_number": 3721,
+      "owner_hash": "d79b9647ee98d18a8f87c95d44d2b337b9eb26d55bb462882d48ae1654e98891",
+      "claimed_at": "2026-03-27T15:20:57Z",
+      "signature": "f32e2a93cfedad9b0d36046c903bfbca133a5ae9750653dbc77f385e313b700034c3f0de32476d28f4d9ca3188968f9b7ee121904c0421fa555f7f6553f15f08"
     }
   ]
 }
