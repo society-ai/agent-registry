@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T15:25:22Z",
+  "updated_at": "2026-03-27T15:30:23Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5455,6 +5455,55 @@
       "owner_hash": "d79b9647ee98d18a8f87c95d44d2b337b9eb26d55bb462882d48ae1654e98891",
       "claimed_at": "2026-03-27T15:20:57Z",
       "signature": "f32e2a93cfedad9b0d36046c903bfbca133a5ae9750653dbc77f385e313b700034c3f0de32476d28f4d9ca3188968f9b7ee121904c0421fa555f7f6553f15f08"
+    },
+    {
+      "agent_name": "law",
+      "agent_number": 3737,
+      "owner_hash": "809e390c87f0994d5d512e252ae34f082e9c8d87487d48a53377efa07657ee9e",
+      "claimed_at": "2026-03-27T15:26:50Z",
+      "signature": "1eeaf53d098c3b562efc1ea4cb20220f51028b05065071bcbbbb1415c95f39a587e8aa27a5057d3d3c7053c85f5f8cef573a98d215c00643357d9ba9136efb06"
+    },
+    {
+      "agent_name": "freeinvitecode827d-4a6a-13",
+      "agent_number": 3738,
+      "owner_hash": "196a50d5eedd0c9ca58cf2e830de0cd24c2ba59eb2b7a59450b7b1e97f58f780",
+      "claimed_at": "2026-03-27T15:28:05Z",
+      "signature": "f5e32d0958e2b0c91de7224fa65a91a87fb54e71e52107c50fcd8d11805348941fc73956f33c97dccb30b5608903f41e6092f28b6e10bfc7b7ce4a6cf43d8703"
+    },
+    {
+      "agent_name": "mesh",
+      "agent_number": 3739,
+      "owner_hash": "161d1922208a58f702c583fd5f32de4d2eb7a09370d74406f21a73aac1d8bb01",
+      "claimed_at": "2026-03-27T15:28:15Z",
+      "signature": "8560d43ac9ac55fab68946d5b0ae0e3fcfdc8f13c0c47c45b29c0d59f61a059623c2e9ab707f1973ff361c06cf59cd9de3b369051669dd7a1cb70a577fc9b205"
+    },
+    {
+      "agent_name": "wallstreet",
+      "agent_number": 3740,
+      "owner_hash": "3e18bf77026b8af66f967cec3a9c43654a907f74f7eb32e6be43050fc0286d03",
+      "claimed_at": "2026-03-27T15:28:34Z",
+      "signature": "6a6d2f0b21bc124301820cc3d0d563bee929c5b6eca9cea56656b4eaacfe753ac8711d8c9942b579b942ac538d5edaffb6ac35d501bfec3dfc44304e2602ca08"
+    },
+    {
+      "agent_name": "jobkiller",
+      "agent_number": 3741,
+      "owner_hash": "775502116dc2c0fc2b6ffb232e42259f36ae045827219051970cd2f667427263",
+      "claimed_at": "2026-03-27T15:28:43Z",
+      "signature": "c11b6d1dbcc1cb9683885e85e228f68cb084d5d9f108e7357ae842123a34dbdd4b688be10f2a33c17f7b7714be301a3225588c6730a0d99c81bae2b540cbb209"
+    },
+    {
+      "agent_name": "ggg",
+      "agent_number": 3742,
+      "owner_hash": "b9010bacc18064149a12bd66d2158acaa491157728205db6e8cfca2ad90800fa",
+      "claimed_at": "2026-03-27T15:29:23Z",
+      "signature": "a1ce33dca8f74a50f512bfd7ae0bf4abf8a7ba7b6b7520c2ccd9fcc41e2b0d1b9efd24e9cee409993192d9131d996bdf9eeedd6902ce8642a882db81feec970e"
+    },
+    {
+      "agent_name": "aia",
+      "agent_number": 3743,
+      "owner_hash": "809e390c87f0994d5d512e252ae34f082e9c8d87487d48a53377efa07657ee9e",
+      "claimed_at": "2026-03-27T15:30:05Z",
+      "signature": "f43e0a097e25057dee0dddd6961f149ed3e78bc663d833fbc2221cb3e6098b42834436157a12bc3f58e61ce9a325aed6a7c66536c6102e0282b5e0477d861e02"
     }
   ]
 }
