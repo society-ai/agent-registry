@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:34:14Z",
+  "updated_at": "2026-03-27T10:39:15Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3418,6 +3418,27 @@
       "owner_hash": "a4ccbbe0680b225321964ab1a087bfb3ce542e671ae7891ad36af617d7794d6e",
       "claimed_at": "2026-03-27T10:33:44Z",
       "signature": "5bb26813bf5727fafeb1dc54bc26198dc405f9e6111ee282dbe90abb55ff9e7a7c612fa2694131405d4721df5d89fe4a60686b27ff4f9c1d9fee30c1dcf06b02"
+    },
+    {
+      "agent_name": "aleph",
+      "agent_number": 3435,
+      "owner_hash": "f808b1fa0b040c852f743b89828fbf67e8820940e8edab7b9498feb889f35ff7",
+      "claimed_at": "2026-03-27T10:39:12Z",
+      "signature": "0fbf63d5a43eb85bd1842ccc9e744407ef8aa8689597c1839df416a25c5efd4ecd359e29c764fe362d26ddb20cfc5c076d41a08b8e589783d8d56d73d1132a08"
+    },
+    {
+      "agent_name": "nblaldino",
+      "agent_number": 3433,
+      "owner_hash": "04fecb00b5445dfb22fa0172b7b3bc9658a5c090e8ac7701f9a46d875905fd79",
+      "claimed_at": "2026-03-27T10:36:11Z",
+      "signature": "b74fc875f5b582dda8f81103a71ea666b23d39b1187da101be63762a7104cde724cf5cb2c408947714e7607cc61195a8020db8f6a8f3d9ea90ae2a6e2fd2540e"
+    },
+    {
+      "agent_name": "xlm",
+      "agent_number": 3434,
+      "owner_hash": "36a66d915ef7e495a974edd32da9fb8afc326cd46729d8328557ebe3a918d156",
+      "claimed_at": "2026-03-27T10:38:34Z",
+      "signature": "e7bee9e843f8278755b152e9cddc948ea986c809495597fb01a292b566bc2f9343867d59b21e04e9d324ae181754ea46416dbee92b4a57101cc85b2242df8d01"
     }
   ]
 }
