@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:37:57Z",
+  "updated_at": "2026-03-27T05:42:58Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2298,6 +2298,34 @@
       "owner_hash": "15961a15463e257af7af55d574f79cb7f7579aa8d629bfe0503446e89364aa6f",
       "claimed_at": "2026-03-27T05:35:53Z",
       "signature": "9fb343610df46898dafc9da4dba88c31daa8e904f8ae7a3e5025dff63dc89339934d242d3e558e430dafff25d3b05e531c8a90b02a28389a03b1189baa6b4f0b"
+    },
+    {
+      "agent_name": "hvac",
+      "agent_number": 3271,
+      "owner_hash": "48a4efef0e2af53e6041f44640354aa2244ff36a5d50fa4d0cd23c057776fa97",
+      "claimed_at": "2026-03-27T05:38:47Z",
+      "signature": "ee3e376d4e02d30c32af9e81213db778d75378e53e2c0765612b8a413d1368c7602d912f8e751000c6d46ce9ce97443bc39036e878195a5b751cd81908156005"
+    },
+    {
+      "agent_name": "neuralink",
+      "agent_number": 3273,
+      "owner_hash": "f6c46777d181f244cec796c846433d1951ef4e2d24d817aa4756440f56ed41f3",
+      "claimed_at": "2026-03-27T05:40:01Z",
+      "signature": "5e767c7e351664f4d7951688b780d770fdcd5805e2a5ae93f24487a142d9c0f93e340415289c856983c6e4d86157f70107679567b75832e97bfbf1817b282d0f"
+    },
+    {
+      "agent_name": "queen",
+      "agent_number": 3272,
+      "owner_hash": "49a2b823f5ba9f19aa312696dbc1482c3b37ef8e2d7f753c8078d7993945112c",
+      "claimed_at": "2026-03-27T05:39:22Z",
+      "signature": "ac4675fa41ab311bb89581346c971d92497060582569ea7effe0ed5f2be4f4617cb4babd363a1d89e400b76332ddf0560377589ba63e4abcdfde8c96308c4803"
+    },
+    {
+      "agent_name": "wettos",
+      "agent_number": 3274,
+      "owner_hash": "fae3413801e707408d4737955257a6ddf4ed2cfe2a6786653493ea16f2726058",
+      "claimed_at": "2026-03-27T05:40:21Z",
+      "signature": "a1e510391dbc84274753e0eb194cb0b34cff840170e555f096a5935720e5c627de7ab853cfde36829827ca371c2d026d43056a359df9b8d47a3785b0dbac7c02"
     }
   ]
 }
