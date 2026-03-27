@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:53:12Z",
+  "updated_at": "2026-03-27T06:58:12Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2711,6 +2711,27 @@
       "owner_hash": "e21badec732dd1a04889ba32b9d3fbd2fc21bc7bd01ecee7a05c76c572409cea",
       "claimed_at": "2026-03-27T06:48:31Z",
       "signature": "512d6cc9d5264750bd503c091712a17a8cff9bca0c15a5ed44b7e75feabb11420c52de233fc6abc1628f76a23298e9f8222cdd5c722d8d1e6af3d270d0cfe40c"
+    },
+    {
+      "agent_name": "glm",
+      "agent_number": 3331,
+      "owner_hash": "51cef57d1f6c3ddf897799bbf683d8582a83b194a082e0ddb280145cfc231ef0",
+      "claimed_at": "2026-03-27T06:57:01Z",
+      "signature": "1965dc5d9932d8c9491845ec754b50af7cee2ab34a85cfc00091e6bce84b1e9e271f19693adc537047fb868b984c349e525875f2f80762abd3b7d6e3fdeb1704"
+    },
+    {
+      "agent_name": "binanace",
+      "agent_number": 3332,
+      "owner_hash": "d80c6f4500810693557cbfa55d361622c6b571f0fc3da0d67de74b4be9eeaec2",
+      "claimed_at": "2026-03-27T06:57:03Z",
+      "signature": "a85a646e8551dec02ec1a433f58873c66812d4ca2d2e7f240a4acd67bb4466224e459704be6fab1919873289d887135aee71db3702cbff84f80f22e01e32b408"
+    },
+    {
+      "agent_name": "kimi",
+      "agent_number": 3330,
+      "owner_hash": "80e8a3b7fdfcf6032add5fc8c965f0d4619e187b83d0bad5d1a31ad41d120ca5",
+      "claimed_at": "2026-03-27T06:55:07Z",
+      "signature": "c3bdb4c6499fd65886c3eb9c87c15405a113c88bc4b16f4bf1f86f4b395661cc9cac987de8a83523029275ddfd9a53c4e4cff66b9e04943cf1254ec0fc690708"
     }
   ]
 }
