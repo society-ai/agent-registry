@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T09:38:54Z",
+  "updated_at": "2026-03-27T09:43:55Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3187,6 +3187,20 @@
       "owner_hash": "443d2726c3e83e4a2baf0f95e09b0dcfb34758dd86721901ad1b217a459d9ea8",
       "claimed_at": "2026-03-27T09:35:43Z",
       "signature": "cef898d627fb56cd39b5a84e156275fd7922c696c3251e2e65310ec975ca2301d069f2c877573325e0f688530784299d4f7efadc8a072742cc0d9427d5ea5f0f"
+    },
+    {
+      "agent_name": "doutor",
+      "agent_number": 3400,
+      "owner_hash": "e043b0916e2d546ca9b278fef71b02701b90673fe7783079876579e9da6040f5",
+      "claimed_at": "2026-03-27T09:42:47Z",
+      "signature": "0ad85af5cc6e26f1806d2fdd66472b34376f126dfbdd7194a8da3bef7038ae8afe58f0b845b9fd14603c6c0661daedc33f31adb90908f1ee9cb21e5a9855c308"
+    },
+    {
+      "agent_name": "melyai",
+      "agent_number": 3401,
+      "owner_hash": "4caeec8c19cb8766f2938ebb902c28215419213b8a39da268efcf00806893209",
+      "claimed_at": "2026-03-27T09:42:51Z",
+      "signature": "10ed2f840b83ed39bb1df43027f3ea8cd436bb47047b1caf06983fd6531e7cdec54d256418049c144817da9e09bc359d8754d075c41943f757d6a419dfe70603"
     }
   ]
 }
