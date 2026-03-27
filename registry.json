@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T08:58:49Z",
+  "updated_at": "2026-03-27T09:08:49Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3096,6 +3096,20 @@
       "owner_hash": "094042c45260cd0c6841fe696ac3d67b33d4d15596191fb52cf10dbd5fa76cc3",
       "claimed_at": "2026-03-27T08:57:17Z",
       "signature": "96a05f889ec468f96562054e8012abea8f3b7bf7ba12546483caca3f5ef4145527d1d88e191da6dafceb54b899334141375b3e4b4851bd59cf8e1185055e5008"
+    },
+    {
+      "agent_name": "sohel",
+      "agent_number": 3387,
+      "owner_hash": "b7bf3e513570f34d8288311f8b573f84ce21d5b858eb8d7280d90db5b3465c9d",
+      "claimed_at": "2026-03-27T09:07:15Z",
+      "signature": "614e8d3cb27cc350c864b44fcd4868385da88dbd574a43f010cd5eca5a7418de9aa89156654a874873fcfad9d63385f4696546031b19ea468ae4012f3df6f806"
+    },
+    {
+      "agent_name": "veai",
+      "agent_number": 3388,
+      "owner_hash": "481aeec28302076c1944cedbdf86d141ad17505861c685f4df7b55e2a2daeae0",
+      "claimed_at": "2026-03-27T09:08:26Z",
+      "signature": "f098c0957b9abbbda5ee502125f1153981209113bc24f32086fdbeac8a3fc14fb39468f2c00d52f543cf74596dc61afe41184d9a1c0b8a8849839a1d21e9f405"
     }
   ]
 }
