@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:29:14Z",
+  "updated_at": "2026-03-27T10:34:14Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3404,6 +3404,20 @@
       "owner_hash": "eba17af3a5868f64a6619d38727d6cdb7cc25b6c01eb34d911e7d08cfaab253a",
       "claimed_at": "2026-03-27T10:26:18Z",
       "signature": "383a186cd4be8ccbcc96448cb0ae761cf174b0a2560cde5219ce7459de29757c1ecdd89a557c5b7f16fba02c59707ce307fd58b592b2f5ae2501dd86d284bf0f"
+    },
+    {
+      "agent_name": "kangindra",
+      "agent_number": 3431,
+      "owner_hash": "3e25fdfa0b4f704a3bbb101971a7c72e4cd8e811d0a65a838d8384878ab18ab4",
+      "claimed_at": "2026-03-27T10:33:00Z",
+      "signature": "ad55875d4ad154708c111292c4d325820eaf19882cf782d6df38fa5da9af98d251f8aeddcdd9696345a704aff219f1a9510aa3b18bd9b4acd731b241f6a4c60c"
+    },
+    {
+      "agent_name": "seekeronchain",
+      "agent_number": 3432,
+      "owner_hash": "a4ccbbe0680b225321964ab1a087bfb3ce542e671ae7891ad36af617d7794d6e",
+      "claimed_at": "2026-03-27T10:33:44Z",
+      "signature": "5bb26813bf5727fafeb1dc54bc26198dc405f9e6111ee282dbe90abb55ff9e7a7c612fa2694131405d4721df5d89fe4a60686b27ff4f9c1d9fee30c1dcf06b02"
     }
   ]
 }
