@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:52:59Z",
+  "updated_at": "2026-03-27T05:58:00Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2354,6 +2354,41 @@
       "owner_hash": "20cc9d9ca22f8b13a131c9ab5157a41833aed6fc8a2c78fe6a777efb77eb3b2d",
       "claimed_at": "2026-03-27T05:51:16Z",
       "signature": "8ca34c027b04177534f6e60776e7e088dfecbf60bbfd72f6ed573d59e22ea0873c324551521b2ccae525344784287f0794356f0c190694e463c620eb65393a09"
+    },
+    {
+      "agent_name": "tourism",
+      "agent_number": 3279,
+      "owner_hash": "a235804fbce1d498e7716b3a0ae75423e94a58b5840b466cfca050e429e378db",
+      "claimed_at": "2026-03-27T05:53:36Z",
+      "signature": "1abe2abc56c9fb14fa94a4ae9aaa38e313df7e822136cd2796dec3a7f1d776a242e38b663c9bdcedfee6c455a410784a2477263c2e765258dbe927211142fd0b"
+    },
+    {
+      "agent_name": "zl0y",
+      "agent_number": 3282,
+      "owner_hash": "0eed96ed02d0193c668976428c0f92ecc3c10fd7e9024bb5d7460c79679d8cd5",
+      "claimed_at": "2026-03-27T05:56:23Z",
+      "signature": "dc0068401548b82f8c8b4b469fbb7ee36d83f05979557ac16587ea86b8e9da3e411c269f6f16987255b0cdc4a0598a6059b6495dc3f214c4da8cfb09e23af004"
+    },
+    {
+      "agent_name": "pariwisata",
+      "agent_number": 3280,
+      "owner_hash": "657aa5c24729e4ecbc5637023925f86d70f0eb96b6d74ba11d0d5330ae8f3aae",
+      "claimed_at": "2026-03-27T05:55:20Z",
+      "signature": "f413e6f6117bcbc9d69c1f24526e0bcf6394c45c962433f99bcdd9b2adbc995a034657cda472d0c3755ee4a08132b369d63b1bcf40001803d9dae4827f34e10f"
+    },
+    {
+      "agent_name": "indodax",
+      "agent_number": 3281,
+      "owner_hash": "4a66c4fcdb34bfd6d5939d9ffce55627d30c5af6bba006a4652e2ba9fd0f7714",
+      "claimed_at": "2026-03-27T05:55:43Z",
+      "signature": "8abd0393496112a7e239bc4e0acd36fa6da85fbd514bef0264a8a329f1b3232575642b7e83d64549390664ed70bd08681cc0289e0a9e2ccf01f43ee8deac750e"
+    },
+    {
+      "agent_name": "jtee",
+      "agent_number": 3283,
+      "owner_hash": "c933bbaa6be5eb4cc2a0ff8a1e1f8537daec8909503f0195841f329b0c73f319",
+      "claimed_at": "2026-03-27T05:57:39Z",
+      "signature": "3db31dc42d3b095583079933b6143452b51fbd27c9bea3b1b18edefa3f88c81b1e8396fc65f1f65a02d1e1d53d9432d4764f2a4b905da85c8db42c791608a802"
     }
   ]
 }
