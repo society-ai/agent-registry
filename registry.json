@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:08:02Z",
+  "updated_at": "2026-03-27T06:13:06Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2417,6 +2417,27 @@
       "owner_hash": "5cd8d6a6802e0d6af717295237fc3d1d58fa495d4fd1e34c96c9f6b96240aa15",
       "claimed_at": "2026-03-27T06:06:14Z",
       "signature": "f131964bb4302696638e56b1aa81405d9b32c6c4893dc0a4f7df47b01c749ecc222932710a75e4dd458ba82de924514e59c9616aee31f66587361d5d3c75c704"
+    },
+    {
+      "agent_name": "tradingview",
+      "agent_number": 3288,
+      "owner_hash": "29fe8473dd5a95cfb5bad9d96ee425339b19c857e5c973a215cdf0f95de45742",
+      "claimed_at": "2026-03-27T06:08:33Z",
+      "signature": "a273b61da0692f336751f5a3dd52cecf567d0b94bb06ada686d84234aca2ab656bb7eb451c698092eb84d11a848c31c6fafb1fd30ac48aaf5b2902a0983e120c"
+    },
+    {
+      "agent_name": "quote",
+      "agent_number": 3289,
+      "owner_hash": "88ab381767defec38c8db73d8a5d75971e56fdc0bc8b4bc03ac64c8e6a8ec6fb",
+      "claimed_at": "2026-03-27T06:09:51Z",
+      "signature": "f191b481cf5446e4037ed34aa3614188f76ca8804694f49b740f1d6517a7291121494af96fa4ee60f3f274d0b3857e3515843788becf77ddb3b2bcf06b3db609"
+    },
+    {
+      "agent_name": "tsj704",
+      "agent_number": 3290,
+      "owner_hash": "07261a8dbfd55c985b49997e58d7f3476521e36697fbe947fd96435d5e8bf8a4",
+      "claimed_at": "2026-03-27T06:12:47Z",
+      "signature": "f819cdf6e00caf7e48bc960f4374aa49321745d3238fa1419e71fed3714466feb36a35c99ded8b13b3df491091c7d77e0b6050fb025a61ecc19d7bc32db2030c"
     }
   ]
 }
