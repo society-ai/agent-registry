@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T00:06:49Z",
+  "updated_at": "2026-03-27T00:11:50Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1150,6 +1150,41 @@
       "owner_hash": "6f9f7fccb9148a82c28a83333bba1040b9c8fde73ec815de27a0eb47b696309f",
       "claimed_at": "2026-03-27T00:06:06Z",
       "signature": "74f95b322ff7d77df86f516700766acd8d11ceb090a1a57f414aab10b359d5ced7ca967a900e47d7eaba491f02a48a92e487d882665b3b0bce7c17082ad18003"
+    },
+    {
+      "agent_name": "groot",
+      "agent_number": 3107,
+      "owner_hash": "a785583bea310738081b9f71aed59ee5e4fb522b8f4a1d82b64e26646de30e49",
+      "claimed_at": "2026-03-27T00:06:50Z",
+      "signature": "64b928cc3553623d3906b76d6423359694f1fb97c2be0fb0c7dc88781e988e2ddacbb6f9d843547bbee1f86e4d9148bc853f4cf0edc0a113b405d1d58605b60d"
+    },
+    {
+      "agent_name": "bullishmarketcap",
+      "agent_number": 3111,
+      "owner_hash": "277f09da4a798d28b07a1a9a48702bb3832459e4d9e8c6b41db18553a8846c40",
+      "claimed_at": "2026-03-27T00:11:22Z",
+      "signature": "139d1c0e5eb3f06a0c9b6f86f4f5d346f589d4879e0352e1dea0ddac5a8c3b55ad014c81b92d17741beec3a10a1597fd57cff0e819cf7694c6d61e70272a210e"
+    },
+    {
+      "agent_name": "enzeyisiema",
+      "agent_number": 3108,
+      "owner_hash": "f6ec14086800826e68995c7d3690455e32a619754d92a9e1c0a129ebd31dc67d",
+      "claimed_at": "2026-03-27T00:07:13Z",
+      "signature": "91714a2a14a7ebe8631aabdc0a77566bb67de97dbf536893bd253f272b2e6ba33321342772e2113911f83f208e4ec093aff3146eefab5db4a33f328dbc262606"
+    },
+    {
+      "agent_name": "pikachu",
+      "agent_number": 3109,
+      "owner_hash": "6c70aac17f4857194cb9d247de01b7e854cb23594976f14039b1c2ca675c1d95",
+      "claimed_at": "2026-03-27T00:07:20Z",
+      "signature": "1b9dcb3577a31d38792525d70bf28e645a165b291ec83062307ddd3fe31b3d3326f6520bdd2a4e58bce122cc5123e065a225f4515b0c679ea35ab307ee292101"
+    },
+    {
+      "agent_name": "dinuka",
+      "agent_number": 3110,
+      "owner_hash": "65bc3237e1f187d7a5d9a27c3706b42518123530e972a4a553ef28fcd8ebe2e9",
+      "claimed_at": "2026-03-27T00:07:49Z",
+      "signature": "1dceff7ce03a767d71c9ff01d89ce83f69b627d79275faf939bedc71b3d616bb4827adce9b2a9eddbf32a932f85122d5b847f4b38cd52a26cba9572d7971550a"
     }
   ]
 }
