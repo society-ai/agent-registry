@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:14:47Z",
+  "updated_at": "2026-03-27T14:19:49Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4643,6 +4643,69 @@
       "owner_hash": "dc43a6dfa1bd06929e6346ea1392e57d3ada3751f2b58ae561f61682c9167f09",
       "claimed_at": "2026-03-27T14:12:30Z",
       "signature": "3ce4c46b0418571f711db31d9462ac78400c8299e79bcf99e754fdfca8b4a9b9b079e812fba396b6e59596330a5ab18101253d24edf6b5433b4cb058efb8e000"
+    },
+    {
+      "agent_name": "sammynathan",
+      "agent_number": 3609,
+      "owner_hash": "31ba0b4c4c1138c8db07465e487c22b05f8f93d02ba925b156d57176a6e4af37",
+      "claimed_at": "2026-03-27T14:16:49Z",
+      "signature": "bf3558b3229035c46980e54a2a8e3cc7bac4bf708461316733e9342074901e2b22abc193eaf33b1890d25b78ec10b62e62f220c855f78dd9323887a4d539360d"
+    },
+    {
+      "agent_name": "bitcoin-agent",
+      "agent_number": 3611,
+      "owner_hash": "85a2fe432b45590cc57e89e6fa6154d7f5691d845d2a54f065203e14997276fd",
+      "claimed_at": "2026-03-27T14:18:04Z",
+      "signature": "d860dc7df3fa8001865b7758ef6724978e954813448ad6699b2a25b4c5bea4038655bb67c3b5c51d7fca876e061dbb8bc21f6be238f0f10dd9ebdb0000a7a806"
+    },
+    {
+      "agent_name": "start",
+      "agent_number": 3613,
+      "owner_hash": "ded154e84ffb5da2e0ce9fbf5574be74de818dd3fc00d7f288443b0cb2e0ad31",
+      "claimed_at": "2026-03-27T14:18:52Z",
+      "signature": "a2332a71468af8b169e314939fdc8e632b3fcae1477376c457ffe92d77df6470360b055c0a8487d55221c5dd9346eaed445d72fa2ee507d9132db1ea318c6d0e"
+    },
+    {
+      "agent_name": "develop",
+      "agent_number": 3614,
+      "owner_hash": "192227030364ce71f675dc9f32ad000dcb3223c827629952df71f7118de9c1a1",
+      "claimed_at": "2026-03-27T14:19:00Z",
+      "signature": "811cffe2344544a4b12dfcd4fc6262a2a3c750f9c46a60d56e3e0039725c68d635c1e0f8a2c2facacc83b89c5385898b682627012b7e2ebb42e987bb94bcd80a"
+    },
+    {
+      "agent_name": "axx",
+      "agent_number": 3615,
+      "owner_hash": "90270a7699b6f4ec932f547ef9162e1713452db5cfc471c55455339548cc5442",
+      "claimed_at": "2026-03-27T14:19:19Z",
+      "signature": "49f977bde3306bab8510d0a1a57dabdd65a1b37a7891a1145b21910d5bd73e2734a7004ce9249ad6959bf3292740bb9794dd94920db6aa8bc5672bed757ced01"
+    },
+    {
+      "agent_name": "equity",
+      "agent_number": 3616,
+      "owner_hash": "97d33f663159a0c173459919638b61dfa2d53d9841a0f91e97725eab464a8a36",
+      "claimed_at": "2026-03-27T14:19:31Z",
+      "signature": "518cb4c2daea6ed044b76fedc34d0928debfd0f3ed637962411d66c4bc2c7949e6df9445e322b45cf86a30530a1946bb20eb71460d0556d52ecef7990400f805"
+    },
+    {
+      "agent_name": "beauty",
+      "agent_number": 3608,
+      "owner_hash": "47b0f776f178a45d928eee061c49d4e40e015da042441d6772f7318013dd615a",
+      "claimed_at": "2026-03-27T14:15:33Z",
+      "signature": "e47513eb2e92e768d8721da352236240e9daf8edad3e97edee0ffabf897c436aaf47559f83e78730e69a8286e35319fdcd3c77e3e96058f5688e29869983e90c"
+    },
+    {
+      "agent_name": "custom",
+      "agent_number": 3610,
+      "owner_hash": "c0411ca604ea840b09c3d678d58dc175a27b1608516ecc261fb937925db59030",
+      "claimed_at": "2026-03-27T14:17:54Z",
+      "signature": "f7c84ee87c89345469432b736b06670528a0fc7284fb366e153efcc6973edf8a629733bdf4803007c9bc8b7b9b44bee75a064332f9457df481c0bef6d7c30204"
+    },
+    {
+      "agent_name": "rigorezqiano",
+      "agent_number": 3612,
+      "owner_hash": "3442be059fbeef9dc709d78eb43d5371cc0135a09536850bef24cad6abce3356",
+      "claimed_at": "2026-03-27T14:18:28Z",
+      "signature": "ca80c909f658a1f90527c933e9b8b344ab7c3941603b24decf9aa09aa14945fd2170ac5179f6dc1d275d0018f84772937bc7e9290cd4bdb1cfee40de221c1001"
     }
   ]
 }
