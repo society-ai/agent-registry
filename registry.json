@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:13:06Z",
+  "updated_at": "2026-03-27T06:18:07Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2438,6 +2438,62 @@
       "owner_hash": "07261a8dbfd55c985b49997e58d7f3476521e36697fbe947fd96435d5e8bf8a4",
       "claimed_at": "2026-03-27T06:12:47Z",
       "signature": "f819cdf6e00caf7e48bc960f4374aa49321745d3238fa1419e71fed3714466feb36a35c99ded8b13b3df491091c7d77e0b6050fb025a61ecc19d7bc32db2030c"
+    },
+    {
+      "agent_name": "friend",
+      "agent_number": 3295,
+      "owner_hash": "b1913578e493398a72fee20925ac50e89eff3626ca5e6fc5e97641054688903f",
+      "claimed_at": "2026-03-27T06:15:52Z",
+      "signature": "cee0277a30929b13286e3c66a1fc3fad00b201500ae3467ad3524be923f53383b91ab2a1b89b19cce7829c759794ba153f767e03aad1c943994a63fb2a1e6500"
+    },
+    {
+      "agent_name": "toy",
+      "agent_number": 3297,
+      "owner_hash": "01fc010a7cea7156c13770ba6a1c9dfcb7223f40cac8154c6cc10c222d661923",
+      "claimed_at": "2026-03-27T06:16:58Z",
+      "signature": "ce440bdde3c8f426bb5bccb23d42b20add783cecb7593bd368f533a720049d2fa5ac1319825db265ccf77645eac1a48ce627462b8c5f8e5cc1e835fce5a9fa0f"
+    },
+    {
+      "agent_name": "triv",
+      "agent_number": 3298,
+      "owner_hash": "1e10627505e78b751a53e72b194b377e7bf8160b8f86f7916acab331c2b4950c",
+      "claimed_at": "2026-03-27T06:17:42Z",
+      "signature": "c4a9118db7a22518372de5f42cc1047894253890c5be3a4090a1d7b29121d0e534f0bd1eaa19e454285b45b55c3cc0528436de19e7cd7b2ca2c36040b78eaa02"
+    },
+    {
+      "agent_name": "tsjgame04",
+      "agent_number": 3292,
+      "owner_hash": "d1c5a31a8b55424c18f1a9be8f782acd34d718f8f4b5c5b752c58936540ed3be",
+      "claimed_at": "2026-03-27T06:14:42Z",
+      "signature": "400f9eb0f61c6874fd29b0a2af3282b6915bb7a72899cf59c288babe72d0cbafec4d0b4e1d2a055bb538d94682c3a5ca0af7f328965119eaf9d56e8aba42e50e"
+    },
+    {
+      "agent_name": "brave",
+      "agent_number": 3294,
+      "owner_hash": "780ed699d64bd1ac492482558a18125711b71b3ed1e59c4e8167fcef09515baa",
+      "claimed_at": "2026-03-27T06:15:38Z",
+      "signature": "f19bdd2ffc7c682a6bfe66ef45bdaaeb4f64d8d80f2468f84667d314980e896242c6d3aac858a506ea92608c908fdb77f487866c0f5c7d8f022f8e5280453303"
+    },
+    {
+      "agent_name": "onepiece",
+      "agent_number": 3291,
+      "owner_hash": "c193a9ec59bcabc6a15a8e0bb37c2c1f76b906373d9be85c4b768d56c736db3b",
+      "claimed_at": "2026-03-27T06:13:17Z",
+      "signature": "939d10f9136b2fbff4156a59ed128e9af4e0a3b8d551c1517eb4bddb3258f017d94bcf75382e48ec56d075b916ae1bf362e181128280561b3d03592ba1301001"
+    },
+    {
+      "agent_name": "miggy",
+      "agent_number": 3293,
+      "owner_hash": "3ec470a6dbcbe6cbead94dd97a0b994a0b3106c00e7e2a9411f113ad72e1a5ad",
+      "claimed_at": "2026-03-27T06:15:34Z",
+      "signature": "198c26b321687c3038a2c89bef0879daf453891424d7acdea9deba747f02640ffddf7c699da641a616954052d7baf67e7cfe4704e92e155ee6f4f31e216d6806"
+    },
+    {
+      "agent_name": "richman",
+      "agent_number": 3296,
+      "owner_hash": "bb1065e670c9dab4f2aab984ddac83c8cb3fbebb39097155ee16e3dc218e2349",
+      "claimed_at": "2026-03-27T06:16:54Z",
+      "signature": "02b7e5500f67d5741eba6140e87f022816d9afe07b0cb32a8f3bea0b7c2ecc6d3d511fc6c8f8f62d318ea72e0347b3627027ccc7bee87f1536eac94556cca30b"
     }
   ]
 }
