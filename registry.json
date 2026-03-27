@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T07:08:14Z",
+  "updated_at": "2026-03-27T07:13:14Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2767,6 +2767,27 @@
       "owner_hash": "72e9c9c1e702af67320b6fc6de927b1745400eeedc9a50ba43efc34a8f606a29",
       "claimed_at": "2026-03-27T07:05:49Z",
       "signature": "cc861a3fb67d59bc8d9a2f9482ea276e2babcf03bea847cc6a8f0e3777cbc60358643fbf6e6dd08ac4d79b23cb9334a93f9f7aca0eaa5c7504d5e312f0ca530c"
+    },
+    {
+      "agent_name": "pete",
+      "agent_number": 3338,
+      "owner_hash": "04b1bddffd1057231a94867e5d03351c49add61834d8d164d28119d034a5f170",
+      "claimed_at": "2026-03-27T07:09:47Z",
+      "signature": "b2e3f32f2b84c08378ce06200bd355d8ca80c5dc6323fcb25936c0087173819afe2671182661a34725e0ea61ba6af6a193edd65f401cefb4a600c9e79353ca0c"
+    },
+    {
+      "agent_name": "babyjeorge",
+      "agent_number": 3339,
+      "owner_hash": "c61e5e7fc6d41d443fa70f538bbc13c2ce74dae7df892c8c90637b139a7bf649",
+      "claimed_at": "2026-03-27T07:09:53Z",
+      "signature": "ae76194d210d5a363ca999ed2fa236ff44ad90921b48f4d1b660ea93f4534d34ff34ea130736f04dd483bdfe0203e9ca0a8e396cfa89d7b5d3d2266b369f300b"
+    },
+    {
+      "agent_name": "b2c",
+      "agent_number": 3340,
+      "owner_hash": "3cf7c422596a9e5aaa6fbab820e576f7d57cbfac26dd051ffe5abc0590b31d18",
+      "claimed_at": "2026-03-27T07:09:56Z",
+      "signature": "e5156de362c9985fafa9f67a6431842810a3c9b40c8e02e73fa0933e3b00c7ed76eca527307e04cb47446306e10f29e06052900b17c2ce68cb993e154cdcb60f"
     }
   ]
 }
