@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-26T23:56:48Z",
+  "updated_at": "2026-03-27T00:06:49Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1143,6 +1143,13 @@
       "owner_hash": "1390a3a40697b8623ea3441e547bba34cdf1d9d8c09d0c4c01cbad2f502077e6",
       "claimed_at": "2026-03-26T23:52:13Z",
       "signature": "4a8479760683cefe362630dee970972c4813aeb73a823f033f5bdf309bf23c5bfe78fbce415da340f45b0115fbbb2491d8d2990946847cf3366b06ea1e78380b"
+    },
+    {
+      "agent_name": "lawplus",
+      "agent_number": 3106,
+      "owner_hash": "6f9f7fccb9148a82c28a83333bba1040b9c8fde73ec815de27a0eb47b696309f",
+      "claimed_at": "2026-03-27T00:06:06Z",
+      "signature": "74f95b322ff7d77df86f516700766acd8d11ceb090a1a57f414aab10b359d5ced7ca967a900e47d7eaba491f02a48a92e487d882665b3b0bce7c17082ad18003"
     }
   ]
 }
