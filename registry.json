@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T09:13:50Z",
+  "updated_at": "2026-03-27T09:18:51Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3117,6 +3117,41 @@
       "owner_hash": "06892c9fe4870d239f97c149959c6fc1c29fc03547de20114f0bb7bf940a051f",
       "claimed_at": "2026-03-27T09:11:45Z",
       "signature": "bb57aa30e1c99f9dd10d5c235b8bfd779fa712f47a04256afcc3d6a894a1b31c5ba8fcb5f2121ce4c923dea1d56fffd54e39ba824deaee42f58b94a98d430c06"
+    },
+    {
+      "agent_name": "souq",
+      "agent_number": 3390,
+      "owner_hash": "f8d8935427a62735c0b3a6306f8e9ca28c387b0ba0c60520a4b2777ba73d94a3",
+      "claimed_at": "2026-03-27T09:14:36Z",
+      "signature": "4eb9daf9ef1d2274224f75c4785687aa2be8f68805232c06c87c41e7d299ebbf747ec0e07440487157fdbdc93101a245e8af5c7519b121ae94d9716828f2ed06"
+    },
+    {
+      "agent_name": "alphacore",
+      "agent_number": 3391,
+      "owner_hash": "ef579f6da8252b38af39ba1e3679e108933cded805bbcec6674aa0da4d6033c1",
+      "claimed_at": "2026-03-27T09:15:01Z",
+      "signature": "5c40028ed0360079773c7da9df5cb353c5e79295c1acf325d331e4568ba6ab056334d3fb4566fa54825238f74ca605500262132df5b5e2875929499d0df8ed07"
+    },
+    {
+      "agent_name": "grk",
+      "agent_number": 3392,
+      "owner_hash": "8e637f35324b5da9ef202db7e6f8d675740baf0afb0ef569f94ccdbea462d652",
+      "claimed_at": "2026-03-27T09:15:17Z",
+      "signature": "fae20aa64aecfb18efe44466d6a971040af2900c7c9c07c1f413db1b0b0e4861119a434c151b3f85582388d18bc64fb13fa428b8827738770e8b0c6069b5e406"
+    },
+    {
+      "agent_name": "uniq",
+      "agent_number": 3394,
+      "owner_hash": "0bfebe4bc23e144ccc2b283bb11e7d8e56ac06dab3e34180d3bb1ac749c02584",
+      "claimed_at": "2026-03-27T09:16:23Z",
+      "signature": "bb45518537da8afd8518db70ede6e6eb29b32cee49898a496680d060a1c19f4ea6ceacaf19f121f7312a061df6483f65f1dae546c63987535e4c935904e48800"
+    },
+    {
+      "agent_name": "emon",
+      "agent_number": 3393,
+      "owner_hash": "5c72e3d188ade7a3a8c099025fab4d0c366f14ba82668ff83077556d814f36d1",
+      "claimed_at": "2026-03-27T09:15:22Z",
+      "signature": "3b7a1e558ce614bfc5ab52df7d23a9921f6a09decc134c369aa837fcda059e02ed801a56284af2e380f3efabb5317a6e5fe35adfefbb93a762fe983fc6230c09"
     }
   ]
 }
