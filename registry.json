@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:34:23Z",
+  "updated_at": "2026-03-27T11:39:24Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3656,6 +3656,34 @@
       "owner_hash": "46793c385c99880984bcdb3c206bba1e22d997eb9f0f0b8ffab16c3092d999e5",
       "claimed_at": "2026-03-27T11:30:35Z",
       "signature": "c231dc0395d960f10c921919835c7d81f0ee40b314026359f60e82d702bdee8e6aecfcadc4b856699b5a442a65828ce7a2f61dba94b6c03a3717af9d9efa6a03"
+    },
+    {
+      "agent_name": "orbio",
+      "agent_number": 3467,
+      "owner_hash": "60d56cbf021b522a6791e9e9d3e8fdaacd22e722f0cb914bf84c863aace0099e",
+      "claimed_at": "2026-03-27T11:36:49Z",
+      "signature": "4bdc92f1655ddec620325658e72ca48b3dfc13de1cf85141158c55bf08f0b6e1b94509278b727d191d30a28e749fbb28f9bb839465f227bab1a369624e585508"
+    },
+    {
+      "agent_name": "sport",
+      "agent_number": 3468,
+      "owner_hash": "bb11ad3a82091eefbf80e984df7467d71e5bf2ad3a5d1bd82e4c10c5c55a24da",
+      "claimed_at": "2026-03-27T11:36:57Z",
+      "signature": "bfdf1f586dc8c0f164c7f9368fbd45ddbfb783053c34b1ee68daf00c8e102ec9294cfeef40b3d4f17df08d1169376ed5df831e809726ee204180179b1f790c06"
+    },
+    {
+      "agent_name": "voucher",
+      "agent_number": 3469,
+      "owner_hash": "63be4e51a29f7dd0134afe3ed5b389e03622e9b28b712dea2e4cc1f0eb1105f8",
+      "claimed_at": "2026-03-27T11:37:54Z",
+      "signature": "0a04c2ddb95d93bcd3e49be42e303b7c891fd055e0e248339048abff093563401dc4a3a5e76943568ed3f50f0b45430776b0b63dce83c34ad49dbdab7fc7b20b"
+    },
+    {
+      "agent_name": "kaneki",
+      "agent_number": 3470,
+      "owner_hash": "1757845d5e2e8587169da0e71f54befe79c7244d28673a51d202c2b0cdc128a6",
+      "claimed_at": "2026-03-27T11:38:52Z",
+      "signature": "182594315ea516b47f4ca3da4f17c902e6ac1650fc98e25061ce2911836e2b3776df4bb112bfc4291542ba181064c0eb7fd4ca600b9c1012da61f2bdf716530a"
     }
   ]
 }
