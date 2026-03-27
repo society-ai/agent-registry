@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:19:37Z",
+  "updated_at": "2026-03-27T13:24:38Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4139,6 +4139,20 @@
       "owner_hash": "22a9156163f5d10195c0c88eac28b87adc64e44a03058efc6b304a482a27ef26",
       "claimed_at": "2026-03-27T13:16:37Z",
       "signature": "62b3255bf9c40c4548152488c68cbb5202f1c4526e6ace6250ee34b68dd3ea90c34cad571e40c690afad8a6492ae76980f0f613644cfad03b8eafbd087878409"
+    },
+    {
+      "agent_name": "popcorn",
+      "agent_number": 3536,
+      "owner_hash": "ba5d8e1475b5d9863e3cc0213916604d987d13864158fdcf519c07a32db74af4",
+      "claimed_at": "2026-03-27T13:20:17Z",
+      "signature": "3419d8fd6ab32163e341199e31e6335357611e161d5ae03f941288385aa35c1699c66ef126fd6dbd4bd822c366715e15a3b47d061432e37d973d0cdb2d284703"
+    },
+    {
+      "agent_name": "dante",
+      "agent_number": 3537,
+      "owner_hash": "2a5a497eb7fc710ae86820f0cba55c2a7e4a675f374985665e2f14a764137faa",
+      "claimed_at": "2026-03-27T13:21:38Z",
+      "signature": "77aecc144ead3e7095a7e70795f2ed27788fd46a082171097fb1842abe876813a7bea6077ec6836cb8190a8f24516a81ed23f64346155138ce8f8de46eea6502"
     }
   ]
 }
