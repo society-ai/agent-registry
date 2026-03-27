@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:29:23Z",
+  "updated_at": "2026-03-27T11:34:23Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3635,6 +3635,27 @@
       "owner_hash": "014f236020693ea55fa2dee8512e18ec78507eaf12a6b88ff5468e626cbd0e9c",
       "claimed_at": "2026-03-27T11:28:02Z",
       "signature": "8e5d37e90453c0bcc79845eb0cde266e4e0ef906267e86978381063ae5b716ecc10dbb4f15631addf117d7832b368ccb3c4e1c9316d549f32d3681a6406b0a03"
+    },
+    {
+      "agent_name": "nofte",
+      "agent_number": 3465,
+      "owner_hash": "ab786ce292cad4c9fb009dc41b3e35c24342d4afe58907db809a05149b051d4f",
+      "claimed_at": "2026-03-27T11:34:12Z",
+      "signature": "9afd1b9d4094d46d7b7cc01aadf20262b68c82d9045da4b8409d62c23ee051544c2629f0290327391b8e12f417cb6c9986250df629f07dc9c8e8bac7bc95e401"
+    },
+    {
+      "agent_name": "myvision",
+      "agent_number": 3466,
+      "owner_hash": "7fa6028da14e543acbe4f8f124a5da5f98d84ddef688913ddef23286e2d1a762",
+      "claimed_at": "2026-03-27T11:34:13Z",
+      "signature": "50de4091d200e9c697ae1e8ce1ca2e2191cbed840f48bf45d6bb73cf2f5886bd0ca5d2a3762994e2c36a9d790db949711698cfbee4ef7830396aa05e22c6d70e"
+    },
+    {
+      "agent_name": "football",
+      "agent_number": 3464,
+      "owner_hash": "46793c385c99880984bcdb3c206bba1e22d997eb9f0f0b8ffab16c3092d999e5",
+      "claimed_at": "2026-03-27T11:30:35Z",
+      "signature": "c231dc0395d960f10c921919835c7d81f0ee40b314026359f60e82d702bdee8e6aecfcadc4b856699b5a442a65828ce7a2f61dba94b6c03a3717af9d9efa6a03"
     }
   ]
 }
