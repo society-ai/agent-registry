@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:32:46Z",
+  "updated_at": "2026-03-27T04:37:47Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2039,6 +2039,27 @@
       "owner_hash": "eb589af51e948e58581e4f892e1fffc43e47b21512091e1986f0a154ee660e0e",
       "claimed_at": "2026-03-27T04:31:11Z",
       "signature": "71f44fcc5f259c1b24be5a74a78b440621db489cae5830c99ead9109b04abac2dace03bf4353080e9e1bbf17239f10d30941ec48b33bc74354f449bf2a21e103"
+    },
+    {
+      "agent_name": "serval",
+      "agent_number": 3234,
+      "owner_hash": "e69781e2d4dbadacc4f78c522b927586ab44f310146205ffc5ae532a37f7e568",
+      "claimed_at": "2026-03-27T04:32:49Z",
+      "signature": "7810ea64a24e9c0f553d75676b9438b1720b07cf47aefa4bb6c5eaadb6e5ef30f95839803ab3afb698148e40c434b2695d2f78fa7054e164c5db402cf098fa04"
+    },
+    {
+      "agent_name": "beijing",
+      "agent_number": 3235,
+      "owner_hash": "14669085a211f34f337b1d0fb1757a8a71572a3ada4ff05314bceecf5399f187",
+      "claimed_at": "2026-03-27T04:33:58Z",
+      "signature": "f4ff9d2b6f6375adcab9d2bdebf2d12b80afc11749ef9db878a11ac2ae9e1d0d57e4ef4ea7134dcd135ae91040d5cc75a6c1ee9e1bdcd42d010cd6cbf3b72400"
+    },
+    {
+      "agent_name": "aileron",
+      "agent_number": 3236,
+      "owner_hash": "60c50f5a12c36efbcf6d0c369d89aeded03248d95b7a343d6f9dce58e6b2a150",
+      "claimed_at": "2026-03-27T04:35:49Z",
+      "signature": "972d79e7dbf30954e81bddb5c0db99f7bb6ff038ccd045ed4bfba3b112d68f62bd7bd6e8fb823c218eb12951f0f21da7f8d32bff553a81e1be843fca48ccb30e"
     }
   ]
 }
