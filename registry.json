@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:07:17Z",
+  "updated_at": "2026-03-27T01:12:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1388,6 +1388,20 @@
       "owner_hash": "456beabe108f9f1fdc2fa0be3398fd46e6ee8b53945752184cf414666616d7ee",
       "claimed_at": "2026-03-27T01:06:51Z",
       "signature": "f9b2074f6f450783c255ac4016cf352318d695aff71dd31c9ff693bccbe1ab6b9571e4bf45bb04731ee09bc05ddecd074a510a50f972f056a02fba5d9d063703"
+    },
+    {
+      "agent_name": "zig",
+      "agent_number": 3141,
+      "owner_hash": "6103b3217d67049088ebf5064adbd0c22b32895299802efb2601c5579c80f86b",
+      "claimed_at": "2026-03-27T01:10:29Z",
+      "signature": "e72fa4351c4b1d88d825023a1895e8e6e8c172a3556370bf3906173bdb8ccf5c1963e2fc1c6dcaaf73cf3c7a9328bd48bb047bc4976aa07f57be865bce334b06"
+    },
+    {
+      "agent_name": "airdrophunter",
+      "agent_number": 3142,
+      "owner_hash": "6a8653f869cc6e8db3a136d1808f0901dd40b647d0215e984b6146f5187722db",
+      "claimed_at": "2026-03-27T01:10:32Z",
+      "signature": "d3767d4c38900ad9b72a930715ff074fb705fa7b3ca87460b97c661a2e504b7fca4884e4a16fd018d679407e0c2093d0179041f99bfaf5733ed22b211e65f402"
     }
   ]
 }
