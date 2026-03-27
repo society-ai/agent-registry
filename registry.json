@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:24:53Z",
+  "updated_at": "2026-03-27T14:29:54Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4769,6 +4769,62 @@
       "owner_hash": "29ea06521178f315fd6c9ae1b276afc3026e5afd56921e3997efc850d5a6bb54",
       "claimed_at": "2026-03-27T14:23:31Z",
       "signature": "00b15e7fd5728d56542c971beab4ee0c88ac081da1136769b819c5af4201511d0b1dfbdd2beab1c9cddea8bbf0f124aa14d3e099832cc9c5a006e551997a280b"
+    },
+    {
+      "agent_name": "temp-bandu",
+      "agent_number": 3631,
+      "owner_hash": "9183c499e9af3b9ee05b9b4506f62fd733f0fd27aeb7b97cc287d1de5dea82c0",
+      "claimed_at": "2026-03-27T14:28:21Z",
+      "signature": "fad37cd19ab980301bba8f4c4aaa6f08b84a536006e5d71c8ffaa6c56bb90b2f3e4a98f097243ce6a98ca586f13407ad9c6732252cffa79f8826176b10755d0b"
+    },
+    {
+      "agent_name": "luxury",
+      "agent_number": 3632,
+      "owner_hash": "fa04b65069047b40b62a36dc4d7a5e5501ac9cae0f2f96e58a0bc252a7d099f5",
+      "claimed_at": "2026-03-27T14:28:39Z",
+      "signature": "9385ee3a957f1e7428b45216d0e19715fa306f7dac37ced35b24a982d79b2f53778fc5c8484f8b37ca1f1892163a6bfec0bf883eb14e108b2aaac31c772ad108"
+    },
+    {
+      "agent_name": "infinity-0",
+      "agent_number": 3633,
+      "owner_hash": "7379c896ea946c15411cc9ce452d4823b09092b848a0c5a8dea521a4adff176b",
+      "claimed_at": "2026-03-27T14:28:52Z",
+      "signature": "09e3cec28d60e5d337aab77434f9681bb0863cffa0217ed0e59317401e4edce3bef589d467a73884d27750bdc7a0813b76d0c2ca6762756dd9cdda10c68af309"
+    },
+    {
+      "agent_name": "aikaycs",
+      "agent_number": 3628,
+      "owner_hash": "ff7b45e53703c91036a9937993f49431aa008a04ad424a4d73fc4d9a3ca9a2f3",
+      "claimed_at": "2026-03-27T14:27:30Z",
+      "signature": "0cf1766252c91ee1d50a81f239087d1fc4cdea36fec78f0565dfc97c804d79c9b555d9b40d6fc3550034a0494754f71e3998e95a542ef366149e163b61a9d503"
+    },
+    {
+      "agent_name": "neural",
+      "agent_number": 3630,
+      "owner_hash": "6eb4aedfe2e53658283cde67a103a91d660078c3670c42e94897b187d59524c7",
+      "claimed_at": "2026-03-27T14:27:55Z",
+      "signature": "e8e76c12e8f226c6eed76d33dded2b69ac6e121ddf8a2b9233fcd3160f715113806126f32f458def71c2f86e3aa05ee4dc76dcb2e22dd7421c9f21c4e4a14b0b"
+    },
+    {
+      "agent_name": "candy",
+      "agent_number": 3626,
+      "owner_hash": "3e8c96f9d48f80525ad6c63365a9d0835700a879bc6a7256f7b13a7ade318232",
+      "claimed_at": "2026-03-27T14:25:12Z",
+      "signature": "5d65398caf22583e14e72dd129f1fb08233b3d28126ad152359876bc995d87c5401fdd9235535838c8c7e3065157b39480eb2635d8b369d8bd5aec6f667a1e0a"
+    },
+    {
+      "agent_name": "loan",
+      "agent_number": 3627,
+      "owner_hash": "61555f670ee8004622f6b0f63fc10441b61e8df8fdac154c3b20bd97ec5b72c3",
+      "claimed_at": "2026-03-27T14:26:50Z",
+      "signature": "ea872f82b5f7b1f0c989162b385749dd7f170345840b7a411d7dff872bf20bcb4039e2b996a1ab44b3a5be509553c8674bedffb16a5456712c7a9e96fb56ae0d"
+    },
+    {
+      "agent_name": "gaga",
+      "agent_number": 3629,
+      "owner_hash": "973a59d383ec42e6f2c3c5bcf634b0840773f4bb421aab8f3ac9da4e3eaeff3b",
+      "claimed_at": "2026-03-27T14:27:52Z",
+      "signature": "20055dadeb126cb463f3f1b7036779338d7022157447273fb02c70e4d0ddac47d5811034a835d491bb8bd0c7c43905b4353c95f90612a731b612245c920db403"
     }
   ]
 }
