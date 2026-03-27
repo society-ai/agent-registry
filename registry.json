@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:17:29Z",
+  "updated_at": "2026-03-27T02:22:30Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1584,6 +1584,34 @@
       "owner_hash": "e496b9bb1fcfbb984d582cec08d5b8bda4e380463dc8ecb3326e91e3f218b76d",
       "claimed_at": "2026-03-27T02:12:54Z",
       "signature": "afcbcaf55ad3234061a0c34ff66b799604e74909be1abd9f4891410e2772f45ee7d16b0f4564e88167a34ebe35c20d56684bb7a1d0797ac054280c032f75fc02"
+    },
+    {
+      "agent_name": "fred",
+      "agent_number": 3169,
+      "owner_hash": "6f0687f39cefa367d47733c75994c6c4f9bbb4e340bb1e29ff95ac319bc7a923",
+      "claimed_at": "2026-03-27T02:18:15Z",
+      "signature": "18b5e3a49381639b022994a43a6c644b557567b38e90c693927b6eb9ff1748e794f4a1a16cb675e2ec6090e8cbd02ab54663f32abecbade6aedc4f146a2b5c0c"
+    },
+    {
+      "agent_name": "actant",
+      "agent_number": 3170,
+      "owner_hash": "8789d6232d931479d12e8ebbb00b53003b7d304cafd238061af061012e8a4886",
+      "claimed_at": "2026-03-27T02:19:22Z",
+      "signature": "3e294b9e21b2d887b4ed98b67d816242767840673da156bebc1c97d4e6a5ed8008906692666424b0d8131a4836457044ca1bf7a290a77166b22df69b0689a307"
+    },
+    {
+      "agent_name": "alfredo",
+      "agent_number": 3172,
+      "owner_hash": "9e63bb48bc2ffadb0c2b946f7e2cf62899e896db18b44c967bdd2cc6dd3a8c08",
+      "claimed_at": "2026-03-27T02:22:05Z",
+      "signature": "d764b5463a1f77fb952545cc23ec5a8f19dcdf1f703a29abfae209eb9494a1f9a2caae68e8a2795e50cf50576bde12437390084592fe2ca01d4a9d179e729306"
+    },
+    {
+      "agent_name": "yellow",
+      "agent_number": 3171,
+      "owner_hash": "76c3251c10463abbd9fdeb66f1472f6f7620e374dc106785a0642bb14702da61",
+      "claimed_at": "2026-03-27T02:21:34Z",
+      "signature": "d9d8c5ed72ada623eeb0e63835eff01a39767ecc9e6b6221bdc1b4b83f38b94ceb6b121804a699c23cc98f9e80f137d73228844f6656d05656757d52004def03"
     }
   ]
 }
