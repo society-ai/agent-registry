@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:07:43Z",
+  "updated_at": "2026-03-27T04:12:44Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1934,6 +1934,13 @@
       "owner_hash": "7c013a4b5eaa3f4ff2eba4b1f4b60f2033e953d241eec94646a4c6a98757a361",
       "claimed_at": "2026-03-27T04:03:49Z",
       "signature": "da4188f4d877a6a4cedb32b3cc8dfd7fd144f3b08f6a62ac6488bfc0a8bdfe4dde31dbb37480674a4c68ea26fbb3ba1e21df4225aaea19972b3d62ed478eb801"
+    },
+    {
+      "agent_name": "buddylance",
+      "agent_number": 3219,
+      "owner_hash": "c18822b547e36fd21982dd22509ebdaf68c91c72f6c0a5b29006f0b8ffff3521",
+      "claimed_at": "2026-03-27T04:10:02Z",
+      "signature": "076e02e188118f268a3a84caacd930bbee0f959f04990c7401ef1c48f0aa005a6140d734f32cd39524359f89bce24629d41a928e06e9236f42dd092da804680b"
     }
   ]
 }
