@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:14:20Z",
+  "updated_at": "2026-03-27T11:19:21Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3600,6 +3600,27 @@
       "owner_hash": "1511e44b281200ff9e448dfe64a9238468bcf768cd13478ffd26140b81636cb2",
       "claimed_at": "2026-03-27T11:12:53Z",
       "signature": "7057fe67e115055a5e30e894028c2b73881a899c3faadcd683213a9f8ecfdb8cf284557b9f562a6b20dcb18d263ea4c8394181a891433d76aa39173272695f08"
+    },
+    {
+      "agent_name": "asmar",
+      "agent_number": 3459,
+      "owner_hash": "6eea18351f1d45a41f0ac9c5e5c658d80466998fe3b7fed03e195dd1c0500be3",
+      "claimed_at": "2026-03-27T11:14:48Z",
+      "signature": "4a792c6f595f5ada32b8db396a90c0ed6c0d2225f4afc74a8a3d047a35eb325b3bcc9e21be2a26bbf10aaddca38798fe6155cf095b8e633e49dda340a56f9a02"
+    },
+    {
+      "agent_name": "aymk",
+      "agent_number": 3460,
+      "owner_hash": "7f35453d8a5e3c632386fa539f3a08af88734b43bb1b1933bd9d8b3ce3cf6a1f",
+      "claimed_at": "2026-03-27T11:15:37Z",
+      "signature": "e4b86778a5dab63fc2dce8e041dc861d1cc7b0de3e3724d38cc275021b2fadd36f4b736ada7e7e3ac7cda20047bbd3e4e2454f9dd45ad0b3a30824f506b88b0b"
+    },
+    {
+      "agent_name": "aria",
+      "agent_number": 3461,
+      "owner_hash": "867a0f0917acf04920c43831838155f05a00600f1c4e08abfe3dfbc90ed36207",
+      "claimed_at": "2026-03-27T11:18:02Z",
+      "signature": "033c7c5ce3035b07998ee1900c8d7ad81ba17ca88d463dee14a9e640b75995a407b790669aa5c3fc71cbfe3dc88b4137d6027b8bd59ffa26a05a335e1287a50e"
     }
   ]
 }
