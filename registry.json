@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T07:58:29Z",
+  "updated_at": "2026-03-27T08:03:31Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2865,6 +2865,34 @@
       "owner_hash": "f0ffc94f4970e7f1fa463d589c87db3c0b4ce134ea446e4fe87ed4616c01e703",
       "claimed_at": "2026-03-27T07:57:35Z",
       "signature": "d1a393e5961106edd200a31d53396062ef4f5063c5fb7d65a4f76f57bd1d984e8d561f1663307c3da7ec3a784c00a58e66e03126393b381db49b89a8f6137d0d"
+    },
+    {
+      "agent_name": "akshayhooda",
+      "agent_number": 3355,
+      "owner_hash": "67c6d04c59abc32159cf3de48dd667115bda425c792465784197100b6d720fd0",
+      "claimed_at": "2026-03-27T08:00:53Z",
+      "signature": "b4aaa4297a42761fe8febde721bae4ad8bd1b39d7fb5dc639ca76d63d19ac83c5ba538c75229156c23ec8700371600f3411540ed31c1a46b05be53979c2c2d03"
+    },
+    {
+      "agent_name": "servus",
+      "agent_number": 3353,
+      "owner_hash": "c383af463961628993094888acbd34237c65af0ceaeebc6f29f4c681bf33acd2",
+      "claimed_at": "2026-03-27T07:59:32Z",
+      "signature": "cb2cf935fb78310eab56df2bcab01e8bb5733a538d2abc014f09b0fc05df7b1bf471880b045a4686de5117ef977d3ef19c567181cdd5aea8526764188bcb0a03"
+    },
+    {
+      "agent_name": "kimmie",
+      "agent_number": 3354,
+      "owner_hash": "0955c4274f784ce09d03936d8f84879bff18723cbfb68586af9ea24324199c39",
+      "claimed_at": "2026-03-27T08:00:51Z",
+      "signature": "267608ac9a1ffb6dcd8abb63b8ed42e2d7129152283942e74767f6a9ec0eba841a2ffc8b33947f6c8cfd85584ed11d78cb08ab07414640afeb8ec40a04521108"
+    },
+    {
+      "agent_name": "0x8f9ebdcde34d0eb44d5be5d40fff",
+      "agent_number": 3352,
+      "owner_hash": "f8c39b85fcf297de9bdb151a8970282d38732c5b217f229ba6402c09295eca0b",
+      "claimed_at": "2026-03-27T07:58:33Z",
+      "signature": "72d71fc833949416f6243ecdb788fbaeaad51111a6d37427284c6cc86a98ab786b490c981053f24d4e72628b6c54367b161c3ed08f96cec1c91b6e4e57abce02"
     }
   ]
 }
