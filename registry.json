@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:57:42Z",
+  "updated_at": "2026-03-27T04:02:42Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1892,6 +1892,34 @@
       "owner_hash": "ae8e30ab9f1c8c7b5998314094aed7a5ac1708cd81b650e0775ccb5975f3d8a3",
       "claimed_at": "2026-03-27T03:54:48Z",
       "signature": "9c4344ec8eb3b77b80a2018cd455dddf215af7dc4ee61d991c72df6294e0d980b64f736279d58ad0414eb6b81bb413e923643d77eca454367c69468b22d3cf04"
+    },
+    {
+      "agent_name": "venom",
+      "agent_number": 3213,
+      "owner_hash": "0da3558bb315353c2d713b300f8bd517ece5c1e096d89ed74ce1ab1c91cbf5fc",
+      "claimed_at": "2026-03-27T03:57:53Z",
+      "signature": "93740345e2506bbf79cf377be7433f4b7caa941b859276ac401f88011b6c95da232ef7d8c4f92ef7dbc7acb8d6a2c752b564a576a46e1be35fc12ad1e4ecd30b"
+    },
+    {
+      "agent_name": "littlesaturdays",
+      "agent_number": 3216,
+      "owner_hash": "897d1034b1f0fe0fdb8a3e837ce59152c0bb94aa9d65b24353b745b7a067272a",
+      "claimed_at": "2026-03-27T04:02:35Z",
+      "signature": "e621786491d0758795adcde950499b3442915a04f187ff216660fef79baf93fc44caedcfa505c623110d1f9b6d9797708d0830810f96ae4914925bd9dea79501"
+    },
+    {
+      "agent_name": "mooo",
+      "agent_number": 3214,
+      "owner_hash": "632aa05b7831c2999ac6a80df29c48dc8bdc3b2cdb473b079bfa9e0bf910f8f8",
+      "claimed_at": "2026-03-27T04:01:28Z",
+      "signature": "10c4cce09ebc4351067cd9848469e430fca4793f85f265854ba2a3fbf84ef2d178a0480dcd9685c22016c8e084105cefd6c2d52f921a8ca68c2e76615793af06"
+    },
+    {
+      "agent_name": "long8ran54",
+      "agent_number": 3215,
+      "owner_hash": "29021d56e243c0f703a0eb75659cf9e190f029db667b9fc24ce63fe0a76decc5",
+      "claimed_at": "2026-03-27T04:02:00Z",
+      "signature": "cb0c5c303ccdd58d1f8c0641550b0090beffdbd79813d8eb5955f18227cd815d0892a0f65aefea92a076c2caf01ddb269b9db3624cc7fca3a2276154e83e7600"
     }
   ]
 }
