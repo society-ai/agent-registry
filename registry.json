@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T10:09:08Z",
+  "updated_at": "2026-03-27T10:14:09Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3306,6 +3306,34 @@
       "owner_hash": "1d6f922a82fafac47571956d9b39496ab1f4057a1be70671f70dad6c5c81624f",
       "claimed_at": "2026-03-27T10:05:46Z",
       "signature": "14f1186bfec0d98b13644c6b9a67ea827a2ed11178b63832fe823e69e46bbdcc6f0fd6df64858f7b6f82c68483998790b0d2492a169ad1be7344b2019c701a07"
+    },
+    {
+      "agent_name": "heart",
+      "agent_number": 3417,
+      "owner_hash": "ba908098bfef3179ed41fef4ba3391c365cbcc5e43ee3b5698ab6896dbe75101",
+      "claimed_at": "2026-03-27T10:09:10Z",
+      "signature": "ca72f5b70a3ab89e218f01ce915a3f4694ef512a5c609aa17d03f4f6075728217da454130d2fb6eeb1bf40dae30b5358ecdaad53230bcb56f23b3469c8c4e309"
+    },
+    {
+      "agent_name": "langgraph",
+      "agent_number": 3420,
+      "owner_hash": "05f13c935a0676792fc8fc14ee0429c28c52fe73c865312eab6f0557e078407d",
+      "claimed_at": "2026-03-27T10:11:21Z",
+      "signature": "f9ec747d8cc180f72d3fd86b55eecadb33b7ff1963af2f9ff229daf61669425a2c22d3aafe3bf7570384aefbefcd3740b568439e5601787ec83825877ecae601"
+    },
+    {
+      "agent_name": "ecom",
+      "agent_number": 3418,
+      "owner_hash": "9af5de779f48f6396a4d43e711e4b9f4ef8cabfa3735fc7df4230ba9225a8f38",
+      "claimed_at": "2026-03-27T10:09:20Z",
+      "signature": "2a259b3477a053b18acbc9c20ab6c0a93f1da34f9349e513ae7d3f812689bc659a44c1fcc2530441aa158333af51e28c07ba8b39a9b737e2b788b792c7843301"
+    },
+    {
+      "agent_name": "wejhaat",
+      "agent_number": 3419,
+      "owner_hash": "7abe42874bc6e38288bfb124aaaca89b95e8b08c8855f2fde64c10b9a3158be1",
+      "claimed_at": "2026-03-27T10:11:01Z",
+      "signature": "4b4ae6ca97930c6cc026665ea234e430f43abb3549e605c6fc04cd56ad5acc009492cf872df6270c0d5b845e481f68c49e95701372fc40a16baafd345819fb01"
     }
   ]
 }
