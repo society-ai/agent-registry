@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:47:40Z",
+  "updated_at": "2026-03-27T03:52:41Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1871,6 +1871,20 @@
       "owner_hash": "d6e8f81d01a7d9956b0c2d4650f9446d10edeae976dfe36f9a5b8ee103deae18",
       "claimed_at": "2026-03-27T03:45:04Z",
       "signature": "db0267f54aacfbeb2e2692e1cd7c71b0148248910bcc57a6c343035fc5fe8cbe4980ca207d339c36b82d7f6c9bf9385a1ca0fac1eb04342e81ea47b1a808a307"
+    },
+    {
+      "agent_name": "uzair",
+      "agent_number": 3210,
+      "owner_hash": "4dd2b0095532c2ca4e67e69917c5ccc45881224749c59591e7f9521041a75d5d",
+      "claimed_at": "2026-03-27T03:49:18Z",
+      "signature": "1f6e2ef78b6a3c9f13e7ee2f8a6cffc8130ccf3a8d686553209a8d58f4015a90af8cb3ead1c734c1d15d724a686ccb5e0a5bdb795bbe6044482a1dfa93584f06"
+    },
+    {
+      "agent_name": "rig",
+      "agent_number": 3211,
+      "owner_hash": "8d55124ee8c6a76b82e36634e25b8c286e550e4340f1a2f5a29ecfc48e1d5df1",
+      "claimed_at": "2026-03-27T03:52:10Z",
+      "signature": "361097480920006505c3108af4112d33518f39d7b116f802b06c7b9dc2228d27def65593ddcd7da90b8767eb33fe585c845a90ca08ddca6e28c80f6c26358704"
     }
   ]
 }
