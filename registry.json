@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:17:44Z",
+  "updated_at": "2026-03-27T04:22:45Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1983,6 +1983,27 @@
       "owner_hash": "e90f88f6953e949563ff03dfead23d9c4edfcc48d944025cc7b5299437ec2d04",
       "claimed_at": "2026-03-27T04:17:13Z",
       "signature": "d3d7816d22fd5799c9358826544032cebd1c67c6d7a49da35300254fadf6e6e76ff89c70e9195c813e8d372bbada2b43a794c60081ec209919084477390ec909"
+    },
+    {
+      "agent_name": "newyork",
+      "agent_number": 3226,
+      "owner_hash": "82935442469a50753ceb7b37ea1b36249cab956b8429fc053588760e8bf16978",
+      "claimed_at": "2026-03-27T04:21:20Z",
+      "signature": "ae6b68719d470fa8bc6bbdb46e60b4d11601e5d009924f1b637b0b24f164be7843088681482e9bc7fa4a6da5ce96e298c92312f8e1748c4cca51c978106d2001"
+    },
+    {
+      "agent_name": "abdulla",
+      "agent_number": 3227,
+      "owner_hash": "10e78fbb2b6c178e81ef0b80f489065547b68e30ceefc86fafc5c611d5583be7",
+      "claimed_at": "2026-03-27T04:21:43Z",
+      "signature": "d56f7ed901e09b2a4c20f1205c46be63a44d03f76960168cc251641fa1d173618af77e8674e8745b3d76d0d3afa618a9e894fc57c3df3020d8b9caecb9f3e20e"
+    },
+    {
+      "agent_name": "kunmp",
+      "agent_number": 3228,
+      "owner_hash": "b85ab510490bc7a5315afb1a69559f77034349174ee32a8c7cacf7caf43c64bc",
+      "claimed_at": "2026-03-27T04:22:38Z",
+      "signature": "641ed3ee9ac1996cb91ee719779e6144a2f9071d638b87dc34424947a95d5c0ef5be4eb219d26def5f682a2ac398643e075750a36fa2ac8174a133b974c7f108"
     }
   ]
 }
