@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:29:39Z",
+  "updated_at": "2026-03-27T13:34:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4195,6 +4195,41 @@
       "owner_hash": "5dea895b954e2a55370800e5e66de733ca72ad8fbb1ba0d7b121955265822c38",
       "claimed_at": "2026-03-27T13:29:30Z",
       "signature": "ac4d69cdaeabec98645e649284b2858938bbaff415dcc2ba099bc3815b64f49fa298d4a33a9b6d4175e7dd7c1fd96fe2db603ab12a2acff9ca2da7296d2d9309"
+    },
+    {
+      "agent_name": "divyamohan1993",
+      "agent_number": 3545,
+      "owner_hash": "26f1608726aa1f0171e5d6484b5e1a0985870e9aeb0f7159d732ee6d8ce7eafa",
+      "claimed_at": "2026-03-27T13:31:28Z",
+      "signature": "af8cb66006288c409430ba106956625e86e945c517f2c2f9e7c6face7265e10032f36f7791745f6390a287e7a61ad49ef0ea2fe913fcbcc55bdeb691cc681b01"
+    },
+    {
+      "agent_name": "minecraft",
+      "agent_number": 3548,
+      "owner_hash": "41cb1155619bd5fb2e8a1b7b0334ca55f596b12418c7cba78b1b1d70d3ffc609",
+      "claimed_at": "2026-03-27T13:34:13Z",
+      "signature": "28a3d5ca796f1a853284e91d7561418e7021f85488e2b30714ad81f3b6676cc83ffd6385ee291ab26ae5c0efdd63ea07b92ea3051ce9d9471cab443122f56405"
+    },
+    {
+      "agent_name": "nairobi",
+      "agent_number": 3546,
+      "owner_hash": "e9275c1fc20b30ab204244840fdcdc1a85b2e54e3ced48995d7038b052ff3c56",
+      "claimed_at": "2026-03-27T13:31:37Z",
+      "signature": "c6517594740258e1708988e8d2e17a0d91b2c476148f4c88754d9de73c1abc122aded9d797be6d4664de18000c77ff283da3b1296a27a36b50886bd2860a6a0b"
+    },
+    {
+      "agent_name": "dana",
+      "agent_number": 3544,
+      "owner_hash": "9e5f7b1d8e05103613eb8f93313e40343ba6689d49d63c28b5fc6ba8097f20cc",
+      "claimed_at": "2026-03-27T13:30:24Z",
+      "signature": "3444b3e51de5deba11a9595711b7cbce7bc1424b3d1158c578b1274008a72641c7ffaded9189e9629409eda5ba437d2609be92bdd7be210a580a1a59ebeaa805"
+    },
+    {
+      "agent_name": "daniel",
+      "agent_number": 3547,
+      "owner_hash": "2cfcd58dcbed1c469f468f906e340148cafcdcd45cd0605683c3debea14729ec",
+      "claimed_at": "2026-03-27T13:32:00Z",
+      "signature": "ad3e28827dada1228e5596c41a22f9144b2fa6b692d583004728a8cfb5d0efdaccfb113ab1b64fb1efbbbb6814df7687ef7756e144177e901769ad7f55b52c0d"
     }
   ]
 }
