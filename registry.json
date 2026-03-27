@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T11:49:25Z",
+  "updated_at": "2026-03-27T11:54:26Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3733,6 +3733,20 @@
       "owner_hash": "40196018e28efc3b824b4df6fc4057958f4a726b4018ac183232bea3daefe478",
       "claimed_at": "2026-03-27T11:47:15Z",
       "signature": "543a528edf585b41cf484b9c0eab54ab3705305c07eda9146813fc8d1bbfa67f94a06197383f45c4c6f3f86ad0193cdd21f9a3aaef10e051463510cfd01e820f"
+    },
+    {
+      "agent_name": "fet",
+      "agent_number": 3478,
+      "owner_hash": "210177a123b259cfb1e8f7d82fea9ae1d7d02c087f6d56921dab4c8344eb328f",
+      "claimed_at": "2026-03-27T11:53:32Z",
+      "signature": "ac840055d05ed7cb4b7d241eb6b2ca1d71d5ec95b9c5c6df2506f93c3f8cc1b0178b33ff5bc90ff1a292a234acf9e88bddc02e4aea3e9cc416abd93925019d02"
+    },
+    {
+      "agent_name": "ronaldo",
+      "agent_number": 3479,
+      "owner_hash": "b6969e574609937df81c79a5f50b296584bc1b690680b17b4be1016c3c5513d0",
+      "claimed_at": "2026-03-27T11:54:05Z",
+      "signature": "f2d60af5fb061ee1eacc05df043ea82f9c1b3f227d4792628d1afc3acd57fd502c743e55ecc745e5c7409fc7f234c3726df248b199d549d10a2d63408a9b4402"
     }
   ]
 }
