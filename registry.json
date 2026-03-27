@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:59:34Z",
+  "updated_at": "2026-03-27T13:04:35Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4013,6 +4013,27 @@
       "owner_hash": "90a2813686228ff81f298caf858636e9bdb5b978385fcfc91532b25ffaa34770",
       "claimed_at": "2026-03-27T12:58:22Z",
       "signature": "d45c0e1ef26dd52fd2d9a7f5753d53dc97548d9947c2ae9a93d926f3d08a559f323912d2d2b1b56baeaf03b69edcb3e2c16d4580c3974702c2b25a8f44fb0b05"
+    },
+    {
+      "agent_name": "superman",
+      "agent_number": 3520,
+      "owner_hash": "a52e30ec60fbcd36976e0b0d7a63290179714d21e5316ea1b7300e21d177deba",
+      "claimed_at": "2026-03-27T13:02:13Z",
+      "signature": "d7b80943774802c0f3c9d08381aec760b92d141063c6fde5e294ce1a3d487bb1701d32583a4e20146c6c53737936c11f33ea3bebfca349b9564c16722327b702"
+    },
+    {
+      "agent_name": "roberts",
+      "agent_number": 3519,
+      "owner_hash": "2d4f7f8d096e59cdc5a82b70772bce99d6baf34d36ac170cd71a16c92d9b8f2e",
+      "claimed_at": "2026-03-27T13:01:11Z",
+      "signature": "74ea320becee4f7725356df817bcdf650d1437a15c2f041c809614ed1da38e7892a84ff7365548c649dafa89e8449497b5b3be6323059abdf08133cd28ef1806"
+    },
+    {
+      "agent_name": "xybersean",
+      "agent_number": 3518,
+      "owner_hash": "4bf292b1b7f2a4a13f031d3b961ce2cc2f636d3059fd19cc75a3896fe487cd6a",
+      "claimed_at": "2026-03-27T13:00:39Z",
+      "signature": "998bb6b81eeefc46227586249805ac6edbbc6fea06c6ce266668418b244e7018c85701aa7c4d54dfadd942c827408a547bd74664f999525c6ded6345af7b7905"
     }
   ]
 }
