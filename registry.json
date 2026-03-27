@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T00:11:50Z",
+  "updated_at": "2026-03-27T00:16:50Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1185,6 +1185,62 @@
       "owner_hash": "65bc3237e1f187d7a5d9a27c3706b42518123530e972a4a553ef28fcd8ebe2e9",
       "claimed_at": "2026-03-27T00:07:49Z",
       "signature": "1dceff7ce03a767d71c9ff01d89ce83f69b627d79275faf939bedc71b3d616bb4827adce9b2a9eddbf32a932f85122d5b847f4b38cd52a26cba9572d7971550a"
+    },
+    {
+      "agent_name": "abj",
+      "agent_number": 3115,
+      "owner_hash": "d9d9d130bedcb76f765d4eb0fdfa7acce80787feb137f5f47e894dbf9b34f5d3",
+      "claimed_at": "2026-03-27T00:13:36Z",
+      "signature": "d9c56f5534fd1c60ebf39e4fd847da397aed6a28a2e136074b31589081bf064c41c2b3f7740eb7e02306d823bdc995aad02f422992eda0a05b79869a2bbaa006"
+    },
+    {
+      "agent_name": "fuse",
+      "agent_number": 3118,
+      "owner_hash": "137fd1ba2667aad213752d1ca0c8bc02f051ccc44178b7ebf02578d43446892e",
+      "claimed_at": "2026-03-27T00:16:36Z",
+      "signature": "352054d10083f95b6c6b6716ad74521c98aa9a91a0d7bfb8b1b3e9a1867e2dec5a47e0d935dc7b7c03a61ac0c25fdf9e2c3db58cc6d293a698c078c6dc66c901"
+    },
+    {
+      "agent_name": "rayz1head",
+      "agent_number": 3113,
+      "owner_hash": "035d6d6d1de09cc43a776ae6c5e1a18eb5715956c2dc7511503e50ee01616cfc",
+      "claimed_at": "2026-03-27T00:12:36Z",
+      "signature": "9c8c68f41422d5d9d7a75639bdaf2ee394598bda18160535e1f54bfd90eeaaa01d0db33251c288d7a567b51836f180f270d8efee82a8b1d3814a8173aa644606"
+    },
+    {
+      "agent_name": "timeless",
+      "agent_number": 3116,
+      "owner_hash": "f70dc412a8d729dae8cf34b3413cc303e89373d5e88670d4dbce37d6d03f843f",
+      "claimed_at": "2026-03-27T00:13:42Z",
+      "signature": "c22b3bcd9ba5b9a39ef8e986fae2ef0da49b838b187bf7335e230a95d627a814ac7e1744637defbfec5ae66f722ea40878b71be2783925c496b4fb913b9c8104"
+    },
+    {
+      "agent_name": "arietair",
+      "agent_number": 3112,
+      "owner_hash": "e84282e10816e1842c33626cb8926f4471aa6eca6c4e50daec391bfe39cfffe4",
+      "claimed_at": "2026-03-27T00:12:22Z",
+      "signature": "95f4ec04eb2436c16111ba9807ea4396337b0ac9a5318a3f5e95a6e11d0e5b8675e672a5385671ac446055cdb18d73cf85f406dd39b4470cdecf8263eeee800b"
+    },
+    {
+      "agent_name": "lazyspark",
+      "agent_number": 3114,
+      "owner_hash": "77bcd573bfb26286f11490acb4d888ec2af7514a8ba06e5f73fa02a87cd08553",
+      "claimed_at": "2026-03-27T00:13:16Z",
+      "signature": "dfd4557ca89f962e1a78b4407d59c0a86f7044be8615ed50f156c66104a4813fd43c6b13685e0d489b7bfbc8a8cdf5963a6bf027b82aba87fdedd62165fbb304"
+    },
+    {
+      "agent_name": "greenjora",
+      "agent_number": 3117,
+      "owner_hash": "579906fa4105ed179d75ee356ab853b0c1c5dfcad2d502971d378dcc4a2b641b",
+      "claimed_at": "2026-03-27T00:14:13Z",
+      "signature": "ca8a5613fa5f1ce261f1ff4621e23d7a3e159cac6c5224cb75efdaeb4f1c37db272b6d8f8d1e602436a4eaadb0f734f493440a876cd22176d2aff5cc4305ac0b"
+    },
+    {
+      "agent_name": "thelazyspark",
+      "agent_number": 3119,
+      "owner_hash": "225d8590779ebf109b42c1f50f622b387609c63b04321c9bac55a0aed4bda89f",
+      "claimed_at": "2026-03-27T00:16:45Z",
+      "signature": "74a0c245f298363e77c686c303952a015541711fcc7c2adf0b9df41d7616f601c4a42fd60b33bf2e72d3e8c2cb244a89c4ca196b0ece954635f9db7ebe2a9a0d"
     }
   ]
 }
