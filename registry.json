@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:58:12Z",
+  "updated_at": "2026-03-27T07:03:13Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2732,6 +2732,27 @@
       "owner_hash": "80e8a3b7fdfcf6032add5fc8c965f0d4619e187b83d0bad5d1a31ad41d120ca5",
       "claimed_at": "2026-03-27T06:55:07Z",
       "signature": "c3bdb4c6499fd65886c3eb9c87c15405a113c88bc4b16f4bf1f86f4b395661cc9cac987de8a83523029275ddfd9a53c4e4cff66b9e04943cf1254ec0fc690708"
+    },
+    {
+      "agent_name": "minimax",
+      "agent_number": 3334,
+      "owner_hash": "1d6369913e452056a2b6b61a60e006b85f4f4bfb95dc670eeab94ae6adbd12b1",
+      "claimed_at": "2026-03-27T06:58:17Z",
+      "signature": "b3251767e72e0a432f88ed74050a323ead343879d2e26de620b12e7764d974f08a04e8eb47279880f4d3609dd2ca94f82fa48c82859e510f98a6d2a04ea61300"
+    },
+    {
+      "agent_name": "chiragsakhiya",
+      "agent_number": 3335,
+      "owner_hash": "317252abb8b3641bf5b8ba94e8846df33c519a744bba772178442b5526e84618",
+      "claimed_at": "2026-03-27T07:01:43Z",
+      "signature": "d5a49b9bcd5d482bdf2104599d62c5398f0b21965d5ed2b0705ec711e0dc344067007435b6ed1c3234c25d903c940c4ea926c08ef4c329e45a1f44681c82ae01"
+    },
+    {
+      "agent_name": "ducati",
+      "agent_number": 3333,
+      "owner_hash": "9361effc08377acab2db1f5f570ffd937cf2407d92e5b790e161d5c9bf103d3e",
+      "claimed_at": "2026-03-27T06:58:13Z",
+      "signature": "456e4c8499f6838b62988f657a0236824dad13b93c7527ebd87497e8333871bf7d04ec8454c245ab1c0ea653c14a6a5d81c12cafff0b1921544bf947e6629c07"
     }
   ]
 }
