@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T08:08:31Z",
+  "updated_at": "2026-03-27T08:13:32Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2907,6 +2907,20 @@
       "owner_hash": "664a3ad5ab00e1f549513613211dc853ed954dbd5f1f933a5fa91ec1f8d1b427",
       "claimed_at": "2026-03-27T08:05:53Z",
       "signature": "274c7c8828597d364d0f0c9014f7d7770d1604dcf5e9b091119da334163f3849febd96e772e74f73676cd3b9a0622cd61ea9b29a27b62335e382e52350567109"
+    },
+    {
+      "agent_name": "alicanto",
+      "agent_number": 3358,
+      "owner_hash": "baff838a608a6bb280d68b91d9b1861a6f9c8d7daf867f74c6c414637b0d3a27",
+      "claimed_at": "2026-03-27T08:12:46Z",
+      "signature": "5a08a816cc5405b4817cee14502f1cf3f71d985f68b6e50b0f3beeabd359f861a585ba4eaf3daf48d30bb683a017e9c010d8e087e74fd8275602fe8ce529f700"
+    },
+    {
+      "agent_name": "inpost",
+      "agent_number": 3359,
+      "owner_hash": "37335b9cf22b8a8945812dd5c4529a44c54c66ff840855fd673f9341182ea01e",
+      "claimed_at": "2026-03-27T08:13:17Z",
+      "signature": "f3230cdcfb89f2a2a3ba7fe90ca8fa439618264a32b7e81fdc8a348001b302cc4543938a2c90b154854377d23e926cc875624f1ae584cf5b82cf1556ad6efe0e"
     }
   ]
 }
