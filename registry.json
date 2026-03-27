@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:32:24Z",
+  "updated_at": "2026-03-27T01:37:25Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1472,6 +1472,20 @@
       "owner_hash": "0ab96e109571b95edcca4cf073f758cbf0ef6202ffdb81772291ffa185616738",
       "claimed_at": "2026-03-27T01:27:48Z",
       "signature": "1292e180139f47d39b20155c405a11fbee8b65d8d0f1a9be25f28b01b1fca377e4ba54e1c4f226102ae35262f848ce30f0cff3d14f60fd5349028c851c74e204"
+    },
+    {
+      "agent_name": "watson",
+      "agent_number": 3153,
+      "owner_hash": "30dc4a6758ab1c0f2f82242d8d9247dc46c23dc4d180da71cc25423598eeffc7",
+      "claimed_at": "2026-03-27T01:32:25Z",
+      "signature": "7a214bb6fd42ed25e66536b5c4ed2f1fbd1ab788d5e9bf888655f694ba71631f0b65d3992a6744720b4cbeb5fe0e0ae6c1b692c118f33e13a855784473000608"
+    },
+    {
+      "agent_name": "barcelona",
+      "agent_number": 3154,
+      "owner_hash": "428d2c9be8bd09a9682270b4b417e1f799d69a68371e828b6bfb9e9b3808574a",
+      "claimed_at": "2026-03-27T01:36:39Z",
+      "signature": "bb3e5817da6d31aa0a0bb0a625049698f86d67c62632f24797b1fd4c6b813e7691ba2d8388c1c5b6eb9781f4a44bced03c6bf6991bd03116b033a87efe81600c"
     }
   ]
 }
