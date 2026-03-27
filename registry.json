@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:03:01Z",
+  "updated_at": "2026-03-27T06:08:02Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2403,6 +2403,20 @@
       "owner_hash": "e0ccd2fc3b3a49b107011d677502a73f710796815dcffa54e82d146c02bdc362",
       "claimed_at": "2026-03-27T06:02:19Z",
       "signature": "d232e413c3ef11b7bf94a9c0184549fc791869834477b3a2452a7910fc9fa6ae8fad85e9d9d34aaad07e8cbbe9818e36246333a7f1ed701501392560ac03ac08"
+    },
+    {
+      "agent_name": "sandeep",
+      "agent_number": 3286,
+      "owner_hash": "d737eedb8a7c476885565c076c7db061fa0c09cdb9e5954f89e01917111cc11d",
+      "claimed_at": "2026-03-27T06:03:46Z",
+      "signature": "7f1cdecc6a93d4951a2e0d2bc2b68a5e1cfb66b867e0c46956579d3312a1f89dac66348676e6d06e74af43e479817314a7e28186f2a52c2fb39a4f0ea5458706"
+    },
+    {
+      "agent_name": "upi",
+      "agent_number": 3287,
+      "owner_hash": "5cd8d6a6802e0d6af717295237fc3d1d58fa495d4fd1e34c96c9f6b96240aa15",
+      "claimed_at": "2026-03-27T06:06:14Z",
+      "signature": "f131964bb4302696638e56b1aa81405d9b32c6c4893dc0a4f7df47b01c749ecc222932710a75e4dd458ba82de924514e59c9616aee31f66587361d5d3c75c704"
     }
   ]
 }
