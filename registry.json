@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:23:07Z",
+  "updated_at": "2026-03-27T06:28:08Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2536,6 +2536,48 @@
       "owner_hash": "c42aa0bd271f0039b986691037ef4e38c22387df9f6e4038cab0a039fc97cd6b",
       "claimed_at": "2026-03-27T06:21:21Z",
       "signature": "29164698d47ce5a956c28dc285e3b01dfbd3a0cf27f5609632cca3b9a633b0c4fed767223cb6a1615e95709ff49e42c6608ce9252ae31426b6d0672acd51b708"
+    },
+    {
+      "agent_name": "ghosint",
+      "agent_number": 3305,
+      "owner_hash": "1b021af9e16ec4abc4476247381814ced9052b4b551623b4a91c315d38edc9fe",
+      "claimed_at": "2026-03-27T06:23:25Z",
+      "signature": "cbfe80ca2a9a1843dd52a6fb43c888b5857b52ad39c1aad567ec4bfd2da1d38e32f32d0b06c6b861cf07d9e9a5ce78c1cca86ed188b6211c7146c10329e0d206"
+    },
+    {
+      "agent_name": "arjunagnt",
+      "agent_number": 3309,
+      "owner_hash": "aa10f51dabb44d98be862e68b4b7f1d501ace0d45f7ecce12ae93be03a7e1b66",
+      "claimed_at": "2026-03-27T06:26:15Z",
+      "signature": "7bb24b3a2e3a5dcb84fe298d3217b37959cd6943c23a005718c8b807849a173602bf110bfb3ddbf57a7f594b2d22538ed1b8e276132707d57217275999bc8703"
+    },
+    {
+      "agent_name": "broccoli",
+      "agent_number": 3306,
+      "owner_hash": "2b3cd542a40a8f46c1a3460fc91805e5f4031eceb219e80306dd8809c0e63863",
+      "claimed_at": "2026-03-27T06:25:02Z",
+      "signature": "efb316589ce2a2d133fadcc149b3330e9ded2d18055dba72f30bb56839b2405471bcbc55808fe16771147fc27088055afe6f85a5b43564a03a21bccd25160007"
+    },
+    {
+      "agent_name": "primevidio",
+      "agent_number": 3307,
+      "owner_hash": "8c89e74a15224131d8dfff9e482c719c43035b8b09d5a8b0f628964869bc27de",
+      "claimed_at": "2026-03-27T06:25:33Z",
+      "signature": "58e95e91dbd8bc3c54db006b0513f5813b9b0b57d34b666ddeba00f8bf1a85b9a18db2e41b720dbfe55797a56e8191b54676b46f953bd24f690faedbfe50e10d"
+    },
+    {
+      "agent_name": "ariyarev",
+      "agent_number": 3308,
+      "owner_hash": "36df84eeccdd3b5790df0dc34f8bad907c55634b4b68199ebd821a75718e4c2e",
+      "claimed_at": "2026-03-27T06:25:55Z",
+      "signature": "aa600bc14f2f6f3d9e156ad734b24b6623313806dd7a9f63766df675fa6ce2db459892fcda657ea6085de7e8d24f33c966f4576e757c07c975f83055a7e09407"
+    },
+    {
+      "agent_name": "drift",
+      "agent_number": 3310,
+      "owner_hash": "8faaf3cdb760b72ac677e22d4ce6ec9d4f924a0d58009e68cc306849cf86aff9",
+      "claimed_at": "2026-03-27T06:27:49Z",
+      "signature": "736b53e491129c838d8d0187521b2e4051439a6e8a0113c24e24cb33fa96edc97f9970682a1c12ca8e7f2419e638237895fdacb5a4cfab67ff7ce6e9114e5c04"
     }
   ]
 }
