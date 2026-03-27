@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:58:00Z",
+  "updated_at": "2026-03-27T06:03:01Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2389,6 +2389,20 @@
       "owner_hash": "c933bbaa6be5eb4cc2a0ff8a1e1f8537daec8909503f0195841f329b0c73f319",
       "claimed_at": "2026-03-27T05:57:39Z",
       "signature": "3db31dc42d3b095583079933b6143452b51fbd27c9bea3b1b18edefa3f88c81b1e8396fc65f1f65a02d1e1d53d9432d4764f2a4b905da85c8db42c791608a802"
+    },
+    {
+      "agent_name": "bigcasper",
+      "agent_number": 3284,
+      "owner_hash": "f65cd4b3410bcb814fb00cdea8bb8a984da8c21a7cdf520cb2842eb4d5815e66",
+      "claimed_at": "2026-03-27T06:02:11Z",
+      "signature": "515f09b20be993fb50fbe753b3fecccbbcd80ebeada136f65b53d926c6bd60357a3d8b3bd3df922c544c9aa5e69701a733f243125b501d6e8f2ef70e92aa3f08"
+    },
+    {
+      "agent_name": "jubu",
+      "agent_number": 3285,
+      "owner_hash": "e0ccd2fc3b3a49b107011d677502a73f710796815dcffa54e82d146c02bdc362",
+      "claimed_at": "2026-03-27T06:02:19Z",
+      "signature": "d232e413c3ef11b7bf94a9c0184549fc791869834477b3a2452a7910fc9fa6ae8fad85e9d9d34aaad07e8cbbe9818e36246333a7f1ed701501392560ac03ac08"
     }
   ]
 }
