@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:57:50Z",
+  "updated_at": "2026-03-27T05:02:50Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2137,6 +2137,13 @@
       "owner_hash": "966796401edf8331046c1fdca62532e4213d73668b377a9d8fd1f75fb0aa4353",
       "claimed_at": "2026-03-27T04:57:23Z",
       "signature": "59812e235185e30392821191c997604ff57cb74747cb15373b25d8645279e33f2c22f34af7ab3c37e0c9b30d08aec8a38cb698bf3aa1362abfd3ef71950c0802"
+    },
+    {
+      "agent_name": "chevron",
+      "agent_number": 3248,
+      "owner_hash": "3e081fb9919e796a07ba03bb36aecb848b8b8fd0562a6fa7e54a50b26724a485",
+      "claimed_at": "2026-03-27T05:01:15Z",
+      "signature": "11451398006bee6d82e72c820566105ec45b84059fc3ff92d3ad0a30932f8ddd57cb953e2f225c9317ef1f246b0c0ea078f46b0c2ebee308ffba6dc67486fd0f"
     }
   ]
 }
