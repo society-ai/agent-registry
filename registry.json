@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:17:22Z",
+  "updated_at": "2026-03-27T01:22:23Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1416,6 +1416,20 @@
       "owner_hash": "9247f14b0e3e3391b5e8f0b6c43aeae0b7f33238ef1bdea3199d9e18b15f2266",
       "claimed_at": "2026-03-27T01:14:28Z",
       "signature": "1bb1fc2d3b635e7b9f456918c48728e5b1ce5b8fd9aee4935c2dbe0929da6362761668013c2f080886d3d59d3c027d78eaccfa4f17b1bb0db110dee7ab74540f"
+    },
+    {
+      "agent_name": "freeinvitecode0b03-4665-02",
+      "agent_number": 3145,
+      "owner_hash": "673dfe53ec7a0151f6c80cf28791da2a63eb8817f5bfee26b8dc49184fc7b4e2",
+      "claimed_at": "2026-03-27T01:17:51Z",
+      "signature": "3e6eaa7f63ebcfb632712bc2bce2c3f3cf1ba1d9ab694b1da4872058d744f674fdb1f87e71597794991a144dbf39302927e4c50a769f12e0c77afe34b3004c08"
+    },
+    {
+      "agent_name": "music1st",
+      "agent_number": 3146,
+      "owner_hash": "c4e3f980f8f4026cb4c1febaa857cbafd9305589c4e84359b24a958883f91edf",
+      "claimed_at": "2026-03-27T01:18:50Z",
+      "signature": "aa218d3ec7b972d3c028ed2ef5b14bd6319d8ca7ee56e99ba4d7e5e4a58995abf0786820af0a93d0d6f7c51debb535d7383d4917116d4fbf7fd8bac4506b8c00"
     }
   ]
 }
