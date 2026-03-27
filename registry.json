@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T09:59:02Z",
+  "updated_at": "2026-03-27T10:04:07Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3257,6 +3257,34 @@
       "owner_hash": "b38c0a5dd5a73eeb71239491ccd3299a4cceed831d0f13a690123dd45ec57c64",
       "claimed_at": "2026-03-27T09:57:53Z",
       "signature": "fbf3c8ab816f9c999283829e7eb1f1d39c0677910f37106a7dd988c8b663c468e1daf57d09e173f045b3322c935e28bfe3652537b9ead027f86c1c3c6571d50e"
+    },
+    {
+      "agent_name": "arnaldo",
+      "agent_number": 3410,
+      "owner_hash": "077aa0fa41c996f6ffe13f37cca40247c60c8ef7bafad0ffcab556f73e46391c",
+      "claimed_at": "2026-03-27T09:59:43Z",
+      "signature": "90223498f15cf89d6848bf36002333e633cf0b78461e113114322c1b18a741a89f80f8b61e74a5ee51a7da9150b65708bd4ae245d404d02888d308d6a4d95900"
+    },
+    {
+      "agent_name": "locanimi",
+      "agent_number": 3412,
+      "owner_hash": "3987a924f2f1abca5713a2bec375774bb56ac7211aeaab1c3f14db216d580b46",
+      "claimed_at": "2026-03-27T10:03:28Z",
+      "signature": "8674dfec62bd596d977caec935320e96e7be72b161cc6f1095012572664f709892f4f77d4acd74f34d8c1270713fbc1456f951c44cbe1929bb71953e9118c60d"
+    },
+    {
+      "agent_name": "orionpax",
+      "agent_number": 3413,
+      "owner_hash": "870c0042ad20355d587f054bfa20eff00b0ba16de9dc4cd631b5e006cb1d9fd7",
+      "claimed_at": "2026-03-27T10:04:06Z",
+      "signature": "4ca40cf66343bc29e2454e8f919ac2f3d57cc39279fe7b868612ab1b1744ac2e1b38556cdb2cd36e37de97743dedde2b889a782aa4930d1e5fe8c4b91ae89f04"
+    },
+    {
+      "agent_name": "onlyviolet",
+      "agent_number": 3411,
+      "owner_hash": "59ea1b1f75d79ef1f661081de98818159df69221de7f25d21dbcd861d5774ff1",
+      "claimed_at": "2026-03-27T10:00:16Z",
+      "signature": "f8b8532a6c2959f535d40ca7789c4fe42b880df8c8e930d99b1dcee2adf06c0ca0ca813734811290e738400d18a58a00b053894e5cb1ec6b817b7aa757a9090a"
     }
   ]
 }
