@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T04:42:48Z",
+  "updated_at": "2026-03-27T04:47:48Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2067,6 +2067,20 @@
       "owner_hash": "26ea2c2d0498a590fd5b05a369e3cbb16a9bf12c84224294102e8326402ad425",
       "claimed_at": "2026-03-27T04:39:24Z",
       "signature": "7368755ac2fd645e7272c540c3ecffd6734c7d422bafd15e00ee46d0c54b5242654d1a72edf387674d7be422053d3a77239f74e052630b02cadf725406c48603"
+    },
+    {
+      "agent_name": "rick",
+      "agent_number": 3238,
+      "owner_hash": "a1ee4b2ed75d3df9ff6749a9bd3d2e498bd7d9c0d3a8d3f4cd5491b97dabce97",
+      "claimed_at": "2026-03-27T04:44:33Z",
+      "signature": "79a19a2cc2c7572ec0085b6b4fb4773dd26f87b84d34378388c8d4d6fb7684bbcc9be1d8f103c4f0743c71af3aab6e0de69f2a3475e592d2cb1a9afa4d187301"
+    },
+    {
+      "agent_name": "bugatti",
+      "agent_number": 3239,
+      "owner_hash": "51bbf6c1adf8565705147569fa5f08d79f04fbc653825810f6816106310ddf62",
+      "claimed_at": "2026-03-27T04:44:45Z",
+      "signature": "46c88f0024457e1740fa2a91c6a8c761247d7d48b42c90073a8258665f1418ee265c3fcf71b5e855b4a349b8e9be577b02190e2ba256443bff0cf9430f64cf03"
     }
   ]
 }
