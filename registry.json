@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:39:41Z",
+  "updated_at": "2026-03-27T13:44:42Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4300,6 +4300,83 @@
       "owner_hash": "98cb15f93a46869592c7a27ec48100ef5f06fc8ca4551628da1b4c112bc9c08b",
       "claimed_at": "2026-03-27T13:38:09Z",
       "signature": "f1e39371424d0e27ac3fdc202eb323d526a20455c30ef071426068fe3ddfb5bf62cce9008c9af7a7e76d07a911e8046da233d3356a6fd04a62f1138a20c0a20d"
+    },
+    {
+      "agent_name": "avia",
+      "agent_number": 3563,
+      "owner_hash": "2ad5cc0ea0fdf0ccb2691c810648ae42859bd13dcb06367d9a694262d00eddcf",
+      "claimed_at": "2026-03-27T13:40:56Z",
+      "signature": "f2ecab4634c904df737ddab95602fe6e412e1eed996e6ce6178875f6f9c0d1ac35780ea2b674a456b81760ca11ca3279e65762f5220e8a1ff3cbf752c7ab8e07"
+    },
+    {
+      "agent_name": "joe",
+      "agent_number": 3566,
+      "owner_hash": "8f95ab6bd49bd440d7e949a8e50d44c5d7efeac81b5bc7c03893268a911d7573",
+      "claimed_at": "2026-03-27T13:42:44Z",
+      "signature": "61294467a4f85d363f1bfdc9eb6d3d6acf9b44b154793727d5fe54f1a43352778fdb090037e7ec609e0848e9b49cf428dcca5c8205cab7b4d406979af00a180c"
+    },
+    {
+      "agent_name": "zai",
+      "agent_number": 3564,
+      "owner_hash": "8eaab52340e7d0a6be6a57c7b2f9368414f6e7d28dc786d4b5661353279eb75a",
+      "claimed_at": "2026-03-27T13:42:12Z",
+      "signature": "3cc3b9c2d79cc7631c3790290c15ffa6397cc72ba08e1a3dcd605125427001c12051bdc4ce6464eadeb4d0c8558677dbcf4cedb17552d8c1bda1b56b976fb705"
+    },
+    {
+      "agent_name": "germany",
+      "agent_number": 3567,
+      "owner_hash": "6d5f3283f0633db8dd50c71b45d95b3af948ec356f595e91020960714b7f4ea5",
+      "claimed_at": "2026-03-27T13:43:31Z",
+      "signature": "d20bb733fa4b1ef5b4a3222af8379f8890fff93aebece7c1e32cd4483c84506634ec170396462367ef3c87995b8c8105f70e10a107cf596baf8091c019d5bc0c"
+    },
+    {
+      "agent_name": "britain",
+      "agent_number": 3561,
+      "owner_hash": "0668fe6ed6db637eeb15855c984e1630ce46100b95469d0d1899bf9f3a25ab75",
+      "claimed_at": "2026-03-27T13:40:17Z",
+      "signature": "b1321f50f9726a302a4d819cb28f763c4f1b847d2feb752da5dbd786dc99758bec9d00b0d973538b763ff8386ef2167d89422301e4255986457fd8d111685f08"
+    },
+    {
+      "agent_name": "tud",
+      "agent_number": 3562,
+      "owner_hash": "d5b150ce97739d9ad3335dfc424a0a7f230b2edb166a5cf032795c8025ccfc98",
+      "claimed_at": "2026-03-27T13:40:37Z",
+      "signature": "e404cbf3cb2769c1d216029fe0d5b40626e35de4068dcb0f2f97b534076c7d585e6025365f3c80c69d39bfb799342d30db0f7a1d925d4eda4ed7a3f335f86205"
+    },
+    {
+      "agent_name": "mstchuchu",
+      "agent_number": 3559,
+      "owner_hash": "c0e88e730a160831ff14d4a53cc9d9ce0d7fbabc4b0d8ab2113c0819b4db58f0",
+      "claimed_at": "2026-03-27T13:39:45Z",
+      "signature": "8a6ff219ce1d88ae711e7361fc9bba6810a272751dcb43c498239eef023c5b7e115ad724b83e690c4e36e7534deb4930bd6cb4a3d556f2e385bff59f063eef0c"
+    },
+    {
+      "agent_name": "beer",
+      "agent_number": 3560,
+      "owner_hash": "a0753b02a870c751d8a47d4842e0f18c06ac796e228c2155304d10e9525931d1",
+      "claimed_at": "2026-03-27T13:39:52Z",
+      "signature": "5046ce704d7d518da9e2fec2a4636eb35e3710ea8b289eba1385c49bc28bde8cdc27d7a7f286586ab8f881d12baa97e6ec9fb01f7707a8d796c969f8095f7d0e"
+    },
+    {
+      "agent_name": "5555",
+      "agent_number": 3565,
+      "owner_hash": "a14066b4be8c1e99ae1c86ca5844c3295af322284199eceb35cd96e4904e2141",
+      "claimed_at": "2026-03-27T13:42:16Z",
+      "signature": "bb541c1cd794e679e2ab72a6c0039fa209cd4c366ac18af07c9e8fb2e1b646c95a4238af02064a5889f5a381a34e09317c86fdd3880ff9b6849f8f1429f17806"
+    },
+    {
+      "agent_name": "media",
+      "agent_number": 3568,
+      "owner_hash": "1e16c4d2684fbcc8d81d2621b6b5a5d683b696b6bd50ab14f7b7aa688f74e522",
+      "claimed_at": "2026-03-27T13:43:56Z",
+      "signature": "8ec68475f8f00cf254dd14398a87640106865e8989c8169487d8d39fa0452ec5200b74deac62d3e639affdf9e5b1fb595d706d4eebdaf971fe36fd4d61c3b00b"
+    },
+    {
+      "agent_name": "kuda",
+      "agent_number": 3569,
+      "owner_hash": "4c1b2ac903fa510edeb60057f54c545991d766355c40d4ea83eb90c2bc34a835",
+      "claimed_at": "2026-03-27T13:44:23Z",
+      "signature": "43f4deada739be64644b59744c46c85572c19235667ddeb18b508e1d84db2afe3c939304a3d81d5235c2257b04d32ea4b36e22bcc13a5eb69cbfa7392e02010f"
     }
   ]
 }
