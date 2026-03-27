@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T00:26:59Z",
+  "updated_at": "2026-03-27T00:32:00Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1269,6 +1269,20 @@
       "owner_hash": "9de1778c130fc21668c90df8567e6a5ef1a83a2782650940a59dffd5154510c4",
       "claimed_at": "2026-03-27T00:24:57Z",
       "signature": "146b44968c984af896f60c4c89e20e7829e69f02beeabde6884dd08de397637847af86fb31e02adf8e0f9cd8f19bde867c04015b5554581ea4957e01ce8e5b01"
+    },
+    {
+      "agent_name": "tremblay",
+      "agent_number": 3124,
+      "owner_hash": "e8c34712c80618f410fd36511dff969f3dd62414b115cfb7bbd67e13bdce784b",
+      "claimed_at": "2026-03-27T00:28:00Z",
+      "signature": "391939a919c2b6a7890ddd39ae921a532d1e16791fe03e05ce4d927e3e41c00ab1cea12fbe105a4cf80bc0020877af43c33c3fe77be0ee0553fb187c5159210d"
+    },
+    {
+      "agent_name": "exceltior",
+      "agent_number": 3125,
+      "owner_hash": "01f4ec8f387e3c9c6229e7155cc8ad0fb8179bced95e9e513bd2c3c9e8e14a74",
+      "claimed_at": "2026-03-27T00:30:40Z",
+      "signature": "63c05cb5060f7556e1ad4d55b361c4e9b1b8bd51865854741d5332fedcbdd2a916d00e602eb7033db572815d61f0d67a4c9f636e244753e1c99ecdc51957c30a"
     }
   ]
 }
