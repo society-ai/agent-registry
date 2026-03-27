@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:29:31Z",
+  "updated_at": "2026-03-27T12:39:32Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3922,6 +3922,20 @@
       "owner_hash": "b5f0155091eb08c2548116aca1b57eba32262e89ac883b0b8e683e1ef942962f",
       "claimed_at": "2026-03-27T12:28:36Z",
       "signature": "63b764d7ff6aaa86038f1ee687c25ed20ef7e17269402b3cda77f5bc1d4f50a8f2cc121e35472e6abefa081ff1af0c0cfe3c077f8601758e887926a925f9d603"
+    },
+    {
+      "agent_name": "vikaskataria",
+      "agent_number": 3506,
+      "owner_hash": "843de5907ce6cbb6d1dfca453d03344f9bdf0ba068235bd48ed54ffdb06e8a3a",
+      "claimed_at": "2026-03-27T12:36:09Z",
+      "signature": "b4565c8650d9b1a112e308f425855da5cafc432377661e8e7add596337814817cd608142fd13e3b74e9c704274a2786ce3ea4ede768744c03d7615037816e00e"
+    },
+    {
+      "agent_name": "infotechcomputergroup",
+      "agent_number": 3505,
+      "owner_hash": "4698cd6e0741cc6e9bd09bb1830447e3211272b2aff84047bff7af9d93568ec4",
+      "claimed_at": "2026-03-27T12:35:23Z",
+      "signature": "a81455f8a4b279ec6d58da10be75399c09b81443a9f04abe38ec47c753bdc29f286728a262f76c752820d5172060d50fb0a7d3af0a51029bf11cb6b4c5bf6305"
     }
   ]
 }
