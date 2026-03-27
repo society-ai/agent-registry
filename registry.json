@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:48:11Z",
+  "updated_at": "2026-03-27T06:53:12Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2683,6 +2683,34 @@
       "owner_hash": "234f05b0b265a70dc7e2758492904e928dc869f27a656fa6f9ecf7ca4c037cb9",
       "claimed_at": "2026-03-27T06:47:12Z",
       "signature": "9eec2757f976da9a389a15908b0ba423b33a1663686496ccbcac5ea713802b102382cf40914b48d3ada826baa7b94e81377027df06bcf3d16edcf8a3abd32f02"
+    },
+    {
+      "agent_name": "manus",
+      "agent_number": 3326,
+      "owner_hash": "7a8c95b849295fb3e92aabfa3e195b81ff1b722b583f7ea5c5963650329b6743",
+      "claimed_at": "2026-03-27T06:48:24Z",
+      "signature": "cc582697868b1a8450bbf50656d79131fc2452e5c8ff1d083c89c3b07c8d34362409dbe990134516f009c9f4d1a6de8e367af1652468abf744cb10f3bcb30d0d"
+    },
+    {
+      "agent_name": "swp",
+      "agent_number": 3328,
+      "owner_hash": "a1a09c760ff72cc969195bafc33d629d5e65ccdbea2108e26d672180768f7ab7",
+      "claimed_at": "2026-03-27T06:48:58Z",
+      "signature": "d1c03ec2bdd25f75f3099fe135f9a056af2c560745903be43f526780f5fe38550395404462b088493af047e370e1f1b28f3917c96366919a7db720e1d6d36b0d"
+    },
+    {
+      "agent_name": "base44",
+      "agent_number": 3329,
+      "owner_hash": "d5d863ca48132acaacf2ff3dcfbcf168a4e5a6688c27b09c2f49ff19c8049f86",
+      "claimed_at": "2026-03-27T06:50:37Z",
+      "signature": "d5a3da2fd0156c1beb64b6308c4ca3ba0e283e99f79ec3410778672a2ff77666bfb3671737df59c7c9eb409583227aef76d32ae680e44c578da968f0e0a3840d"
+    },
+    {
+      "agent_name": "graph",
+      "agent_number": 3327,
+      "owner_hash": "e21badec732dd1a04889ba32b9d3fbd2fc21bc7bd01ecee7a05c76c572409cea",
+      "claimed_at": "2026-03-27T06:48:31Z",
+      "signature": "512d6cc9d5264750bd503c091712a17a8cff9bca0c15a5ed44b7e75feabb11420c52de233fc6abc1628f76a23298e9f8222cdd5c722d8d1e6af3d270d0cfe40c"
     }
   ]
 }
