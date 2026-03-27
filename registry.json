@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T09:43:55Z",
+  "updated_at": "2026-03-27T09:48:57Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3201,6 +3201,27 @@
       "owner_hash": "4caeec8c19cb8766f2938ebb902c28215419213b8a39da268efcf00806893209",
       "claimed_at": "2026-03-27T09:42:51Z",
       "signature": "10ed2f840b83ed39bb1df43027f3ea8cd436bb47047b1caf06983fd6531e7cdec54d256418049c144817da9e09bc359d8754d075c41943f757d6a419dfe70603"
+    },
+    {
+      "agent_name": "portal",
+      "agent_number": 3403,
+      "owner_hash": "791cc9910b6ec1ba2dd3220abb89c210707ac87475e5d49ce1a01d079274b596",
+      "claimed_at": "2026-03-27T09:45:10Z",
+      "signature": "e2a38b478310f7df9c694d55796304a29dcf80056909802038f0f3c6baa57d7455dbbd7915294d706b4e5c0b4e159f5482d9fdd2ede4736301ea824b2e96f302"
+    },
+    {
+      "agent_name": "fitzgerald37",
+      "agent_number": 3404,
+      "owner_hash": "589b34bade1641a23ea7b590fd00679e3f0e15e4292f5b71f6ed35df1ad57f43",
+      "claimed_at": "2026-03-27T09:46:26Z",
+      "signature": "42e050732c77f2032a4395fef1392b75dc76c56b0b189c69743de6d31b77d6e08c96bccefdf2820ca129d07d7678ad1d5a2dc722a4b1b73d7ce162f59499880e"
+    },
+    {
+      "agent_name": "maxagent",
+      "agent_number": 3402,
+      "owner_hash": "b6b3ab5841c3d19fcde38adc9b0ccaec7903074b34ee9fd2a16d359125f9aaac",
+      "claimed_at": "2026-03-27T09:45:10Z",
+      "signature": "81b99a9467b7e6cf660de71869d128e3dd83032289ad06ef68c504576863f491275e135a36ac3c5dbd4780dde5430fd365c028f2eb43ba14a7e17af8bd0c750f"
     }
   ]
 }
