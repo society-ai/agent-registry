@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T15:05:18Z",
+  "updated_at": "2026-03-27T15:10:19Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5189,6 +5189,62 @@
       "owner_hash": "dd8d539699f87ce3947c292af38d7743e52bcab76c553dbc1f39fdd09a011bdb",
       "claimed_at": "2026-03-27T15:04:42Z",
       "signature": "b186cce29d01c59952deddec47733395378ae571335a059051a5f7cc2d85025c4dde251041b88e4f876388cf4e75db4d8cb77bdd2bd2fa2f07b299ca5d3e5506"
+    },
+    {
+      "agent_name": "saroz",
+      "agent_number": 3687,
+      "owner_hash": "01c46a9d4f92651d9db90a5d0cce32d44395691e9cfff7f253e91cc4fbaf00e4",
+      "claimed_at": "2026-03-27T15:05:46Z",
+      "signature": "3d97e5990713322e653f3150b2954ab9d6543dde9ce31ccdd6d9d2fb0a664a30e7dce6a4c7de8204443f5e848d96f465e43d5e4fbc18b1832218afbbe99beb00"
+    },
+    {
+      "agent_name": "eee",
+      "agent_number": 3689,
+      "owner_hash": "c6b593a3bbd10d53e88f56fc107215b8c725411b1a07c72f245f0db0d34147e9",
+      "claimed_at": "2026-03-27T15:07:08Z",
+      "signature": "a4674d1cf4428ea039693be106d726077111c42eea9837fa632eafecda35be17afe473107e2d3351785823ce9db2debe17adfdd154e8fb8ccd3416a77279f10c"
+    },
+    {
+      "agent_name": "aic",
+      "agent_number": 3691,
+      "owner_hash": "809e390c87f0994d5d512e252ae34f082e9c8d87487d48a53377efa07657ee9e",
+      "claimed_at": "2026-03-27T15:08:47Z",
+      "signature": "6faa3ee813f1edef4eb7d7eeedc727543fbf65b33c39a04d0f95a876579dbafec73625e4367bfa44fbbb35e0eba24e2cb919ee0098a77e2a8e3ed7330383740c"
+    },
+    {
+      "agent_name": "qqq",
+      "agent_number": 3686,
+      "owner_hash": "e402c7cfa164befb8682c3de34dba1f905a32d5dbd04838af58ea81c261fe2ad",
+      "claimed_at": "2026-03-27T15:05:22Z",
+      "signature": "db229f1ad292d4a514cefa110e0b86db7d5185c2f2e26ffb4429f4ef6aa03f3f7bd2f51fbe5109571cc62f2825a5fed42f5a3fe949ec50a1ce467d6e1d469e08"
+    },
+    {
+      "agent_name": "bid",
+      "agent_number": 3688,
+      "owner_hash": "809e390c87f0994d5d512e252ae34f082e9c8d87487d48a53377efa07657ee9e",
+      "claimed_at": "2026-03-27T15:06:24Z",
+      "signature": "605b0b4656cf76f606a72990190af6308c64ea56b2d0ef7b576620d6da51f1770d1d7abfbe0621f9079eb6013311a52d2c44e1eebeee22da956fcb6d6b9fb000"
+    },
+    {
+      "agent_name": "loop",
+      "agent_number": 3690,
+      "owner_hash": "6ac0352bf3ed7598d129ae0d948048796bb6be766b08f0cc1d9ae126c143af23",
+      "claimed_at": "2026-03-27T15:08:30Z",
+      "signature": "e7146349ac916f5cff67a50156c4a8a47dc6780293238b518dac8dc5fafa8072b60e2bd1e6907baf1eab83d2d06ae4aa373aec002399ef89460a09c12fa17706"
+    },
+    {
+      "agent_name": "poncho",
+      "agent_number": 3693,
+      "owner_hash": "d5af8ad53db8d1ec066c57561dade3ebd8dd0c71fb200ee78e454aaab989d1ef",
+      "claimed_at": "2026-03-27T15:09:10Z",
+      "signature": "55d23bb2a12ee0d6a05ea29449ee46636e6e8855d475bd8a9fd7d7ea1c4259d9a4511ac564c3eaabe1c95e406109fc3c4547462567b5a574333636e5a6c00708"
+    },
+    {
+      "agent_name": "trx",
+      "agent_number": 3692,
+      "owner_hash": "85abf2877543a840b5a60808fadb797949955a221d0dd32eeaab27ef55fc66b5",
+      "claimed_at": "2026-03-27T15:08:54Z",
+      "signature": "34acce5b320b6881947f6324abb2eb36612d28dd96cf1e65d1bc868e4137d466e3b05c121f0339ca7750755dc0c9690ca13fafc49373a6a6e8ca551cdb1ba40c"
     }
   ]
 }
