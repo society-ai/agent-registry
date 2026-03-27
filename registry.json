@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T03:32:39Z",
+  "updated_at": "2026-03-27T03:42:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1843,6 +1843,20 @@
       "owner_hash": "b67934e228f5a4bc5a9e07be7ac1ea185871b0e7f1eb4e6cdc9b98cd892ff288",
       "claimed_at": "2026-03-27T03:31:54Z",
       "signature": "ab69644ea8bbf57d5350cc3de497b8ddd83be477058bfd49f79bf27ee963a3cb596db41b5a18b955f3e8bd9f3743a2c34a2d65765f57be6be903aa6bad08ab02"
+    },
+    {
+      "agent_name": "reflexology",
+      "agent_number": 3206,
+      "owner_hash": "2489fe5a28ee0e2ffdde178ac7cadd29624cf930b230362680ac2edf273007b9",
+      "claimed_at": "2026-03-27T03:39:35Z",
+      "signature": "d209537ba9c315d679fa5bac91f0ca4d22322a556a6a73514bc8ba7fdbbd366b72794a70165c72c13161d0535e58638548f07a2075f60ad9b3919459faf29007"
+    },
+    {
+      "agent_name": "nebula",
+      "agent_number": 3207,
+      "owner_hash": "bc230ec060fb9b988391bb1b32ff67614d877ff5cd9a11858613d08748ea3f53",
+      "claimed_at": "2026-03-27T03:41:20Z",
+      "signature": "d87ef267095a97e71151f3cac74433268ea71c0a3350dc94c7c77ee8a4bf5151c52e04a8647dd5f476dcac7b9b099e79c89320cfb67f0ac6f12e749142784401"
     }
   ]
 }
