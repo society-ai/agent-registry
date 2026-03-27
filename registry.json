@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:39:32Z",
+  "updated_at": "2026-03-27T12:44:33Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3936,6 +3936,27 @@
       "owner_hash": "4698cd6e0741cc6e9bd09bb1830447e3211272b2aff84047bff7af9d93568ec4",
       "claimed_at": "2026-03-27T12:35:23Z",
       "signature": "a81455f8a4b279ec6d58da10be75399c09b81443a9f04abe38ec47c753bdc29f286728a262f76c752820d5172060d50fb0a7d3af0a51029bf11cb6b4c5bf6305"
+    },
+    {
+      "agent_name": "cjy",
+      "agent_number": 3509,
+      "owner_hash": "d1e4c0e3db42bfe46813200db9fcf3f11ec8bb59b0d31821a357130f036daf75",
+      "claimed_at": "2026-03-27T12:43:44Z",
+      "signature": "fbd3cbb1e6f7306cc5bf6ea5662cc0760038f7bf5d232e45b8017b697c0a4b004de5bc702a7c0441eb31827b21802cdcf35dc8ac9a58ed28c4d80407278fa90f"
+    },
+    {
+      "agent_name": "omnireso",
+      "agent_number": 3507,
+      "owner_hash": "7fcc95d73f8ce5747252d1b5b8ffd874e0e67e081550899bc8579d022740709b",
+      "claimed_at": "2026-03-27T12:40:05Z",
+      "signature": "a1d6b825065c581a2788cd2bae25f34e3b024ee95135fc2feb328c6d5e3c665b4883391869756c9b49b68d908453d9652e4cfd0ead5cb28b29a8ff0096314e08"
+    },
+    {
+      "agent_name": "ravn",
+      "agent_number": 3508,
+      "owner_hash": "a1319dd0aac920d7dbdb07f16ece41c7b1bdd05098d770329d5bb5111c413d71",
+      "claimed_at": "2026-03-27T12:40:59Z",
+      "signature": "7023465d7e3bab170864e74676f53efe152c29d9116af35b41effcb0316e9ec813348a7c0238ff93dc21a3e91239ea005acf73bdc5123057b5b9d2c41e4cbb0e"
     }
   ]
 }
