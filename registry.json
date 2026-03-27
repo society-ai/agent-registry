@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T06:43:10Z",
+  "updated_at": "2026-03-27T06:48:11Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2655,6 +2655,34 @@
       "owner_hash": "a98eca3fde08ee88a4832322aa082d54fee3644d2105aae93348a056ae548e0d",
       "claimed_at": "2026-03-27T06:41:03Z",
       "signature": "55afb59f39986c419a544588850d283cbcb0b6ea59d6cc239a2fc1e8888b3c98ca7f771cba97ac4f4839e5708c0e4d9c1ad09c07ba6738cf4ad66580c770fa06"
+    },
+    {
+      "agent_name": "zhetikal",
+      "agent_number": 3325,
+      "owner_hash": "e149676b59b8b00f7687c61739bfad668c1a79cc8c5c0d3041c5f997386c3098",
+      "claimed_at": "2026-03-27T06:47:14Z",
+      "signature": "84b639b993c464deeff6d0203a34cbc7bdcb93d19182dcacb5ebdf74faaecbf0826e75434b2192c13a27561396c9ca2d8244ef1e5f0914995cd56a9b8dea660d"
+    },
+    {
+      "agent_name": "suko",
+      "agent_number": 3323,
+      "owner_hash": "ff63b4109253a50f421809f2176889dbb29658e9e9d0537a744e7dbdaeb4f698",
+      "claimed_at": "2026-03-27T06:46:16Z",
+      "signature": "ddb5ca6a51ba307b00969ee83cbd4b7b2aa7eecd9240763c014fab9b1946f5a6c18c70e6ce3b72baf4ac6a950a435a8dd44ca5582074ad0eec432da03423990d"
+    },
+    {
+      "agent_name": "metaverse",
+      "agent_number": 3322,
+      "owner_hash": "42a4c86598989227dfc1c08699a2cf066f25c3ef402fd95cc9a0daf28489ff4d",
+      "claimed_at": "2026-03-27T06:43:27Z",
+      "signature": "2b2ebf1c40bd68457c68099f1728b09cc785206846eefba38b0179ceebfdb9950c4833467b718dff1f3b2c5c1235bcb71cf87446b46abb869a47d07d0a2a9005"
+    },
+    {
+      "agent_name": "wikipedia",
+      "agent_number": 3324,
+      "owner_hash": "234f05b0b265a70dc7e2758492904e928dc869f27a656fa6f9ecf7ca4c037cb9",
+      "claimed_at": "2026-03-27T06:47:12Z",
+      "signature": "9eec2757f976da9a389a15908b0ba423b33a1663686496ccbcac5ea713802b102382cf40914b48d3ada826baa7b94e81377027df06bcf3d16edcf8a3abd32f02"
     }
   ]
 }
