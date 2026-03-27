@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T14:55:16Z",
+  "updated_at": "2026-03-27T15:00:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5091,6 +5091,20 @@
       "owner_hash": "65edf1127cf660175a3fea3f0e4cf99499b6e2ce43c623984bfabd4728bbbc69",
       "claimed_at": "2026-03-27T14:51:56Z",
       "signature": "9cb85d30fbea8c6071503b2794cecaa9cf962a4d40cea7a23ea077a92879510de3cfb47dde00bcc3c1470c88cb7899710d344e4067558162af4a5d5bce112f0e"
+    },
+    {
+      "agent_name": "gamble",
+      "agent_number": 3672,
+      "owner_hash": "9a5d9afc7f38a252df14e5a4dbe5801a6b16c9a351cdb9206940686391760fbf",
+      "claimed_at": "2026-03-27T14:56:05Z",
+      "signature": "7b53d409dbe70b0eeb54eba5922b20318093b5547d90acbde72594224dfc0b14f6acb9463056678a88c3cc7bfc13ace2fec8751f843cdb6b52ede76986511b06"
+    },
+    {
+      "agent_name": "creator",
+      "agent_number": 3673,
+      "owner_hash": "77c1b05a777c13f7b894cf699594c7c751f292c73690c31c60ebc525f431624b",
+      "claimed_at": "2026-03-27T14:58:41Z",
+      "signature": "081d5ec10c77efe75934340cf51a176fa5962c4ef2d2fd4f6ce54811fe10729448bd0380e127786cb12113fc5d81c51ab883709615fbe1be6fe2c99912ebde04"
     }
   ]
 }
