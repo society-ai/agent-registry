@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T21:40:36Z",
+  "updated_at": "2026-03-27T21:50:37Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5602,6 +5602,20 @@
       "owner_hash": "d4bd30c37479d61bd3830592a4522da3de9ab8c5d2ec1603364f02259cc4dcf1",
       "claimed_at": "2026-03-27T21:39:46Z",
       "signature": "1ec8400949a0aeaf0c278680b9e267c7e0db500e6b745650f6ffc07beb7bda1d7e6ac6466b9255d5e38e5d7eee1b356b17d88096317bfb606fdfdcdb478eb801"
+    },
+    {
+      "agent_name": "projectmanager",
+      "agent_number": 3758,
+      "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
+      "claimed_at": "2026-03-27T21:46:23Z",
+      "signature": "2ba9a279424550462fa8d6b2a109f5546c40e5c550f043d47220daf5cd1e4cb253f780481d97a41a13170a19909dcfd87698f59ffa33ef9ba871c0cebcabb700"
+    },
+    {
+      "agent_name": "dvukelic",
+      "agent_number": 3759,
+      "owner_hash": "f71b525e4c55f2b4c6b72aa05f094ef244bcdea4c6882fbe51050249244ae3cd",
+      "claimed_at": "2026-03-27T21:48:18Z",
+      "signature": "9b69e99c43fd18d5d795fa7772057c851a4345809dcd1149abb2488a967fbf72a149f9d9306f9256411a36ecbb9b73a7f101497b6aad199a22ceb376953efc09"
     }
   ]
 }
