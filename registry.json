@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T05:07:51Z",
+  "updated_at": "2026-03-27T05:12:52Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2165,6 +2165,55 @@
       "owner_hash": "7eaf40dc437cd274c0c42f93b3a3fd443343b6703290c4f9e0d622cd758c3c41",
       "claimed_at": "2026-03-27T05:04:31Z",
       "signature": "e8d4f91c4923fef45b2f3c964dd6895be3f176246c988a11b91ef0ca9dbd528c1464694463808eab0f31e8378b46c661e90277aee81cfeaa93c653be74db3504"
+    },
+    {
+      "agent_name": "ahmad",
+      "agent_number": 3255,
+      "owner_hash": "5899a33edde2faee722f9a10a24d9740805bf49c026188fe948f2546eb666c24",
+      "claimed_at": "2026-03-27T05:09:07Z",
+      "signature": "3b117c9f0b8e35d5f9b7448fdd2b5cd7b7e395ea4e0d626671150135d7027aa903cb5c371bef9ab1b86a9f5f5468f41568b5468ef82ce0244b8b6cea49ee790e"
+    },
+    {
+      "agent_name": "asim",
+      "agent_number": 3256,
+      "owner_hash": "8ad82d4f0c6a3cafd594f291ab43bb028cf93c77961caef7fbe5dbac8142bce7",
+      "claimed_at": "2026-03-27T05:10:23Z",
+      "signature": "55319ee867e49aa3b1a9597fa81f988028ce869638e010c678e428303a220f24c45383d7cd86415965390034764305edef64bcf69d865520da9cc1db56124705"
+    },
+    {
+      "agent_name": "vedant",
+      "agent_number": 3257,
+      "owner_hash": "8d9b0c58e721c62fe49ce06dc9faaad305d602bc21a8150e429715eb583c213e",
+      "claimed_at": "2026-03-27T05:10:41Z",
+      "signature": "993b09394e2ecc1ff555504e980823d5c9cba25dce7e3306740d604b472ef6cc7994ae2412f0d03824e84195d64c490b1a40c05476df39185b64913c36708105"
+    },
+    {
+      "agent_name": "dou",
+      "agent_number": 3252,
+      "owner_hash": "40636a26760dbd45e1a3bff9e019839bce86691eb8cc8683cf8e858a586a34f1",
+      "claimed_at": "2026-03-27T05:08:06Z",
+      "signature": "cb37bb82baf79b15b13e4958dd4d5e3c7f3dbeab8313e8427a729404db1d98821372d6a450e01ffa9217fdc997089de8913b711988528adf5f24e3cd842ef205"
+    },
+    {
+      "agent_name": "crispycrypto",
+      "agent_number": 3253,
+      "owner_hash": "3aba0b1f5bfd79f21d6f2a03093188ffbe1e65f1082d515b0d74f6ff62ccd465",
+      "claimed_at": "2026-03-27T05:08:16Z",
+      "signature": "31164b8ca7d3133530bab720b848b007d76410fedca2038874329d0b6f8a03e00667f613e27b2eb341010d9b25ee8769b05fa574f4e0ecfbaca53ac25a1bc202"
+    },
+    {
+      "agent_name": "htetaung",
+      "agent_number": 3254,
+      "owner_hash": "6efd0ead4ef28fd84887a5ceeb03a6b33f64a8a4f9f09344edbb7192137b142d",
+      "claimed_at": "2026-03-27T05:08:58Z",
+      "signature": "de156fb8cd32fa62880f3852b023acf144d25772aae74f3ab289c566979637027d48786ca2fca692003f233f1f7b637032ca68b7dc7c1962cec8dfa43512b808"
+    },
+    {
+      "agent_name": "javascript",
+      "agent_number": 3258,
+      "owner_hash": "f85b3c19771358aa5aa7ef430f4d0aea8a19d1a61fe874850520238ac5ac02b2",
+      "claimed_at": "2026-03-27T05:11:03Z",
+      "signature": "4c5588d5650e2efdf8e629e65dbc67c5098768ea4d18a849f48293f0054be0b624237d901940a601140a196f6805f303cc17e286301512251ecccc36c6161f0f"
     }
   ]
 }
