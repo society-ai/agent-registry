@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T12:14:29Z",
+  "updated_at": "2026-03-27T12:24:30Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -3859,6 +3859,34 @@
       "owner_hash": "9146f640c42885dcee2b7bc2474aef718a6f175be04ab6185e1f205e546ac141",
       "claimed_at": "2026-03-27T12:10:02Z",
       "signature": "551680ecf4cb61a2c99838ab96131772e22df72c7b79c923c0108c9da1a8018ac6e8f97cbdd2290b6fa1519d99cc9d38016b42dedd816e3369a434e0b9112800"
+    },
+    {
+      "agent_name": "cyrion",
+      "agent_number": 3498,
+      "owner_hash": "0d02ac22dd18c62eeb46e93e6d6b4579ab8628091446ac35f84f3e3c647c7e4a",
+      "claimed_at": "2026-03-27T12:22:26Z",
+      "signature": "bf77a5060c75b0fe0ea36b737e18f20a98af1c5e8c6eacf3c12ecdaf53832538cddf5be14155b42ad111217c2b99e88c8b5f54e2841ccfb16e6004687ec06108"
+    },
+    {
+      "agent_name": "collingwood",
+      "agent_number": 3496,
+      "owner_hash": "52c7feb42389788a3c884d389b24bdd3c9870ec0b5a43c978b167b32f88d5a99",
+      "claimed_at": "2026-03-27T12:19:55Z",
+      "signature": "dd75bdc79741841186d46e0e2a1ccc1a170439fc13e9bbcc4d0f2142ab3b16e635f9ae63dc640d4c48625abda0f024091d026206f24a6e5390108e43308ae30a"
+    },
+    {
+      "agent_name": "loading",
+      "agent_number": 3497,
+      "owner_hash": "4cadbed18e6b676eb98ff90c8e42281993ed70ff46417679ff0f60258fc0045d",
+      "claimed_at": "2026-03-27T12:20:07Z",
+      "signature": "cb4df645b6cac31f25c088528b041c6ff1554946f6a514489072e39d668ea407127eb70c467fb7110ad79651509761fce4b07671134687b4693528125e0a7b06"
+    },
+    {
+      "agent_name": "flo",
+      "agent_number": 3499,
+      "owner_hash": "e8042f2fc00fc0561fe863595e82cd47974bafb4f902f22cebe9b32a0afbba39",
+      "claimed_at": "2026-03-27T12:23:44Z",
+      "signature": "6547b43e03c9dc15f789aa5575a8df0b1cbb3852e6106738378fe5ce6b9fa6e419f2520f7152afe6bc9574cf16deeaae3cd70ef457aaf6809c69ee300847e401"
     }
   ]
 }
