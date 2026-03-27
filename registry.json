@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T01:02:16Z",
+  "updated_at": "2026-03-27T01:07:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1374,6 +1374,20 @@
       "owner_hash": "6cdad2483d186e9bd3cfe172cd65a0dd32e62d9bff1c418ed155e423641673cf",
       "claimed_at": "2026-03-27T00:57:38Z",
       "signature": "c21ab490a390a5c5da384c4e40d385788d08b8589643e97b072496f34b498736c2e3db8777d776943e96694f57f94b899da7941be1847d33edb02be41c43d303"
+    },
+    {
+      "agent_name": "hajar",
+      "agent_number": 3139,
+      "owner_hash": "745cee4dd6ed38cf68366552f35132b73bda5bdeb80c16f11fddaf27c4123a74",
+      "claimed_at": "2026-03-27T01:05:06Z",
+      "signature": "08cda447b11257886f9a4372d7d26b34c797ce97f3960aa4904301e0e415f184ec88cd4cec3596c39cc39e2d58fea3031fc5f7279539dcd71819f1137100fa08"
+    },
+    {
+      "agent_name": "cassandra",
+      "agent_number": 3140,
+      "owner_hash": "456beabe108f9f1fdc2fa0be3398fd46e6ee8b53945752184cf414666616d7ee",
+      "claimed_at": "2026-03-27T01:06:51Z",
+      "signature": "f9b2074f6f450783c255ac4016cf352318d695aff71dd31c9ff693bccbe1ab6b9571e4bf45bb04731ee09bc05ddecd074a510a50f972f056a02fba5d9d063703"
     }
   ]
 }
