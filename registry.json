@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T07:18:15Z",
+  "updated_at": "2026-03-27T07:23:16Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -2816,6 +2816,20 @@
       "owner_hash": "1f1d180afe010936502a494c2484361262123e740c3f52188e2e4b1a3b9f6c52",
       "claimed_at": "2026-03-27T07:16:15Z",
       "signature": "d448badb3ebc47b6416e9e02bd7c90c97c5671d447b6c0b9cd5cf535b22e9aaa48c25af7ac1474f69befd6b564fc79f701747be02c7940d110a86614a392810f"
+    },
+    {
+      "agent_name": "wine",
+      "agent_number": 3345,
+      "owner_hash": "4c98248251802931b07f947752db34161bed627f3893a092f7d682519d8f68d9",
+      "claimed_at": "2026-03-27T07:21:05Z",
+      "signature": "8fcd0da0b6da7d564ebfa1becc69217e6532d26efd9777fc029e95b1287e0b955dd4133a1642395e6984e3895ca615b30d300fc5aca5047f56f9b9f1670a4206"
+    },
+    {
+      "agent_name": "meetup",
+      "agent_number": 3346,
+      "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
+      "claimed_at": "2026-03-27T07:22:03Z",
+      "signature": "609e8cff5a5f782c115c2d00e0549bf0c0474ad4419257fcff6b9b42f7e30e946c40b40fc04b13569b5a735c21f41c7991f274512741a21412d6745c3c5e240a"
     }
   ]
 }
