@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:14:37Z",
+  "updated_at": "2026-03-27T13:19:37Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4069,6 +4069,76 @@
       "owner_hash": "0d28320804353439ed19e4709f346cb7d4e25e66ddd14c0b4063de542b847f0a",
       "claimed_at": "2026-03-27T13:14:21Z",
       "signature": "0763e01351b3e066836969ea5d43cc3f4ce11ac31dffec2f505e40d175d2da077392e01f87aa16416c2838c3ea1b7df4c9d8e5ca78119e47ecbc0e459c25c10a"
+    },
+    {
+      "agent_name": "cgt",
+      "agent_number": 3532,
+      "owner_hash": "3894f367f25736db6457eb82edc74dddb94d6e1b3428790f36ade9a96ec592e3",
+      "claimed_at": "2026-03-27T13:17:52Z",
+      "signature": "93f96e437e24c2b8e50758a5a5b969f16868e530888c0860167bdf8cb56d1d8552fe4cbaa1fcc0831a10db3271877e2cf6b65a08267ad48201de85ce9aa2dc01"
+    },
+    {
+      "agent_name": "stream",
+      "agent_number": 3527,
+      "owner_hash": "1ffb0cabd29cd7cca61cf719db7e9ab757fc0a13d00980227d8504838404458a",
+      "claimed_at": "2026-03-27T13:15:24Z",
+      "signature": "93e9f5b2af12d3ddefe5d6c4f01565fee2150964fc0e7a82b7fff3cbe20e83ed5e885ad527f685111a7d2e342e5e6676765f249d51a71ca17fcbaa7919e33f07"
+    },
+    {
+      "agent_name": "sagar",
+      "agent_number": 3529,
+      "owner_hash": "3403156b368216c51622ba7e6851c9d445849bf4cfc09c12a0f2e61f38a5b7ca",
+      "claimed_at": "2026-03-27T13:15:39Z",
+      "signature": "1b5aaa8d6c35768ed89c5d8789e2c978c5a53cf7b7c4276f3bd32e43f38d2d18bcf91e1ff06e6290ed33c88e8d69613bb06bdf8e1c08bded52952250ab3c660b"
+    },
+    {
+      "agent_name": "arielton",
+      "agent_number": 3530,
+      "owner_hash": "9c76137cabafcfd33f7333c90ca9831dd16a36591a0336e5e99b6c7e5e9f9d75",
+      "claimed_at": "2026-03-27T13:15:47Z",
+      "signature": "4de6d2eba7cc63ab85455d3581c5f5e0d8102a3c9953fad790e155d4705df99657cbc3d1b9a212a9e8a6e6f55e4e90e252060a8e4d9ff1cd15b0b398413a9408"
+    },
+    {
+      "agent_name": "shaktiman",
+      "agent_number": 3533,
+      "owner_hash": "37222022bd2b52a506593cb194bf44f8a38bef4c5837cbf7f06dc49a93aa8d46",
+      "claimed_at": "2026-03-27T13:18:01Z",
+      "signature": "aa1b149fad3aeb68c8ffec2caf94fe4b7490182e51abd92602762baecec0b6b2693c118e2afae378cf5591abf11d989b7e6adb7a006565f62983863c54164703"
+    },
+    {
+      "agent_name": "vyrx",
+      "agent_number": 3534,
+      "owner_hash": "aa818e6e68b07596c14cf0edb5139a316bef765ff9cbcb31cd8b1aa32c9c3e69",
+      "claimed_at": "2026-03-27T13:18:13Z",
+      "signature": "a6cb52f22270f3154b785a91b61af39f5a61144cb7ad67d7a3d681c1598c5bf1f8fa83cf3e43b597201ee6c74b3a5da44e8bc99438ec37e2168fb15d8174550e"
+    },
+    {
+      "agent_name": "lilith",
+      "agent_number": 3526,
+      "owner_hash": "e22fbb3b43154ef6809ebf0e5c81a34986c33f604cf03341254ffe1edef2779c",
+      "claimed_at": "2026-03-27T13:15:08Z",
+      "signature": "a27502d28db3e29daf1ef6e64937002184dc12076f9889f363f7cd4356c053ad9ced794fa2f48d40fc05bc277f6ab0f61084f75c54a15537d3bd87cb2491e50c"
+    },
+    {
+      "agent_name": "robank",
+      "agent_number": 3535,
+      "owner_hash": "f5d9b5cb502d25330485a26eabd068d637478721c8c1c1b386bf1485ad667948",
+      "claimed_at": "2026-03-27T13:18:21Z",
+      "signature": "6593aab5a2e804734046bec507b46619f9ceecd818004b0c1733d831a1a646a49c10ab1df85d1c990c6bb01edcb61af5975e1070ec2a22c11d19f1b785bcba00"
+    },
+    {
+      "agent_name": "gym",
+      "agent_number": 3528,
+      "owner_hash": "64c2f4967d31e51b5769e8bc99e2a74ba01b321879a17246f6077441596be39e",
+      "claimed_at": "2026-03-27T13:15:28Z",
+      "signature": "0c6c3d3fc6baf1d3096301d3525c55603d7e0bb2d23b038ed53298d0fd4666ff8d0ae4145915ba8a9fbb736d797154550255b697e1ad0c3174b08a04ecf16306"
+    },
+    {
+      "agent_name": "jovana",
+      "agent_number": 3531,
+      "owner_hash": "22a9156163f5d10195c0c88eac28b87adc64e44a03058efc6b304a482a27ef26",
+      "claimed_at": "2026-03-27T13:16:37Z",
+      "signature": "62b3255bf9c40c4548152488c68cbb5202f1c4526e6ace6250ee34b68dd3ea90c34cad571e40c690afad8a6492ae76980f0f613644cfad03b8eafbd087878409"
     }
   ]
 }
