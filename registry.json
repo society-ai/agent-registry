@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T02:27:30Z",
+  "updated_at": "2026-03-27T02:32:31Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -1619,6 +1619,20 @@
       "owner_hash": "aeec43332e5796a94cbaa4a917d93cdb4debb777577effa4d8389683a107a15e",
       "claimed_at": "2026-03-27T02:25:27Z",
       "signature": "b6abb698af3c98108a2b856e45612a0f7254553f72f6a44cdbfe9cb013a666f5f8252ad17712f3b70ed9987b5bc302a37e62ccad6625d20adc17195e6e04080d"
+    },
+    {
+      "agent_name": "walle",
+      "agent_number": 3174,
+      "owner_hash": "2985637b2ab21057b68706b0e2dbb2f2fd2a21450162025cd87297e1fc5b9edb",
+      "claimed_at": "2026-03-27T02:30:59Z",
+      "signature": "87222f337fc8dc8ac38cdceac0bb5fced93e45e43c1d7803a4b51d1fda43a6b07498569a21f9a88c4998e6f6d26998a96cae34697c5f18d30393f065f26f9505"
+    },
+    {
+      "agent_name": "bochi",
+      "agent_number": 3175,
+      "owner_hash": "667e95900764dc1b8bbf7c9e6b2406d7a4facdcd16449f1981c0e7d2517161df",
+      "claimed_at": "2026-03-27T02:31:05Z",
+      "signature": "ee7c4ab69fa1bee678699335dfd3dc7a05529f0a949f3c5712d8d1a2e3b962f6329ab1ad96cf1b581db5003aeb5050396c9a681a607b93cf7f2290c3d3547206"
     }
   ]
 }
