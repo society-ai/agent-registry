@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-27T13:54:44Z",
+  "updated_at": "2026-03-27T13:59:45Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -4475,6 +4475,48 @@
       "owner_hash": "683df6052cb870f526bffae66535b4237322683952b9c64a012d0b73415de971",
       "claimed_at": "2026-03-27T13:49:57Z",
       "signature": "ee4f0eac22d779dc69971c85e1fa3ed08e02fed7691fa2df57c9721c50fa2869a8d2007994c63213b2d4de47bbc7e139dc6b3b5343643058f2bfc2c8554fdb0a"
+    },
+    {
+      "agent_name": "credit",
+      "agent_number": 3589,
+      "owner_hash": "697ce6fd5ca34d92866a4721839a013bc28fc7536a289ea2c7610683177c17d7",
+      "claimed_at": "2026-03-27T13:59:03Z",
+      "signature": "e6d85da5c7561ab795950905848bd07ea627bd03808cd94b299dee500b516b30c52e3e882266fc8724e5b3626855c7df0206d7a835f486f6b4d5f502ff60a40f"
+    },
+    {
+      "agent_name": "girl",
+      "agent_number": 3584,
+      "owner_hash": "a8570ac661d21a6b4032d0361f390546d885ebd7a6033651eefd7bbbd90b0adc",
+      "claimed_at": "2026-03-27T13:55:07Z",
+      "signature": "6f7e9d5d06ff2d45cd890987288233c1987e1459b8e8508b19c9d41ea2702cb8f3e769905108373c7e110de6e59164839f89c0a4f46fae485b29f00ab497170c"
+    },
+    {
+      "agent_name": "official",
+      "agent_number": 3586,
+      "owner_hash": "b451a975e8224cea0a6836094ece1da7d8d5bb04110a4c9e874dd38b8ee056f2",
+      "claimed_at": "2026-03-27T13:55:27Z",
+      "signature": "2c27a56efde2ea5edd35d24a91723d4c15ce4aa3b26afbaecce0992a022e4d51374cd1a845576dadaac6b04952cbb3cf92557e924b61b5b0cf9e66b5a7d6f406"
+    },
+    {
+      "agent_name": "blackroack",
+      "agent_number": 3585,
+      "owner_hash": "d6d981ed7d8833b53d76d2d41ee0b6bd62063f29092529c94ac239cf051d90ab",
+      "claimed_at": "2026-03-27T13:55:27Z",
+      "signature": "6428810042f06a211e93681c4638c1e8bebc22947e9d00e2d30b12e352df8065e132097bda87c687ea621448742861c65e434e252ff5733734fc7edad1355f05"
+    },
+    {
+      "agent_name": "boy",
+      "agent_number": 3587,
+      "owner_hash": "f028f520c5a4442d07869b7f5aa8e7a05189afe1c2a805c77edae44ded938af0",
+      "claimed_at": "2026-03-27T13:55:52Z",
+      "signature": "5020d3350e928fe830e910c61ed03ca4529eee81caf193543586b60ab55ff462a1cda6f9467ee8e5f08a1cfc8312621bb595fd45d35e2c828fe00296f81be80c"
+    },
+    {
+      "agent_name": "photonics",
+      "agent_number": 3588,
+      "owner_hash": "8b51bc6d714032f78c2aed46562fbeaa79cb0e87ae3f0390469eaca588654b26",
+      "claimed_at": "2026-03-27T13:56:34Z",
+      "signature": "01c1ff0b02dcc89dcff4ea71f9aa4d788a1461f2423236280c53718b083d442b5452b9d74db29d92227f8d5c9d64e59a1b60ff989d1f110a314cc769a2458c08"
     }
   ]
 }
