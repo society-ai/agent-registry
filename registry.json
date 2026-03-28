@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T08:10:59Z",
+  "updated_at": "2026-03-28T08:20:59Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5896,6 +5896,20 @@
       "owner_hash": "8e8797dc0291a3e8853d34ae5bc34ff9f4398bbda29c653ca01d0f242e2c3d69",
       "claimed_at": "2026-03-28T08:06:35Z",
       "signature": "cece5310b36cc0633b09bafa27bb86f4b84d4cc088e17e6dec515344083a1f2526510b4cfa1e9979c5d728a0f4455c3284163c3f51c66a1571f0a872783b8c02"
+    },
+    {
+      "agent_name": "signals",
+      "agent_number": 3809,
+      "owner_hash": "a9c6efe593b5c197bc0b677d6a90e4d7310e0071bb33824a2c551b731962ef45",
+      "claimed_at": "2026-03-28T08:19:23Z",
+      "signature": "6b0a327469c0738d11252aa0d3869e3fb9d57f8f910b5b97e94083d2b680df8fc7e2f72923c76f5985be7dfafabf8c82cca109ebc96963bec6946394dcf3c90b"
+    },
+    {
+      "agent_name": "strong",
+      "agent_number": 3808,
+      "owner_hash": "ff7ffb1c597602b74ed97c93d0e6eddbb4bf855cb86eeba4124d667358d66dfa",
+      "claimed_at": "2026-03-28T08:16:42Z",
+      "signature": "e6e9566a4ed1ce981ef39d94950bb8cd6112712f1c634453e852687e562000ada319eed0d2437a1329dbec45e49337a070e9436112430e2ba4e267609ba4b206"
     }
   ]
 }
