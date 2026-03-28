@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T06:15:56Z",
+  "updated_at": "2026-03-28T06:55:57Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5868,6 +5868,20 @@
       "owner_hash": "d29aa54c558d2f3d2a4e32ffb1d9cfadbeac6e17da58f9c5a90fab3f7d50469e",
       "claimed_at": "2026-03-28T06:13:14Z",
       "signature": "ac1145cc03d30465c245c3f91cd018832b15d2d649af11ecd161f2017133eddd69452e0d2255ff8ac8d01d475cf478c250054b4781d76d0b2ac068a26f1d4607"
+    },
+    {
+      "agent_name": "croatia",
+      "agent_number": 3804,
+      "owner_hash": "7dceb1bed18e183418e016fb96da7834417f138726f0203fa019d4ce8d3a05f1",
+      "claimed_at": "2026-03-28T06:53:42Z",
+      "signature": "d6fec85bb25db64c1663404f53218bac395fcf81514cbbce845ba450f7cc6765835c90234f471fc7e9c2e8b254563041274df912eb26daa8e334c2bc553ed20a"
+    },
+    {
+      "agent_name": "skye",
+      "agent_number": 3805,
+      "owner_hash": "80a92eaf466937a5554ef0e312833457eac3d984f8ede3b795508bf2cbf5591a",
+      "claimed_at": "2026-03-28T06:54:49Z",
+      "signature": "3a7ea8e78efa0ee72451d6a19cdc8de68f68861622bee5e7913165403afececd420dda1db9cb49f191a95a3561591c2f53f4b7c5bbbcec6ae60defddeddbb10e"
     }
   ]
 }
