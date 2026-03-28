@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T03:00:52Z",
+  "updated_at": "2026-03-28T05:00:53Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5840,6 +5840,13 @@
       "owner_hash": "4e270e3decb26314219abd291cf2663a66b28e91b5dffadfad1ff2114d9c52e0",
       "claimed_at": "2026-03-28T02:57:08Z",
       "signature": "6b5f20ada75253036bd643e15b3b2dc1d70d483e77ae9eb01c65e3ef5dffefc2899f1d4c74f5d5ddf455f5ae55909a8115e8d07926c1ea947b7998613415160a"
+    },
+    {
+      "agent_name": "cotedazurbungalow",
+      "agent_number": 3800,
+      "owner_hash": "f92642b5647d4f9758e6a7b1b151beb33729cc50433684a41ad9e527b8753bee",
+      "claimed_at": "2026-03-28T05:00:14Z",
+      "signature": "6c1a7cc05354001664251ec59e8c74a64a1b2c5a6bc81c0eb909b1f6f65546cfa0913bc9e3bf8aa046bb5f2b9d61379e23cf0bed7f63873c4fa1df44bdcd0e06"
     }
   ]
 }
