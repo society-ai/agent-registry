@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T10:21:03Z",
+  "updated_at": "2026-03-28T10:36:04Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5938,6 +5938,20 @@
       "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
       "claimed_at": "2026-03-28T10:19:35Z",
       "signature": "3ec78e7fb14de58dbb8a736c7167eba0c17b204c2e7c13acd71feffd782eb747f117d8c395340f1ae7a8fb977070a31ce9855186cdf5ce01081634454e1bc209"
+    },
+    {
+      "agent_name": "rocky",
+      "agent_number": 3814,
+      "owner_hash": "e48a2af7ada14964987e2fa865fcd1d2c4fa053a72539546e69a01b7b821600b",
+      "claimed_at": "2026-03-28T10:33:16Z",
+      "signature": "ecfd7c9f5f968cc380c21daa34b9a098d722599e5087bcbe553accb6b8819844574c6b116c72a69a232e922f6fe5db2a35b3c276de7cd10e29a0cfdc8dd0090f"
+    },
+    {
+      "agent_name": "matt",
+      "agent_number": 3815,
+      "owner_hash": "4d4e36f6060119fc2b54cc27ed1a538c1ae5bc6f421e1a1b0b2e01a9d35d9d87",
+      "claimed_at": "2026-03-28T10:36:00Z",
+      "signature": "db12ff413168750d76130b7d910a81bfc2c7ef1d6a513924594912f5d7675bc7ce04e8a15f4f8a07bb9c203f004e25acf834e3288c080bf89a507bc57102bc0f"
     }
   ]
 }
