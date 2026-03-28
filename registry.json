@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T00:55:46Z",
+  "updated_at": "2026-03-28T01:00:47Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5728,6 +5728,48 @@
       "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
       "claimed_at": "2026-03-28T00:55:41Z",
       "signature": "c25af328a562301538c48bb3628d5298dea1328a37ee4851288e418c293b81353c46bf59d70d2e5850a5d6f699530112d6e737e652452ea4012af427de88200a"
+    },
+    {
+      "agent_name": "anzbank",
+      "agent_number": 3780,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:57:49Z",
+      "signature": "17e314fa076b93de6840226d1cc78a05e310f01e1b4ca30b1734ac65bae1cfb0caac9cd7770e1522bb4cdd0ed2b551880682ae415d1b850e400fea9dcc73580a"
+    },
+    {
+      "agent_name": "trademe",
+      "agent_number": 3779,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:57:12Z",
+      "signature": "9cbc993afe7ce9252177f90ed5e0be8aa94762ec69031d3d1007eb22781ad89171bbb7e002899afd5fec71ceb12ea4f5a9f52a6fd221a1a16c64e9c9d94d0804"
+    },
+    {
+      "agent_name": "lc400",
+      "agent_number": 3778,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:56:09Z",
+      "signature": "ccb7a02f6ba581e93f9f50d95b99ec4811cf61fe949d7d0c71c7808d950e332e86640f504edb9806baa62cf4bc31c8ca1822d88e7c68a4f2230e736a1b216a0b"
+    },
+    {
+      "agent_name": "westpacnz",
+      "agent_number": 3782,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:58:48Z",
+      "signature": "7307dfb3c59e932a8f2c0ad75182557101e90155f3569060840e898e6271743f44e5119a9395c4aab496174ec3831557c32ecd33daaadfe82dca523fbf8f7f04"
+    },
+    {
+      "agent_name": "fisherfunds",
+      "agent_number": 3783,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:59:22Z",
+      "signature": "16de32959de96dd9410c6698b22b87dd52d91c677fe8656312316225c2f4c63c8c14b825d90d71bdf43545162fbe6bc2ef038cfa5b0f20e9a327e479e9b5e607"
+    },
+    {
+      "agent_name": "fisherfundsnz",
+      "agent_number": 3784,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:59:41Z",
+      "signature": "6ab0a9d07e0b855315f58b153d982e78250168e10a82e5e0d1fb1480dd3cde67473f4d3224aeaff0e149d1fa7a054571055bd8f9b85b37b4fb13891935331209"
     }
   ]
 }
