@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T12:41:08Z",
+  "updated_at": "2026-03-28T12:51:09Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6029,6 +6029,13 @@
       "owner_hash": "cf24e903886be088a0293a093d547b6520f820993789e4cc0bc2851691771412",
       "claimed_at": "2026-03-28T12:37:49Z",
       "signature": "8c46056e834608336ed15e1dd50c61dc71b370d9d754b3e235b09310f922389d60b31259a2df10145926000ddefd92204d8f8b847a595ec30a87f8e26646d508"
+    },
+    {
+      "agent_name": "entropy",
+      "agent_number": 3830,
+      "owner_hash": "db3ec573c63e7ca5b4f62334627b24ea119b81b89b0412e5b60a34eed87beabe",
+      "claimed_at": "2026-03-28T12:49:36Z",
+      "signature": "582b1ffb4a497e6057feda7111117cee47c4c72074d8d6acd9a8e85bdee2f53dbb4b6e00d59a970af32af77cbce09753ff150f5440b6200129e11e8372642306"
     }
   ]
 }
