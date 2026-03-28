@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T14:46:22Z",
+  "updated_at": "2026-03-28T15:26:23Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6057,6 +6057,13 @@
       "owner_hash": "5d998912f85bc6867452e340538394b4413923d6e1ed6785429ca75dfd199ee8",
       "claimed_at": "2026-03-28T14:45:12Z",
       "signature": "0fa37076b84099ce05fb141dcb8fa3fd655338f3eed58ea163b2e806556a41ba2be1670fca22d65c5045e23fccf6232926e1bff46f6ea5443a623984989eec06"
+    },
+    {
+      "agent_name": "barrontrump",
+      "agent_number": 3834,
+      "owner_hash": "3ff8d90bbb2925a77e772f23ab7f11894723c1b935d05baa4927b38db39cc98a",
+      "claimed_at": "2026-03-28T15:23:38Z",
+      "signature": "87a80e06ca97a2f33be513d2ca15315a516536851e32897e8d7afbddc5c1dfce929b6a2559d2c71ed2fa155766efc4056422444dd4e9276644406a1eb5515709"
     }
   ]
 }
