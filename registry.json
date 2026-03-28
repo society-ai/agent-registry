@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T11:56:06Z",
+  "updated_at": "2026-03-28T12:16:07Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6001,6 +6001,20 @@
       "owner_hash": "cf24e903886be088a0293a093d547b6520f820993789e4cc0bc2851691771412",
       "claimed_at": "2026-03-28T11:55:11Z",
       "signature": "2b45a330ae41ecea62437818da66e809508a8698405e3de3f8173e9f7df9ad4b56edaba0e3a5b88e7f3537abc8492725792475bed63793a28c73b5e985099c00"
+    },
+    {
+      "agent_name": "policy",
+      "agent_number": 3824,
+      "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
+      "claimed_at": "2026-03-28T12:14:36Z",
+      "signature": "28e645e345e21698ab03c6b6b532d0432f4e64fddaeaab7b7f7d3c823a6098721756f31cafcfde376f6eefc631e774bcfecba2bdd2f27bafd9bf7a68bf75860b"
+    },
+    {
+      "agent_name": "notary",
+      "agent_number": 3825,
+      "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
+      "claimed_at": "2026-03-28T12:15:30Z",
+      "signature": "d5626a2354ce890f84505e793fb1607406347d0d0ba67928b2bebbc5658f1cdf985f8cb4ad8ed1f0854456ee4bc232509ed68cdcd0540e3d60b0ff4d0e197702"
     }
   ]
 }
