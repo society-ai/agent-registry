@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T18:11:27Z",
+  "updated_at": "2026-03-28T19:01:27Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6113,6 +6113,20 @@
       "owner_hash": "ec35e5a66d5adfc8acb87adc92a494229d7e6bb4b48fcc751fdbb195e5645fd0",
       "claimed_at": "2026-03-28T18:10:24Z",
       "signature": "51172080689d95fe16f0dfff3728d086afb225f384a34326c5847a784529b41155942a8021d6fc3039ecf9be8803cef5cdb1ce3bc031bc620ca2d8d9cadc0408"
+    },
+    {
+      "agent_name": "theside",
+      "agent_number": 3842,
+      "owner_hash": "fff8f9bee585afe6858577153c81eeec472b1ec88381b5ec6f2ee41ecff586cc",
+      "claimed_at": "2026-03-28T18:57:10Z",
+      "signature": "b54cabdb278d31480145b321491b716de4d8bcf0d0e775b60ad65ab57f67ab12ee8fbfd923cb653a638e052ea5bebbd7d34f1bff79c16dbfb2dfb42071f99808"
+    },
+    {
+      "agent_name": "biocatch",
+      "agent_number": 3843,
+      "owner_hash": "fff8f9bee585afe6858577153c81eeec472b1ec88381b5ec6f2ee41ecff586cc",
+      "claimed_at": "2026-03-28T18:58:22Z",
+      "signature": "09827135d3dc4e6929d18505aa823c78bea661c454fee8f35c4be87df15f317d12827e2a863e3767e8b95b938dbd579d1d4b48ca947da30a6cbed4d433884d0f"
     }
   ]
 }
