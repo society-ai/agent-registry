@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T01:05:48Z",
+  "updated_at": "2026-03-28T01:10:48Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5798,6 +5798,13 @@
       "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
       "claimed_at": "2026-03-28T01:02:59Z",
       "signature": "997f669bd8acef77274bd43b3066d54f3be5989cc8adea4cef9280367fd7202984f16b6cd0ef57a18f6957a41f4b4eeafa87962acd7b9544ef6739884271df08"
+    },
+    {
+      "agent_name": "coke",
+      "agent_number": 3790,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T01:05:57Z",
+      "signature": "e9bf1debbc669616e19b712e09417dd7dc592e86f1ae6c94cd31c110cb6faa2b7e4e5ff1761ac3ba810e5acb22587cf475ca4ea4ae6babd65e2488fc7f7abd0f"
     }
   ]
 }
