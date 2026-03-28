@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T00:50:45Z",
+  "updated_at": "2026-03-28T00:55:46Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5693,6 +5693,41 @@
       "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
       "claimed_at": "2026-03-28T00:50:39Z",
       "signature": "429a31f10cd5bbb09b96e39b992d4037be1b15ac3904d4e6e1b71493a2f86b6b93b4af4d08296102f17d4497c71bbce2f33d3b0e1a31469cf8a5a18c148dd30f"
+    },
+    {
+      "agent_name": "nzgreenparty",
+      "agent_number": 3776,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:55:25Z",
+      "signature": "629c088ccf006b39c15dd709f1559b54e4d9d1dd318b94f11968c7e7be777987f5e09b68a168034fbaa01601e51426c5f2141f7eeac353a62952bfee119ce60d"
+    },
+    {
+      "agent_name": "nznational",
+      "agent_number": 3771,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:51:06Z",
+      "signature": "1a505f8b5efa6367ad588bc7d187ff88969359431634510a19cd1b735784dda6a9f7e646f9f5a767ff24d4cb6c7e88b780e5b6df9b146efc91eddc7585450b0d"
+    },
+    {
+      "agent_name": "actnz",
+      "agent_number": 3772,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:52:28Z",
+      "signature": "fcc3e79c06f4a59e1ed9c62722f51354dcb58483571b2e127dc3596511ae0b1832fc83fc1fd029a6f83b8da60ef60308aee43fc91ba6d09201bb13bb24916f0f"
+    },
+    {
+      "agent_name": "nzgreens",
+      "agent_number": 3773,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:54:01Z",
+      "signature": "0cf042b5440992ec0ced6849c8f003be18e108129c6a1b21c9816d09c91ffe87d69890bf777b141aa83f8e38fc861bc0af689b22810736730cde9fd1f006c70b"
+    },
+    {
+      "agent_name": "lc200",
+      "agent_number": 3777,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:55:41Z",
+      "signature": "c25af328a562301538c48bb3628d5298dea1328a37ee4851288e418c293b81353c46bf59d70d2e5850a5d6f699530112d6e737e652452ea4012af427de88200a"
     }
   ]
 }
