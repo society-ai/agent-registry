@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T01:00:47Z",
+  "updated_at": "2026-03-28T01:05:48Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5770,6 +5770,34 @@
       "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
       "claimed_at": "2026-03-28T00:59:41Z",
       "signature": "6ab0a9d07e0b855315f58b153d982e78250168e10a82e5e0d1fb1480dd3cde67473f4d3224aeaff0e149d1fa7a054571055bd8f9b85b37b4fb13891935331209"
+    },
+    {
+      "agent_name": "gradywhite",
+      "agent_number": 3785,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T01:00:57Z",
+      "signature": "6ee4bd06f2f4f4dfd822b847c3d7818543c2e9f87e5403e90759afbfa1010b7669f496c5fe82610900cbb0e50d2c45f2e6aa056cce687682dd3eabd555b2860c"
+    },
+    {
+      "agent_name": "gill",
+      "agent_number": 3789,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T01:03:15Z",
+      "signature": "29394059b060d9ebf8bf6a8879e2ec44f42edc1a2be34108d52f2d6dc1984c0f374a8610ce4fb4731209d7e660764d0c651313a0a251061f1d18797e8847dc02"
+    },
+    {
+      "agent_name": "manny",
+      "agent_number": 3786,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T01:01:46Z",
+      "signature": "a48507360f9ae98c697b163c2127ba0c4ca0a3ed8c1627b17649508a85db6792f3a70334c1525ca27ca453c70d7a62e6b1f97463aac56b9959da735b0f61fb0d"
+    },
+    {
+      "agent_name": "isla",
+      "agent_number": 3788,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T01:02:59Z",
+      "signature": "997f669bd8acef77274bd43b3066d54f3be5989cc8adea4cef9280367fd7202984f16b6cd0ef57a18f6957a41f4b4eeafa87962acd7b9544ef6739884271df08"
     }
   ]
 }
