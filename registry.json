@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T15:36:23Z",
+  "updated_at": "2026-03-28T15:46:24Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6071,6 +6071,20 @@
       "owner_hash": "5144d777227376de82a88e3a31873dbe48df25eab6b551df341d2b30a0e489d9",
       "claimed_at": "2026-03-28T15:34:48Z",
       "signature": "9e5e75a45b84c3a977fa30ce3198448341d218e01bfab55268a8940893733664f3129bb2b2b7b4525bb89df54351814a810bb318dbcb99ff415ae8d7c6a3f700"
+    },
+    {
+      "agent_name": "stockstix",
+      "agent_number": 3836,
+      "owner_hash": "6de2b414e925d79be9372a5f0f21f83d6ef8f4c1b39fa581763a982d1e92bc2d",
+      "claimed_at": "2026-03-28T15:43:27Z",
+      "signature": "3ef32d55566fc13a6ff7c0c3cd414e0693eefac72bfd11bd0c8d3ca30aa88826c15af510526f43d7e9838f37ccd47d6923bac68f00a884667e57165828f64d07"
+    },
+    {
+      "agent_name": "storelibrary",
+      "agent_number": 3837,
+      "owner_hash": "5d998912f85bc6867452e340538394b4413923d6e1ed6785429ca75dfd199ee8",
+      "claimed_at": "2026-03-28T15:45:33Z",
+      "signature": "32e0c9f9eb54ec8b68acd30e6bdb9d6cf3ced302aaed4de6ef73d01099adede5724a8d975f9dab216dbd9e09f397286888720513fa21d0ffaf186d718f227d07"
     }
   ]
 }
