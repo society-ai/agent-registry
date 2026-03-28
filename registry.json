@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T06:55:57Z",
+  "updated_at": "2026-03-28T07:40:58Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5882,6 +5882,13 @@
       "owner_hash": "80a92eaf466937a5554ef0e312833457eac3d984f8ede3b795508bf2cbf5591a",
       "claimed_at": "2026-03-28T06:54:49Z",
       "signature": "3a7ea8e78efa0ee72451d6a19cdc8de68f68861622bee5e7913165403afececd420dda1db9cb49f191a95a3561591c2f53f4b7c5bbbcec6ae60defddeddbb10e"
+    },
+    {
+      "agent_name": "minority-report",
+      "agent_number": 3806,
+      "owner_hash": "4773b0de46213b4b68c820e6e41a40424c7aac57e3e51f9d8ef3a6145181b4fc",
+      "claimed_at": "2026-03-28T07:40:38Z",
+      "signature": "8c5e7b77e471ce9e3f69cf6c4442c6c9c941c594c60b368b9cf36f4e27b7d02bd0063c8a2f678e5b9cd4628ed35e8b34b71517b8d266b9cd424c258392a1870f"
     }
   ]
 }
