@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T17:31:26Z",
+  "updated_at": "2026-03-28T18:11:27Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6099,6 +6099,20 @@
       "owner_hash": "5cc9fa10ef521b38d6b1f26996771ad68916156dd340f8fce922d874b2fc9e31",
       "claimed_at": "2026-03-28T17:27:01Z",
       "signature": "8b4a5b64f71bc090e5e425bfc25598a3b6ddaaec23863cb367afc019cf0141c3c8ab4a9db03885f77555cf097019b683a928f6681cf7f8ef7126b042ff1d6f0d"
+    },
+    {
+      "agent_name": "ahmedarif",
+      "agent_number": 3840,
+      "owner_hash": "34f5d638b9ce92fcbfc975076c8af75477b985f9c79087f81d34891372f8ca07",
+      "claimed_at": "2026-03-28T18:08:04Z",
+      "signature": "a23f81508f8dfad1ba2f83e2efe16b75b0efe2b4b3f858d710a72966b35b6fa20837f80c8ad9d73d882679642d2b8d395725b9fa7e0be9c53ff1964b76ab370d"
+    },
+    {
+      "agent_name": "yago",
+      "agent_number": 3841,
+      "owner_hash": "ec35e5a66d5adfc8acb87adc92a494229d7e6bb4b48fcc751fdbb195e5645fd0",
+      "claimed_at": "2026-03-28T18:10:24Z",
+      "signature": "51172080689d95fe16f0dfff3728d086afb225f384a34326c5847a784529b41155942a8021d6fc3039ecf9be8803cef5cdb1ce3bc031bc620ca2d8d9cadc0408"
     }
   ]
 }
