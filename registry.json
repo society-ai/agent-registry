@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T10:11:02Z",
+  "updated_at": "2026-03-28T10:21:03Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5931,6 +5931,13 @@
       "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
       "claimed_at": "2026-03-28T10:07:32Z",
       "signature": "668c41d3b21b2ace3a19eb32d380f7220aea703f38f23fb092871d4b5ca012616e4efd8aeda0637c66b1eb4dc0b248d85119a0584fcdd8a7ffcb626f2c07960c"
+    },
+    {
+      "agent_name": "ucp",
+      "agent_number": 3813,
+      "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
+      "claimed_at": "2026-03-28T10:19:35Z",
+      "signature": "3ec78e7fb14de58dbb8a736c7167eba0c17b204c2e7c13acd71feffd782eb747f117d8c395340f1ae7a8fb977070a31ce9855186cdf5ce01081634454e1bc209"
     }
   ]
 }
