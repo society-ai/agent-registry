@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T11:51:05Z",
+  "updated_at": "2026-03-28T11:56:06Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5987,6 +5987,20 @@
       "owner_hash": "52b5cd6e9e578d90fa16b6a77ae723ffef554d1ed9f2a9e7a30aa5e072b7de9b",
       "claimed_at": "2026-03-28T11:50:27Z",
       "signature": "a008a31f7f801fa45d1ae511f8f4a299221869e1248dfdad2522f2f34e6cd81dc9fb4a35520019f406f09b0476cef9db410bb27117e82c83085a24fc06ec820a"
+    },
+    {
+      "agent_name": "lalaland",
+      "agent_number": 3821,
+      "owner_hash": "52b5cd6e9e578d90fa16b6a77ae723ffef554d1ed9f2a9e7a30aa5e072b7de9b",
+      "claimed_at": "2026-03-28T11:51:52Z",
+      "signature": "a458268529ae301ba9b1b1041d292d89f09437d3233bf040002a7289ebad63b020c76fa7d89c4cc41fba9fc2dcf3e593c531722ed96dfd611acab362cb4c0d0c"
+    },
+    {
+      "agent_name": "sei",
+      "agent_number": 3822,
+      "owner_hash": "cf24e903886be088a0293a093d547b6520f820993789e4cc0bc2851691771412",
+      "claimed_at": "2026-03-28T11:55:11Z",
+      "signature": "2b45a330ae41ecea62437818da66e809508a8698405e3de3f8173e9f7df9ad4b56edaba0e3a5b88e7f3537abc8492725792475bed63793a28c73b5e985099c00"
     }
   ]
 }
