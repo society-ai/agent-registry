@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T21:01:30Z",
+  "updated_at": "2026-03-28T21:41:31Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6169,6 +6169,20 @@
       "owner_hash": "04833d0df09aba8c9337e7d677f6192a330ce32e74a351bb487b802c3b2074b7",
       "claimed_at": "2026-03-28T20:59:22Z",
       "signature": "807c4e497e88da15be516111cc1c1960b726b004fef1fd791122a8b827e48bea78bc0d18e7d2d7d24cf13cf4d5c3b00a518fa3cb4ccb3472dcb787be1920be0e"
+    },
+    {
+      "agent_name": "qtr",
+      "agent_number": 3850,
+      "owner_hash": "04833d0df09aba8c9337e7d677f6192a330ce32e74a351bb487b802c3b2074b7",
+      "claimed_at": "2026-03-28T21:40:38Z",
+      "signature": "9f29c339fb0d733e2473f5c6b7fa4b39dbfee03872dc92d20889fc74fd8b535c0c75bf175bf01b6cce199614e47a812782ddba9fb4e69ff00acb179883c3280f"
+    },
+    {
+      "agent_name": "qcb",
+      "agent_number": 3851,
+      "owner_hash": "04833d0df09aba8c9337e7d677f6192a330ce32e74a351bb487b802c3b2074b7",
+      "claimed_at": "2026-03-28T21:41:13Z",
+      "signature": "479b3b050b8f8975f087043d4e1166e0e9e5e305ec4a33d6658da8d21e1d8ff0b97d9b02790fe511a92720e8994459790c632eab3970876fbef6aa71319f8b0c"
     }
   ]
 }
