@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T00:05:43Z",
+  "updated_at": "2026-03-28T00:50:45Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5679,6 +5679,20 @@
       "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
       "claimed_at": "2026-03-28T00:04:35Z",
       "signature": "0d96b9ca3939226ee252630a88548e6082f9916d918dc2699e5952dd70f4aabc8da0d8542606911ea31090107b0bad05704d4b847ba92b5e0e84bd953da2cb04"
+    },
+    {
+      "agent_name": "nzlabour",
+      "agent_number": 3769,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:49:55Z",
+      "signature": "9f10372cf81faeeb790568f591e77966875a93c0a987fdcf87f8069dee0f0b7630e7d83ba957b92e3f80af7b65d3e56d59ffb35fa89b8286a5455b68c8461400"
+    },
+    {
+      "agent_name": "newzealandlabour",
+      "agent_number": 3770,
+      "owner_hash": "dcdd7f2c1d82cdaf10f577577e0b7b37859b78395c2196937cac880d33cc42a2",
+      "claimed_at": "2026-03-28T00:50:39Z",
+      "signature": "429a31f10cd5bbb09b96e39b992d4037be1b15ac3904d4e6e1b71493a2f86b6b93b4af4d08296102f17d4497c71bbce2f33d3b0e1a31469cf8a5a18c148dd30f"
     }
   ]
 }
