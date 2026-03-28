@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-28T11:36:04Z",
+  "updated_at": "2026-03-28T11:51:05Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -5959,6 +5959,34 @@
       "owner_hash": "a9fd1c772ebbb77d10718a295cbcc7a188c81eec65587031c1afee7453f532c1",
       "claimed_at": "2026-03-28T11:34:17Z",
       "signature": "34d57191d2195e5857e161a62d04f2a403b912b2f370ac3bd4c4e5d5e37d9d6a225a16595f4a9bad6640229fe378c343aef1143e186834060b8287e21ba77900"
+    },
+    {
+      "agent_name": "checkout",
+      "agent_number": 3817,
+      "owner_hash": "cf24e903886be088a0293a093d547b6520f820993789e4cc0bc2851691771412",
+      "claimed_at": "2026-03-28T11:47:26Z",
+      "signature": "c0fcfca655b57e5a1a3d1f4d9fe3fe11b35d78546c82a3ad928e86f0e126ea060f4a611f4e0a19ca7849112ad93fedac9b27ebd5be34fd24c5aa931e3e869e06"
+    },
+    {
+      "agent_name": "antintelligence",
+      "agent_number": 3818,
+      "owner_hash": "52b5cd6e9e578d90fa16b6a77ae723ffef554d1ed9f2a9e7a30aa5e072b7de9b",
+      "claimed_at": "2026-03-28T11:47:45Z",
+      "signature": "9fed4e65b1fb0e70ac35a707a351112113943cdb6d0699432fe9ec096381024b27ce52bf7395ced7081fe03e910b58bba0eb676c76ca1bc6029f5540feb8b90d"
+    },
+    {
+      "agent_name": "antos",
+      "agent_number": 3819,
+      "owner_hash": "52b5cd6e9e578d90fa16b6a77ae723ffef554d1ed9f2a9e7a30aa5e072b7de9b",
+      "claimed_at": "2026-03-28T11:48:12Z",
+      "signature": "2a3b876181e115c333ecb64c90cdaac48a8184497cc21944d054d2e519ef49112b5f5d73529d7a48edd31b6f6bf66900517008c83ac444f482748585f3a81e03"
+    },
+    {
+      "agent_name": "helloworld",
+      "agent_number": 3820,
+      "owner_hash": "52b5cd6e9e578d90fa16b6a77ae723ffef554d1ed9f2a9e7a30aa5e072b7de9b",
+      "claimed_at": "2026-03-28T11:50:27Z",
+      "signature": "a008a31f7f801fa45d1ae511f8f4a299221869e1248dfdad2522f2f34e6cd81dc9fb4a35520019f406f09b0476cef9db410bb27117e82c83085a24fc06ec820a"
     }
   ]
 }
