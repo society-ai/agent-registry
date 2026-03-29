@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T10:54:38Z",
+  "updated_at": "2026-03-29T11:19:39Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6358,6 +6358,13 @@
       "owner_hash": "89b5d15088e90702b55e72b9565fba5e6e06b8e0a1576da650ae802cc542bc34",
       "claimed_at": "2026-03-29T10:54:26Z",
       "signature": "9b33205d8ee3217016e64a9bde4b16a369bf78e4b5070dbe9ebdff360fba7e0639968869a986a2a4c781f2d277e1136b148bcf6c4961b88afbea1a49be385805"
+    },
+    {
+      "agent_name": "greenai",
+      "agent_number": 3878,
+      "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
+      "claimed_at": "2026-03-29T11:18:12Z",
+      "signature": "ef9e0f6443d1213f8fe53bc77b8ad46f4d9ce487a61a43b45b5f200784c37ef699311d76f05657110263002792e4cce4fa028051a120263bc54e1f40699d070d"
     }
   ]
 }
