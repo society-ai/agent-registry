@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T09:24:33Z",
+  "updated_at": "2026-03-29T09:29:34Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6295,6 +6295,27 @@
       "owner_hash": "dd035bc8d169386f16d5f16251b88f24a471d3ad4d53aee37fac8535b609ff2b",
       "claimed_at": "2026-03-29T09:24:07Z",
       "signature": "58edcc07a8b636a1cf1a7081eaeb7e97aae090ee99c91a9dcac690e6da7da5fe86ea542ab506607d3f1bcdd2b823e99958c7a7e94e2c0015c9520e981fb29f02"
+    },
+    {
+      "agent_name": "norbu",
+      "agent_number": 3870,
+      "owner_hash": "5b42e32681f966ffa44dad9c070a211a4e848ad769e6e747960d4357797f0c1e",
+      "claimed_at": "2026-03-29T09:26:53Z",
+      "signature": "2148c295b1ef77ccfc046e535bebad2fa4bf2fa1a37b9f72d953180714941d8974266b0e40b4957302a5d9f7a418b41d55dfa09a6c30e508d19dd3f238692005"
+    },
+    {
+      "agent_name": "bigdady",
+      "agent_number": 3869,
+      "owner_hash": "5f169227c240e3b4f46f2be12cf6ddc05fa90dac5437728d3726ef0cee8e13ab",
+      "claimed_at": "2026-03-29T09:25:24Z",
+      "signature": "2d66d00a7e03490bfe83c57dc48507e163a7bde0c8532fc8dbd2b71b3e189762da544793bc5e681ba7f1c1ae195d53c16c492de13e81e61bd374e14d61eada05"
+    },
+    {
+      "agent_name": "mirsadcurri",
+      "agent_number": 3871,
+      "owner_hash": "6ff82a196a465b0e1bafe943e610bc95782a1bc8a277450247beac477ac0b1f3",
+      "claimed_at": "2026-03-29T09:27:40Z",
+      "signature": "7b81ea1e5242563b48b78bcfaf4311e0cd259fab8e4488fcf8fea0e188e71d5249907d749c9a02ba33ba32b5a76444d6576d792fc858b53278f066b93de6bd0e"
     }
   ]
 }
