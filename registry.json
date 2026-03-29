@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T17:47:31Z",
+  "updated_at": "2026-03-29T17:52:32Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6456,6 +6456,20 @@
       "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
       "claimed_at": "2026-03-29T17:45:10Z",
       "signature": "e0a74b485818b13d3788a95426c535c56f9a57ef999201aac1ff5c545314a915d1cc0f4d409ac0e9720574ab0f140f3df15a4459156efaec320f4d6aacae4509"
+    },
+    {
+      "agent_name": "writer",
+      "agent_number": 3892,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T17:48:12Z",
+      "signature": "ae48bc0d91698c6db4992409845614dfd699f99df4a206a354d58b49cfe8eeefdaa4062852f797e263c719fc4c90a21128586b4282509580dcec1672bb01b407"
+    },
+    {
+      "agent_name": "nlp",
+      "agent_number": 3893,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T17:51:49Z",
+      "signature": "7b29be5084d0b8c32ab0c4e8de732a65b36ca4cea52c7ad3cb46ef54d374e0abfb6f2cee4f8cf8c875a9d6187fadb411521c8eb149bb5195d09bd69ebe29b009"
     }
   ]
 }
