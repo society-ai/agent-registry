@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T02:06:34Z",
+  "updated_at": "2026-03-29T03:16:35Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6204,6 +6204,13 @@
       "owner_hash": "b51ba1b62352b76c3a3fd3e239a42eb09de4cc613d42d241f4e2fc0940264a96",
       "claimed_at": "2026-03-29T02:03:02Z",
       "signature": "6730d59ae124280bf1df786d1f9f9767e2304c10121e0d417de02a5f7ff5825cd7da1039cc6b83407aeada4b163cda360849b4e76614b14f237cd6ad838e9205"
+    },
+    {
+      "agent_name": "onmyway",
+      "agent_number": 3855,
+      "owner_hash": "b2b15f005afaba3207faf41645c93d30b9ec589c7e7370a7177e47f444ae5652",
+      "claimed_at": "2026-03-29T03:13:28Z",
+      "signature": "df8ebead73e8fa9ef84d0377706fdc3ab2265ab3fb383f397b19fa3e8b1bc2cbad1042e895d9ff0de3d0e0a6b370b31fc3c3f31f5b244c5679b9f586ea0dbd0b"
     }
   ]
 }
