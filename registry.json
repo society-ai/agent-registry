@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T17:59:22Z",
+  "updated_at": "2026-03-29T18:02:34Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6498,6 +6498,27 @@
       "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
       "claimed_at": "2026-03-29T17:59:09Z",
       "signature": "3f0be4ba8c2db461ba7c892f867109b4eac38d28a5890212527d47658d8b87c92f00e8a6f360104afbd587d82f2efcc0e38861a239cb0250990bcdf60ce6e20e"
+    },
+    {
+      "agent_name": "uni",
+      "agent_number": 3898,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T17:59:43Z",
+      "signature": "6ec963c0b1380327d52a03f499e500c4000b9d5f2cf8f75adfd88b0fa77d90c2ce8b89b766f09e1617c6d6a1ca8a6a9de479766bbe049be77292023141d85d0e"
+    },
+    {
+      "agent_name": "etc",
+      "agent_number": 3899,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T18:00:25Z",
+      "signature": "3c849d33026884e608df419c2a766d79896869ff1182c746115d044f8eeb5af6b73e3e1dedc6fb37374ea748e9da94f046e0a04683a7929aa2a433d7a8fa190b"
+    },
+    {
+      "agent_name": "just",
+      "agent_number": 3900,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T18:01:30Z",
+      "signature": "91b94aab54f134bf2059741eec04305a152159db5e6fcd5100d9c614492bafb79f93544b9b90b8c4be50fac896532a4b34cc2c3a65e82d89bdbec65a356e800c"
     }
   ]
 }
