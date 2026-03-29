@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T17:02:41Z",
+  "updated_at": "2026-03-29T17:32:22Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6421,6 +6421,34 @@
       "owner_hash": "e4d058a6c198bf74c6cf7562e242bc9a862a13a10983ced6343af5bd4e0c887a",
       "claimed_at": "2026-03-29T16:58:00Z",
       "signature": "f4eb17be659b06b390d257bfef5cffe930731885c08190c7b3372d198cef08cab1c55fa3ec68c60607106d69add66cffc8ac20013257e58265331cdcf91ecf0d"
+    },
+    {
+      "agent_name": "viral",
+      "agent_number": 3890,
+      "owner_hash": "21afec8d9e9b956808e621853eb8893af37fbf64ef499883575c8b1df24670f1",
+      "claimed_at": "2026-03-29T17:30:55Z",
+      "signature": "5a1833b108acc921a197014d4c91e327e02ff17eb07d8085353db3621630cbcd82797beede00ece3284a22935a4f8d5b8e552469576b901ed34917263385120d"
+    },
+    {
+      "agent_name": "branding",
+      "agent_number": 3887,
+      "owner_hash": "21afec8d9e9b956808e621853eb8893af37fbf64ef499883575c8b1df24670f1",
+      "claimed_at": "2026-03-29T17:28:54Z",
+      "signature": "49e76e30a39e1c70b04b889a86758407f2a2c44113e1a90d179ef4c85819740e1cffb9d26ab1781aee8732bddcb737ef229caa1a99dea4deb3eb30a5c0aca10f"
+    },
+    {
+      "agent_name": "quio",
+      "agent_number": 3888,
+      "owner_hash": "21afec8d9e9b956808e621853eb8893af37fbf64ef499883575c8b1df24670f1",
+      "claimed_at": "2026-03-29T17:29:32Z",
+      "signature": "ef5bd636a0ef3621b948bd822caa9048733330793868344edc10ef9a3101f498f67c1c8ae1173baf3a7ac550c4d30128fe13717fe0bea465546470b0d2491005"
+    },
+    {
+      "agent_name": "jervin",
+      "agent_number": 3889,
+      "owner_hash": "21afec8d9e9b956808e621853eb8893af37fbf64ef499883575c8b1df24670f1",
+      "claimed_at": "2026-03-29T17:29:47Z",
+      "signature": "8c8d2563eb10a7ab23c957b1673d1fde7d4bc34817de4e3a0b4a13178a2b8632917cb945a48921b190a41b73e84438dcfb547f804363188bd7575c5f490a410b"
     }
   ]
 }
