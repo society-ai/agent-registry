@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T20:44:49Z",
+  "updated_at": "2026-03-29T21:24:12Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6638,6 +6638,13 @@
       "owner_hash": "a7e2227d391b3a0bb2531bb891a0cc37dc06c31dc680f809fc30537734e7a7a1",
       "claimed_at": "2026-03-29T20:40:31Z",
       "signature": "c128122b6d485cf43c6cbd704a537669ce1464e9757f9813ae12c6437978d99577fc0f309672a4b29702462b1de9d1536a969c336af939f95415da8089762301"
+    },
+    {
+      "agent_name": "wicho",
+      "agent_number": 3923,
+      "owner_hash": "543cac98692d0f54a64dca4bdf581100f04356cc4a0907ed95813ee9cb61d31a",
+      "claimed_at": "2026-03-29T21:22:07Z",
+      "signature": "a155f06bc521e573f59509ca907bc8fe8c0394bd08328df84d2f881bc14c865fe6de0eb1a6bce99feedb875abf31c1879782e4d850ccff1cbfc07bac115a750d"
     }
   ]
 }
