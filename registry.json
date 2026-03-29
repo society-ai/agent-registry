@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T20:09:47Z",
+  "updated_at": "2026-03-29T20:14:48Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6624,6 +6624,13 @@
       "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
       "claimed_at": "2026-03-29T20:07:31Z",
       "signature": "1c7d38041ece5fb6b3caf3d91671faa4eec9df917261d63a813f15a5a2ccb68f059f2636c7356de4e05c2ad76bd635323181c09874113bd34f0d1012485f5104"
+    },
+    {
+      "agent_name": "instamart",
+      "agent_number": 3920,
+      "owner_hash": "6505df7e848df2f5cc924b1727ded07f3c6344524f4cacda3b86d9ed2d38541b",
+      "claimed_at": "2026-03-29T20:14:27Z",
+      "signature": "55fec8c4f96ad9d8e16eb7e18dc81f1856fe31030e182ab8f501d45bcee32eb13856c6c64a15936da86a54d64537ded7b97fc8285cd8059c9c10c971ff55ea06"
     }
   ]
 }
