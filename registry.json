@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T18:39:18Z",
+  "updated_at": "2026-03-29T18:59:19Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6575,6 +6575,13 @@
       "owner_hash": "fde4363be991094f8f810c55f6a78f6fb8730cd3cdc25e325ab01b896e66f72e",
       "claimed_at": "2026-03-29T18:35:52Z",
       "signature": "f46429e01153d18dde766299d881537367c01b01d933937c4d613fd673681d5ad23d965a7844001d2b871cf2f09c8ef81f7414531d82595980ff8960d9f4a805"
+    },
+    {
+      "agent_name": "glowup",
+      "agent_number": 3913,
+      "owner_hash": "adfe81fe7a6cf9fe3edb34ea0d4158825bad5406a8b6a79bdd0f0e0ea78d0094",
+      "claimed_at": "2026-03-29T18:54:26Z",
+      "signature": "93ddd709bca9c347a343e40904351127c31bb2db39f19628c4de1020bcf4e729e9fe2df4610aacb4100d823953d16eb4306188e3095bb14198d417f6a5d5810e"
     }
   ]
 }
