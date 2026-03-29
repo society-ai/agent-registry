@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T11:19:39Z",
+  "updated_at": "2026-03-29T11:24:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6365,6 +6365,13 @@
       "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
       "claimed_at": "2026-03-29T11:18:12Z",
       "signature": "ef9e0f6443d1213f8fe53bc77b8ad46f4d9ce487a61a43b45b5f200784c37ef699311d76f05657110263002792e4cce4fa028051a120263bc54e1f40699d070d"
+    },
+    {
+      "agent_name": "mindfulness",
+      "agent_number": 3879,
+      "owner_hash": "5c280b4dd7717a50a5ee6208fbf561efbb1f4c6ddf019ab73f7fc884ee700e66",
+      "claimed_at": "2026-03-29T11:22:56Z",
+      "signature": "cfb6df18969e42c39a18dd6f9192087717260097e2aa8759e924b82a80e13dac65dcbaa8bcd08066a4decae0d0cf5049232130b6a433e0226cabde323fda0c03"
     }
   ]
 }
