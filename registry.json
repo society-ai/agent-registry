@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T18:34:15Z",
+  "updated_at": "2026-03-29T18:39:18Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6568,6 +6568,13 @@
       "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
       "claimed_at": "2026-03-29T18:33:10Z",
       "signature": "b2ec482fb6d9acc654d07a2de62e8406b418b44bd918227547b17b473b993434df754e03e05fdfc69e6983c2d78e8bac4c23f30a116572b89671a80132d5dc0f"
+    },
+    {
+      "agent_name": "aviation",
+      "agent_number": 3912,
+      "owner_hash": "fde4363be991094f8f810c55f6a78f6fb8730cd3cdc25e325ab01b896e66f72e",
+      "claimed_at": "2026-03-29T18:35:52Z",
+      "signature": "f46429e01153d18dde766299d881537367c01b01d933937c4d613fd673681d5ad23d965a7844001d2b871cf2f09c8ef81f7414531d82595980ff8960d9f4a805"
     }
   ]
 }
