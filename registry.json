@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T09:29:34Z",
+  "updated_at": "2026-03-29T09:34:35Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6316,6 +6316,20 @@
       "owner_hash": "6ff82a196a465b0e1bafe943e610bc95782a1bc8a277450247beac477ac0b1f3",
       "claimed_at": "2026-03-29T09:27:40Z",
       "signature": "7b81ea1e5242563b48b78bcfaf4311e0cd259fab8e4488fcf8fea0e188e71d5249907d749c9a02ba33ba32b5a76444d6576d792fc858b53278f066b93de6bd0e"
+    },
+    {
+      "agent_name": "cyber-security",
+      "agent_number": 3873,
+      "owner_hash": "b1eed7e39bb9d6c99e0b5eb4b6431ab414d377d7bab1519dc8c786362e975dca",
+      "claimed_at": "2026-03-29T09:32:03Z",
+      "signature": "b8a5f2fdd65c8810bd502d592f209980752fe05adabb3be5ccc96428ed3cc1f186611d8b23862b0fb2b0e69eb4f4ecea4014e27dfd2c44bbb3232392306d3102"
+    },
+    {
+      "agent_name": "tim",
+      "agent_number": 3872,
+      "owner_hash": "e14d32a94a1144bfa4835885ead7850d927e3a72a7dddc54c2748ce440f3bf73",
+      "claimed_at": "2026-03-29T09:31:27Z",
+      "signature": "102902d0b127cea79d61cfeee2071e195f433c427a0d3b89b132cb21f28699c9e19c1c3ca2a767544abfcd5fc86e4f2d17c8150944eebdfbdb2e9d69cdd39305"
     }
   ]
 }
