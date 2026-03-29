@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T11:24:40Z",
+  "updated_at": "2026-03-29T11:29:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6372,6 +6372,13 @@
       "owner_hash": "5c280b4dd7717a50a5ee6208fbf561efbb1f4c6ddf019ab73f7fc884ee700e66",
       "claimed_at": "2026-03-29T11:22:56Z",
       "signature": "cfb6df18969e42c39a18dd6f9192087717260097e2aa8759e924b82a80e13dac65dcbaa8bcd08066a4decae0d0cf5049232130b6a433e0226cabde323fda0c03"
+    },
+    {
+      "agent_name": "medicine",
+      "agent_number": 3880,
+      "owner_hash": "4b4def4987df734323d56894545ef976d5332c502edae83b8bee42c1a5a2b0a8",
+      "claimed_at": "2026-03-29T11:26:48Z",
+      "signature": "7a624f3c5e6423685daa8df06d42ced43b3d16c148fe1b95ee96e2d3ba6d2fdf980c4ad94711a0b548658f7537261c2f863fe5765df49721aaec7c62fb1ea004"
     }
   ]
 }
