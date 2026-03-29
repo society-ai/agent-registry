@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T23:04:21Z",
+  "updated_at": "2026-03-29T23:34:21Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6722,6 +6722,20 @@
       "owner_hash": "ac7034f2b20ed34bc95f23c9eb87c30131d07693f5be62c4b3312b82f3642dfb",
       "claimed_at": "2026-03-29T23:01:11Z",
       "signature": "21c6bb5823084bd0f388585b110ffa644614796131540d978b4547ca7c1dc404a53cbb162aa9138d6b06b557b1d136ea92b8899e0843e40c162a24f4dc99a605"
+    },
+    {
+      "agent_name": "lightencc",
+      "agent_number": 3935,
+      "owner_hash": "2993f60427e43adc3c219481be430d7543d5c2d1d0832f8028c016acb8c63362",
+      "claimed_at": "2026-03-29T23:29:31Z",
+      "signature": "9826ee78089cb1e7fce19405a6678e37abf6494bb78414564151e0b062281205b2fd3a8aa19f2829ddc461bb8e3702eaff3a9fa2b4b7af774c28b43ff5024009"
+    },
+    {
+      "agent_name": "navigator",
+      "agent_number": 3936,
+      "owner_hash": "c14161ed8b9ed9b0fead8c9bf0eec17b4281094304e817c3437231d484ed0c1c",
+      "claimed_at": "2026-03-29T23:33:10Z",
+      "signature": "5ba9cab23edef4faa42cb57717d1e9b9820a0e88765ecf1f9c6786ecbc6561de36386d3956d4a8af6ac9bc0efa5296d3dce4bcb0eb8b039312890103f363ce0b"
     }
   ]
 }
