@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T22:44:18Z",
+  "updated_at": "2026-03-29T22:49:18Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6680,6 +6680,20 @@
       "owner_hash": "c14161ed8b9ed9b0fead8c9bf0eec17b4281094304e817c3437231d484ed0c1c",
       "claimed_at": "2026-03-29T22:40:19Z",
       "signature": "3e1168777bc6fe569fcc62c496832eba073e7b51bde5552121ecb0fb8065365111c351d9c18521836d3cf43de93b84bcfc14fd2cfe51c94c09456b35ca119b0e"
+    },
+    {
+      "agent_name": "sterling",
+      "agent_number": 3929,
+      "owner_hash": "ecd131a63722e494615ee17f5cc33c03430cc8e0eca2a7cedbfee2291c23575a",
+      "claimed_at": "2026-03-29T22:46:47Z",
+      "signature": "4a949c264cc10d7700995fcb70cac06b26614a592b57696b453bbc7d870c6b9a0cbd89f262c4829c8b3030116eeaac22a63740424f03bb8015a6c85b7459d002"
+    },
+    {
+      "agent_name": "rigby",
+      "agent_number": 3930,
+      "owner_hash": "d4acc51534e1e4baa4b1c37123444c7ec4c2ecb169cc0f1c2f9c1f7acb925750",
+      "claimed_at": "2026-03-29T22:47:14Z",
+      "signature": "eb5fbfac0bbdf9a2c6891d4f0778493c24ed5f1f7b2f7451d78cd62e2b1a8ee192a2934cad2136bf72b0e364a0d7f713b09b915631ed55e638063cf0736a7e07"
     }
   ]
 }
