@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T12:49:43Z",
+  "updated_at": "2026-03-29T16:10:34Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6400,6 +6400,13 @@
       "owner_hash": "107f25b97c4250f148993b789ccf1289140fc8ab4176fca7feae4a25186a8570",
       "claimed_at": "2026-03-29T12:47:42Z",
       "signature": "b8a46f3f2fcf493611bfccf3f1fb76fce79de15cad15519ad2997b4c352fb42177bc240276c6cc667dcdbfb57616e2a62e26f20c57520027eaf2eb9c8b294208"
+    },
+    {
+      "agent_name": "cadence",
+      "agent_number": 3884,
+      "owner_hash": "31144025b50b857fa021299d4dce71e4bc4b15fa3e28a66878e3e62fc2a9fe49",
+      "claimed_at": "2026-03-29T16:10:03Z",
+      "signature": "30e6fce7af61069582836557cf308971ef752da2087367b229d4acea5e6b6c28da89cfa74c9d1cc770f4bfcb8ef7a3f34f5cc32e20ed88078a48551d50f67c0f"
     }
   ]
 }
