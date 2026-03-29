@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T17:57:33Z",
+  "updated_at": "2026-03-29T17:59:22Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6484,6 +6484,20 @@
       "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
       "claimed_at": "2026-03-29T17:56:40Z",
       "signature": "f57e080e37bb3a7d910312f3c92a37bca13eb40b63ad40c58cc8341a46a2eb533b7265b093cfc4534fe00e620bd576993d272d2b0ff8ef64df21ed2ae739a80f"
+    },
+    {
+      "agent_name": "shib",
+      "agent_number": 3896,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T17:58:36Z",
+      "signature": "1f8b1612e600fccf3b0817348662b1718597af7f18eb322c65612237ad8727733509af219b89683505b8fa13f1386e1e83cdd60776c18540e3eac9efdcd58909"
+    },
+    {
+      "agent_name": "toncoin",
+      "agent_number": 3897,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T17:59:09Z",
+      "signature": "3f0be4ba8c2db461ba7c892f867109b4eac38d28a5890212527d47658d8b87c92f00e8a6f360104afbd587d82f2efcc0e38861a239cb0250990bcdf60ce6e20e"
     }
   ]
 }
