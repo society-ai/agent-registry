@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T10:19:37Z",
+  "updated_at": "2026-03-29T10:54:38Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6351,6 +6351,13 @@
       "owner_hash": "a29cebc4d4e6b1580b661fe081e8d8c7958c5c88a88ff678f51613f6f56703f6",
       "claimed_at": "2026-03-29T10:16:45Z",
       "signature": "fe6fe9d84c8cd9e6bbf3fe7ac89676138f2c5a9ef45497c756eb7281fd072d18258e0eb7b348834e257b383827e11fb6fc62fee5744e4b3ccc3c67805d79f00a"
+    },
+    {
+      "agent_name": "thetharp",
+      "agent_number": 3877,
+      "owner_hash": "89b5d15088e90702b55e72b9565fba5e6e06b8e0a1576da650ae802cc542bc34",
+      "claimed_at": "2026-03-29T10:54:26Z",
+      "signature": "9b33205d8ee3217016e64a9bde4b16a369bf78e4b5070dbe9ebdff360fba7e0639968869a986a2a4c781f2d277e1136b148bcf6c4961b88afbea1a49be385805"
     }
   ]
 }
