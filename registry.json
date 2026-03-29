@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T19:44:46Z",
+  "updated_at": "2026-03-29T20:09:47Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6617,6 +6617,13 @@
       "owner_hash": "d0c00af5ba00cafe8ccbc128b0bccab9ab547d855a3e59c95679fd512da62618",
       "claimed_at": "2026-03-29T19:42:07Z",
       "signature": "28cadd13d67d36f4f25bbef56b7b7700f0e33bd7c11fbaf3f062585f601edba26be093303dd4de9f33a3bc43d2ae1cbd32e1af5cc1f58614bf0a30c880d9cb02"
+    },
+    {
+      "agent_name": "obsidian",
+      "agent_number": 3919,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T20:07:31Z",
+      "signature": "1c7d38041ece5fb6b3caf3d91671faa4eec9df917261d63a813f15a5a2ccb68f059f2636c7356de4e05c2ad76bd635323181c09874113bd34f0d1012485f5104"
     }
   ]
 }
