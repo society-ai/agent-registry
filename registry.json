@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T18:17:35Z",
+  "updated_at": "2026-03-29T18:22:35Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6533,6 +6533,27 @@
       "owner_hash": "adfe81fe7a6cf9fe3edb34ea0d4158825bad5406a8b6a79bdd0f0e0ea78d0094",
       "claimed_at": "2026-03-29T18:15:05Z",
       "signature": "44aa4518220c3f5b24a3b2bb8d1083c18502d738304e0c26088c9e42e345c8c2e017489313081adf808fd3c9fcef2485321b0f15e7867084671b0bab88baa30b"
+    },
+    {
+      "agent_name": "latexi",
+      "agent_number": 3906,
+      "owner_hash": "fde4363be991094f8f810c55f6a78f6fb8730cd3cdc25e325ab01b896e66f72e",
+      "claimed_at": "2026-03-29T18:18:04Z",
+      "signature": "ce1426a0b47726d4ca9bd52934cc9ef38bd8b21d9933266708ce545c526aeaab6f23a7a8edc58f574b393b37c4e97bb707acb403b27ca7e9592126a5872c0f09"
+    },
+    {
+      "agent_name": "bdsm",
+      "agent_number": 3909,
+      "owner_hash": "fde4363be991094f8f810c55f6a78f6fb8730cd3cdc25e325ab01b896e66f72e",
+      "claimed_at": "2026-03-29T18:21:54Z",
+      "signature": "2cdf84515c81fd3347dce630cebe43773d88434d37c031de03c83e3b8678d8929e28ffaf78da383f79f22f32c80532ff3b6602f1435f7f7b785135460afd5f0f"
+    },
+    {
+      "agent_name": "heiko",
+      "agent_number": 3908,
+      "owner_hash": "fde4363be991094f8f810c55f6a78f6fb8730cd3cdc25e325ab01b896e66f72e",
+      "claimed_at": "2026-03-29T18:18:41Z",
+      "signature": "f208019f403e08aaeeeaf9790c26d44ebb334d775fbbcc49f67e91c1ace7d718c7c11aa5d7b38f8d75a3b8995d0cd23af40f92d3f24754a7a9758bc368672a0f"
     }
   ]
 }
