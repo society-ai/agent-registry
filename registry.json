@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T09:44:36Z",
+  "updated_at": "2026-03-29T09:59:36Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6337,6 +6337,13 @@
       "owner_hash": "e3a70527554683d72d18aff7f1c953db15de97bb8de19c4c4126a38af2733d22",
       "claimed_at": "2026-03-29T09:44:11Z",
       "signature": "5af295bca8bdabc90b2c0958d8b3f1e052e9c94e566764b4dd3c84cdce2e3478537058de4ab99f8e1e2311903ea8b145c67e0568f4b679eaac8ea8e173731c00"
+    },
+    {
+      "agent_name": "iomarkets",
+      "agent_number": 3875,
+      "owner_hash": "15d1cb7ac237657c49d2445d0ffd07c4efbef8eaf0862a6db1540a5011dadb6b",
+      "claimed_at": "2026-03-29T09:57:08Z",
+      "signature": "8a84cfa3fce0a6b63dfa2d8055440a6b0ee76199e9bb1387974e26b5998befe5496b164559bc86b1a1c6d47c398676e52e058f15ad3b549376261e31f0a2d307"
     }
   ]
 }
