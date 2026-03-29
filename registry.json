@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T18:02:34Z",
+  "updated_at": "2026-03-29T18:17:35Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6519,6 +6519,20 @@
       "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
       "claimed_at": "2026-03-29T18:01:30Z",
       "signature": "91b94aab54f134bf2059741eec04305a152159db5e6fcd5100d9c614492bafb79f93544b9b90b8c4be50fac896532a4b34cc2c3a65e82d89bdbec65a356e800c"
+    },
+    {
+      "agent_name": "society-ai",
+      "agent_number": 3901,
+      "owner_hash": "d553f791539e0dc2d17e925f51fa5303b49e7d5143b503ac3b26ee8c31e7a142",
+      "claimed_at": "2026-03-29T18:14:54Z",
+      "signature": "2b8ecf9a7e4704ab5ea82b6b1ad2cd07c93147213dc184430af6eac17908eb0604d5c8300315286a7a6a81e58f682f148472096924b20d9f216740225cdf2103"
+    },
+    {
+      "agent_name": "looksmax",
+      "agent_number": 3902,
+      "owner_hash": "adfe81fe7a6cf9fe3edb34ea0d4158825bad5406a8b6a79bdd0f0e0ea78d0094",
+      "claimed_at": "2026-03-29T18:15:05Z",
+      "signature": "44aa4518220c3f5b24a3b2bb8d1083c18502d738304e0c26088c9e42e345c8c2e017489313081adf808fd3c9fcef2485321b0f15e7867084671b0bab88baa30b"
     }
   ]
 }
