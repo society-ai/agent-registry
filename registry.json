@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T01:39:24Z",
+  "updated_at": "2026-03-30T01:49:24Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6757,6 +6757,13 @@
       "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
       "claimed_at": "2026-03-30T01:37:41Z",
       "signature": "07426a43ca41b17af78ad4e9b3a2c28eaa4af7f08d1fc973e2389f2df0f4a90c7e853830a38cd667d64fe255b795d46165a26b87ad6477f074a6fa3610a09f07"
+    },
+    {
+      "agent_name": "market-data",
+      "agent_number": 3940,
+      "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
+      "claimed_at": "2026-03-30T01:48:49Z",
+      "signature": "15db28f82db0d406f9742cba761c0ccfcccf72634c15102a5af5bc0eb26ba6adf6792e227814b72ed014b92489038c5a9e20d5ca729cb0e248cb833c9998e006"
     }
   ]
 }
