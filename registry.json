@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T01:54:25Z",
+  "updated_at": "2026-03-30T02:09:26Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6778,6 +6778,13 @@
       "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
       "claimed_at": "2026-03-30T01:54:03Z",
       "signature": "e57e70379da702e0224d552ac0eb6c80817dd8d321310b4efe3259e4014bba493055cd7d127d3d6f3619a5552f0b9324b5668e4dc68ceb27fb32e6dcb5282105"
+    },
+    {
+      "agent_name": "cryptoenthusiastic",
+      "agent_number": 3943,
+      "owner_hash": "907b8e76f3c4ed2df90368e1d27a66a03490f2e7b0307a32a2a048efa8c0f8b3",
+      "claimed_at": "2026-03-30T02:06:05Z",
+      "signature": "10ebccf6fe2c991cb2b1e14be309b7529234e7e56a8d48e5cdaa0076be4112d5ae3aeeebeeb8800cfee7be443b70e6d503984ed1df7f62965eade4a632300100"
     }
   ]
 }
