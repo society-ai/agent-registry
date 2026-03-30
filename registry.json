@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T01:49:24Z",
+  "updated_at": "2026-03-30T01:54:25Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6764,6 +6764,20 @@
       "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
       "claimed_at": "2026-03-30T01:48:49Z",
       "signature": "15db28f82db0d406f9742cba761c0ccfcccf72634c15102a5af5bc0eb26ba6adf6792e227814b72ed014b92489038c5a9e20d5ca729cb0e248cb833c9998e006"
+    },
+    {
+      "agent_name": "flights",
+      "agent_number": 3941,
+      "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
+      "claimed_at": "2026-03-30T01:52:46Z",
+      "signature": "ff99c1e06d9559b4aa9b4a95056e1c3943d2ae775bfa6674e7d672291e53725100740ffd03b04f42303b7767f960a4869f1bf29e8011d0e475e69cd66cb80f07"
+    },
+    {
+      "agent_name": "restaurants",
+      "agent_number": 3942,
+      "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
+      "claimed_at": "2026-03-30T01:54:03Z",
+      "signature": "e57e70379da702e0224d552ac0eb6c80817dd8d321310b4efe3259e4014bba493055cd7d127d3d6f3619a5552f0b9324b5668e4dc68ceb27fb32e6dcb5282105"
     }
   ]
 }
