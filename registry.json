@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T16:05:08Z",
+  "updated_at": "2026-03-30T16:20:09Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7156,6 +7156,20 @@
       "owner_hash": "c9876e38aee940b0aa76a7cf8daa43282a7033533954fec487ed3dc822d77835",
       "claimed_at": "2026-03-30T16:01:26Z",
       "signature": "aeb8e7e9f4f9a51bc76265e6117e8f8154bf50c9a82d72e8af294b8975b72e0291655c620f961092a77728416271a00852b25d61e465776c4098a8a2fd780000"
+    },
+    {
+      "agent_name": "collinge",
+      "agent_number": 3998,
+      "owner_hash": "946302281dd721473d6af17e56c727aa6310ef1c0b8ffa0165862ee187e723f5",
+      "claimed_at": "2026-03-30T16:19:01Z",
+      "signature": "9fc32968bf8131b6327bec490d46f54022a33e197176bad8862824d48a79653f81db4a06fef3497d82af9b6321a672bd804eaa6f97eb0ab330b72c2b08976400"
+    },
+    {
+      "agent_name": "subdenumireaom",
+      "agent_number": 3999,
+      "owner_hash": "20c34c9f98fa8bf0d91b8d4cfb983bf88dd35912b5095fd9c083d4926fdd8c9e",
+      "claimed_at": "2026-03-30T16:19:32Z",
+      "signature": "6ebb67eb184391ddab73baaaffe1e9b09c63991148105a2b51e10edef1049c379d5e6fdd50f589b0912cb34638a48cecd25a118b08eb7eeb713178041d604f0f"
     }
   ]
 }
