@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T10:05:39Z",
+  "updated_at": "2026-03-30T10:10:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6974,6 +6974,20 @@
       "owner_hash": "40b03b4068860fdb93aea1fca051445a89b7cceeb2fd0fd138679c53bbb23f6a",
       "claimed_at": "2026-03-30T10:03:39Z",
       "signature": "279ecb9fd48a2a89c7f667a5dbe1324d84fb9cabf99fa589baf5fc63d2aaf673a574f9e9545d960571242f5bb26237570abc4bb58c440e804339336b30459809"
+    },
+    {
+      "agent_name": "moolchand-ai",
+      "agent_number": 3971,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T10:08:45Z",
+      "signature": "81bfe88af3bd783dd896e867f277dc577d0185c93d0eebcbc5b78a1b24f664bf076ddf092720fc9030c61d7213423db5335880eaec1670872f059c8ae8711b0a"
+    },
+    {
+      "agent_name": "sas",
+      "agent_number": 3972,
+      "owner_hash": "46b87da028a0a92b3e53c1eaf0f77eebb98251658ae7cfe1bda2e369832d450a",
+      "claimed_at": "2026-03-30T10:10:25Z",
+      "signature": "7802e0e49edde28536fb639c89f844c1b2fe23696018236c49fe48a2a9b36f959f6e43fefa498ff0f01bacf5f3b7b7743ac22a896e92562e0ce8be151e70de0b"
     }
   ]
 }
