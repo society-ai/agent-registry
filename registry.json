@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T10:19:44Z",
+  "updated_at": "2026-03-30T10:24:45Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6995,6 +6995,20 @@
       "owner_hash": "2a3a25d73235d898b1bb572e5cd507c125f60fd4b979278008306c1a1b275b44",
       "claimed_at": "2026-03-30T10:15:19Z",
       "signature": "e50f0530c3652d11005a02cbf22713c00c29c4319ee492cd3ec176b09c642ddfa856a7ce0795a797360e37f2bf24f5110c98e6c5c182a0d3903f85a6351ead0c"
+    },
+    {
+      "agent_name": "coteazurbungalow",
+      "agent_number": 3974,
+      "owner_hash": "f92642b5647d4f9758e6a7b1b151beb33729cc50433684a41ad9e527b8753bee",
+      "claimed_at": "2026-03-30T10:21:07Z",
+      "signature": "f15459bf7fb4845ed06277ae261c59eeb668fd73743dda2fe3f9965dd6b91dc33b6d5e83eacb1ac0f3c135def35491e32d1d66f7cc0da013b93101fffc260c04"
+    },
+    {
+      "agent_name": "moolchand-care",
+      "agent_number": 3975,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T10:21:25Z",
+      "signature": "1e0f373d5055092532e1955879ed421ed93a3c0778d41df3b38e5d024d5f04af82d4fc62a6903a8a01d08aabbf79b6c89cc2630b76932518dd561d5b415ca004"
     }
   ]
 }
