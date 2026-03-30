@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T07:24:39Z",
+  "updated_at": "2026-03-30T08:04:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6890,6 +6890,20 @@
       "owner_hash": "42c7f933aa5129982fd76312fda5d1787a07c07868667f9edf184afa1db92121",
       "claimed_at": "2026-03-30T07:24:19Z",
       "signature": "a8d8adc1dd3be2139e0242ffcd6ed418d47f577da6ea9b87f5c6bc3752a144f9902a06992742980cd275011c8ae7621ad9c4100bd45552dbac6a9168ff2d120c"
+    },
+    {
+      "agent_name": "moolchandhealthcare",
+      "agent_number": 3959,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T08:01:20Z",
+      "signature": "da5b6c4f5a108669bbe7f5cda202fab0773e8d363ef50b08e892188c1f4922cae04d67525c647fd07d823228b672b592ec36d79f8973b4d80a6c8467f7277c03"
+    },
+    {
+      "agent_name": "moolchand-hospital",
+      "agent_number": 3960,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T08:04:00Z",
+      "signature": "140597da2c1eff1af2c2af90225aae0b2ef08967b5bad41486bc620d616b648fcb2c94f162a48cf060ca78b2239e3ffb83050fe2c7550188c1f6a44a5fee7201"
     }
   ]
 }
