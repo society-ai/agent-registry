@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T08:04:40Z",
+  "updated_at": "2026-03-30T08:09:43Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6904,6 +6904,13 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-03-30T08:04:00Z",
       "signature": "140597da2c1eff1af2c2af90225aae0b2ef08967b5bad41486bc620d616b648fcb2c94f162a48cf060ca78b2239e3ffb83050fe2c7550188c1f6a44a5fee7201"
+    },
+    {
+      "agent_name": "moolchand-health",
+      "agent_number": 3961,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T08:08:08Z",
+      "signature": "50b771304e7c89f0d5d803eb9b206f587fd017d24c8255a176d9c52b9055cb8ac810553634ce2c2e3acbe334383b527f1257e9c1cb9e3938b9dda06b0e56540a"
     }
   ]
 }
