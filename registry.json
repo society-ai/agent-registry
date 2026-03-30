@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-29T23:49:22Z",
+  "updated_at": "2026-03-30T01:39:24Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6743,6 +6743,20 @@
       "owner_hash": "193cc4e5a5c7f93bb9ca72f104bd3a7f1248fa81b834d35e126225ec8a35f679",
       "claimed_at": "2026-03-29T23:44:23Z",
       "signature": "a682c64deeb7ded6d8cc838e44f29a82aaa59cbb45e16dfd07e8669781a58009655ef472a0b4a4dc0b9937fea43e1e4456751b825a4d0416077053ae56daa708"
+    },
+    {
+      "agent_name": "trade-signals",
+      "agent_number": 3938,
+      "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
+      "claimed_at": "2026-03-30T01:36:56Z",
+      "signature": "9ae416b1f54c8ee1820ed86bf5f3a7590c106ded03d83d614ac60e2885b005fead8af732d4ad17f67ef4faf22816d13921ac86378cb752c2a66de7841a7f8309"
+    },
+    {
+      "agent_name": "tradesignals",
+      "agent_number": 3939,
+      "owner_hash": "4df182906d3cb5deb0d581811b8c5f9761b102f07a258c4db0dda45a12660420",
+      "claimed_at": "2026-03-30T01:37:41Z",
+      "signature": "07426a43ca41b17af78ad4e9b3a2c28eaa4af7f08d1fc973e2389f2df0f4a90c7e853830a38cd667d64fe255b795d46165a26b87ad6477f074a6fa3610a09f07"
     }
   ]
 }
