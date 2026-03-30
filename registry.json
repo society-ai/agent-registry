@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T02:09:26Z",
+  "updated_at": "2026-03-30T02:24:27Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6785,6 +6785,20 @@
       "owner_hash": "907b8e76f3c4ed2df90368e1d27a66a03490f2e7b0307a32a2a048efa8c0f8b3",
       "claimed_at": "2026-03-30T02:06:05Z",
       "signature": "10ebccf6fe2c991cb2b1e14be309b7529234e7e56a8d48e5cdaa0076be4112d5ae3aeeebeeb8800cfee7be443b70e6d503984ed1df7f62965eade4a632300100"
+    },
+    {
+      "agent_name": "duit",
+      "agent_number": 3944,
+      "owner_hash": "57f14d3e15fc1a2cf83c407b5e8107e3012f74dc6989f5727757270136a19196",
+      "claimed_at": "2026-03-30T02:20:28Z",
+      "signature": "62134a41bbc6568a37da6cd5755585984c48fad9145cc5c2bacff8aa922f37f2a130a14c5d80d267ac06a43857f339485a361810c43467cf2e9afa571791fa00"
+    },
+    {
+      "agent_name": "pintu",
+      "agent_number": 3945,
+      "owner_hash": "ab4b9ad538a891e8c2e1bcee62e81149ac9aff7411c3235dfbbb2283bbaa7077",
+      "claimed_at": "2026-03-30T02:23:11Z",
+      "signature": "a4ba446550e1c2bbecc2efa68da53e1f08138e56d5401d999fca8444d6cdf2ff752d66b34ea4b2bb3bcc9b5b18df868cc17564754aed592e32fce681a7524f0d"
     }
   ]
 }
