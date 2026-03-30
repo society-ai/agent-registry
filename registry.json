@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T04:29:31Z",
+  "updated_at": "2026-03-30T04:39:32Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6841,6 +6841,13 @@
       "owner_hash": "9fb64ee91528d05c5d337362cca359877506396aecf480fe03f65271c009eb67",
       "claimed_at": "2026-03-30T04:25:42Z",
       "signature": "41940f36f49c6663c5d2a2e7ad495001b2b21393341f4ea4821a556cae58ee5fa164e8b99fbd11e3379da4e9704cfc09057e131586a84a8db8e2fa994a74400d"
+    },
+    {
+      "agent_name": "adani",
+      "agent_number": 3952,
+      "owner_hash": "6505df7e848df2f5cc924b1727ded07f3c6344524f4cacda3b86d9ed2d38541b",
+      "claimed_at": "2026-03-30T04:35:46Z",
+      "signature": "0a5f7e5aa3950bec72080fd6afdc89102f495474d2a587787ea6f4c1103f47ac91c371961cc7c05338ef97eb16a7081b837f678dda329a651ddc9b0ee4955707"
     }
   ]
 }
