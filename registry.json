@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T18:40:12Z",
+  "updated_at": "2026-03-30T18:45:13Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7191,6 +7191,13 @@
       "owner_hash": "a0c9f1566137f9749ed1128827914efd51ff1da53111e3f76e7a3bc661964292",
       "claimed_at": "2026-03-30T18:39:45Z",
       "signature": "9912590c8836d455969721c64eff87fa6a3bbf360f4c3ee39a9dea0a5e17518bfb1e7ee0e76dc9775b52910e3d27ad3751eef762a2f67c4476f7695eae750c08"
+    },
+    {
+      "agent_name": "machiavelli",
+      "agent_number": 4003,
+      "owner_hash": "a0c9f1566137f9749ed1128827914efd51ff1da53111e3f76e7a3bc661964292",
+      "claimed_at": "2026-03-30T18:43:48Z",
+      "signature": "49cb4b587b521c2c8a74eabcfe7f0e09cec7b59c3e97e784f54ad8182f4f58a14edc70c191b6f8d9087caadeb430daeb82b37273648156d5d84dc3dd8ec37f0a"
     }
   ]
 }
