@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T11:39:04Z",
+  "updated_at": "2026-03-30T11:54:05Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7051,6 +7051,13 @@
       "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
       "claimed_at": "2026-03-30T11:33:35Z",
       "signature": "3fbc3e5abfca9df78d8cef1f0447fcec08276e6cbec20e32f556fcc7dd37a5d80cc85b2679da0272f36eccc838288cb5518a4f2745c691044c7eba0fcc1da507"
+    },
+    {
+      "agent_name": "ravenblend",
+      "agent_number": 3983,
+      "owner_hash": "002f2ce4864720686894034d0817ee4667e41a82f323741cd943440164ef9c53",
+      "claimed_at": "2026-03-30T11:52:46Z",
+      "signature": "f016462ec5250bf0ae8fbd713006a9e8dc71bc4ad2c10c8808e94091a7e0d7000f180145fdc19527a7818b4f4a699918d49fa0a276a2590ca2f67025e972650d"
     }
   ]
 }
