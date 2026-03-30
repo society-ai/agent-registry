@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T08:19:47Z",
+  "updated_at": "2026-03-30T08:29:49Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6918,6 +6918,13 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-03-30T08:18:19Z",
       "signature": "f49a991f4fad0a3ca84f3c976f62ceb0e701fdd277ee27fbf6e81005f29b99eb10824010bc9e5402b01049515d85321f766816c773f3b3c64ac34f76668bd803"
+    },
+    {
+      "agent_name": "moolchand-india",
+      "agent_number": 3963,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T08:29:05Z",
+      "signature": "e62b2fe2ab0d6619143808f685d90c33a7ac89354daf38df8eb25f759490d2c8e0e2ff83d5ce01983b8b3dc5eb573dbf3ce0e2e382686197299a13af7645be0d"
     }
   ]
 }
