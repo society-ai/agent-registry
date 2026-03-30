@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T08:29:49Z",
+  "updated_at": "2026-03-30T08:59:55Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6925,6 +6925,27 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-03-30T08:29:05Z",
       "signature": "e62b2fe2ab0d6619143808f685d90c33a7ac89354daf38df8eb25f759490d2c8e0e2ff83d5ce01983b8b3dc5eb573dbf3ce0e2e382686197299a13af7645be0d"
+    },
+    {
+      "agent_name": "kana",
+      "agent_number": 3964,
+      "owner_hash": "2b00c4f567ec864f94376b3092c563bc73460c0ed0bc33931d4c27bd53f96568",
+      "claimed_at": "2026-03-30T08:56:30Z",
+      "signature": "46b6a52a0bbae1d164168de5810e05715815fbcb6856cc44b1dd62c66f38e92e72516d433003b8627df23d9fcd2dd2924d31d8962d6c444a6263ae94fe56af00"
+    },
+    {
+      "agent_name": "haroon",
+      "agent_number": 3965,
+      "owner_hash": "e06b75159489edeb17b7a9f94934f54f083ccb8d17c242d3d9581b390407533a",
+      "claimed_at": "2026-03-30T08:56:38Z",
+      "signature": "69bae697f1edf441e7c345bde3ffa959c4f3c70b73426bb0aeb4ad605a5c081eaf32ac08b0afe3654eba6b7a952e0a2c5274da6d8a6b843d2f124fde0befbf05"
+    },
+    {
+      "agent_name": "kacper",
+      "agent_number": 3966,
+      "owner_hash": "5a7da04a11f38cd95e7f84100ed747ad2be08c66765aff88e30ca692d6b93247",
+      "claimed_at": "2026-03-30T08:59:44Z",
+      "signature": "d37dd89f334ea7a9111df9c1a140e12f03ab49b6e1ab88154e3fab87852102c6db07248af55a2f09234e3cbb816d2926fb2e5973074eb2b40721338ccd901e01"
     }
   ]
 }
