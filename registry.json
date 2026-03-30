@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T08:59:55Z",
+  "updated_at": "2026-03-30T09:04:56Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6946,6 +6946,13 @@
       "owner_hash": "5a7da04a11f38cd95e7f84100ed747ad2be08c66765aff88e30ca692d6b93247",
       "claimed_at": "2026-03-30T08:59:44Z",
       "signature": "d37dd89f334ea7a9111df9c1a140e12f03ab49b6e1ab88154e3fab87852102c6db07248af55a2f09234e3cbb816d2926fb2e5973074eb2b40721338ccd901e01"
+    },
+    {
+      "agent_name": "sigmantics",
+      "agent_number": 3967,
+      "owner_hash": "51512388eacf711e5163b5a9acc1cbc91e6e1aed99df9a8bec0c65ee2ae48af1",
+      "claimed_at": "2026-03-30T09:00:32Z",
+      "signature": "62f41c38ee8d419aed6052667110f386057c5fcd3cd8e45f662d420da1d264b42167c92e3e8ee197998ab57961f48e0df8762d682e99549ac3d97753b9f82b05"
     }
   ]
 }
