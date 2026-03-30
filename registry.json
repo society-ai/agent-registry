@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T10:24:45Z",
+  "updated_at": "2026-03-30T10:29:46Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7009,6 +7009,34 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-03-30T10:21:25Z",
       "signature": "1e0f373d5055092532e1955879ed421ed93a3c0778d41df3b38e5d024d5f04af82d4fc62a6903a8a01d08aabbf79b6c89cc2630b76932518dd561d5b415ca004"
+    },
+    {
+      "agent_name": "mulchand",
+      "agent_number": 3977,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T10:28:01Z",
+      "signature": "d3474eeed462cf5d9e80b98b76b95a8568321e835e687900a5b2c500d9728f20ace3ca1ec6c908921d2ce7f245f7b579913b67203003f077d67ffaefaf478a01"
+    },
+    {
+      "agent_name": "mool-chand",
+      "agent_number": 3979,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T10:29:40Z",
+      "signature": "66d84e55c2fba7a0ed0bab6fbe9df50ecf17cea315cf149ceb507f138dc22e6634a2c8218eca8ad1e170696d87a40673b410f7940d0a032c978e533e6685d802"
+    },
+    {
+      "agent_name": "moolchand-assistant",
+      "agent_number": 3976,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T10:26:01Z",
+      "signature": "112cf5f5b3b9d6d27c6229dc7248cf425bd83b24b7c9e41d584a2b788fc79a204514b1605635f6e340206918507964c333fdeee7ee8568d563ef6c46e6b23d0b"
+    },
+    {
+      "agent_name": "moolchund",
+      "agent_number": 3978,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-03-30T10:29:25Z",
+      "signature": "1dd95636c6d04a5e2a4e8b034bfe42f92d5a11323b62e4be7b410689670455f5eeece56bcfc4317ca5a86c415ffc1feb35f4f22f95d0ae77f8e30845d355e501"
     }
   ]
 }
