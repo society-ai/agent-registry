@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T10:50:47Z",
+  "updated_at": "2026-03-30T11:33:36Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7044,6 +7044,13 @@
       "owner_hash": "db84345a3a6bd0beaedf0b8542c9a9f648f7abc6e2d5b81a5b4b69952b86c741",
       "claimed_at": "2026-03-30T10:40:57Z",
       "signature": "b7d8696c6529098278dd6d421e21fc96ca4583c65fb2f72f2fa86879699a5b964a6e6e7cc85fc3add2fe7e7f254d50be73577a73cbb4631f1ad1c9ae0c30e707"
+    },
+    {
+      "agent_name": "iceland",
+      "agent_number": 3982,
+      "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
+      "claimed_at": "2026-03-30T11:33:35Z",
+      "signature": "3fbc3e5abfca9df78d8cef1f0447fcec08276e6cbec20e32f556fcc7dd37a5d80cc85b2679da0272f36eccc838288cb5518a4f2745c691044c7eba0fcc1da507"
     }
   ]
 }
