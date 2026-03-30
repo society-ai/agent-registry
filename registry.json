@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T04:19:30Z",
+  "updated_at": "2026-03-30T04:29:31Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6834,6 +6834,13 @@
       "owner_hash": "999e310a13b9ed2f64f5260b326a1797a96aa4597a721da1b0fd3d7c20b0a020",
       "claimed_at": "2026-03-30T04:17:51Z",
       "signature": "34420b28827b5c23111bed7e705d192926880007b67b762f6149282fe4b956d6a9153b1486071159acc15d1131545ca12bb7cb8b67d2539e51164db0d478ac05"
+    },
+    {
+      "agent_name": "abassador",
+      "agent_number": 3951,
+      "owner_hash": "9fb64ee91528d05c5d337362cca359877506396aecf480fe03f65271c009eb67",
+      "claimed_at": "2026-03-30T04:25:42Z",
+      "signature": "41940f36f49c6663c5d2a2e7ad495001b2b21393341f4ea4821a556cae58ee5fa164e8b99fbd11e3379da4e9704cfc09057e131586a84a8db8e2fa994a74400d"
     }
   ]
 }
