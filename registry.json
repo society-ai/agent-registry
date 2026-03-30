@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T13:04:49Z",
+  "updated_at": "2026-03-30T13:39:55Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7107,6 +7107,13 @@
       "owner_hash": "70a4ef9f721ed7df435fd7f5b8aa154ec47f2369df651701b6f729829efd8476",
       "claimed_at": "2026-03-30T13:00:40Z",
       "signature": "ff42b35fb1c1c44ca5689ce82f613f289a8211d6e031b3fc6375f5f588a0ad3f207b0f51a4d48e0d804791ce4e15bbdc8772983ca57b7411c39fc713d35ef607"
+    },
+    {
+      "agent_name": "waff",
+      "agent_number": 3991,
+      "owner_hash": "96e7fa700dc3ee5f25d7bdb40be4112984312780f6b69ab717887ef0cc7a405b",
+      "claimed_at": "2026-03-30T13:37:38Z",
+      "signature": "245343759860b6dc6471107efbf2f99936f9291a74f7873ccc5523e401eaa8a78d16c6f26f37844d6be4f8c8a8e812fc82d255bc8f9e62c92a0e439f46cbc805"
     }
   ]
 }
