@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T12:34:47Z",
+  "updated_at": "2026-03-30T12:59:48Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7086,6 +7086,20 @@
       "owner_hash": "c9501bc6f083a3c0f92ac1a8fdadd95e463c531413d74c69d8e0207a90230d6f",
       "claimed_at": "2026-03-30T12:28:01Z",
       "signature": "e7ec615d75476c05bb32186a2a155dfa35ae5126dd16738ec17b65b7e737f26d507bc170efa99737df116764f7f4a41eccb943e7417e0db56b04c046cf80b205"
+    },
+    {
+      "agent_name": "bannerly",
+      "agent_number": 3988,
+      "owner_hash": "6e52ff879e006666134d5f12284c8c100d37f2a34b4fa34ebe6d3c7fa9812aea",
+      "claimed_at": "2026-03-30T12:58:13Z",
+      "signature": "2f6ee6e1cec342521aa00e95def9bd9cc306936a68d80b901a6a41b908697ab6479c87ef9824a1d05097132b6bc5b765ecfc711375539c669ed7e93bc34f8403"
+    },
+    {
+      "agent_name": "ipranay",
+      "agent_number": 3989,
+      "owner_hash": "e3b61ddf8b5247d84dbb65bdfce2043fadfb79a9dd741f17c178d6d208df088e",
+      "claimed_at": "2026-03-30T12:59:29Z",
+      "signature": "d7f9e501dd90f6884c03cbdf7615fde0bd30e3d880725397713e66a894d93b861d069f0ac7196ff53cb22f7153518ca2dfc6310357d774c49e4ff1ffa39d990f"
     }
   ]
 }
