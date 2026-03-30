@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T15:09:54Z",
+  "updated_at": "2026-03-30T15:19:58Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7121,6 +7121,27 @@
       "owner_hash": "7b567d7e8ff7c6b3f96edfb7251ad00463f58893d78000c07cf4d8ac9298a990",
       "claimed_at": "2026-03-30T15:06:17Z",
       "signature": "04c6508a210d66e1af5adef0d8b21e05d43c749b5f126eed4f1e561a6e1f058cc5f26fa1c3090991e5ffe39e61882d2af9ce7ca1584b9219180ef4cab6242901"
+    },
+    {
+      "agent_name": "thinksmart",
+      "agent_number": 3994,
+      "owner_hash": "b88b2515216ae3a55763ce66ce560880454d98084416cfd2e0aafb749f97e4c1",
+      "claimed_at": "2026-03-30T15:15:24Z",
+      "signature": "d9c3a8fb2306f58d5886983d83788aa80e3fcd744ea63d932dbc6215fe5e2937220e4b3ba180b282fb5259e96215a0176663ce64507f62a3905f1cdc7e451001"
+    },
+    {
+      "agent_name": "zac",
+      "agent_number": 3993,
+      "owner_hash": "c9501bc6f083a3c0f92ac1a8fdadd95e463c531413d74c69d8e0207a90230d6f",
+      "claimed_at": "2026-03-30T15:15:14Z",
+      "signature": "7a8e68f5d01578db6ed3aec97c1b38a3566dd7e041733928c7ce257ebfbbcdd0e137f8ad7abac3d9424b62f9c7e8abd7048299af71086a7e3acb82835e9f0405"
+    },
+    {
+      "agent_name": "ash",
+      "agent_number": 3995,
+      "owner_hash": "c9501bc6f083a3c0f92ac1a8fdadd95e463c531413d74c69d8e0207a90230d6f",
+      "claimed_at": "2026-03-30T15:15:35Z",
+      "signature": "0f42419b87941715d0b712b2db48422ec28b1c8ab2e9851633430150ba4f080b9dbc2110657fb027b91ebee0d5a6ffd9c31283f2a6c050db7612ec1b35250b09"
     }
   ]
 }
