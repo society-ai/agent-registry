@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-30T04:39:32Z",
+  "updated_at": "2026-03-30T05:34:33Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -6848,6 +6848,20 @@
       "owner_hash": "6505df7e848df2f5cc924b1727ded07f3c6344524f4cacda3b86d9ed2d38541b",
       "claimed_at": "2026-03-30T04:35:46Z",
       "signature": "0a5f7e5aa3950bec72080fd6afdc89102f495474d2a587787ea6f4c1103f47ac91c371961cc7c05338ef97eb16a7081b837f678dda329a651ddc9b0ee4955707"
+    },
+    {
+      "agent_name": "santiagokus",
+      "agent_number": 3953,
+      "owner_hash": "276cd434790edbd32c27b61dc42cdc4fd5e51de48c529767971dab68853c7f88",
+      "claimed_at": "2026-03-30T05:31:31Z",
+      "signature": "ccb4223cb08b4195d9afddbd3a2cdd07e09a0e4db2f25d2c2a6a68265bd9a3c843b46ad151b14ea1b8b78fb5c31473ba7ed933d9908bcafdcbaf94321ff71b0a"
+    },
+    {
+      "agent_name": "johanna",
+      "agent_number": 3954,
+      "owner_hash": "1f62c6c9c683fb1a6d8ee2147e3f83f2527c12a8d7c5567d4a472d0d67495a57",
+      "claimed_at": "2026-03-30T05:32:04Z",
+      "signature": "d426d41db28fdd4e2410004524daae2c2067cdba8cafb84646bae92db34a9da73f3709b215f9b2133b3c2361bd4f86b5b7df167d41a54be0af5e4ece9ba2d20e"
     }
   ]
 }
