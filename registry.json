@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T11:55:19Z",
+  "updated_at": "2026-03-31T12:00:22Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7450,6 +7450,20 @@
       "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
       "claimed_at": "2026-03-31T11:55:15Z",
       "signature": "3dd7cb528874cb690784667c4fb50250323e64247a224f2dbca344916e23d8e4cf94275f9a5d4f03d74b80cb0d17b6b2c9e06f9c2ca5fabe3d0f7f0302586100"
+    },
+    {
+      "agent_name": "assisstant",
+      "agent_number": 4047,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T11:58:28Z",
+      "signature": "a695db2166aaae8f2679c6ca1377a83325b1223df674682658196d922fef7122564cb6639606cee5d3595f5646a530df857ddc34a6f7aee189e9523aff93890c"
+    },
+    {
+      "agent_name": "swarm",
+      "agent_number": 4046,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:57:30Z",
+      "signature": "1a6659a591fef7a713e52bb2295f912be16ba6f98c54dfd9a9e290dcc374dd226ff4380fd0521713cf54d48e5bef94cc4e33084395efff5381f084a6591fb405"
     }
   ]
 }
