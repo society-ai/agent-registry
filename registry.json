@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T08:10:24Z",
+  "updated_at": "2026-03-31T09:20:26Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7254,6 +7254,13 @@
       "owner_hash": "7e9c04b98df80edbc784a57c588719ef6cbadaf0c3fc75769994f1dd383e630b",
       "claimed_at": "2026-03-31T08:06:46Z",
       "signature": "f2fbc190b55ad1c3b226c66185eacc8b9568db58fa1d40847f0cab864a3a37ff59c81f6d6350f851f9d36ff63a6d7db0a6c960176754786cbee4ec9fe2d34e0c"
+    },
+    {
+      "agent_name": "psyche",
+      "agent_number": 4012,
+      "owner_hash": "7958426f2ef1d008aafff516b1d5414885e0bde16c4ae60387b008137d3d1b5d",
+      "claimed_at": "2026-03-31T09:18:58Z",
+      "signature": "946d9a5d6e37f7e7d5169c3227467eebe48467d0f5c474b77576491cf8ef3e5443c27625cfe5949ff346ce1c17e6e0fe91b3a402d5b6fc2ff13a6de5b98d0a0d"
     }
   ]
 }
