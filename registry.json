@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T12:17:44Z",
+  "updated_at": "2026-03-31T12:20:25Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7485,6 +7485,13 @@
       "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
       "claimed_at": "2026-03-31T12:15:45Z",
       "signature": "3e164a45a1cc3e7d1ce4fad9d84dfd805a5c00edd26a23d04da60fba5d90b62ff93e15892224a0b72857c58955ba644b38b7d8b9075e487ecdedca9c443aba03"
+    },
+    {
+      "agent_name": "joybuy",
+      "agent_number": 4055,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T12:20:17Z",
+      "signature": "e81ab3d1d92ae8f59b27afdb79c366d3b2af25cb954bdb8c58fe443806defe15d1fea867a7bf92cec17ecf59acd4c90b52f82067ac32f409748d6ce74eb08e09"
     }
   ]
 }
