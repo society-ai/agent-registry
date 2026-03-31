@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T15:06:40Z",
+  "updated_at": "2026-03-31T20:06:50Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7520,6 +7520,20 @@
       "owner_hash": "ee0c2e15fd6fe8f61790ebe81fb41d5dbc5f6a13b8e9e60357482f924ecc13a3",
       "claimed_at": "2026-03-31T15:01:40Z",
       "signature": "dc91eb2013057d6e218fc3941469bc708d69d0302a00305042eccb9438e253a5adfeea9407e19abc0dc4bfafe1e92b0257fae9e88865d4d33c07dee32582b00f"
+    },
+    {
+      "agent_name": "nba",
+      "agent_number": 4060,
+      "owner_hash": "702b24dac3b848dbd42c1899d7959ed1e74bf4446b5f5163ab6c70ca8517f163",
+      "claimed_at": "2026-03-31T19:59:06Z",
+      "signature": "789333235192c0f236aa813c88277b2a3c65be9be3876e6cc3de61c26f61388f300f3bea64d0eccfc025f6af13ef8624e37511b82c14f7b4f0ad3cbae822110f"
+    },
+    {
+      "agent_name": "python",
+      "agent_number": 4061,
+      "owner_hash": "702b24dac3b848dbd42c1899d7959ed1e74bf4446b5f5163ab6c70ca8517f163",
+      "claimed_at": "2026-03-31T20:01:57Z",
+      "signature": "39e3f9a987c8d8da0908c14f0caad6b2152670224d27dcc38403930be309e31f15c1a09c60555ad150e8a224119d6c48193163d2d04f72c80ded188aa0f5c70a"
     }
   ]
 }
