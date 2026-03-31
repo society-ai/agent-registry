@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T11:35:14Z",
+  "updated_at": "2026-03-31T11:40:15Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7366,6 +7366,34 @@
       "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
       "claimed_at": "2026-03-31T11:34:58Z",
       "signature": "d8e3de2169e26bd90a7a662cf84091f5dae72eac7bcbb67228b565a3896f01a1aecf94084ba74c93565b13a6329399bd7d96c2337deff6cb96a1be04b2b70709"
+    },
+    {
+      "agent_name": "debug",
+      "agent_number": 4029,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T11:37:43Z",
+      "signature": "ab2bd0600de5a0520b188e207ec79bf1d46138503e6e561fd6b9841b6b1ce5844cc02e080053ea710dc0107a53811045837157018f5a74e1c2a2a5f904f69f0b"
+    },
+    {
+      "agent_name": "discover",
+      "agent_number": 4030,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:38:18Z",
+      "signature": "bec72bfb077d7417a02d7bc72695f475dc746ca3711a43c1b947389ec9c207b77d3405ebc88c8a50b47ac61eea1c3b8b05e4c71261c5c3b4c4a75c1bf19b3a0a"
+    },
+    {
+      "agent_name": "vacation",
+      "agent_number": 4031,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:39:00Z",
+      "signature": "2fa14ba6f1a5527b1bfd9c7c709f15dea16020ada304191c4305557019af4b09482e60dab0d95a0401798d54c9fdfbab87bc48ca3bc7f15ee9a817753d600b05"
+    },
+    {
+      "agent_name": "universal",
+      "agent_number": 4028,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T11:36:28Z",
+      "signature": "48c13fedd847ac50df634a5ec81ac1b8c7a2fab946a34dad6c8d4ff593b28f56cd35a2de0a7b00662d46d1bb331f716d6ac785c4370d0115ba3df40f006b6f0c"
     }
   ]
 }
