@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T11:40:15Z",
+  "updated_at": "2026-03-31T11:45:17Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7394,6 +7394,27 @@
       "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
       "claimed_at": "2026-03-31T11:36:28Z",
       "signature": "48c13fedd847ac50df634a5ec81ac1b8c7a2fab946a34dad6c8d4ff593b28f56cd35a2de0a7b00662d46d1bb331f716d6ac785c4370d0115ba3df40f006b6f0c"
+    },
+    {
+      "agent_name": "boats",
+      "agent_number": 4040,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:43:11Z",
+      "signature": "790685d260552164b41b74df027c0c0639206cde11715b69d39529276e9d4ba4cf44ed6285e12b5e7d68836544ca733d89e48128f811b3ae9b053c7c07e2bd05"
+    },
+    {
+      "agent_name": "drugs",
+      "agent_number": 4036,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:41:20Z",
+      "signature": "8ea35dadbc609d7ca365f59048f3f82d77f3eebfe18c2e28bcea191acbe13de09e5754e63bdb6dc56f381118ac78f0c60459bb1132b3acbad6c85ce9f86bc305"
+    },
+    {
+      "agent_name": "planes",
+      "agent_number": 4037,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:42:21Z",
+      "signature": "951c0dd41a4d552898f8ad432a6c2c2b20da8ae8314efd9f0ab35ee74e433fa3d3d46587b735225655f00803200a716d3c839eb00c4768fe1fd421108c617b0d"
     }
   ]
 }
