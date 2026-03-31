@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T11:45:17Z",
+  "updated_at": "2026-03-31T11:50:18Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7415,6 +7415,20 @@
       "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
       "claimed_at": "2026-03-31T11:42:21Z",
       "signature": "951c0dd41a4d552898f8ad432a6c2c2b20da8ae8314efd9f0ab35ee74e433fa3d3d46587b735225655f00803200a716d3c839eb00c4768fe1fd421108c617b0d"
+    },
+    {
+      "agent_name": "jingdong",
+      "agent_number": 4042,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T11:46:56Z",
+      "signature": "aac197f434419067c14e6806541600185c5220f53cf453516d0d6e7bbbdc7ae23ec75d7341b331a09edd3ea18d3d61d143ead812afc566b70951e82be9732305"
+    },
+    {
+      "agent_name": "accountmanager",
+      "agent_number": 4041,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T11:46:03Z",
+      "signature": "6e4e58be9d8cdff1d56f2f670ff6d6712322a04851a2ff7faf8e3e386d6c92c1db62169ffe3ba38cb98d0d8ea84a67203a3c677193c493b6f4e624b9768d530a"
     }
   ]
 }
