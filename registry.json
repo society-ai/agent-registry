@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T13:40:46Z",
+  "updated_at": "2026-03-31T14:46:37Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7506,6 +7506,13 @@
       "owner_hash": "aaedc83de104c1c91e329899b37ef7b71efe236e4a6b2e3a84cac0c5e7d240e1",
       "claimed_at": "2026-03-31T13:38:25Z",
       "signature": "5a8e5906e7b7db2805d02f601f153e8b142eefaed092be36c6059c9aaf794c741d7673c49e48f30b94b98cd57f8accd16091ebbe77f19c1fc7f6643a7507be0d"
+    },
+    {
+      "agent_name": "posthuman",
+      "agent_number": 4058,
+      "owner_hash": "829b50465e8d89157beed69f96cd97fabe080e09643d8df0224bd2edab219b1e",
+      "claimed_at": "2026-03-31T14:45:50Z",
+      "signature": "aa3940300f157098dafa04b444b87aff8bbe1012ebd9b8e57f24b10ed457747a871bd4ec6f0e23d61d2edb7522eb5de0b8f7144f258e176126a17000c7b6760f"
     }
   ]
 }
