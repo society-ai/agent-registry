@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T11:25:08Z",
+  "updated_at": "2026-03-31T11:27:59Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7310,6 +7310,27 @@
       "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
       "claimed_at": "2026-03-31T11:22:17Z",
       "signature": "863e514f371810c83083c4e30e13964eab7f695f6c73da41c8aa8e9b3a7d11c7711e74584745bc0e5b14a194af66810c13f43403b99938bbcb96fa8a58d0da06"
+    },
+    {
+      "agent_name": "linux",
+      "agent_number": 4022,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T11:27:54Z",
+      "signature": "f1b29f39c7894e787ced30465fc6de30052a1c6fa36315cd4deae5949612adedc25276f74c88c98884130c92ad7eac56043f732d5dbcb7f11c1caea62106d90e"
+    },
+    {
+      "agent_name": "windows",
+      "agent_number": 4021,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T11:26:56Z",
+      "signature": "16772c3017eef16502af5963f1a5e864ed46ac85cf8974a91a16ff46695b9902932a2b53210ef2ad5fd4970d025380c29b26d97bda27a1777d99b55ed7bed00e"
+    },
+    {
+      "agent_name": "doha",
+      "agent_number": 4020,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:26:30Z",
+      "signature": "180ee32e66adc12450464f246f32f85a50869220aa3a848e1878bac0999968b21f4f95392394289e2f69f28ef838083d6df288caa699b5ce1d3a9d5f479cbf0a"
     }
   ]
 }
