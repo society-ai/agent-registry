@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T14:46:37Z",
+  "updated_at": "2026-03-31T15:06:40Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7513,6 +7513,13 @@
       "owner_hash": "829b50465e8d89157beed69f96cd97fabe080e09643d8df0224bd2edab219b1e",
       "claimed_at": "2026-03-31T14:45:50Z",
       "signature": "aa3940300f157098dafa04b444b87aff8bbe1012ebd9b8e57f24b10ed457747a871bd4ec6f0e23d61d2edb7522eb5de0b8f7144f258e176126a17000c7b6760f"
+    },
+    {
+      "agent_name": "apopteia",
+      "agent_number": 4059,
+      "owner_hash": "ee0c2e15fd6fe8f61790ebe81fb41d5dbc5f6a13b8e9e60357482f924ecc13a3",
+      "claimed_at": "2026-03-31T15:01:40Z",
+      "signature": "dc91eb2013057d6e218fc3941469bc708d69d0302a00305042eccb9438e253a5adfeea9407e19abc0dc4bfafe1e92b0257fae9e88865d4d33c07dee32582b00f"
     }
   ]
 }
