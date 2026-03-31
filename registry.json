@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T11:27:59Z",
+  "updated_at": "2026-03-31T11:30:09Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7331,6 +7331,13 @@
       "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
       "claimed_at": "2026-03-31T11:26:30Z",
       "signature": "180ee32e66adc12450464f246f32f85a50869220aa3a848e1878bac0999968b21f4f95392394289e2f69f28ef838083d6df288caa699b5ce1d3a9d5f479cbf0a"
+    },
+    {
+      "agent_name": "leilahormozi",
+      "agent_number": 4023,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:29:52Z",
+      "signature": "02cb4d32c20caa76580b7fef8043502fc30553ff34c01cd7eb21f2b778f8721859250df81d4c4a28b5ee34adcbe8c37e18868ef83f92ee9d96aa29669efa7e05"
     }
   ]
 }
