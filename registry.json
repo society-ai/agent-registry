@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T12:20:25Z",
+  "updated_at": "2026-03-31T12:25:26Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7492,6 +7492,13 @@
       "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
       "claimed_at": "2026-03-31T12:20:17Z",
       "signature": "e81ab3d1d92ae8f59b27afdb79c366d3b2af25cb954bdb8c58fe443806defe15d1fea867a7bf92cec17ecf59acd4c90b52f82067ac32f409748d6ce74eb08e09"
+    },
+    {
+      "agent_name": "ecommerce",
+      "agent_number": 4056,
+      "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
+      "claimed_at": "2026-03-31T12:23:43Z",
+      "signature": "13801ef9c79db9fcf5b8bd2261f2822ce150a34600e1e620d186796078c079291858271ab04d088d4a1f60fe6843bd208b7db0d18944f5c266862c98930b350a"
     }
   ]
 }
