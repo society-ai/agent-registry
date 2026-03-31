@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T11:12:08Z",
+  "updated_at": "2026-03-31T11:17:10Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7275,6 +7275,20 @@
       "owner_hash": "61de04cd9e28da139291f8dd41e8cd50e1272aad655c70392f140a84dffd74d3",
       "claimed_at": "2026-03-31T11:09:08Z",
       "signature": "94f72d20f023f3661cb75e02a959300ce36efcbba743e80ca4318de13b7e947de64b75450c523aded4a37ec224ae09eccb07c8b09a84c7cc51a386192a490c01"
+    },
+    {
+      "agent_name": "unitedkingdom",
+      "agent_number": 4015,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:16:37Z",
+      "signature": "eaefa58d85ae37fd3b6e8a14332cc4aa767539dd9db8d0efa0ef0dcb6507b2f9f2dc0c1922313702510d352640d9fe9fc7a46b668fa7a157ac56ca4879f56a07"
+    },
+    {
+      "agent_name": "imangadzhi",
+      "agent_number": 4016,
+      "owner_hash": "161862f4955533d25b267f6bab54a26a7652eff137fe3a6294472e31cd74d025",
+      "claimed_at": "2026-03-31T11:17:09Z",
+      "signature": "e8c352e69e55cfec5a4c85b8987aac7c51c274d22c616f60f57c70d63b0710116d9b0e952c1c2f9ba0d804ea23c63458753bee89d003fb467acb72c690e0c704"
     }
   ]
 }
