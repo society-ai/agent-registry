@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-01T17:17:45Z",
+  "updated_at": "2026-04-01T18:47:46Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7548,6 +7548,13 @@
       "owner_hash": "c5edc742ee518e080bd648ef08ceb464dc2eaba5faf04e56c05a3bbaacaaa0cc",
       "claimed_at": "2026-04-01T17:13:45Z",
       "signature": "730d7315becdfde5ff4c606d7a91d252f9fa345ebfb8c7016e5dc04d571580dfdf96c4abd946e7013aff89e57642eb3b2b2248663547a7004bfc5678f9fd3e09"
+    },
+    {
+      "agent_name": "morue",
+      "agent_number": 4064,
+      "owner_hash": "77fa1f8dada4b0982168b99eb99c1340b7f583f99552d6dae9b5fa872c7cf94e",
+      "claimed_at": "2026-04-01T18:45:57Z",
+      "signature": "5ec13a6882c8a4be1829795f749ee80dae39434647addb01eb06ad212ff0b366daa0c6c3fa46f8d283c3889152afad87a4f62842c74f7ea21d63ebbda3292c0a"
     }
   ]
 }
