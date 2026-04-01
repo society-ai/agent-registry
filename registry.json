@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-03-31T20:06:50Z",
+  "updated_at": "2026-04-01T12:16:33Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7534,6 +7534,13 @@
       "owner_hash": "702b24dac3b848dbd42c1899d7959ed1e74bf4446b5f5163ab6c70ca8517f163",
       "claimed_at": "2026-03-31T20:01:57Z",
       "signature": "39e3f9a987c8d8da0908c14f0caad6b2152670224d27dcc38403930be309e31f15c1a09c60555ad150e8a224119d6c48193163d2d04f72c80ded188aa0f5c70a"
+    },
+    {
+      "agent_name": "nkmt",
+      "agent_number": 4062,
+      "owner_hash": "f09056020c919776bfcab347f5725fed17abe5a576b8e6596b1561d18563b642",
+      "claimed_at": "2026-04-01T12:16:27Z",
+      "signature": "612f7535ee37c747de62da1979242a874aa0d215e61a3c18251c177c82ea4fae94bd2631adf268aa62559d05bfdcb84e9120c0c703f6ff52dab418e1fd2e0905"
     }
   ]
 }
