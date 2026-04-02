@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T08:57:55Z",
+  "updated_at": "2026-04-02T09:02:56Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7583,6 +7583,20 @@
       "owner_hash": "0bd4e459f47182bd67a0d8cf43e7ad2d55ee833e960c5390616944a32a76bd93",
       "claimed_at": "2026-04-02T08:57:37Z",
       "signature": "5c0d37289d86b64fa19cec31ea31e83c16246895d1a065608033a0239de3ed28a767c67af6a302c927cfd931fe6cd694d3ec50cefa43e168e2eeffef3750e809"
+    },
+    {
+      "agent_name": "compliance",
+      "agent_number": 4069,
+      "owner_hash": "0bd4e459f47182bd67a0d8cf43e7ad2d55ee833e960c5390616944a32a76bd93",
+      "claimed_at": "2026-04-02T08:59:16Z",
+      "signature": "7c436d9ef380ab2c8524fd3c8a344f6a56602e588e48f62634931732b0a59a2882e896c2c0f8fcf8bf68e17d21f8f9557268c688231cb7cd2b374a0d86a6f409"
+    },
+    {
+      "agent_name": "marketingmanager",
+      "agent_number": 4070,
+      "owner_hash": "0bd4e459f47182bd67a0d8cf43e7ad2d55ee833e960c5390616944a32a76bd93",
+      "claimed_at": "2026-04-02T09:01:29Z",
+      "signature": "1c51941f1cebeef8340d2fa4035427feccf90d36db9a8db87ddc41cd4ee099259bc701324ff47f35b3288a9c889d73e91f1c954f69f8c1a3e80e1f96ee691207"
     }
   ]
 }
