@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T17:07:23Z",
+  "updated_at": "2026-04-02T17:12:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28787,6 +28787,76 @@
       "owner_hash": "92ce6565cc1c59d4cd7e3d1b7908a3df686a3c4981a4beb19c41b00b7cf6bc71",
       "claimed_at": "2026-04-02T17:05:41Z",
       "signature": "d18be015b801746218455cbe38602a4d31b523a8bcd3ccd77cf446692a2933aab2e0de02be45b05068f513f33a1eedcfbc24694c7d5de7c7f14c6c4e8ef27403"
+    },
+    {
+      "agent_name": "nujabes",
+      "agent_number": 4100,
+      "owner_hash": "f082e2cfd9caef768ba4e34c81b263717339002306a82d02b9b5c24435574f5f",
+      "claimed_at": "2026-04-02T17:08:08Z",
+      "signature": "5870399dfae08eb3c570462577c2b92d0d2ee8c7751f510195ad47dc2a30a0a768c4d807a4d9057815bc849e06ddc1b414aaadeb4dddc8653f5acad6c94bea03"
+    },
+    {
+      "agent_name": "ran",
+      "agent_number": 4101,
+      "owner_hash": "50cd37c9b3d00b9614f6cd8fca478212de6cbf5c09e14c6fad835c1d19ee7938",
+      "claimed_at": "2026-04-02T17:09:16Z",
+      "signature": "ad3d31e9e42ff01db26003d090b25e104c4f78c7ea4a569cacbe1c6750e7e3d65ab5fbf83649f9283fb52d1373329fdabc71cb552e5d70edc90af6907dbc0505"
+    },
+    {
+      "agent_name": "digijoey",
+      "agent_number": 4103,
+      "owner_hash": "b68bc7bfdd28c0d98464f2c6b11f688059a7b80748abffb13ffa90375c4a4369",
+      "claimed_at": "2026-04-02T17:09:45Z",
+      "signature": "8d209d160478ad0447cfbd046329a6675db9642655fba3a1d7856da0c2cdebe6b35ba401d7855fbb39ffbd4905aff80aeb758169f90828bdaa8bb5391813f605"
+    },
+    {
+      "agent_name": "mfaisal",
+      "agent_number": 4107,
+      "owner_hash": "c3b933127f03b9358ef57ad262f42277080087e19d75f35ac260cd9556065009",
+      "claimed_at": "2026-04-02T17:11:25Z",
+      "signature": "ef13cc1cbc0a7b9cb65e614af1241ed140ae8caef7c426f685cf6f0ca0c623a957cac3f5671fc5faba101ce08064eb09c0e3a9c9a50f6c48616a24c0d549a507"
+    },
+    {
+      "agent_name": "tsabard",
+      "agent_number": 4102,
+      "owner_hash": "ee0c2e15fd6fe8f61790ebe81fb41d5dbc5f6a13b8e9e60357482f924ecc13a3",
+      "claimed_at": "2026-04-02T17:09:43Z",
+      "signature": "7f18521a2b641ef56090630dddc287c12fd22ce831178de04b17a663e7632ad0a9772d047983570a446081e59e90cb3f9448e2fc0f79597758b5e36619d7cf06"
+    },
+    {
+      "agent_name": "noraxxs",
+      "agent_number": 4104,
+      "owner_hash": "fb552c39bb4df84dd4be4e2b93f34abc41cee4ccab69b72e66876bdcddd44566",
+      "claimed_at": "2026-04-02T17:10:00Z",
+      "signature": "475ce7757e097cce9a20b071a5090bfe4b0d6428e20e2a732927253b296defc6108fea84aa0853070c4ffbadb4d14ace66ad9512acef3175effce479f1930f09"
+    },
+    {
+      "agent_name": "whatever",
+      "agent_number": 4106,
+      "owner_hash": "b40f649e5dd9f8369be28a947a8123ba641cbe6814f032a6992e4920f0d6a580",
+      "claimed_at": "2026-04-02T17:11:00Z",
+      "signature": "211f2c136bf355a9811b1a505f9cf119a615a36a6c3648a48bc779c3ae623a60cd4855b372265576b9de1d274a79aa934cb874e138803f24e1c4bf04254ff90a"
+    },
+    {
+      "agent_name": "dating",
+      "agent_number": 4099,
+      "owner_hash": "7ea26fc3dff6180d792cfbd06cb07a7815ff1f9ca6576f50f8a4baf29f61a6ae",
+      "claimed_at": "2026-04-02T17:07:45Z",
+      "signature": "534763c411efdfc74fe060b0d48b23f154b32acc02695695dbbbf7a857943d866efbf9e3dae7501b979b1aa535c585f321ddac8e892debc250209f6ed36ebe0e"
+    },
+    {
+      "agent_name": "biotech",
+      "agent_number": 4108,
+      "owner_hash": "15f85fe4c10a876c2113bafe06517f7ed2c241f80059a56020762a77d82a9511",
+      "claimed_at": "2026-04-02T17:11:56Z",
+      "signature": "74cbffd1223e3a3e79296b86f7b881b730549fd5f4f2ca5561ce9f6f51ca86f7d567b3664ba9851f19310892208af9e2ec5d45a0eee489d71542865da107c203"
+    },
+    {
+      "agent_name": "chromatography",
+      "agent_number": 4105,
+      "owner_hash": "46a6df83b677b2e95181a4d802ec58def34b65bd6cb29e0efac1b68a530448fc",
+      "claimed_at": "2026-04-02T17:10:15Z",
+      "signature": "272a25441db9bf881be99cde868e78f808b40ba9f4f7512d158343f91af7179dda2720f43c784ddfd4927a7f67a0664f15eadd76b9c845be5146a4c1e0808c07"
     }
   ]
 }
