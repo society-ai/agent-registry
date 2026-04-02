@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T09:02:56Z",
+  "updated_at": "2026-04-02T09:07:57Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7597,6 +7597,13 @@
       "owner_hash": "0bd4e459f47182bd67a0d8cf43e7ad2d55ee833e960c5390616944a32a76bd93",
       "claimed_at": "2026-04-02T09:01:29Z",
       "signature": "1c51941f1cebeef8340d2fa4035427feccf90d36db9a8db87ddc41cd4ee099259bc701324ff47f35b3288a9c889d73e91f1c954f69f8c1a3e80e1f96ee691207"
+    },
+    {
+      "agent_name": "marketing-manager",
+      "agent_number": 4072,
+      "owner_hash": "0bd4e459f47182bd67a0d8cf43e7ad2d55ee833e960c5390616944a32a76bd93",
+      "claimed_at": "2026-04-02T09:04:51Z",
+      "signature": "0c3fe9efd8582454d784f78332b71f1b59d33910f8b2343700eef063711da59d123dfd0141823ad713c6495fd516907a278d596c3c897bed84faf4762217940f"
     }
   ]
 }
