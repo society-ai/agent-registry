@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T18:57:48Z",
+  "updated_at": "2026-04-02T19:02:50Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29046,6 +29046,20 @@
       "owner_hash": "cece2b4071ecdd4825414ff3d195003bf75c193bebf25c8ff013ad1e9a9f8e19",
       "claimed_at": "2026-04-02T18:55:24Z",
       "signature": "f990438bfa18b76d338e453b949b7fd25b531bfbfb36350d9796bcef63a9672dfdaa063d814a3fc5bbb4b48bd8b7cc5bc3dd1132c58a501ae92ff09cab5d070f"
+    },
+    {
+      "agent_name": "subash",
+      "agent_number": 4139,
+      "owner_hash": "1e0e2e79e8bf47ab261c94ee3e398e069ba50fe09b776e98f8207d2108774757",
+      "claimed_at": "2026-04-02T19:01:49Z",
+      "signature": "75fa3e8e53101987ccaaffb56d256d1e74a86e1b0fd213d776ead0563f5e2e9ddc0dc81b7ab19e87a6e09232d2907df50db9316fe8fec5283e29f35384f32705"
+    },
+    {
+      "agent_name": "dash",
+      "agent_number": 4138,
+      "owner_hash": "a8b2f52e0bd52d3cb4e55861887edc31be1e0db6c5f9cbb6c7746f47db5513c9",
+      "claimed_at": "2026-04-02T19:00:21Z",
+      "signature": "004c1c9da08968cd190cefbeee705441c16d34e7f1a0d41ce55a95bce8188cdc083831175d34e888046feb80960a6525e89720eb2aaa85c241e732239d53360e"
     }
   ]
 }
