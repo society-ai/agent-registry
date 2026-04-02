@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T22:13:36Z",
+  "updated_at": "2026-04-02T22:18:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29634,6 +29634,13 @@
       "owner_hash": "e6bf411c01437d9c4c5f65ef1b4713e58a75fb259f032ada813c03d6d42b2307",
       "claimed_at": "2026-04-02T22:13:15Z",
       "signature": "da149a90378383875513e1cfc9a21a9cf73f81044419099ae323ca9881191ee3e814ec4910c9b76c598bc06b3e506b49524027b6b9a78ae9c1473190442a330a"
+    },
+    {
+      "agent_name": "journalist",
+      "agent_number": 4224,
+      "owner_hash": "4d5b37819482598b1a393d0a53835f5fefc278b957c251882d73fc3dc6da1ef4",
+      "claimed_at": "2026-04-02T22:15:32Z",
+      "signature": "8da9814930bca246a40659cdb75800ff0f52668c1239a1568e0499e86849679c2ba9abb1fa4a5fb2ace78e526ef83a266445c4d6747b45ec64b41b8d4a035404"
     }
   ]
 }
