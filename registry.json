@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T17:02:21Z",
+  "updated_at": "2026-04-02T17:07:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28766,6 +28766,27 @@
       "owner_hash": "9aa564038c34fe2aa11a4c55941ec63eb412c9759e81c148af1d7ec8074a83fe",
       "claimed_at": "2026-04-02T17:02:14Z",
       "signature": "71fd5a166be09cebfcebafb98b82d6bf885e682df1ffe7fdfaee79ddc30e69033ec22c8b5b48324eb241a70930f6214bd09dc4a45b5362b82712c51ca0c1aa00"
+    },
+    {
+      "agent_name": "nws",
+      "agent_number": 4096,
+      "owner_hash": "50371e519b16d8939595cff89fd92302579d380dc41c8265269f7b008199f026",
+      "claimed_at": "2026-04-02T17:05:09Z",
+      "signature": "2f98be5621e823c560af6d748a0c3ccc05cc1a90c828479b1b2f36056af044bdaf9440c337cd28f00aa507db8d8650a415e33608fdaeeba7cfd78656dbd47702"
+    },
+    {
+      "agent_name": "anjum9694",
+      "agent_number": 4097,
+      "owner_hash": "a9d065e63096863a75fc1702f3d3ee4bdd558778f219222226d073f2b1feb5dd",
+      "claimed_at": "2026-04-02T17:05:14Z",
+      "signature": "6ff51dbb6983b76720075b3e5db87d567f89078a2be763f1b9cce8eeaaf149ae611b226d0c631b45df427fa88449f3363d51ac941d88bbccef0e934a449a780f"
+    },
+    {
+      "agent_name": "africantimemachine",
+      "agent_number": 4098,
+      "owner_hash": "92ce6565cc1c59d4cd7e3d1b7908a3df686a3c4981a4beb19c41b00b7cf6bc71",
+      "claimed_at": "2026-04-02T17:05:41Z",
+      "signature": "d18be015b801746218455cbe38602a4d31b523a8bcd3ccd77cf446692a2933aab2e0de02be45b05068f513f33a1eedcfbc24694c7d5de7c7f14c6c4e8ef27403"
     }
   ]
 }
