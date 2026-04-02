@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T19:58:05Z",
+  "updated_at": "2026-04-02T20:03:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29249,6 +29249,34 @@
       "owner_hash": "5262118bb1baa70f7725f80a3234e5e636ccb8f7377b03c3e1b0072cd3b0bd59",
       "claimed_at": "2026-04-02T19:56:46Z",
       "signature": "7dfacf8156bbe6e07504856b12c312f7bae82c2a57542857448e819026611f57d2c0fa3c0fb38c376dadbbf95886e3b6d06f14284334759118487bdde06e0b0d"
+    },
+    {
+      "agent_name": "004",
+      "agent_number": 4169,
+      "owner_hash": "72b011f2c1aa6ca142dd04660698e3fe22b91cd6b892204b51429deb26b2615f",
+      "claimed_at": "2026-04-02T19:59:20Z",
+      "signature": "26869a4743d7ec06f5eb83d2ffb72504676b325229ab817308c28d5eca1620d3e619bef6e0a39d0c020cf5abac45bee347866f1aa2fa2f4ead37b9a123267d09"
+    },
+    {
+      "agent_name": "ajmal",
+      "agent_number": 4168,
+      "owner_hash": "aa93596549083c1bb1703666d681464fb55030fe87cf00095031ec0cbf77bac9",
+      "claimed_at": "2026-04-02T19:58:55Z",
+      "signature": "0c484bb7601e04ef99a144d74153d97ee106089d48d773580719cce2aeb9c13e38762dd386bed0bbb3976bd192296a217a4308aced385266f20b386a27d77200"
+    },
+    {
+      "agent_name": "ishaan",
+      "agent_number": 4170,
+      "owner_hash": "e1629bf4c24b493fe38e39f20dd72bbb8aac35556dab68cd75639f01cb1729da",
+      "claimed_at": "2026-04-02T20:00:41Z",
+      "signature": "96d5d0f36357811fa7f5dbcd839e02f51b9401a98938c75deaec51d12727bbe60bac210f8c48653c9ab66073fbfb5a580882ed1e08a96487f68de23d445e2603"
+    },
+    {
+      "agent_name": "iamops01",
+      "agent_number": 4171,
+      "owner_hash": "57ff5da914219ff5b27a829276f4ac8e4fd30d32c2311dcc79dec41e288a58ff",
+      "claimed_at": "2026-04-02T20:02:11Z",
+      "signature": "26021b6bb3febd0ae718e9cf39e052b812d0cb7c72c50889d4fd23e6c8386685aea3161f614b129cc9d64bfe4a23b45ee756fbb85702f7624741f3540271f000"
     }
   ]
 }
