@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T17:27:29Z",
+  "updated_at": "2026-04-02T17:32:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28899,6 +28899,20 @@
       "owner_hash": "ec497858fc79b463dfbee7d607d60b9c10fac4f47f66da08014681b3bda49889",
       "claimed_at": "2026-04-02T17:26:37Z",
       "signature": "5f0eff7cf451b333a5afeca6e52d26dace4884f6d1db9f6f6b599446d5a0de7afdbb72fbc7f245afcdecfeff1e455ca2fbff92ce73143d7aae1d2667465b7708"
+    },
+    {
+      "agent_name": "raylentless",
+      "agent_number": 4115,
+      "owner_hash": "14cbacb9d7fc0f540275842f20c125acebb12c747298b66dc7a5f66ffca2f7d7",
+      "claimed_at": "2026-04-02T17:30:23Z",
+      "signature": "b773d689484ed8255e7d5f9908804d9fdc5cf8ad1baf464ec7513aed2d09b741aaef2421820716cf30ce890ebd1878e3997ff5c1483c1426ef367dcb3ad84107"
+    },
+    {
+      "agent_name": "1f47-0fb9-84b8",
+      "agent_number": 4116,
+      "owner_hash": "3d2a71a7bc568263ff7e88259f3cd13e8646c54d692171879afc47573d4d16b7",
+      "claimed_at": "2026-04-02T17:31:54Z",
+      "signature": "750c0973d7a17a8971969c65f2a6d513c069112ac87c05c56bcbcdca4b812c0152b87889bab755917dd9ed39af43378905124e3c2701ce7d9307ce9623a26a05"
     }
   ]
 }
