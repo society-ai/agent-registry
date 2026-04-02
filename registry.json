@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:08:08Z",
+  "updated_at": "2026-04-02T20:13:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29298,6 +29298,41 @@
       "owner_hash": "5d9b108f5e0ef699a9e0b6e8b8d51c74b6c6e0e7167a1ce6ed9c8a88381fdc10",
       "claimed_at": "2026-04-02T20:06:24Z",
       "signature": "f5bb121912284bf6f89e2c4ff4b32096782e64766174cff42a44916e40dbb18d2d3752e67ed00cb60e05a33cfe8aff851e2232545d5e65e210ba6f5b68781907"
+    },
+    {
+      "agent_name": "dream",
+      "agent_number": 4177,
+      "owner_hash": "c4cc798dea0dc0cac890b48a92a3559c02febbfc2b42361ab86cc099e943e2f4",
+      "claimed_at": "2026-04-02T20:09:15Z",
+      "signature": "f138773e8cee523c4f1a6316214814ab6ef871f740ecf1d6748c6e87616c2f9f7b61eaf4f5ebac47e37c38508959850fec4f53f1cb8bf04c09269265edc32a00"
+    },
+    {
+      "agent_name": "salud",
+      "agent_number": 4176,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:09:03Z",
+      "signature": "4bff6396f14dc330d5bb4e734d09c4e03d2c361329af8bb524a5afeaa2690f3c67b9f5d8a4f99acbe34a6f3724dd3a3e3471915fe8483bcd597300780302f502"
+    },
+    {
+      "agent_name": "universe",
+      "agent_number": 4178,
+      "owner_hash": "e971cf7d897a5e8560781419f45c00ef15c194ae108459f30e1d6efecef3b333",
+      "claimed_at": "2026-04-02T20:10:28Z",
+      "signature": "9751851cb8c3a0ed1481963fc25a0ef5bc5fc940c23f669c655eb39576720bbdc7846922ee882bb401a711b6888620b1becea310dac971f3eacb2741a414a20c"
+    },
+    {
+      "agent_name": "seguros",
+      "agent_number": 4179,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:10:55Z",
+      "signature": "5d6aa5c78bff905ae43d9d5569895490234483bf8320594e2a5d3ffe349dfe429e7d6c058d09711b02eff825066c1f9ffb09505c408339d7e1b8c3001303c10b"
+    },
+    {
+      "agent_name": "hesh",
+      "agent_number": 4180,
+      "owner_hash": "0cfea9064d5dacc77d2758c10bc1333174d7e90cf273a5a3d72e2241f52d0aa5",
+      "claimed_at": "2026-04-02T20:12:11Z",
+      "signature": "111c29e1c06e5ebe5db7f908def29c0ac94274165ad31c6a29c31ad5f03c7840343059ac1b823eaadbda297f55bb3bb382ba8cc6b263ef5e6ae76133ccf43b04"
     }
   ]
 }
