@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T16:27:10Z",
+  "updated_at": "2026-04-02T16:42:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28745,6 +28745,13 @@
       "owner_hash": "c76a3025edb15c7e5f4cd1babcab4fabb16b8a54d5f4baaa6c13dd6f34913721",
       "claimed_at": "2026-04-02T16:23:45Z",
       "signature": "c819581d7f81cca34254cef326dd0d31f25ae158794dd1bc4e1ebe3d1ce08eae352a83bbf5cad429e7a2f18c3d74956216d715246595c42e11ca14600f4d0307"
+    },
+    {
+      "agent_name": "alumgates",
+      "agent_number": 4093,
+      "owner_hash": "ce3deee8d790cf1877cf8861ef033d062dcfc1a81736f662fed49b58edc4b1b8",
+      "claimed_at": "2026-04-02T16:37:32Z",
+      "signature": "21609565b2bb5c9952d945694f56201102c87477a2ff8c654eff6861fa712d4070c418ed5ee2d92d964536109bd59d04a9e555a32a03386a91745e50d968520f"
     }
   ]
 }
