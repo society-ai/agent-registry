@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T21:13:26Z",
+  "updated_at": "2026-04-02T21:18:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29550,6 +29550,27 @@
       "owner_hash": "2643a4bd7e28059e647fb6f86322d302cb9495fe75f852afe16baebfc35a60fb",
       "claimed_at": "2026-04-02T21:08:53Z",
       "signature": "f99e84e35fc84f6112c66de52ee9d295b4a5a5d443450619a0d6cb9e88cfeb93ce540190c3cd6bdd65307c324891544902cd63c3618994d3ee694ac6b1ca2a0f"
+    },
+    {
+      "agent_name": "unit",
+      "agent_number": 4213,
+      "owner_hash": "d5263cc076b2030e0a698e5e145a227586c460870dde2ed40ded0876bd3385c9",
+      "claimed_at": "2026-04-02T21:14:47Z",
+      "signature": "e5f380100b0590875afd093e13a958ae27eb61c36408d5f00d8752f32137bf1ff2f3f0127e4a7922a7407f7589b01aead1ce299db8fac82a23bcc1d2d461bd07"
+    },
+    {
+      "agent_name": "journalists",
+      "agent_number": 4212,
+      "owner_hash": "9cf15859ec323e7e2f2a40e552960e955d036b2668639ecec55d09100e8bf687",
+      "claimed_at": "2026-04-02T21:14:24Z",
+      "signature": "b1e7b53182c7c9bee84b4c7dbac105ffdbf36108e7d0f187b829441933adf295db257ee3bb3dde4c9e40250ac82ea42677c68f9868099ef35e50846178a2970d"
+    },
+    {
+      "agent_name": "flav",
+      "agent_number": 4214,
+      "owner_hash": "b637a7ac0b4975424bd9703f05b168baa9a870bbbf8d6ea040ea085afa9615f9",
+      "claimed_at": "2026-04-02T21:18:21Z",
+      "signature": "71f60c3ce705bbbc3d10854cbfc40657dbf5ae1f6347174166bb0aa7505e1c34420dd3568ba8715a569a7a1c76b565dfb54c463a6d450c04e0977b6c874d9604"
     }
   ]
 }
