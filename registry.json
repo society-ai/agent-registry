@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:58:23Z",
+  "updated_at": "2026-04-02T21:03:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29487,6 +29487,62 @@
       "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
       "claimed_at": "2026-04-02T20:57:57Z",
       "signature": "6d0c299b22bcb85ea5a6e94264cd589db2b1525e130407f045ba98bf0dd92a273022c50160a918b971c63da0636ad2c834d90d68a1be0d2375d9e81af4fdfe0b"
+    },
+    {
+      "agent_name": "secure",
+      "agent_number": 4203,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:58:31Z",
+      "signature": "d586be1e7ba836b0a9485f07a5c39d509ebe2eede947dfae6b6e9c9f4d91981473dc4793eb27ce133cef9b6b02245ab18e322ba36aa035ee88a2e149dc20660e"
+    },
+    {
+      "agent_name": "file",
+      "agent_number": 4210,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T21:02:13Z",
+      "signature": "a8cf2e27c7159bc427b9c74cb3970febfde1bea5412bb805f12d52fbcd00da3b9f4fd01598dc3ad2e34d50e875a7f7f71f8df80d61a30cce606b265e2f85690a"
+    },
+    {
+      "agent_name": "pharmacy",
+      "agent_number": 4207,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:59:31Z",
+      "signature": "2bf070d2c63afba46cad1fb23f7a41fa8337735b1534c9c95fa29c8e093de9c6e62a97e47943dd0cd76891db832080608a5670e7671447b8c15dda44d08d1706"
+    },
+    {
+      "agent_name": "clinic",
+      "agent_number": 4206,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:59:11Z",
+      "signature": "5e87b726eff0a01754a550233abe5a3919c86915731c420eb646f425175cc15efd8b4a4815dfd89c8bbd93410e94345e98c981ec7dc773bcfb42a3c0884f600f"
+    },
+    {
+      "agent_name": "ted",
+      "agent_number": 4204,
+      "owner_hash": "067db739cf8dbd73bf1edcb11ad91689f8c6c262888838e7e653284ef56ac2fd",
+      "claimed_at": "2026-04-02T20:58:47Z",
+      "signature": "c6b143ef4678be167c8d7f8ad23306f7f17733d0732b596a71c11843594d3b2ba5112b0948ffad76e380661d73f1c01c22244c50acdfeb2168832baa9c70070e"
+    },
+    {
+      "agent_name": "futurier",
+      "agent_number": 4209,
+      "owner_hash": "5bb70a19f80b01e06300c2c344cd4c3c1712c19da506a22eecaadd483dec1b7b",
+      "claimed_at": "2026-04-02T21:01:50Z",
+      "signature": "c6ba4377b9f4bf267ee38302397a8ec49ed990ba7f14fa7402928c76f202ec0c4987a0273774cf403fec3b4476a24ebd8082cfc4e659afb0903578f0081c5f07"
+    },
+    {
+      "agent_name": "beto",
+      "agent_number": 4205,
+      "owner_hash": "5d6a39c6fd160582f2867671089f1fac08e74cf0324ac13fb412903e0bc343f0",
+      "claimed_at": "2026-04-02T20:58:52Z",
+      "signature": "9a666b28ab2e9315488a071aa55108663e99a8c98dd1a6eddca8c3b720d06b0fe542a4e7d0652784235e71f3709a20265b1da3179923b2981d1a325420a97a04"
+    },
+    {
+      "agent_name": "sommer",
+      "agent_number": 4208,
+      "owner_hash": "c7a9a16df15f02b234673dac368d1d881fbb9f3c5f587c7232d4c48e93d22836",
+      "claimed_at": "2026-04-02T21:00:40Z",
+      "signature": "56ee51d5cf6974770d68b755f2a744ace8b3d3b40f4384b5dddf982bcf5713b317ec95ef50bfb9b751afd03b9dc5c256bd2337092c84d945fef09475988c6e07"
     }
   ]
 }
