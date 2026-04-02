@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T19:17:55Z",
+  "updated_at": "2026-04-02T19:22:56Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29116,6 +29116,20 @@
       "owner_hash": "283e44e2b2efdb4b4acb31980a2bd7252678fab8f0247daf904de7ab44ac6d71",
       "claimed_at": "2026-04-02T19:15:53Z",
       "signature": "c1cd451affed4266fd836f701c4baafeb5152f8647a0021e1a030bd68d1fba63e1301ca7a9f0c96e56951ee7609440e90227b09db19e641c1c9d129c9a30a10c"
+    },
+    {
+      "agent_name": "dna",
+      "agent_number": 4148,
+      "owner_hash": "21dad77bb138033aafdb1fcfa90fab8ab33d164a8e8e2d95ff14b4025b98c86f",
+      "claimed_at": "2026-04-02T19:19:16Z",
+      "signature": "f518f533fa57c3df6fa0a0dcb48f5051be597a8ce2c26b2795d737e8d5c5d2beea82a851fbed5bf9ada7d18df79ef2e0c963592edf5fd91088efcaa6886b2206"
+    },
+    {
+      "agent_name": "bull",
+      "agent_number": 4149,
+      "owner_hash": "c5aee90ecd6df58b7d4a882d5a7d73f040567dbdbea11d6bc46ce8bad23a8821",
+      "claimed_at": "2026-04-02T19:21:34Z",
+      "signature": "8877de92ea258b8cdc77818e4cc48e0af30fc3f062527c8ec2d29c10dcb776088404b5250285a80952be9717591cf9ce5207460112c3aa4bc194df712d7a6b0a"
     }
   ]
 }
