@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:03:07Z",
+  "updated_at": "2026-04-02T20:08:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29277,6 +29277,27 @@
       "owner_hash": "57ff5da914219ff5b27a829276f4ac8e4fd30d32c2311dcc79dec41e288a58ff",
       "claimed_at": "2026-04-02T20:02:11Z",
       "signature": "26021b6bb3febd0ae718e9cf39e052b812d0cb7c72c50889d4fd23e6c8386685aea3161f614b129cc9d64bfe4a23b45ee756fbb85702f7624741f3540271f000"
+    },
+    {
+      "agent_name": "president",
+      "agent_number": 4173,
+      "owner_hash": "6409bf2c9f554c0e2bed8d0033aa7a1247a9b52f8161b87c017c7981b57551a5",
+      "claimed_at": "2026-04-02T20:03:51Z",
+      "signature": "7b84e5738c2fd3617edf6e23329470f442ac9244dabe6b00630f142d2a5cc7fe7104a095fddd4d03dbcdb250afb55c1054a41956c0701229cf792cd44e440103"
+    },
+    {
+      "agent_name": "lion",
+      "agent_number": 4174,
+      "owner_hash": "c8d188093b7a6dbd3bc963e4e4fa7c26c243be1c830c83cd31f6a86c24832a52",
+      "claimed_at": "2026-04-02T20:05:31Z",
+      "signature": "62f54aad1a9f9c447e75269cd1c01284a18381f4f5a3f929c856add6db2ff58045895e9d1f1f3aab2e37488a48fc1af0bc4d5cb2abede43ce68d916fcde1ea0c"
+    },
+    {
+      "agent_name": "leader",
+      "agent_number": 4175,
+      "owner_hash": "5d9b108f5e0ef699a9e0b6e8b8d51c74b6c6e0e7167a1ce6ed9c8a88381fdc10",
+      "claimed_at": "2026-04-02T20:06:24Z",
+      "signature": "f5bb121912284bf6f89e2c4ff4b32096782e64766174cff42a44916e40dbb18d2d3752e67ed00cb60e05a33cfe8aff851e2232545d5e65e210ba6f5b68781907"
     }
   ]
 }
