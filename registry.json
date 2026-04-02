@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:33:16Z",
+  "updated_at": "2026-04-02T20:38:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29375,6 +29375,20 @@
       "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
       "claimed_at": "2026-04-02T20:30:25Z",
       "signature": "cc96f3813d64541ed1a76955b9a49cb61f50ff09d44f44bc867c62173215471ab64c1ac4279fd6f67785889436024bfc35871f5324f556d268360249ceb0c80b"
+    },
+    {
+      "agent_name": "mybot",
+      "agent_number": 4187,
+      "owner_hash": "dfc56fe37ce201aaef272de6839ebe625d40981afda31bff34e757291c3bb53c",
+      "claimed_at": "2026-04-02T20:33:34Z",
+      "signature": "1aba204f524ad389fbe2cd5b30c03f8773de96a5d3dcd371b5b3eafd8b7074879b6d199592f1ac201e6285d64847af7fb46e770e325b699d74c24f2f8eb9070e"
+    },
+    {
+      "agent_name": "yandex",
+      "agent_number": 4188,
+      "owner_hash": "8f7e8f2009a1ecdc9758f68fc4980db9b954c8fec35dca9eb4a99981325e8164",
+      "claimed_at": "2026-04-02T20:33:41Z",
+      "signature": "9b883d4253b9d2f82f55ace1eb164b91706cc36d93b3b9ea4b6eb0a274b8cdce2f4c7e2f7f2b814eb61ab4c080cd751c0add2f1f98c057143b7d1cdbb829e00d"
     }
   ]
 }
