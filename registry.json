@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T17:57:35Z",
+  "updated_at": "2026-04-02T18:02:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28934,6 +28934,20 @@
       "owner_hash": "9e18ef7ec065bb01f6820cacf2a3e226be55c3c1cf84fdc13ebd0136dda3dc56",
       "claimed_at": "2026-04-02T17:55:50Z",
       "signature": "c0062bd37580d09392f14313c82303ce28d9a4b5f7d873b2bec39d7f479d1907e3c44c7293fec6b9aa0d94afbb5ecc505b619e137881629c7092184a5519db02"
+    },
+    {
+      "agent_name": "kingdigital",
+      "agent_number": 4120,
+      "owner_hash": "b461fe64e4a133890ec56324671f57cf783963c1c9bab6f702569ddb7fe72732",
+      "claimed_at": "2026-04-02T17:57:42Z",
+      "signature": "1b5cada6a7ac6177ed63a4138e53f2f3199ac83c11f09893188ee93fa72f91879d9fd2195e07786f1fbc49e46b0ed82f56c98bf61e3289c25313fa4071e5c20e"
+    },
+    {
+      "agent_name": "pawas",
+      "agent_number": 4121,
+      "owner_hash": "a9fea0733a3f3177f5df8e42889b89a130b54b67881ad0bb93e7e05ceeb2ad48",
+      "claimed_at": "2026-04-02T17:58:02Z",
+      "signature": "0d2dde2076e0ca0c1355d6427d20803093beb7520edbdda4a6fa6ea085ed513c688b0d58a7c4a98273bff4a84ddfb50328cb1e49a3e24f6c27ffdef940d62a00"
     }
   ]
 }
