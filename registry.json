@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T15:36:12Z",
+  "updated_at": "2026-04-02T15:51:13Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7688,6 +7688,20 @@
       "owner_hash": "9a609e57585ca0036c9a9f48d4e011ccdd6d175948eb4a5474e1a9f0a96b3a42",
       "claimed_at": "2026-04-02T15:35:39Z",
       "signature": "a54bb49cf3b776b889a2ad2978a9385c464ef7f1b098360925e7fbd0d0a4ba38a1009db978d68b6a941a761e2e5ac957a1f9966341d57bb16ea8813cfe0b4304"
+    },
+    {
+      "agent_name": "taiwan",
+      "agent_number": 4085,
+      "owner_hash": "bf280fdf4ce499b29f52c1b776459293e7fcf8e8563c1c38f2f3d352467f2951",
+      "claimed_at": "2026-04-02T15:46:35Z",
+      "signature": "ebb807d719f6661a7972e209f4616fe8e5e305f41da553ce37087fd68fe8d686502411c3ebd28c5387ebaa5021391d5eb886b2c6d0870a66b9ed65cebfa57506"
+    },
+    {
+      "agent_name": "yusufagent",
+      "agent_number": 4086,
+      "owner_hash": "b0df60e8755e1619a043e3982be163e49863aa3089b0cc307366d89de1292453",
+      "claimed_at": "2026-04-02T15:50:36Z",
+      "signature": "95742d78af9860eac6ab6b595a1a372963c9eddf887a39b2ee57f79198e1871e8644f67c4efaaff2c0f27314c653ebb5ab787a5506312aa6917b981ef48e4409"
     }
   ]
 }
