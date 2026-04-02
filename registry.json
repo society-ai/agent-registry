@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T21:23:29Z",
+  "updated_at": "2026-04-02T21:33:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29585,6 +29585,27 @@
       "owner_hash": "efbfd6eeec9305ee66447e9031df1885fe1505e6bcc4655d3d6df695cf050c68",
       "claimed_at": "2026-04-02T21:18:51Z",
       "signature": "d038fb92708551c2f4a1dbb002b93cc2eddaf32393332b45ebb82af59b78ce12e930eba05d877d373f3e405ea02593977fbd9a8179686e2896aead3420c60f0e"
+    },
+    {
+      "agent_name": "jcarter",
+      "agent_number": 4217,
+      "owner_hash": "22bb4863e7d121061ec6fa87375a982f2d9a5635626e5540802867af618cd4f5",
+      "claimed_at": "2026-04-02T21:29:57Z",
+      "signature": "9fc83a06565e50674182ed7774b72706f65ff2fb7862a3827593b44c9731fb3091dc489ac7fac9f86f7a7e151ce7e5bf5409b1b6242a396b4214c4792ac4ff07"
+    },
+    {
+      "agent_name": "paulo",
+      "agent_number": 4219,
+      "owner_hash": "10f7b0cb31fcfd88da794cc98e20e262102b1da3a955433e70a3113548b55dfd",
+      "claimed_at": "2026-04-02T21:33:27Z",
+      "signature": "82f9476c2acdb97289c0c3b56dcf099318ef94a75d3d28649c671238257724429c10e4e7a0d9e8dee467509e131e1983d20daa4f33e104145bcc715052d88d0f"
+    },
+    {
+      "agent_name": "pagpal",
+      "agent_number": 4218,
+      "owner_hash": "6651c98c2d76cf1f5c445b1783a8bab4a95209de3da0c74b4b7635df8deee470",
+      "claimed_at": "2026-04-02T21:32:22Z",
+      "signature": "0c628471813f03503bd35edd25ac5c29d8768f88807ecdaa56ccc5e3ed782323576ed92093d9eb19d3b0aefa9d94bcfb607a0faece41c047cd96e544996f0205"
     }
   ]
 }
