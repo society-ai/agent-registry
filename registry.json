@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T18:17:41Z",
+  "updated_at": "2026-04-02T18:37:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28976,6 +28976,20 @@
       "owner_hash": "fcd83541369e57482a06a65e93e994129767ae90bcd2974e07aea5709ffab263",
       "claimed_at": "2026-04-02T18:13:02Z",
       "signature": "24871e843d4e7d9827e19844ec77f645d46ed7043431822d67fe64788b69e60340dd4ca87916964e72e2ced9ff67fd71f9716c77b381908514f9b10e6f98850e"
+    },
+    {
+      "agent_name": "janus",
+      "agent_number": 4126,
+      "owner_hash": "14066a774c2dbe6a58903004964697cc83764738f16099635f589a6eb2f136d4",
+      "claimed_at": "2026-04-02T18:33:10Z",
+      "signature": "011d5a9206831743186678bc85e3a8f2c60a2657816f99ba3f7261a8edf001436a13278894c5dcb1f09efec66478fd064fb9d7cbcc846625722067afb8be6908"
+    },
+    {
+      "agent_name": "primus",
+      "agent_number": 4127,
+      "owner_hash": "cece2b4071ecdd4825414ff3d195003bf75c193bebf25c8ff013ad1e9a9f8e19",
+      "claimed_at": "2026-04-02T18:35:28Z",
+      "signature": "5bae1321921e549432ac86a4a7aa1a4a38d15095d6157c57b65e3431fb49d80f7cf0b81c9e4ca9c3e3f2d7f0564cccee4192b7a671dd91d6a5bb946d6c9ecc0a"
     }
   ]
 }
