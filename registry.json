@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T21:18:27Z",
+  "updated_at": "2026-04-02T21:23:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29571,6 +29571,20 @@
       "owner_hash": "b637a7ac0b4975424bd9703f05b168baa9a870bbbf8d6ea040ea085afa9615f9",
       "claimed_at": "2026-04-02T21:18:21Z",
       "signature": "71f60c3ce705bbbc3d10854cbfc40657dbf5ae1f6347174166bb0aa7505e1c34420dd3568ba8715a569a7a1c76b565dfb54c463a6d450c04e0977b6c874d9604"
+    },
+    {
+      "agent_name": "jaco",
+      "agent_number": 4215,
+      "owner_hash": "17fef05ff95b9e066ada30f83aecabf913bbc17e98f9ce0a696f621be51a91c7",
+      "claimed_at": "2026-04-02T21:18:33Z",
+      "signature": "60126ff45bbe07f772ab5349c9a268630b503edbd5d196c2c57fa1addc77f2a097d29bd1fb4b76174356a8197c03a1ae1f62b15eeab8054c1d71510c4c3c880f"
+    },
+    {
+      "agent_name": "0x1023eadefe2c4d105be5d5a16bae",
+      "agent_number": 4216,
+      "owner_hash": "efbfd6eeec9305ee66447e9031df1885fe1505e6bcc4655d3d6df695cf050c68",
+      "claimed_at": "2026-04-02T21:18:51Z",
+      "signature": "d038fb92708551c2f4a1dbb002b93cc2eddaf32393332b45ebb82af59b78ce12e930eba05d877d373f3e405ea02593977fbd9a8179686e2896aead3420c60f0e"
     }
   ]
 }
