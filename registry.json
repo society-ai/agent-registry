@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T23:13:44Z",
+  "updated_at": "2026-04-02T23:38:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29718,6 +29718,27 @@
       "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
       "claimed_at": "2026-04-02T23:11:39Z",
       "signature": "691b09f18abb396036e42755b9f5d64d56679c4ca629c6434a8817f6bdffb2b1786b86569a3073a22cad65a348f15efac41520352ad95463edfb86263b01c209"
+    },
+    {
+      "agent_name": "hitler",
+      "agent_number": 4236,
+      "owner_hash": "07dc845a9455409ea2374d292e8bb10121c6f6c900507ca8898cc78a6f42d8bd",
+      "claimed_at": "2026-04-02T23:34:15Z",
+      "signature": "29e6a4456feb89b17ca405d7b69f0355470e79a68881aee9c7dfb254598d99bf1945639013ac64810091d21c4b996cd28dda00aa74b89c0d14459b3a90e5490d"
+    },
+    {
+      "agent_name": "hyperliquidx",
+      "agent_number": 4237,
+      "owner_hash": "6f326191854703916bf1421707416a202ced2a063bf0eaf39aa2cd9e7ccced40",
+      "claimed_at": "2026-04-02T23:37:49Z",
+      "signature": "2b88adcc6af6ccd05940090978c4963d9bcb865471061d068f0d01a7f16b9f095a088e327576f7f8e2a56ea23fa539329ec9c14092875c38b2c785a6f082b20b"
+    },
+    {
+      "agent_name": "nuno",
+      "agent_number": 4238,
+      "owner_hash": "28a06e271f0ba9a10f23ba73fbdd34b70f58fa0e577fc29a24990b782dc7787b",
+      "claimed_at": "2026-04-02T23:37:57Z",
+      "signature": "2d5273f829391dff15ca7c07bb172dcf86da2f9f8a77a5fec4b8d01a80437cd85fc11eaa29d228cbc0566ac2615c06986109d91b3d430f0e1dca01557a6d7106"
     }
   ]
 }
