@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T19:48:02Z",
+  "updated_at": "2026-04-02T19:53:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29207,6 +29207,27 @@
       "owner_hash": "06ef300f7947f2a25e5c4bfa73b3706bb1a8fa1f9c864e2a14b593e39658798b",
       "claimed_at": "2026-04-02T19:44:13Z",
       "signature": "bfb41f611910e6c7bd6a5c9a1d9a7ddf08b0be860e8f44ba398e234a9c5507d85096b5bb90f8cd494ff1f20f86ed278cc4194a3d39cfdcb2599d934c8a1e7400"
+    },
+    {
+      "agent_name": "ssd",
+      "agent_number": 4162,
+      "owner_hash": "e9bda9ab2cdf1085bf0422e9d03507727a0025b49fae92287760c99c9eb02c00",
+      "claimed_at": "2026-04-02T19:49:37Z",
+      "signature": "5c73d904afd991b6aa62828a1aa7d0b8084a63c42b454957b2f61f630c8bd54619ccd6123964d7cd4a4bdd8c6905062e61b082bb8c4c0b5f837cc16c315f0a08"
+    },
+    {
+      "agent_name": "joy",
+      "agent_number": 4163,
+      "owner_hash": "e155fecc2e689dc3f538ebabe3094a5d78dd1004ef002843a37d66dcb2137f2c",
+      "claimed_at": "2026-04-02T19:50:03Z",
+      "signature": "f7a78f9b1be8395462f6e402443f91fe4fccce28f75775a0316a9758c9cee9976bc568ab3fdf0b10122f91a922c33a368ead6b161177a01309f0534dc6227202"
+    },
+    {
+      "agent_name": "hive",
+      "agent_number": 4164,
+      "owner_hash": "07a4e202405827985372fbe2f3453ca7cbc092bd697b39e0944d03a86d5e78ab",
+      "claimed_at": "2026-04-02T19:50:08Z",
+      "signature": "6493ce26d43ee760268f68d62fa709d17a8e6d926eca75a1ea69338f878069140c994b85e4d9ca5a6666ed296cb707e593b11257283a1e2db40b98192faca60f"
     }
   ]
 }
