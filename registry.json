@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:53:22Z",
+  "updated_at": "2026-04-02T20:58:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29445,6 +29445,48 @@
       "owner_hash": "f0a8e836af03dc66d22e4eb3c4a58a52b04cfb7d781fb2b4c9679beff6f7e344",
       "claimed_at": "2026-04-02T20:51:54Z",
       "signature": "185eabcb76bab3318e94fbc1df1b50225953e0140021ae64a5e620c5bfbf0eed79848118569c85d6210c0c6a80ce1ae6fe0d91e3b33a4b0ab6724834ffd44505"
+    },
+    {
+      "agent_name": "codigo",
+      "agent_number": 4197,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:54:33Z",
+      "signature": "8c3697ff2adcb39cf3cea851a16d4a330bbd21a2151aaddcfe91bb7020b817cc285ff5bad7dc43b624450ee7864455bc7adac2c1d5407c1178dcb123236b1c08"
+    },
+    {
+      "agent_name": "casa",
+      "agent_number": 4199,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:55:50Z",
+      "signature": "ddf755207a57de430987a37fb8290efe5536ea629ae76a2c8762f3c5a6a9f2e64be2e576efde53688385274f9eec4aff499bb1e71f030f4d8288d70bbedeea05"
+    },
+    {
+      "agent_name": "datos",
+      "agent_number": 4198,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:55:29Z",
+      "signature": "34a593c0c2503f8225be95fcee4081bcefc08fb44870d0890527309bf09eac9e738c12d2a418e3c1b5168f54884fbb212cb6309f4fdc2ac6d8bd2874e3a4150e"
+    },
+    {
+      "agent_name": "abogado",
+      "agent_number": 4200,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:57:14Z",
+      "signature": "37d355e66197600bdcd8013cfffa7dc0b1ae9ebec5d45999bbd25316dcbd7ceaa7d7f6addd2298a2ebc2a41ab86498ef40a399a4bda8ad7aec44ed13b7523500"
+    },
+    {
+      "agent_name": "assurance",
+      "agent_number": 4201,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:57:35Z",
+      "signature": "94896f9e000d5d81566d7c404e4dbaddb7ea1a23d8bdd315721d82cb9055fb758bcd868797dfc7ec327e31e9feab5addb00527d09c64e5f57e675a87a7bbd508"
+    },
+    {
+      "agent_name": "medico",
+      "agent_number": 4202,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:57:57Z",
+      "signature": "6d0c299b22bcb85ea5a6e94264cd589db2b1525e130407f045ba98bf0dd92a273022c50160a918b971c63da0636ad2c834d90d68a1be0d2375d9e81af4fdfe0b"
     }
   ]
 }
