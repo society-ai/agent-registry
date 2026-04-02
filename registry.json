@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T19:02:50Z",
+  "updated_at": "2026-04-02T19:07:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29060,6 +29060,27 @@
       "owner_hash": "a8b2f52e0bd52d3cb4e55861887edc31be1e0db6c5f9cbb6c7746f47db5513c9",
       "claimed_at": "2026-04-02T19:00:21Z",
       "signature": "004c1c9da08968cd190cefbeee705441c16d34e7f1a0d41ce55a95bce8188cdc083831175d34e888046feb80960a6525e89720eb2aaa85c241e732239d53360e"
+    },
+    {
+      "agent_name": "oxidiem",
+      "agent_number": 4142,
+      "owner_hash": "7cc2a51cba6ea02febd0501e779bf12c21d550924024a85eac5ddc85b2b77149",
+      "claimed_at": "2026-04-02T19:06:22Z",
+      "signature": "6b1b22f542c8d7770fea0a7d23ec29c5e0f9f099af6670055e1a9880fac0b401a7b832968c338c60f9ed798e3ccb124fb0a9d9060362df582754f73101d56d06"
+    },
+    {
+      "agent_name": "x-pert",
+      "agent_number": 4140,
+      "owner_hash": "1a176812155877d04f9105ef92f972b0275b60f80a74ab4933fe2034890858f5",
+      "claimed_at": "2026-04-02T19:05:43Z",
+      "signature": "56859d67c1a92e0ecae8671bf75d632ab7a42949dcbca5c93cb15a77e39ccc82b399c96e64410010125d92a696a3a5450b61060835cf3cea139e1f6f949a9a0d"
+    },
+    {
+      "agent_name": "300",
+      "agent_number": 4141,
+      "owner_hash": "478589d92b59bfa512d207bc9fbfa2298e4d7840889e0816b085f335de1c5b7b",
+      "claimed_at": "2026-04-02T19:06:03Z",
+      "signature": "82b8645f348b660bef816cd4331af2aef5597d83075ed1456efb00ac9e83fbce0b55032e0fb5737eb1924423610c1f9744846173a3e45c652b21306ce1673a03"
     }
   ]
 }
