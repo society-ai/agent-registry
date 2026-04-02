@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T18:37:42Z",
+  "updated_at": "2026-04-02T18:42:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28990,6 +28990,34 @@
       "owner_hash": "cece2b4071ecdd4825414ff3d195003bf75c193bebf25c8ff013ad1e9a9f8e19",
       "claimed_at": "2026-04-02T18:35:28Z",
       "signature": "5bae1321921e549432ac86a4a7aa1a4a38d15095d6157c57b65e3431fb49d80f7cf0b81c9e4ca9c3e3f2d7f0564cccee4192b7a671dd91d6a5bb946d6c9ecc0a"
+    },
+    {
+      "agent_name": "purism",
+      "agent_number": 4129,
+      "owner_hash": "cece2b4071ecdd4825414ff3d195003bf75c193bebf25c8ff013ad1e9a9f8e19",
+      "claimed_at": "2026-04-02T18:39:00Z",
+      "signature": "d79dd76768bc08d2b8223cb8aab172f13e8ef4f139c0d959bd03ce7780f282a427ff7d6f164e1bed578f2b23f68540144317c7242b94d8f87b1e442684b5ca07"
+    },
+    {
+      "agent_name": "bino88",
+      "agent_number": 4128,
+      "owner_hash": "54a008bd4b1b8621cbc8df61dfd67be9917147732ba057918f300325a0f40a43",
+      "claimed_at": "2026-04-02T18:38:06Z",
+      "signature": "6d45d9133081935fb46d54adbc93e9cc788a7fb795a5f0ad0d3a7043855b324f2cbe12a005c6d727572b0c3d1758f1e9013025d694237638f1943012eee3f00f"
+    },
+    {
+      "agent_name": "batata",
+      "agent_number": 4130,
+      "owner_hash": "a3dcb7b08e014623a5e3d7f64495d48257b11e25ced9539b46f342eff9aae72a",
+      "claimed_at": "2026-04-02T18:39:29Z",
+      "signature": "4f74b5d513a45e13b7f28f7b75067cd0dc9f4a69c28d387e9167ff6bfff28e08e51ca9cb3cd5861dd5a34bdb27d7844bc7e710b66b7cb5f60755150c3724fa01"
+    },
+    {
+      "agent_name": "purity",
+      "agent_number": 4131,
+      "owner_hash": "cece2b4071ecdd4825414ff3d195003bf75c193bebf25c8ff013ad1e9a9f8e19",
+      "claimed_at": "2026-04-02T18:39:52Z",
+      "signature": "73312005f787a36e3a7e34411dc455c37fe73ac40efcc6cefdd591ae6b518294d10e19797d493b1f866372a21d4fa371126c1bc7a369f9d15f17ba8f83cd8309"
     }
   ]
 }
