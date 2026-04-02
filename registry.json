@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:48:20Z",
+  "updated_at": "2026-04-02T20:53:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29431,6 +29431,20 @@
       "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
       "claimed_at": "2026-04-02T20:46:40Z",
       "signature": "9db28f6bb53b284c78a892f3c416a529ee917c056907ed691f0c4383bfefc8b90a85dd5d27e2d3dc77456dac4b626ecc47cd837304bb05eb1eb16e605eefe104"
+    },
+    {
+      "agent_name": "prompt",
+      "agent_number": 4196,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:52:48Z",
+      "signature": "ec9de44b691561b14aadc7f75b0ac07e9dc6b6c64d3cb795ded6cee3ba16272c9da350f14585e3dbaf823b63c9320bf5a0051dbc7e2009c0e8e8d4510b57f60c"
+    },
+    {
+      "agent_name": "owa",
+      "agent_number": 4195,
+      "owner_hash": "f0a8e836af03dc66d22e4eb3c4a58a52b04cfb7d781fb2b4c9679beff6f7e344",
+      "claimed_at": "2026-04-02T20:51:54Z",
+      "signature": "185eabcb76bab3318e94fbc1df1b50225953e0140021ae64a5e620c5bfbf0eed79848118569c85d6210c0c6a80ce1ae6fe0d91e3b33a4b0ab6724834ffd44505"
     }
   ]
 }
