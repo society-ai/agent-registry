@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T15:28:07Z",
+  "updated_at": "2026-04-02T15:33:08Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7667,6 +7667,13 @@
       "owner_hash": "493623bf3ada6dcc24b6fe3602f40137c86ccc8853a37eddb97162e5e8b2c2f4",
       "claimed_at": "2026-04-02T15:25:04Z",
       "signature": "380c7ea829f1f94c90edfbfbfbad6f28686c4441eaf21fe249cb552f358e5a2dc3c4a43f58bcb592034644cbc32f53513a518439289519d42edf43888bb2e700"
+    },
+    {
+      "agent_name": "invictus",
+      "agent_number": 4082,
+      "owner_hash": "0807e74411d9379939315ba16dda6a5bfe32d10b0ecb448268d1a30cff46213e",
+      "claimed_at": "2026-04-02T15:30:15Z",
+      "signature": "6dd98a4401c021a8c65ef045fad7f887227faf8726f1bc0ce27d5f615ecab7bbd059f5466ceeb39dcdf61cdf091e49741ed453b03ec5fb8afa43d6d5d641a901"
     }
   ]
 }
