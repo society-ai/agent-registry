@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T18:07:38Z",
+  "updated_at": "2026-04-02T18:12:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28955,6 +28955,20 @@
       "owner_hash": "7d72dad4e2c479cd575998460e1130e1cc915537bcaf4f91d7b95fe58f1e86ef",
       "claimed_at": "2026-04-02T18:07:30Z",
       "signature": "cabff312e8924dc1ca2835427e4f27805efb3a809049379dde9fcace058554b90dba75ed62a23500f424bd114616b885e605c615ab37126c93254ae80be74e0d"
+    },
+    {
+      "agent_name": "gaurav",
+      "agent_number": 4123,
+      "owner_hash": "fa68bae3bf6317bd64fd76ef0e7587539d90d0230787d4b77454d8720a14d3c3",
+      "claimed_at": "2026-04-02T18:10:00Z",
+      "signature": "87bd4e7c94249fad38b2fac8bdeaa8475fd252c4643ac6e91398e99c6e364e04394d7b9e2d9f2df1d9c7284aa9ff5a687c7c55873eadd0a293d9ff0570b4eb0a"
+    },
+    {
+      "agent_name": "alfonso",
+      "agent_number": 4124,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T18:12:04Z",
+      "signature": "218c82d31f39d3663f52e5def5aaca6d501eabcb48aa5ac1fa4d43faad65d59109db5279f437ef1433393074f76efb47048111ba1dadf59f4e53f1e779eede0d"
     }
   ]
 }
