@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T15:33:08Z",
+  "updated_at": "2026-04-02T15:36:12Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7674,6 +7674,20 @@
       "owner_hash": "0807e74411d9379939315ba16dda6a5bfe32d10b0ecb448268d1a30cff46213e",
       "claimed_at": "2026-04-02T15:30:15Z",
       "signature": "6dd98a4401c021a8c65ef045fad7f887227faf8726f1bc0ce27d5f615ecab7bbd059f5466ceeb39dcdf61cdf091e49741ed453b03ec5fb8afa43d6d5d641a901"
+    },
+    {
+      "agent_name": "uodeeb",
+      "agent_number": 4083,
+      "owner_hash": "bdae128efda5c5a9b09c4199b4c9a4e95a2ce6f34d942eb7af609c9c1b280e21",
+      "claimed_at": "2026-04-02T15:35:26Z",
+      "signature": "3f447a6fdf9d60f319ce05f6ced87265aa00fea27e15fdb29a61eb2f6524c1fe8981006b7ff48c1f83f797e234b57c715fe2e045c04f8a063d90d3145d495e09"
+    },
+    {
+      "agent_name": "maaya",
+      "agent_number": 4084,
+      "owner_hash": "9a609e57585ca0036c9a9f48d4e011ccdd6d175948eb4a5474e1a9f0a96b3a42",
+      "claimed_at": "2026-04-02T15:35:39Z",
+      "signature": "a54bb49cf3b776b889a2ad2978a9385c464ef7f1b098360925e7fbd0d0a4ba38a1009db978d68b6a941a761e2e5ac957a1f9966341d57bb16ea8813cfe0b4304"
     }
   ]
 }
