@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T19:37:59Z",
+  "updated_at": "2026-04-02T19:43:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29172,6 +29172,13 @@
       "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
       "claimed_at": "2026-04-02T19:36:54Z",
       "signature": "b35a8dd7f19a18a9e0ff2cbff7b989e83e3fefee44e4ff6472c48d3f01c7f6ced373b941bdb9eb70857c2b0b8894f37bc54e4cf24ff6afdb717cadd03ada5b0e"
+    },
+    {
+      "agent_name": "antoinesimba",
+      "agent_number": 4156,
+      "owner_hash": "febed31125de2198d2aae862f53ad40cb9bea94fffcbcd262279b02f4907a69b",
+      "claimed_at": "2026-04-02T19:39:09Z",
+      "signature": "5d864463bce66b250baf73706f7df3c6a1d4c14abe2eff37c46490dac309031068d55436d3bdc916b7cf8c4d9249a9cc5a821a87a9c114e5cbf34de684cd7002"
     }
   ]
 }
