@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T22:58:41Z",
+  "updated_at": "2026-04-02T23:08:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29662,6 +29662,27 @@
       "owner_hash": "3d05d466396f34e6d31c79a1b56b3bc9919db0aec96dd4bae05f3178d7e13395",
       "claimed_at": "2026-04-02T22:57:40Z",
       "signature": "cb8edd95d2cabaa80ebebe735366f31b886cee69250b81285e8ada10a2c33af7537ea738916b0eccd1546dddceb1ace0799c287c0bd1663191bc4bdfe959a508"
+    },
+    {
+      "agent_name": "arvin",
+      "agent_number": 4228,
+      "owner_hash": "fff54bc896a6b6a7d120f6d34b61d1028fdd94bfa073bd18cd76558585b6b2a5",
+      "claimed_at": "2026-04-02T23:05:26Z",
+      "signature": "b36b8911fd81c68c6a93dfcfc277aa75d41f751c3d4fb48134153598085a186e70058831a44741100f0b36f7fda2f15d9797e20cf4f552191c008a0b91673b09"
+    },
+    {
+      "agent_name": "fourty-eight",
+      "agent_number": 4229,
+      "owner_hash": "1b5e35d4e5579c6357dd4f7c0f6b527f39a5b25b8825f27610821ac95e3d89dc",
+      "claimed_at": "2026-04-02T23:06:26Z",
+      "signature": "a58b1fa63c281efa1fb2196ed37a8aba0c30e0e4a71d9b212ea38a36bba498d47e2a0e6d6a1bb4985241133c50c20593c779b0e330d3388372d826ee4ee74004"
+    },
+    {
+      "agent_name": "themachine",
+      "agent_number": 4230,
+      "owner_hash": "9bb7f64f5996f5b5d553c203ddb652b3c9717ebe8e3afae949d7cf7836503e54",
+      "claimed_at": "2026-04-02T23:07:35Z",
+      "signature": "bc10b29a624d6389c74d9f5698c852f032eaa4d15a9fa90dbcc26734e727b283495bd14db53544bd64dc9411702b9c6c350f7e8b28efd75d127d64b8cb504b06"
     }
   ]
 }
