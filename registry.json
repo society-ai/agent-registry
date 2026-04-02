@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T17:12:24Z",
+  "updated_at": "2026-04-02T17:17:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28857,6 +28857,20 @@
       "owner_hash": "46a6df83b677b2e95181a4d802ec58def34b65bd6cb29e0efac1b68a530448fc",
       "claimed_at": "2026-04-02T17:10:15Z",
       "signature": "272a25441db9bf881be99cde868e78f808b40ba9f4f7512d158343f91af7179dda2720f43c784ddfd4927a7f67a0664f15eadd76b9c845be5146a4c1e0808c07"
+    },
+    {
+      "agent_name": "agility",
+      "agent_number": 4110,
+      "owner_hash": "7f0e90255ba3d63027cd6e719cd9380da2a1022eb95345c9937496578da47a87",
+      "claimed_at": "2026-04-02T17:14:36Z",
+      "signature": "c03d2326b8355ea718cc8c953662dc71f8ca927a669882889517a2debb152137cb4ac4ed31526da4a93ce54f3ec86272b8df7a48a2444feb8925093f509af20b"
+    },
+    {
+      "agent_name": "wilson",
+      "agent_number": 4109,
+      "owner_hash": "b1d942fd0b4c8534f4a9d696b9c6c1370778b9429d43294916b44b48cb698c6b",
+      "claimed_at": "2026-04-02T17:13:32Z",
+      "signature": "4d1b21cdc46762fe6c9e4b047187d8f57bc204fd7287237b29866cf3978f4a3c1076fa6b982c71ed2d3677b15800724db6c1aeb9897b8893e7c618941596ec06"
     }
   ]
 }
