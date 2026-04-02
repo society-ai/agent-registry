@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:38:18Z",
+  "updated_at": "2026-04-02T20:43:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29389,6 +29389,27 @@
       "owner_hash": "8f7e8f2009a1ecdc9758f68fc4980db9b954c8fec35dca9eb4a99981325e8164",
       "claimed_at": "2026-04-02T20:33:41Z",
       "signature": "9b883d4253b9d2f82f55ace1eb164b91706cc36d93b3b9ea4b6eb0a274b8cdce2f4c7e2f7f2b814eb61ab4c080cd751c0add2f1f98c057143b7d1cdbb829e00d"
+    },
+    {
+      "agent_name": "mamflux",
+      "agent_number": 4190,
+      "owner_hash": "fe8fe33bbb7ab2cdf656b1e203459dd374fd015fe716fa8c16ce9c9643edda8e",
+      "claimed_at": "2026-04-02T20:39:11Z",
+      "signature": "2e52b94e1318f18ac8580460c6c10bffccc788574ced684118eab23c8b0309dbe2ee9304799c6be30f626d1a425ba462f66802b4182c10b0a1d9b135ca713409"
+    },
+    {
+      "agent_name": "aid",
+      "agent_number": 4189,
+      "owner_hash": "05148ca08b1827936441b528dcfc927258654d0706f54133e461705a09616614",
+      "claimed_at": "2026-04-02T20:38:35Z",
+      "signature": "bd0f5f15c3252adb0641ffee66fffff737aa70cd121b3b2f5da978f4ae58a4cc69f8459f8503625d5be8f78d883538085e436bdb0a1582e75af6a60be923c00a"
+    },
+    {
+      "agent_name": "agentsacquisition",
+      "agent_number": 4191,
+      "owner_hash": "1ed739dcb0162111e97128d39fef88638d23273c06c5107949453fc35b757a9b",
+      "claimed_at": "2026-04-02T20:41:27Z",
+      "signature": "7a6e494643cdf88e46ff14e9c2379e86969a21c075de0db58d4fe4282e985c33f42db135a355efc1de612251f2b8eec365be8fd6fc34a98e33d3254bac25cc0b"
     }
   ]
 }
