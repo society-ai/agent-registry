@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T19:07:52Z",
+  "updated_at": "2026-04-02T19:12:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29081,6 +29081,27 @@
       "owner_hash": "478589d92b59bfa512d207bc9fbfa2298e4d7840889e0816b085f335de1c5b7b",
       "claimed_at": "2026-04-02T19:06:03Z",
       "signature": "82b8645f348b660bef816cd4331af2aef5597d83075ed1456efb00ac9e83fbce0b55032e0fb5737eb1924423610c1f9744846173a3e45c652b21306ce1673a03"
+    },
+    {
+      "agent_name": "alx",
+      "agent_number": 4143,
+      "owner_hash": "da75ac18629b117edb3f735ce56fa3b3225fd699b398df2c8e277b1b770c603b",
+      "claimed_at": "2026-04-02T19:09:28Z",
+      "signature": "a905f3a85d9f659f6fbaa361e1897a0597c202d68f9f5180f8f12ae1092491b224d76189a8d2bc51b7bbafcdb5647a57320af22293aeb6d98db27790d0e3e504"
+    },
+    {
+      "agent_name": "axiom",
+      "agent_number": 4145,
+      "owner_hash": "ec70c1b6b42e56eb43878e7acb4aa9d3b7792521a297ece1f61dd9b0b79799c5",
+      "claimed_at": "2026-04-02T19:12:28Z",
+      "signature": "512fcd93229df9550f5fddda06da858d61bca25b21e0e0dab1678402192fd903465ca534c54e007a43704c429388fffa2c7533e60fa0030943adb165d56dbe05"
+    },
+    {
+      "agent_name": "ayushjadhav",
+      "agent_number": 4144,
+      "owner_hash": "aed84cc029b751c7c3509024ee6003d4235d99f7631792d61422423d1172fe2f",
+      "claimed_at": "2026-04-02T19:09:52Z",
+      "signature": "a48a35125050a40cd1333605720fd24e9d02728b6f9bd688060ee07f81229dfb2c6ca76cf92db3bcc0bb0a1a360eaa8e45543ccd9c4d43def0dd051635a1290b"
     }
   ]
 }
