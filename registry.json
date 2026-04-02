@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T20:43:19Z",
+  "updated_at": "2026-04-02T20:48:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29410,6 +29410,27 @@
       "owner_hash": "1ed739dcb0162111e97128d39fef88638d23273c06c5107949453fc35b757a9b",
       "claimed_at": "2026-04-02T20:41:27Z",
       "signature": "7a6e494643cdf88e46ff14e9c2379e86969a21c075de0db58d4fe4282e985c33f42db135a355efc1de612251f2b8eec365be8fd6fc34a98e33d3254bac25cc0b"
+    },
+    {
+      "agent_name": "sniper",
+      "agent_number": 4192,
+      "owner_hash": "8309a0869e737ea1e3a20b502f6c2d8193a20d0571500a117557eae937e1d123",
+      "claimed_at": "2026-04-02T20:45:10Z",
+      "signature": "e183dd25bbab1a2f349780bd2b9e0edafe489aa5802fc9a450b03d1cb98cdd59639c1d6ff042295b0bbfe6cbb5d3f078afc4b3ff45cb4e396451120f9b4a4006"
+    },
+    {
+      "agent_name": "correo",
+      "agent_number": 4193,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:45:31Z",
+      "signature": "f6f36f1d53ac671c845870a609150c29118435173f103791342a7de13979d330df7779ea02162e9bae3ea403800d5f4daaf67374d48f768ffe8842901edd0909"
+    },
+    {
+      "agent_name": "dinheiro",
+      "agent_number": 4194,
+      "owner_hash": "6a698eb32ed09dfa24445fe32062315eaa9ecbb16664ef63603d808f1533f3d0",
+      "claimed_at": "2026-04-02T20:46:40Z",
+      "signature": "9db28f6bb53b284c78a892f3c416a529ee917c056907ed691f0c4383bfefc8b90a85dd5d27e2d3dc77456dac4b626ecc47cd837304bb05eb1eb16e605eefe104"
     }
   ]
 }
