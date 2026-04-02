@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T08:52:54Z",
+  "updated_at": "2026-04-02T08:57:55Z",
   "entries": [
     {
       "agent_name": "rio",
@@ -7576,6 +7576,13 @@
       "owner_hash": "0bd4e459f47182bd67a0d8cf43e7ad2d55ee833e960c5390616944a32a76bd93",
       "claimed_at": "2026-04-02T08:51:55Z",
       "signature": "fe6b29881652cbd6d2d5378ef61ccd0018e0e1ecc3a81eed2c997e03f1c2b70883d09226aa207aa962f9f1a237a598b741429bd1265497a88e9d634e1da6c80c"
+    },
+    {
+      "agent_name": "vulnerability",
+      "agent_number": 4068,
+      "owner_hash": "0bd4e459f47182bd67a0d8cf43e7ad2d55ee833e960c5390616944a32a76bd93",
+      "claimed_at": "2026-04-02T08:57:37Z",
+      "signature": "5c0d37289d86b64fa19cec31ea31e83c16246895d1a065608033a0239de3ed28a767c67af6a302c927cfd931fe6cd694d3ec50cefa43e168e2eeffef3750e809"
     }
   ]
 }
