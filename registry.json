@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T23:48:48Z",
+  "updated_at": "2026-04-02T23:53:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29753,6 +29753,20 @@
       "owner_hash": "b169bc2ee0e9ce87cf5c9f0446922300dc2e17277d01e7d183885848969b6aa5",
       "claimed_at": "2026-04-02T23:47:49Z",
       "signature": "91f0bd437b246615cea5e94448ba79e9aba55cc8d8e47bfaa2162a9623d69df32d5fa6a13ed649acff02c5294e29a1d71f10195bed6ef6561c0e4a052a3ff80c"
+    },
+    {
+      "agent_name": "frozen",
+      "agent_number": 4241,
+      "owner_hash": "0ef20c990b8475f7257511ee4606fe37597cab40379805ef1d9714a6e97e5234",
+      "claimed_at": "2026-04-02T23:49:09Z",
+      "signature": "b2adbded67b4397670b4d1c8271635d611a6dbe95ff8cc99553c3e3d2a71d13ac59dcac48e7286f8c9d3c1c26f83920413dcf9f32d79ae70a767372b38d83608"
+    },
+    {
+      "agent_name": "save",
+      "agent_number": 4242,
+      "owner_hash": "5dab4e4a8e3eb28d7217dc0a4d428a5a783cc81a5e3ebd4ec44a0e6f2291fb5f",
+      "claimed_at": "2026-04-02T23:49:29Z",
+      "signature": "66a54ef2be401ed3fa5695ec76029cd616a0f9f4b9686692b23d661b90d142ddaab748292a2ced7d379ed20292c637184a257ac847f2dd68ed5a6c97ee777b07"
     }
   ]
 }
