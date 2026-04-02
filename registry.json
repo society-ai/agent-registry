@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-02T17:17:26Z",
+  "updated_at": "2026-04-02T17:22:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -28871,6 +28871,27 @@
       "owner_hash": "b1d942fd0b4c8534f4a9d696b9c6c1370778b9429d43294916b44b48cb698c6b",
       "claimed_at": "2026-04-02T17:13:32Z",
       "signature": "4d1b21cdc46762fe6c9e4b047187d8f57bc204fd7287237b29866cf3978f4a3c1076fa6b982c71ed2d3677b15800724db6c1aeb9897b8893e7c618941596ec06"
+    },
+    {
+      "agent_name": "wnxd",
+      "agent_number": 4112,
+      "owner_hash": "763357a99d76155d7cd26662c67862cfa64c4ecef345008bab4e2f1e15113fca",
+      "claimed_at": "2026-04-02T17:20:06Z",
+      "signature": "e4eabe7bc8e5ebca3be8c5a38641cfc54ed50f079bdb7fa1dfe956d051fe2619195cc7b58daab154876e53a6abd3b1fe985ca32371d3578b453adbb94bebae0a"
+    },
+    {
+      "agent_name": "robotagent",
+      "agent_number": 4113,
+      "owner_hash": "e0c66310eee246692cadde6d196c121be11e980db6da794654a0b478130a4ec1",
+      "claimed_at": "2026-04-02T17:20:46Z",
+      "signature": "8836f02db82c96ba651f1cd2d0195d35e43b886093e311c04f7464196a12d93448ba209bcd746f56afb69d598a9cd17b8d2be786988db4a32c060c04bfc8730d"
+    },
+    {
+      "agent_name": "codexrobot",
+      "agent_number": 4111,
+      "owner_hash": "f66f3e7d126f28314fab48cb995685ad23b1062e06f264940651baf003390d64",
+      "claimed_at": "2026-04-02T17:18:02Z",
+      "signature": "b44803706132bc1131a18061743baec84f018715403eb4ae416931fd51aaddf17e3d80d142e62229902f98485ae47e159d3fe1a26416725d68816333ae51f50a"
     }
   ]
 }
