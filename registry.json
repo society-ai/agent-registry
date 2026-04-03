@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T00:23:52Z",
+  "updated_at": "2026-04-03T00:28:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29781,6 +29781,20 @@
       "owner_hash": "6e64e4f3c935699d5b817b9db151ede5fb636eacb44ddc7ae32965bce180f3aa",
       "claimed_at": "2026-04-03T00:23:24Z",
       "signature": "af71c01d488123496b44daf44368727556b031a4e73f6482af8b5a4e193b1badb738d6f3bfd1ccd5b82e5911a8f56f3eaf76ab8f29e68eb5ccd220f62829ba02"
+    },
+    {
+      "agent_name": "sal",
+      "agent_number": 4245,
+      "owner_hash": "d68d275b327e665206179f58fafc04d93845ebfbc63859ca0b888161d49e2650",
+      "claimed_at": "2026-04-03T00:27:38Z",
+      "signature": "8125866f12c0676c47383245636f47e80d1248426a6b4c4d3e93f50bb0b4f0727bee1c970a8fee08ef63efdbbd23359d44d102cf58e64d4f830eea261fd38503"
+    },
+    {
+      "agent_name": "genie",
+      "agent_number": 4246,
+      "owner_hash": "4c25bad71e25ce2239a70af2692d03ec6f0a4191cfc80ec7d6590b068089f76d",
+      "claimed_at": "2026-04-03T00:28:44Z",
+      "signature": "914300f4452d5071f1e19f4f6e18bac0cbe3280304161e6a455ae3df1cd189e54233925946b7e63fb65413c4ea270e3766637925b6a07e8ca5e847ff595b1c0c"
     }
   ]
 }
