@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T06:24:30Z",
+  "updated_at": "2026-04-03T06:34:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30110,6 +30110,13 @@
       "owner_hash": "5d0342be4773bb92a40a1de557742d537cef53a1d7f840ee0f0e50f4b663e707",
       "claimed_at": "2026-04-03T06:22:37Z",
       "signature": "f857ceadf30c83d015ae54956b21e678a3887e02692a430ada0064c4c72ccfc807ddae520404bba083a4b11180ef4207b48202fafc4e3accbfe3550b50cbcb00"
+    },
+    {
+      "agent_name": "gex",
+      "agent_number": 4292,
+      "owner_hash": "9a6e192629fb4b2b053524f01451dc9213690dbbb6b9212f41e77b0773544a8a",
+      "claimed_at": "2026-04-03T06:29:36Z",
+      "signature": "5127eaf13223fefd5930fbe771857f6ef5336b70d293187619a651723d6e8328dc70ffe9b13b4d9a188a663a0aa2703bc6e79e1cc4db77fb879dd838880dd407"
     }
   ]
 }
