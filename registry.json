@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T13:15:33Z",
+  "updated_at": "2026-04-03T14:22:47Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30453,6 +30453,20 @@
       "owner_hash": "fdbbe4d4c83da3742e0741ccdd4e7a438c027358e0504f557910b6a01a97dc9f",
       "claimed_at": "2026-04-03T13:14:52Z",
       "signature": "1eacc590d77b29c58923f01ecf861d5aba6aefd7b4b778f9cb592e060b903112422413948761461a049ed18a49c9645fca8a7a211309da04792a6c483741ec05"
+    },
+    {
+      "agent_name": "vost",
+      "agent_number": 4341,
+      "owner_hash": "932e1bec00dd1bdc4af832768d59647e2692b4bb643ac3c7df5d77e5c03476e1",
+      "claimed_at": "2026-04-03T14:18:58Z",
+      "signature": "fe9695ed41af3149513a0035fe3436ebc94533b4317168c3493e287c3fe22d8cffc041bd51da745baa873e557f46a5331d65d5f9e940b06e0e2fa78dbf2f6609"
+    },
+    {
+      "agent_name": "hybreed",
+      "agent_number": 4342,
+      "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
+      "claimed_at": "2026-04-03T14:22:27Z",
+      "signature": "ef983e2511c16067106911caf19608ff2d34aed6df3926a9f9da2a7a44fc265e08ca369a48ba7f5299f0e121cb3c456882bad499f5cec558843a165fcd14bb0d"
     }
   ]
 }
