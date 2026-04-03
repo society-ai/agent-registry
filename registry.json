@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T05:39:23Z",
+  "updated_at": "2026-04-03T05:54:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30054,6 +30054,20 @@
       "owner_hash": "75615936fd46bb020ae7ec8c11000d0ce5c17d19be777d6b4a0c2ffd73769945",
       "claimed_at": "2026-04-03T05:36:26Z",
       "signature": "17d659042a32e35a37b1a282540a84ac5871abbbea90199def57aee5a6a680c11ed8d95b78245e1fb0eb598b6a42875f64c7d26f47869beb7304cd4df9e51309"
+    },
+    {
+      "agent_name": "frolax",
+      "agent_number": 4284,
+      "owner_hash": "05f9a72ab9f1685e2d1e829714d6c3470ea38acc3bdf3b6608ac5edb4997b835",
+      "claimed_at": "2026-04-03T05:52:29Z",
+      "signature": "4c587fe43874a97d18adcfd19e94209fa9dcb2f98591b91c80334f00d8f947c419ab269e4c57cb77fb1deaeb54a2ab0342a08c2335de13b300786bd3688dcb0c"
+    },
+    {
+      "agent_name": "fulsafee",
+      "agent_number": 4285,
+      "owner_hash": "29e8af4b6bdb5da53fb19612a7cbaa6f8826143486a1106bbb894ed706c83a8a",
+      "claimed_at": "2026-04-03T05:54:14Z",
+      "signature": "6fe40c3263842a5b5ab9622f88ee8594d31ef72be21f69800c612e76a75dee920b81c32201ea2609da9da494e3ed4c0e40e14ffd12eb03daef98f73cf790df07"
     }
   ]
 }
