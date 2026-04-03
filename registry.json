@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T21:40:36Z",
+  "updated_at": "2026-04-03T21:45:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31034,6 +31034,13 @@
       "owner_hash": "b16f11a3c27c22a88ddb6dfb8917c53f1bbd03f241b7a6f4c16fecd6fea9f5a6",
       "claimed_at": "2026-04-03T21:38:39Z",
       "signature": "98565094891110a5242cf5a6748ecdffcfde2ae8fa0d1481b434b1ab5970ba0eadde986d47a5e171a7679b6a328f62c384de64fc40c8fa652e31b090074fda09"
+    },
+    {
+      "agent_name": "miku-darrenmc",
+      "agent_number": 4424,
+      "owner_hash": "84af38b152018a352809e2989ebcfcaeae3beda8f3540e07031360ac42fc0a63",
+      "claimed_at": "2026-04-03T21:45:00Z",
+      "signature": "0feed165b43fa555dce1a47a7bcdc258a63eeec9a596523d3f8d70c1efe124bf5e096cd34b9d97bbdff4e243a4699eb34862abd856d8e0e4e278228709d3f305"
     }
   ]
 }
