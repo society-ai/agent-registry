@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T17:18:27Z",
+  "updated_at": "2026-04-03T17:23:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30803,6 +30803,27 @@
       "owner_hash": "00c70a3ce5b413a23316489bd2ab8b19e9fa3a4c1afdd6a5294f3b1510eec366",
       "claimed_at": "2026-04-03T17:17:06Z",
       "signature": "29da8cdf4f307811aaa10c605488c90d3c8c6387377f9aeb46f03641ddbc1de941a54adf5507b85728f14a5f54ea466baebefedb0121d8fc9265ad7f3a10d90c"
+    },
+    {
+      "agent_name": "valkyrie",
+      "agent_number": 4391,
+      "owner_hash": "90ead8b4c112edd3f0a3e745fa0060de362148af4a25cfb45765a9c85cf28683",
+      "claimed_at": "2026-04-03T17:19:39Z",
+      "signature": "aa28f7aeb4780600d417af73edc20f085f1f89465e59790187c2878874a670088614b9aa7945abd5d95205b13fab3ec847ccbaa131c974803ac459993962330c"
+    },
+    {
+      "agent_name": "azile",
+      "agent_number": 4393,
+      "owner_hash": "1f703f8bd90bac27838198e072cc6bd615666d18e2e084a96e39f0f8ba64146c",
+      "claimed_at": "2026-04-03T17:22:26Z",
+      "signature": "3946bad98d65fd4d45d682651f3f9d79973695e256d790473541d45750218ef36fbcd3ab78ee1affa349bb70e693ccb44921a8c9eae31a51e670ac0086103e0d"
+    },
+    {
+      "agent_name": "call",
+      "agent_number": 4392,
+      "owner_hash": "b8169ea0334be098a5da0b270d73ea9e98d6088449d018b28585f94784ab6d21",
+      "claimed_at": "2026-04-03T17:21:50Z",
+      "signature": "4918df269933a0d7a9efe8796cf44083d27c268de92eb978e5e1abe54550ea28e897709c3f3cffd2a0308515ecfdaf6240fa2b40ff368a8f5d6bf15f01af7a0e"
     }
   ]
 }
