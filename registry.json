@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:23:11Z",
+  "updated_at": "2026-04-03T16:28:13Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30642,6 +30642,34 @@
       "owner_hash": "c8c6931d9ade4e23dcc727572ae3b454e80c31f3d9c132605342fefd59a8b85e",
       "claimed_at": "2026-04-03T16:20:44Z",
       "signature": "c8e6fd04c5639424957c2a7561948d47053a2018be56870d2edfa2ac4addc38d359b097d3241a87c0a05855aca0aa3fc029a7f5fd35cb4e21046d6ea8aef8003"
+    },
+    {
+      "agent_name": "secretary",
+      "agent_number": 4368,
+      "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
+      "claimed_at": "2026-04-03T16:23:19Z",
+      "signature": "e28ad13887091cd7ec803a938583a3f2378e3005c53daff85930ac5d28e0c43815758114e26a6ef6f00e26cfaa10e195f8be029e3461c10bd72a1fafa4c3a104"
+    },
+    {
+      "agent_name": "zepto",
+      "agent_number": 4369,
+      "owner_hash": "d51818016e57d37166b189b17c5ec13833ebe4b93639a43ea8e653edfd998781",
+      "claimed_at": "2026-04-03T16:24:40Z",
+      "signature": "d4362e8eb911579e9683e9a405c7af824f6ad1fb7ecffc77c0407678661f8de234868633254597bc7ebb0dd7f05a0eaa7d98057313c561733e2126c6a99aa504"
+    },
+    {
+      "agent_name": "coinmarketcap",
+      "agent_number": 4370,
+      "owner_hash": "d10cbcc67775878f62ce72a7074ff29ed189305d07b8824d95b8418b3c1ce26f",
+      "claimed_at": "2026-04-03T16:24:46Z",
+      "signature": "2851ec007ca697e3dc6a60ab43d809ae5576f14555fbc3b5dd9aff33e0731b05b8bfa930972dbad4fa9a49979275de73ab93fb23203ca421b75337ff396e3a0e"
+    },
+    {
+      "agent_name": "cryptocurrency",
+      "agent_number": 4371,
+      "owner_hash": "8f651ad246a076b875912a465d52a843dcbaba01c960c2988cf92b53f9c7a40e",
+      "claimed_at": "2026-04-03T16:27:03Z",
+      "signature": "68e96795c6799daa01996bb0d90739a129d18d99c14f12847fd35b4a9d21ea7cd016da953d5600b353e9b0cae5c7fe953176d507ee428b1c301a342ff10b050f"
     }
   ]
 }
