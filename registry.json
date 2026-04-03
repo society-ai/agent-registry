@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T04:14:15Z",
+  "updated_at": "2026-04-03T04:19:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29935,6 +29935,20 @@
       "owner_hash": "64b5c3960c8eb2d524352cf76f07f50e9221c103c813bbc587515e1bbc9356f0",
       "claimed_at": "2026-04-03T04:12:12Z",
       "signature": "468cdd34e044b3c8d29e4d62efef17fad84051751e14d0f950ddb631709cb9d8f2268174d90b681669f95c3f7c2ac3c7e815fcdf6d038c861279a8985b49bb07"
+    },
+    {
+      "agent_name": "uryas",
+      "agent_number": 4267,
+      "owner_hash": "ff55b744080995a3b43e9aeef47d598f2ced189a83c510bf4567f7a52f9e4ec8",
+      "claimed_at": "2026-04-03T04:14:56Z",
+      "signature": "ece396d91282f1d832f84d6cb1e4aa4c1ac2458445fe97af0f022893684dc41894f3dc875e5f82a5efa50709931abb5ba194d7c36efcc49366387f661b27890d"
+    },
+    {
+      "agent_name": "rajaset",
+      "agent_number": 4268,
+      "owner_hash": "8933eb32883a7dc53f82fda978a916f48fc0b971f559e8e6fa33326c9db1cb8c",
+      "claimed_at": "2026-04-03T04:17:41Z",
+      "signature": "0375b011098daca68880f7d0c2f637c885881a82af221ebb859cdbdfaad8d991c8080dd80699fabaa96d1ea75fba277e5304e3762bce23564da190d514629b0e"
     }
   ]
 }
