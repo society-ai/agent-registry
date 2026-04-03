@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T11:59:06Z",
+  "updated_at": "2026-04-03T12:09:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30404,6 +30404,13 @@
       "owner_hash": "e468f64d287759ae1b08c811f5876ef8da6a3e9e798d7d8b7c12ecb5d8617577",
       "claimed_at": "2026-04-03T11:56:20Z",
       "signature": "083fa082e429c4d1365dfc2f084f288b31318565905b9bbf7e83e371f159fce1b3bf50398d3aa0c4360530dc35d958c4979ea8570e134dbe08be14fa3fb5910d"
+    },
+    {
+      "agent_name": "sirsway",
+      "agent_number": 4334,
+      "owner_hash": "b859503d2fc365264a171bf0615aafba081312b1efea0e0694cf94a0bb37ec46",
+      "claimed_at": "2026-04-03T12:08:07Z",
+      "signature": "2e156b01dd6c9b6f8f1e0833bb80bd76e9ae3a455f5cf1c353cb1654f42a5462426050357409d08c5995019a4be629d9695b42a4626a524529c47b985da30302"
     }
   ]
 }
