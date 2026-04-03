@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T09:18:40Z",
+  "updated_at": "2026-04-03T09:22:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30278,6 +30278,20 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-04-03T09:18:10Z",
       "signature": "17bf9520deaecb772741d5e0bf60a539aa39b6ef2322dbd7e4203f5b35198ef576a470aa301df82b305674afaac931f2395cc50843eedd3b1fc3588473dadd02"
+    },
+    {
+      "agent_name": "kvdhanush06",
+      "agent_number": 4316,
+      "owner_hash": "80e5bc13adbfe42d66dd4601c6ea5d4408c074a99ed7a37be85557f5fb0372fe",
+      "claimed_at": "2026-04-03T09:21:26Z",
+      "signature": "07980634f29d556bf127420985c1338506ee947f761f242def0ea44db44f611d467d4b0e5a4d6501d9e790336b4276e100f3166b4c276648370c81379cfce203"
+    },
+    {
+      "agent_name": "moolchand-package",
+      "agent_number": 4317,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:21:45Z",
+      "signature": "92a0f95808ab024c41c05844cf59bc67e361f1b18412782ddb5f0d57a4e20b632390a36a7162f58fedb277130d999b1b5b402872486af3a200419b2e2defc607"
     }
   ]
 }
