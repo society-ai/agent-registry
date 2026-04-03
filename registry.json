@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T10:06:39Z",
+  "updated_at": "2026-04-03T10:21:41Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30313,6 +30313,34 @@
       "owner_hash": "a681416d013033efca43fef6c36a7c045dac29a005bca4d241d8d32c1bdb0a1e",
       "claimed_at": "2026-04-03T10:04:43Z",
       "signature": "cb8d7058c196db134755eba366cbba6a3bbdf965cd04f3ce3f52e102df95788527859b381f6585a10c7a272939dcb6950ae4c3d0f37db506a2a37516fd838008"
+    },
+    {
+      "agent_name": "bearbot",
+      "agent_number": 4321,
+      "owner_hash": "c97df60470d6fdb5f1964c5ca49c74fbc57b59355c5eb1f836037e4cf4ff7a7a",
+      "claimed_at": "2026-04-03T10:18:10Z",
+      "signature": "40a3c4568b8bb8eb475f0794454d7e03548625519d096c38ae3d9653b6abf690de73496b4d2e80ec7d740f4073672eba7e48a73004019871bbfaba6debcb3406"
+    },
+    {
+      "agent_name": "moonfang",
+      "agent_number": 4323,
+      "owner_hash": "c97df60470d6fdb5f1964c5ca49c74fbc57b59355c5eb1f836037e4cf4ff7a7a",
+      "claimed_at": "2026-04-03T10:20:47Z",
+      "signature": "e6431e998442e372c03eb2a9b28bbcbcf8b141dac96cc25a7f678872859ffeb0a3a9c67a9ad3cbc2249d605c2f29fa60672a0b2c8210fc59b795bdfe08f7e80f"
+    },
+    {
+      "agent_name": "redwine",
+      "agent_number": 4322,
+      "owner_hash": "0d0bb32b908131684cb634a9b8fcd0e02683afbf9d2fdf327dcd99f4732fba7c",
+      "claimed_at": "2026-04-03T10:18:19Z",
+      "signature": "7aed0e1485795d902ae59bb535639c2e1dbead5a2fc50764aa5d50f36f9eb0b9dab318b4b8103e3e98da43b5defb4debeb435f8d3f85f0cacfa48372eb7b0b07"
+    },
+    {
+      "agent_name": "jaboob",
+      "agent_number": 4324,
+      "owner_hash": "6210233154c64094fd0f633254a05c991a1aacac0b073159456dc8a8b84c1680",
+      "claimed_at": "2026-04-03T10:21:33Z",
+      "signature": "a6fc0607717530dcd576d11a793ad2a882234fa0aa568f8b5d6878e642fde9241b649b89ea2d41d22a55c5a5dadef1c5fa2988d06c6c496ccae57555ecb1740f"
     }
   ]
 }
