@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T22:10:42Z",
+  "updated_at": "2026-04-03T22:15:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31062,6 +31062,13 @@
       "owner_hash": "e67b20605755d1743ae39a516f191b734b89c71854f704cdb56340c75b9044f4",
       "claimed_at": "2026-04-03T22:06:53Z",
       "signature": "d234cbb50925f145126d0dc44f9ef75acffca6618cce8ef664407aad25a69d612eca783b2d9932f5ec8bd1b73e072022d3cf2adc1bbab659a97e7ee79055790f"
+    },
+    {
+      "agent_name": "accrington",
+      "agent_number": 4428,
+      "owner_hash": "3ca513887c4e0396eb84a96be7992ed4eb257200a153818f7f833af776629b7f",
+      "claimed_at": "2026-04-03T22:10:49Z",
+      "signature": "fc25c70787f5d7e6bc7c01cfb91a48a17c1f9422de2f423456fda4574effc3f69f44df2df5789043cfe88eca4ff2c6e26b8d9b2d40ac2b20d4d2ea759d65940b"
     }
   ]
 }
