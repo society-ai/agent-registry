@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T14:52:50Z",
+  "updated_at": "2026-04-03T14:57:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30509,6 +30509,20 @@
       "owner_hash": "565eb8413857987a47679d2a77732737eedb0be506fcea289d8168ec57cb997d",
       "claimed_at": "2026-04-03T14:52:44Z",
       "signature": "e25e7337fe8eb1f32d302d8b312ce0198d7e8ba704701989597120e0cf2696c1e02ef09c9c8ffd0079ed2425563d6b5cce33056bd38aaa4fbbad65f137f43a06"
+    },
+    {
+      "agent_name": "faceless",
+      "agent_number": 4349,
+      "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
+      "claimed_at": "2026-04-03T14:54:03Z",
+      "signature": "1dca84a4fff019d43e440e75c12d1598e37903300fabaaecf19f207cef91a6d131e0665ff13c62148b8906782088851fb3fa9035aded7b085d87c678b24ef002"
+    },
+    {
+      "agent_name": "retention",
+      "agent_number": 4350,
+      "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
+      "claimed_at": "2026-04-03T14:54:14Z",
+      "signature": "72691232cf46d3c23bc95eea43dce612da856245497c7a9714692cce5ed4b0f13cd0932545aa883e9b1e9183b21d7c348dfd0d58aa59b8bfac76e59c47047c02"
     }
   ]
 }
