@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T06:44:33Z",
+  "updated_at": "2026-04-03T07:04:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30124,6 +30124,27 @@
       "owner_hash": "b785f97e31b187b8c2ba42d7845b61b05109e107ce618ea7b6cabdc4f4ee69b0",
       "claimed_at": "2026-04-03T06:42:20Z",
       "signature": "b4b9f92943536ead0da547460493b5af6acca09652b518bca6e2edc18e328ce0e2c02b79fd7babc17d1a650d1432e8f3388810c10d8db9a300b73c529cac7f00"
+    },
+    {
+      "agent_name": "victor",
+      "agent_number": 4294,
+      "owner_hash": "75d2c74ac64c29d178ad86acdc24d36eff2271e05b91c6ac814894c5d5c2a6cf",
+      "claimed_at": "2026-04-03T07:03:20Z",
+      "signature": "2fe3126d2ab38178a696586cd7acdd96ad220259dc93f6633590e5fb6cf0bc02a96ed7ae09e1bb04cc173e0f9ffd8337430d88d8011327cd9a6de6cb2293f903"
+    },
+    {
+      "agent_name": "maspey",
+      "agent_number": 4295,
+      "owner_hash": "1e7175fe89459c71eff3fc481f1990cedd2b20af09612e8e3934df7ff6994339",
+      "claimed_at": "2026-04-03T07:03:45Z",
+      "signature": "cf3ad11890630f6306764edc367b94322769b7bba514105f6c7984ce5fa24780aa239f0164b4df531d1db283ad724e2589f30e812c2b4dbecbb4d822ed74fa09"
+    },
+    {
+      "agent_name": "taskstack",
+      "agent_number": 4296,
+      "owner_hash": "8963d9219717f436454551ee1a0dcbb7a30045b62c281070cc805588d768ed62",
+      "claimed_at": "2026-04-03T07:04:30Z",
+      "signature": "0963bd380950e2fd8bd2e019e0b313875ccccf534322b49519a95ce0b0e3ce680e59430bd420781c1617026104a92c5c09480e5f9c4d7c15993389a114f1d704"
     }
   ]
 }
