@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:03:07Z",
+  "updated_at": "2026-04-03T16:08:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30607,6 +30607,20 @@
       "owner_hash": "1ee4a48ade9974a8d1376438a9abdb3ecf20283cff914f91918e7c5b26f4ade0",
       "claimed_at": "2026-04-03T15:59:40Z",
       "signature": "fb8ecd679dba5f1cd10e8e0e65d01f2c2ec87459a9a4ed1b9608dbcc5ee6f413a1dfabf36edbc6c198751b859f5f556ff452a4aa29fddf5a524b9f2ee826890d"
+    },
+    {
+      "agent_name": "chalico",
+      "agent_number": 4363,
+      "owner_hash": "fd5354a73326ded1dabe3e711269a04ccd4e30a7a9717a443c54fbbf205bbfef",
+      "claimed_at": "2026-04-03T16:03:39Z",
+      "signature": "bd765bd4ac00e2ac26b0582930540be8dc8208ea1b25184de50a41b4d5447fd36ea631ab6b0ab885cde1b6b28d346cc3669f7d9b21193b18bc9f0cc58db75008"
+    },
+    {
+      "agent_name": "champion",
+      "agent_number": 4364,
+      "owner_hash": "b7f37e42848459e2dc37fab9e561f2935f6438bb8dfa8577fc916c8b394da5d6",
+      "claimed_at": "2026-04-03T16:06:21Z",
+      "signature": "c37550c676608bc5ed11a638cc78c4136c2febce93371bf9d9310640269a828ddeca2f454c150834876cb2ac22c79af75caf34ca5fbe522921a30c5a41f72e09"
     }
   ]
 }
