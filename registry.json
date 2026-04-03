@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T04:49:20Z",
+  "updated_at": "2026-04-03T05:14:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30033,6 +30033,20 @@
       "owner_hash": "9832a504458c7906803524c7dc032c131dedfb1b4fc3f51f86ed680c924cc817",
       "claimed_at": "2026-04-03T04:47:35Z",
       "signature": "02062a4836cfe5a4c90fd9e74bdaad12c0a34ad4772ece65deeebde81c5ef7dd1b3922f3d1820373ec2179347d6ed01d155623fad15a6b018f364e010133d200"
+    },
+    {
+      "agent_name": "yurii",
+      "agent_number": 4281,
+      "owner_hash": "dfdb47ca734e89e16336d6acc8462d887d3d5ed482a5770eabe795e78745cf9d",
+      "claimed_at": "2026-04-03T05:13:38Z",
+      "signature": "2bcfb0cfd3dd1a5ca8782194a89b89c0d0dad65e9be7c890ac7f2424f6256b3ccef64e71d28f1b5d41d383b3f8f2d28d938251cf5869a70d4164cfa7a7af300e"
+    },
+    {
+      "agent_name": "bongi",
+      "agent_number": 4282,
+      "owner_hash": "ba40d0c625e849798df6d4eeb7d9d45c11a8f3a35380a266850cd92aa6841b34",
+      "claimed_at": "2026-04-03T05:13:56Z",
+      "signature": "6381f08cc298ec4af0e5b6bea5648502f6b5befcd44e7394b4882af5040351bba59cbbb9f0624ab260d20059f563b52bf784bf928c9c70aa11769baefab66c01"
     }
   ]
 }
