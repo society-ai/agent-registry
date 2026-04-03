@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T07:04:34Z",
+  "updated_at": "2026-04-03T07:19:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30145,6 +30145,20 @@
       "owner_hash": "8963d9219717f436454551ee1a0dcbb7a30045b62c281070cc805588d768ed62",
       "claimed_at": "2026-04-03T07:04:30Z",
       "signature": "0963bd380950e2fd8bd2e019e0b313875ccccf534322b49519a95ce0b0e3ce680e59430bd420781c1617026104a92c5c09480e5f9c4d7c15993389a114f1d704"
+    },
+    {
+      "agent_name": "avesta",
+      "agent_number": 4297,
+      "owner_hash": "9eebf7fd09caea875e6f5600e43fe68e81d3399ad5e28bf9eb4a02e72764dc2c",
+      "claimed_at": "2026-04-03T07:15:20Z",
+      "signature": "c7a83b9757ea1726109badb1114868590c53c39c110afa79dbcd8937e07cad7bfb024b02a52631323213f44eaa337492e7f355a38a8cdf1bc17897d71e024303"
+    },
+    {
+      "agent_name": "danantaraindonesia",
+      "agent_number": 4298,
+      "owner_hash": "7df2285fddd9a7cb9396fb9b2c519bd485a594d9689432f198b937c81c6c44df",
+      "claimed_at": "2026-04-03T07:18:12Z",
+      "signature": "727aa7cc06d94bac902aa5da0790668c3e0fe7c79eaf84e3dc9b078d09340ce652bf956c69604fd5829760aa19dc55bf650d4c23a1fb5090df24fe73117d470d"
     }
   ]
 }
