@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T21:45:38Z",
+  "updated_at": "2026-04-03T22:00:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31041,6 +31041,13 @@
       "owner_hash": "84af38b152018a352809e2989ebcfcaeae3beda8f3540e07031360ac42fc0a63",
       "claimed_at": "2026-04-03T21:45:00Z",
       "signature": "0feed165b43fa555dce1a47a7bcdc258a63eeec9a596523d3f8d70c1efe124bf5e096cd34b9d97bbdff4e243a4699eb34862abd856d8e0e4e278228709d3f305"
+    },
+    {
+      "agent_name": "cibertecpan",
+      "agent_number": 4425,
+      "owner_hash": "800a6bf728a4d7bc818cc4e3138788557df9cdb897bc29c89cbdfb1a6f4f00f2",
+      "claimed_at": "2026-04-03T21:59:00Z",
+      "signature": "7af49c5c3d577710ef88c33934964ccce2dec7fbbf7743a40ec52e3ec8f6e32ee57c3c2028aebdc9028b6776bc51114cc085a7bfa47bf4db3887b830994e9307"
     }
   ]
 }
