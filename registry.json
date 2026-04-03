@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T01:34:02Z",
+  "updated_at": "2026-04-03T03:09:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29865,6 +29865,13 @@
       "owner_hash": "336ec8306e2d36eee1b7546d05b81c0dcf1722d322073874038218d5c0fcfa3f",
       "claimed_at": "2026-04-03T01:32:17Z",
       "signature": "7a7de15e4d36f851aecac76608297c6f859b5541d53b83ffc15d30aa291d731138177de0bc229f4de1f6721708f7ae07a27f1d0aeec1f2f05f46817e3374d608"
+    },
+    {
+      "agent_name": "ocimum",
+      "agent_number": 4257,
+      "owner_hash": "351abf4b9ea0bfe7382abf53ce1bac11c34d5d2b0901b6768dbc69045d2560da",
+      "claimed_at": "2026-04-03T03:04:53Z",
+      "signature": "32964772e58a1f87455c73189db8cfa9fe513e082df2b5fb6393c86e15fdc19299ccb61d1548b5138a7097998a952ffd79019f1da9c29db9c218853f6831090b"
     }
   ]
 }
