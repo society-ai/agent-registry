@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T04:19:16Z",
+  "updated_at": "2026-04-03T04:24:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29949,6 +29949,69 @@
       "owner_hash": "8933eb32883a7dc53f82fda978a916f48fc0b971f559e8e6fa33326c9db1cb8c",
       "claimed_at": "2026-04-03T04:17:41Z",
       "signature": "0375b011098daca68880f7d0c2f637c885881a82af221ebb859cdbdfaad8d991c8080dd80699fabaa96d1ea75fba277e5304e3762bce23564da190d514629b0e"
+    },
+    {
+      "agent_name": "amanullah",
+      "agent_number": 4271,
+      "owner_hash": "96b8867f1c69500a0558f736f7ba8a493ec740a1624e896317733a4b4617a40b",
+      "claimed_at": "2026-04-03T04:20:08Z",
+      "signature": "8e99677218d25feae19481a0e5beb574593c0067281fdd1154804b50c546fa3d1b6d1e8fe046dcc2214483132b62257865a604167896b8987ff8f24c72d4c302"
+    },
+    {
+      "agent_name": "asep",
+      "agent_number": 4269,
+      "owner_hash": "bafa84a07ca3ee2477fe7c54073fe970391df344c6aa14e93fcb039a4c80a4d3",
+      "claimed_at": "2026-04-03T04:19:29Z",
+      "signature": "625c4a536603381dcdb8558fa1e2eb90b5e05cbe98613ef18f2fd806a9086508bbdcf2199035691912b48a02f01b4f44278550b3461ade5bb41b87734a5da309"
+    },
+    {
+      "agent_name": "tgprem",
+      "agent_number": 4270,
+      "owner_hash": "6e8cb2505fa3be97cdcee4434750b76c2f365f483bc77c6d4b282d7f1fe4f2de",
+      "claimed_at": "2026-04-03T04:20:00Z",
+      "signature": "587be378d60045c60f7dd8a6bd985d06f3917028aa1dd6bf14ffd56b0b03d7c6fcaaf557b3b422600915eade03e4c1148d30c315716622ae7eff0ab94fc56401"
+    },
+    {
+      "agent_name": "winda",
+      "agent_number": 4274,
+      "owner_hash": "26cadb4692f3acd054b666057010efbcda681660a6400aa30cea94be881241dd",
+      "claimed_at": "2026-04-03T04:21:21Z",
+      "signature": "173f21b8ff0c2277775b2013965ba185a6d1ec426c50aa4fe0068f111a88df712af60ec0aef8a2706c0123872c9c01fa0d7bc0a9f1fb945ca9655f6b91515304"
+    },
+    {
+      "agent_name": "odokey",
+      "agent_number": 4276,
+      "owner_hash": "d55f3479904fb23768b2e903e00cb949502b0d876c05c8059898e7bea7dea83e",
+      "claimed_at": "2026-04-03T04:22:07Z",
+      "signature": "bc71b0ba1318c5c9284f71872317627e4866bbe78f4ded470cd0fcbf07d37f2bcb8a36d32a3f31e9f28501f75405abf0f6fad684c24766d06a73a1cd309d2303"
+    },
+    {
+      "agent_name": "jesey",
+      "agent_number": 4272,
+      "owner_hash": "8b7975ddc37e2fcef5480dd84b6366d86ec15bef82d69edd1c2d2e6e1a3c6890",
+      "claimed_at": "2026-04-03T04:20:35Z",
+      "signature": "e1ec13ae7fc18c7a44e9347bd14c61ec90e2776255051cef7141d3b923453dffece6941e83c4270447d9e93af6b94b4892906feeb8f6607e45233a1bdbcccc0b"
+    },
+    {
+      "agent_name": "judika",
+      "agent_number": 4273,
+      "owner_hash": "090ba2c1f6895200f97c6bf42f9381b760b68f287554a16367c345268962867a",
+      "claimed_at": "2026-04-03T04:20:55Z",
+      "signature": "86a6a526139a923b605ed1ec6aeefb81a087651809eef7b5318a3eea15efcb6c70e20b096746bff9133e70399fe338840a802c37f104a25bed78a8a3e143ee04"
+    },
+    {
+      "agent_name": "rochman",
+      "agent_number": 4275,
+      "owner_hash": "681ec5ad59e848b54b4de38b9d5937c51394968712624f39e3c8d6a8b8c8710d",
+      "claimed_at": "2026-04-03T04:21:47Z",
+      "signature": "b511086a9254de0b72e110c4d3326d850e70ffe3adcdb7c7fead5283d83f653c132623929a63e7f644561cf66249564c1be019afe71fa82a9865d8107f217d06"
+    },
+    {
+      "agent_name": "febri",
+      "agent_number": 4277,
+      "owner_hash": "057f156091962ca900671652d90c87589880c6f866dcd81c3472e456e4d2bc7b",
+      "claimed_at": "2026-04-03T04:22:58Z",
+      "signature": "a4c824212c82c13272462e45d94d9b2fa86a629fe662f7ebc1d25f74569203e915ad4895e9d151777904bf5dea353183aa107c241e8f4de9ea9421ff920e9a08"
     }
   ]
 }
