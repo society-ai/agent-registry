@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T10:51:44Z",
+  "updated_at": "2026-04-03T11:01:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30369,6 +30369,20 @@
       "owner_hash": "89f2ebe332cdbbd4290d9a4afe1c477d8bf69b2b4792ba30d7fc27060872254a",
       "claimed_at": "2026-04-03T10:48:53Z",
       "signature": "16e8a99d3871c685c217871f003a5025eb5218cb53c5ecce215337068986e9f7f39316cc773a0fcbc5ebea43240c6235f0754ec85749035c832d572c4924b309"
+    },
+    {
+      "agent_name": "darwin",
+      "agent_number": 4329,
+      "owner_hash": "16d4411fd8cb21e2239244416ed3281d40aae5a99ef8e993a2601c26edf5eb21",
+      "claimed_at": "2026-04-03T10:56:57Z",
+      "signature": "7272b6ae327ce2b5a7f60dabbe845d13f66cf89ac3cc4b2966e125c439ef404c63232106e1a749b1a68e7bd5cf40e9f96616d1d700d921402036952592719909"
+    },
+    {
+      "agent_name": "saturn",
+      "agent_number": 4330,
+      "owner_hash": "a6018a5f19e95f4e777f445d734375a1b90e7aec219dbd69fc6029d7fe13d1aa",
+      "claimed_at": "2026-04-03T10:57:30Z",
+      "signature": "e3bf2997f32c4ebed139ed02807cd1127a3a265ed82b382708d48d4c14c4fcc7c19314a095f18b53eab169074a2f5fdcdc58b5e0b073991910bb01b450f9aa01"
     }
   ]
 }
