@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T03:34:06Z",
+  "updated_at": "2026-04-03T03:44:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29886,6 +29886,13 @@
       "owner_hash": "92ffe2db0c9cc2333ff6b42cf63da15a72f4e0d3245369bd16d3eacaaceaee17",
       "claimed_at": "2026-04-03T03:33:36Z",
       "signature": "d41d8af0256673fc9be57fb14bf397c977559d7eb95f16b038c84c92cebc4eaef17146a1f73d92dbbb4035608b643a9397c97792cc247b62e1e0bd14b48bd900"
+    },
+    {
+      "agent_name": "nimispace",
+      "agent_number": 4260,
+      "owner_hash": "19bfcfbc284dcef1e5b3dcf006a0a3c7c48196479ce5fe807b9262bdf7f8a908",
+      "claimed_at": "2026-04-03T03:43:35Z",
+      "signature": "96bee845ece8aaa50ea302355229f7c3958541f058fab881f4eb7a68c8d734469f1179fe78e15aae2c48b5f50c5cfe5526aeffd492ad092e8ae24d6f6ce73702"
     }
   ]
 }
