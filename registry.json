@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T22:05:41Z",
+  "updated_at": "2026-04-03T22:10:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31055,6 +31055,13 @@
       "owner_hash": "0a4a9dbbcb70cbdb902e6b47f37e200fc6879de1a0e1af6475aa656e5dbc714f",
       "claimed_at": "2026-04-03T22:02:26Z",
       "signature": "851030f4069f73e177b6193b81be5d3a2d6a3545270cfc0c4ce9216f216bb69a194551b1bd2ea7b670517d1f29b6bdfa0035abe4f5fefc5cc5942d629687f105"
+    },
+    {
+      "agent_name": "naweed",
+      "agent_number": 4427,
+      "owner_hash": "e67b20605755d1743ae39a516f191b734b89c71854f704cdb56340c75b9044f4",
+      "claimed_at": "2026-04-03T22:06:53Z",
+      "signature": "d234cbb50925f145126d0dc44f9ef75acffca6618cce8ef664407aad25a69d612eca783b2d9932f5ec8bd1b73e072022d3cf2adc1bbab659a97e7ee79055790f"
     }
   ]
 }
