@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T08:52:16Z",
+  "updated_at": "2026-04-03T09:07:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30201,6 +30201,20 @@
       "owner_hash": "2630bf851116b78cbfd95880b5447a134967921fa7aa7ef70ae095631c3ff351",
       "claimed_at": "2026-04-03T08:51:23Z",
       "signature": "5b61668351a05ed17eb9c60689055b0c7f65538a4cbab50196cc00eddac52cafa0a0b4eaa5633b4430582e8a71cf5c26a09cb597c2532d30c954b8ef71ead508"
+    },
+    {
+      "agent_name": "moolchand-book",
+      "agent_number": 4305,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:04:05Z",
+      "signature": "11f277c84d979f3592f7d0214b5ee91108c984a3ae99813cf53c10199ccc38596f3124b43350ea31d852b1cc2d6991e38714536a5222fd80c9a7e0a5e7eff60b"
+    },
+    {
+      "agent_name": "moolchand-appointment",
+      "agent_number": 4306,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:04:53Z",
+      "signature": "b66f49fb10932a67f84179826247f6f379d861bfefa469d2aa08d62654c26145a0a7a7e72ab915e7eba35cc1c56a52270d7a607bfbeab4974cc0d1945c625107"
     }
   ]
 }
