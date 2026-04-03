@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T15:07:56Z",
+  "updated_at": "2026-04-03T15:12:58Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30544,6 +30544,27 @@
       "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
       "claimed_at": "2026-04-03T15:06:15Z",
       "signature": "03f586ef01df7adea672ab864e91a9ad6646d9e6d32d897d8af3584f60d4b675fa44281a66759f2e0dc60944b83ece22be26595d134ddb581f948c433d47780b"
+    },
+    {
+      "agent_name": "conversions",
+      "agent_number": 4355,
+      "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
+      "claimed_at": "2026-04-03T15:08:59Z",
+      "signature": "e0c15a5dc8cd7d377b70cd2322b6df86ca33744127f9e4265e22afaab27031abb9a6c5fdb6081be13d18b8fbd0e51b2d0c170472b15787a8e614d3f69213b30b"
+    },
+    {
+      "agent_name": "workout",
+      "agent_number": 4356,
+      "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
+      "claimed_at": "2026-04-03T15:10:31Z",
+      "signature": "b4c564a4924775f660b96202045b13545f19177f724127fdb0ae9d66e6101a879c358d3c837c7577fb90bafea8adf4a9f49e44b00148c8ae7800f2862199b100"
+    },
+    {
+      "agent_name": "leads",
+      "agent_number": 4354,
+      "owner_hash": "c575fac7efd777fe86c585ce2562afaa95d4332161776c01d43f31411648b31d",
+      "claimed_at": "2026-04-03T15:08:40Z",
+      "signature": "00d57f16826e5c3518e1e366dc4fd28c6dd3299717fb414eb0554db0aef13688b807366c6d1b39baf4ad5824bd7501a61ba2a8614a8bac254f051c90564bc503"
     }
   ]
 }
