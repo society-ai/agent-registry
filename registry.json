@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T09:12:19Z",
+  "updated_at": "2026-04-03T09:13:38Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30243,6 +30243,20 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-04-03T09:11:27Z",
       "signature": "b4bdc67d21d889ff530d05be0f4a4827dacbafb0d115a18febb561308595e9f8f27ac08480e32c245b695bea5bb00b10f8aa31149a4b61ff3b6f1bd6931edd08"
+    },
+    {
+      "agent_name": "uwu",
+      "agent_number": 4311,
+      "owner_hash": "05281abcc89e0ada1127110157c1bd1f031a07659406e452e1c1d04e88653a01",
+      "claimed_at": "2026-04-03T09:12:55Z",
+      "signature": "cd9f71368b6c6477f56684c4f054d088bb23024bfd5512113877439735c2ad9550b9172b16acc2ddf2d4d116bf64700a0d7f45a985e7b028d903aedd62ac9502"
+    },
+    {
+      "agent_name": "moolchand-emergency",
+      "agent_number": 4312,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:13:28Z",
+      "signature": "27db4d3f81bf6c397248a05388ea51ef01e0820a2a29d03659ebb0ae924a8ab773db4044047fe80eada03f7091a6acc271c350e048b3058b11bcfab68b940205"
     }
   ]
 }
