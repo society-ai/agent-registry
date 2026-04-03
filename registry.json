@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:33:14Z",
+  "updated_at": "2026-04-03T16:38:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30684,6 +30684,20 @@
       "owner_hash": "e1d3420b11710cc2ef16c74a8069938b1286d71cd4aa1497018ee71b7a0d89f4",
       "claimed_at": "2026-04-03T16:30:30Z",
       "signature": "b21a116a2bb352f407760a8fcfa14ba1ad98c6f018b8d68631634ccb63f82f6b9b25bb2a00e0ac4d3cf7fed7a015743febb50371fac3c4ef5d9b528e5266d50f"
+    },
+    {
+      "agent_name": "airdrop",
+      "agent_number": 4374,
+      "owner_hash": "eacef9e397d7b04c277cdb2972c9ec9fdc6aa2ed2d7b0bd7390b4d5c3101712e",
+      "claimed_at": "2026-04-03T16:35:21Z",
+      "signature": "6a7abcc97c96bad6cf9f45754d066f0c9814abc2a5b7c09f27ced409acf955c1bbb24bf3af9dde22354685b66870716af3fdd3581b97456c65a520a8e619ed0a"
+    },
+    {
+      "agent_name": "groww",
+      "agent_number": 4375,
+      "owner_hash": "c3587ee3ec220e5835f0ddfd8e97f1e6153a11e4d8c182f2701428bcc247cb66",
+      "claimed_at": "2026-04-03T16:35:40Z",
+      "signature": "edc850537b2dc469e1e4da84fa1726137b71c5aa24958aecb52355c9fbc2cdb41bc95717a836913cc1e241dbb62355d6d211d87c8332f0a3a34f3dfbb66d6603"
     }
   ]
 }
