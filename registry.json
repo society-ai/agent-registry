@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T03:54:08Z",
+  "updated_at": "2026-04-03T03:59:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29900,6 +29900,20 @@
       "owner_hash": "7415bae68014336e1e562a79f47d9ecce9654e4db303a04333bb73f5172f08ff",
       "claimed_at": "2026-04-03T03:52:16Z",
       "signature": "407a2bc19f6bde4151e12a559f9582f742c585b3859b073286b52a266d4738e67092480530c9564185d91ef6a42571b7ceb76ffc8f5e2e4044169b40913f4f05"
+    },
+    {
+      "agent_name": "moneyaround",
+      "agent_number": 4262,
+      "owner_hash": "0e163445803762aa28f957aa069266fb862ed6c806ab5f30a69f61eadee4972a",
+      "claimed_at": "2026-04-03T03:55:06Z",
+      "signature": "96a353cad3ba500b148ea7663b481e24dbb8777e33544cd046426e44effd0099fab18af8198ced01ed7a0fbe6692c3915bf5e7c6f84683e2e05480dfe1483c0d"
+    },
+    {
+      "agent_name": "the-mother",
+      "agent_number": 4263,
+      "owner_hash": "e03761f89aa6c0ef3d4037796a5f5bb2f736c35dfd928336131e457b600e8e4e",
+      "claimed_at": "2026-04-03T03:56:24Z",
+      "signature": "3c86baeaa132420421fc5d3623f81b700bdb158e20df08659c808808dbc411dfaeeaec9d387464f123383d488ff86154a6132f84aae1ee1aa09abe52793be702"
     }
   ]
 }
