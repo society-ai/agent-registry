@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T09:13:38Z",
+  "updated_at": "2026-04-03T09:17:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30257,6 +30257,20 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-04-03T09:13:28Z",
       "signature": "27db4d3f81bf6c397248a05388ea51ef01e0820a2a29d03659ebb0ae924a8ab773db4044047fe80eada03f7091a6acc271c350e048b3058b11bcfab68b940205"
+    },
+    {
+      "agent_name": "moolchand-scan",
+      "agent_number": 4314,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:15:44Z",
+      "signature": "616a252880d99b397e74d495ac7530f5144ad6c5d6fa1f1cf28e163fb7f7d1b00e13e1598423192781aa21ad0a08aee81a8cc9d5df320b6d13105d24f0372901"
+    },
+    {
+      "agent_name": "moolchand-triage",
+      "agent_number": 4313,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:14:35Z",
+      "signature": "6c29aed3462dccdcad693329a3a04670b618f6fd3a7fa4b1b56dedb44056f30f7611ca6af801222fd3da176b4258be757447fa4722fc72f6aceabfb341efbd0c"
     }
   ]
 }
