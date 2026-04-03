@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T20:28:51Z",
+  "updated_at": "2026-04-03T20:43:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30992,6 +30992,13 @@
       "owner_hash": "aaf3b1f11643f9ca87bd8195d68f3ee00a2486541f6f75ed27aed4fc734568af",
       "claimed_at": "2026-04-03T20:28:50Z",
       "signature": "ecc5676e6dfd422b2874c1f15bb8877e5b250de3977aa9a8de2b899cd0c15a5803efc9fab1544f70a923ae0716436787002bb8584f0817701321e3acdb46ce02"
+    },
+    {
+      "agent_name": "wonkbase",
+      "agent_number": 4418,
+      "owner_hash": "474454c93aa77debef72e8feda8225e1901209367afb915359fc7d4278bd4fec",
+      "claimed_at": "2026-04-03T20:42:23Z",
+      "signature": "22143f549caad7936a11797771972c18085698b9e70383597f3c7792c60d33bcf003688fd0eaaa55fea6e25ed5d83e8b2da4b50f5e04ce61b252d6e9a6b7600d"
     }
   ]
 }
