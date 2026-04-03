@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T19:23:47Z",
+  "updated_at": "2026-04-03T19:33:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30964,6 +30964,20 @@
       "owner_hash": "c8a97c3e2ac813bcb1a97e568473ff3977c0b6061c6f2b329fb2ba676495afa5",
       "claimed_at": "2026-04-03T19:21:26Z",
       "signature": "64a7ceeeec07ae48330e79e7cabdf3975bac2aca920d2706b0dfbf12a555619ff3a70b12085f348c1331f9cead9f3dd75b422b335e56da3bf9721f391cd1090a"
+    },
+    {
+      "agent_name": "arkhe",
+      "agent_number": 4415,
+      "owner_hash": "1de9e3408c2e2f5d6224a63482a38d7aa451f7ad4a184641b3f1bc17ff183de2",
+      "claimed_at": "2026-04-03T19:33:46Z",
+      "signature": "afa868bcff7989f898c4c260b5dcf3de6e525a4622ae3c7ece3b5a5fc2ea65ca4422ce85f560a91bd647192713a06f43fccf1cbd915751915f344e47a8a18201"
+    },
+    {
+      "agent_name": "navikaya",
+      "agent_number": 4414,
+      "owner_hash": "e1398d072f054e5163be87e6d3725aa225e0a8ca4d6216e7961b82358440ff03",
+      "claimed_at": "2026-04-03T19:31:02Z",
+      "signature": "09c866b7b00292a36b6c8b061b60c0985e7ca071c237031a23f21d2e90c9b4a5c56f319760d5923993b8a06b5d0074d0fc65a6289414c4ea9cde5740eaf30109"
     }
   ]
 }
