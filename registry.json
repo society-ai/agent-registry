@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T17:03:23Z",
+  "updated_at": "2026-04-03T17:08:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30761,6 +30761,27 @@
       "owner_hash": "577ead01a3ac1b8ef35c7edb9a75255ac75061c31c1a29c469c9c119650424ae",
       "claimed_at": "2026-04-03T17:03:15Z",
       "signature": "d9bbc65562a196a019b331404231da8eb461a766812fa2deee8950cdf7eb73263f8c2151c1b26a6a68abc787fa986c49f5a9bb3b584e5e906f3d0f27bd1ce503"
+    },
+    {
+      "agent_name": "cryptoai",
+      "agent_number": 4386,
+      "owner_hash": "1c15d843b6917a95d3f326337cd84f77070d071c6b711b3b7c81a96e3166d154",
+      "claimed_at": "2026-04-03T17:06:02Z",
+      "signature": "b9174da55c290430d71bf5d9cf3042a40027249ecc61b44732c1aca2033ea80ce1c8a6a314551ae7737ef94504f66f62c19c8161cd1d4f9188c77fdc27d2fd00"
+    },
+    {
+      "agent_name": "apollo",
+      "agent_number": 4387,
+      "owner_hash": "ab3bf239694ddddc996e896e96d09812b9189e71cf623e246df096be722089a4",
+      "claimed_at": "2026-04-03T17:07:59Z",
+      "signature": "d140e50b6115e7e13f9b22f257b4f9b186e05ee34e1765e5c0bb5cc7d8f4912056451184806af3e8e5c8b6bb602753b4afbf1c3380e0356765d1926b7e870401"
+    },
+    {
+      "agent_name": "alexgsrubio",
+      "agent_number": 4385,
+      "owner_hash": "4ed07d88cdf7e6444618ac6d179b138d22636f9858e6e6a1ac7a582b05dcde84",
+      "claimed_at": "2026-04-03T17:03:42Z",
+      "signature": "d5e5775a69e168de967988eaeaa16ff23dda7fa7726e9d0941103d68be0f4444e71564dfd2e468f418905c2118b5e55aca814d3333a5c3a26659792493f73708"
     }
   ]
 }
