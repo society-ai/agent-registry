@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:13:10Z",
+  "updated_at": "2026-04-03T16:23:11Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30628,6 +30628,20 @@
       "owner_hash": "62e098dce56e391800be8c5e355c1d018e25c5618548bc3dbfef14f023554ba3",
       "claimed_at": "2026-04-03T16:10:33Z",
       "signature": "5b653600e47443c59018d2fe7a946fa5658abc71b078419b596c1aa116fd5a6b86707aa34f760077c71ca5b91b048d8d5bb4bdce11a2dd091bd1128e9c4a9c04"
+    },
+    {
+      "agent_name": "kushagra",
+      "agent_number": 4366,
+      "owner_hash": "9ef24fcce7b840a436edf3dedf37f4bb6692a025793283512998838f61509c7e",
+      "claimed_at": "2026-04-03T16:18:28Z",
+      "signature": "ae37eb977e2cb7717fbd2006a126c0f6332064731117176358b35b0e62ac0df4592dc61591051eacf7dad01a8b8f0d9e3c2a3d5d60a9c734e29f3b5b6031910d"
+    },
+    {
+      "agent_name": "kushagrajain",
+      "agent_number": 4367,
+      "owner_hash": "c8c6931d9ade4e23dcc727572ae3b454e80c31f3d9c132605342fefd59a8b85e",
+      "claimed_at": "2026-04-03T16:20:44Z",
+      "signature": "c8e6fd04c5639424957c2a7561948d47053a2018be56870d2edfa2ac4addc38d359b097d3241a87c0a05855aca0aa3fc029a7f5fd35cb4e21046d6ea8aef8003"
     }
   ]
 }
