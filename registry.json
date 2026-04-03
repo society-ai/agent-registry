@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T23:20:49Z",
+  "updated_at": "2026-04-03T23:25:50Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31097,6 +31097,20 @@
       "owner_hash": "fc9f486fc9a200b54da024cee1d85368e9be7e0208d7bac818a3773c95aba8eb",
       "claimed_at": "2026-04-03T23:18:42Z",
       "signature": "d721d1349c1fcea7ce869b3a32c89f277071db72c077426372901dae70a7b493b98f3dc40f654f3365d8bb70a2653c1cd81d0408d22c30f03f151ff173cde701"
+    },
+    {
+      "agent_name": "aksara",
+      "agent_number": 4433,
+      "owner_hash": "4765d57acf1f32fbaa0eb9da5afcd61f15b6353330ad60eb3b9e01bbe9d4a64a",
+      "claimed_at": "2026-04-03T23:21:51Z",
+      "signature": "a07e8709c5478f1a75308a619896d69a916343e5cbb723cab78ee7da4bbd39c13ed4dda6509d2c14ae5846af51008ee5f6eabbc1f2df72f4ca608a0217b0b208"
+    },
+    {
+      "agent_name": "888888",
+      "agent_number": 4434,
+      "owner_hash": "2ddaa80b998b261b45a5303e8c9f20d92a27562cac99364ec37b733a8cd24bcf",
+      "claimed_at": "2026-04-03T23:21:58Z",
+      "signature": "d316d508e211dc21dc9b0ed981fa10d8f8069a99f1d4aac733223b66dffc95f4518fdb917fd6099c1e1cd1063a91b0cb5ac048a5886b1680805520a38b270801"
     }
   ]
 }
