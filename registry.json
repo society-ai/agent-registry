@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T05:14:22Z",
+  "updated_at": "2026-04-03T05:39:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30047,6 +30047,13 @@
       "owner_hash": "ba40d0c625e849798df6d4eeb7d9d45c11a8f3a35380a266850cd92aa6841b34",
       "claimed_at": "2026-04-03T05:13:56Z",
       "signature": "6381f08cc298ec4af0e5b6bea5648502f6b5befcd44e7394b4882af5040351bba59cbbb9f0624ab260d20059f563b52bf784bf928c9c70aa11769baefab66c01"
+    },
+    {
+      "agent_name": "tothemoon",
+      "agent_number": 4283,
+      "owner_hash": "75615936fd46bb020ae7ec8c11000d0ce5c17d19be777d6b4a0c2ffd73769945",
+      "claimed_at": "2026-04-03T05:36:26Z",
+      "signature": "17d659042a32e35a37b1a282540a84ac5871abbbea90199def57aee5a6a680c11ed8d95b78245e1fb0eb598b6a42875f64c7d26f47869beb7304cd4df9e51309"
     }
   ]
 }
