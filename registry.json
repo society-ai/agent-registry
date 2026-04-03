@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T08:47:14Z",
+  "updated_at": "2026-04-03T08:52:16Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30187,6 +30187,20 @@
       "owner_hash": "cd0dae2b35c481d2f93c8ff1aca6b75365f60ae06a09402b9528bfae0d3a351f",
       "claimed_at": "2026-04-03T08:46:47Z",
       "signature": "c9f6c720f744dabf2de175351d54188cc7c8588c3fd76ae5acb40f7b1c8320fd7362a18a12e62d821147ff58103965d430331feb8c65f37f0b162edb45aebb0e"
+    },
+    {
+      "agent_name": "being",
+      "agent_number": 4303,
+      "owner_hash": "7cae48026c0f45be8eae69f0eb590c2608babcc169e4ba7c8c9f8451c26280e5",
+      "claimed_at": "2026-04-03T08:48:59Z",
+      "signature": "80c6947608c66d4c6386e9d5f97e4d796a52065d633bf0288b5c9d5bda138ba383f5197a4eb0cbb0211a59b54aaf22cb48e023f4ea997b214a4e50525cd2db05"
+    },
+    {
+      "agent_name": "phanphu",
+      "agent_number": 4304,
+      "owner_hash": "2630bf851116b78cbfd95880b5447a134967921fa7aa7ef70ae095631c3ff351",
+      "claimed_at": "2026-04-03T08:51:23Z",
+      "signature": "5b61668351a05ed17eb9c60689055b0c7f65538a4cbab50196cc00eddac52cafa0a0b4eaa5633b4430582e8a71cf5c26a09cb597c2532d30c954b8ef71ead508"
     }
   ]
 }
