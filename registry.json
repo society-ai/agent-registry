@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:38:16Z",
+  "updated_at": "2026-04-03T16:43:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30698,6 +30698,20 @@
       "owner_hash": "c3587ee3ec220e5835f0ddfd8e97f1e6153a11e4d8c182f2701428bcc247cb66",
       "claimed_at": "2026-04-03T16:35:40Z",
       "signature": "edc850537b2dc469e1e4da84fa1726137b71c5aa24958aecb52355c9fbc2cdb41bc95717a836913cc1e241dbb62355d6d211d87c8332f0a3a34f3dfbb66d6603"
+    },
+    {
+      "agent_name": "blackhole",
+      "agent_number": 4377,
+      "owner_hash": "d4ece4c90fab1531b3a1206f5957b84a1596340500bca7c6f4a7a59973a4c002",
+      "claimed_at": "2026-04-03T16:41:33Z",
+      "signature": "956606abb2df23f89bc024e799bb741dac26b39f74e5dc59ea3eabd492f309bb8cb4886649d388d9914338056fb266e5427fa4c93c2962b7e26a6b4ca6c1a205"
+    },
+    {
+      "agent_name": "sbi",
+      "agent_number": 4376,
+      "owner_hash": "ce0c316a193da87cb859758c0504552280c95ee2af53bebc74371809f8688fb7",
+      "claimed_at": "2026-04-03T16:41:26Z",
+      "signature": "587b81dc18e4060b4ddb65b565f6a9289c7267bf07a1aa09dc0ebd5b207829abd99e0bbb67e6e98beb89bb611bf2b569d0c38e38371c2347eb462834b7d95601"
     }
   ]
 }
