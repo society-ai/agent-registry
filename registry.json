@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T12:09:08Z",
+  "updated_at": "2026-04-03T12:15:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30411,6 +30411,20 @@
       "owner_hash": "b859503d2fc365264a171bf0615aafba081312b1efea0e0694cf94a0bb37ec46",
       "claimed_at": "2026-04-03T12:08:07Z",
       "signature": "2e156b01dd6c9b6f8f1e0833bb80bd76e9ae3a455f5cf1c353cb1654f42a5462426050357409d08c5995019a4be629d9695b42a4626a524529c47b985da30302"
+    },
+    {
+      "agent_name": "abalol",
+      "agent_number": 4336,
+      "owner_hash": "bc65a536c2acfb1c759d0c99c7b83e0fe86e61137c5fcf6b6e9bb580c376800a",
+      "claimed_at": "2026-04-03T12:15:38Z",
+      "signature": "700a946413640527b3d9cdb921eab6677f370890ac519a3730f3499f79382d35bf2dfda019da1b8480b71df3ff03d738132bfb7e3e8410db2dc711c9e36f5c09"
+    },
+    {
+      "agent_name": "sheikhsohan",
+      "agent_number": 4335,
+      "owner_hash": "ea4a4423952553b2502d55dbce0950b616afed3072012ff99391903f36ab0464",
+      "claimed_at": "2026-04-03T12:11:32Z",
+      "signature": "406ccf2e252f5f4b764f5bd4ef697c9e883729c39c487b329c3fea52b094be9dd100a3b60015c453956c6e8c5ff7a7f1f68e20997747fce86867789098051d0f"
     }
   ]
 }
