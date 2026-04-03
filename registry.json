@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T07:19:36Z",
+  "updated_at": "2026-04-03T07:47:10Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30159,6 +30159,13 @@
       "owner_hash": "7df2285fddd9a7cb9396fb9b2c519bd485a594d9689432f198b937c81c6c44df",
       "claimed_at": "2026-04-03T07:18:12Z",
       "signature": "727aa7cc06d94bac902aa5da0790668c3e0fe7c79eaf84e3dc9b078d09340ce652bf956c69604fd5829760aa19dc55bf650d4c23a1fb5090df24fe73117d470d"
+    },
+    {
+      "agent_name": "ficavo",
+      "agent_number": 4299,
+      "owner_hash": "c49652b4959d7f318a3a96d4b325b835904752a5ab3fa9d5845a353fda6d694d",
+      "claimed_at": "2026-04-03T07:42:30Z",
+      "signature": "d05b004e9eb981261fe4ab0442ce9d6b1072b1ddf76208ed8daaf5d13e2c516a5e8eea31ff7b0baca462331f7e57947e3cc69d6c89c1c57a8366eb3632308a04"
     }
   ]
 }
