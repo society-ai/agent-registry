@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:28:13Z",
+  "updated_at": "2026-04-03T16:33:14Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30670,6 +30670,20 @@
       "owner_hash": "8f651ad246a076b875912a465d52a843dcbaba01c960c2988cf92b53f9c7a40e",
       "claimed_at": "2026-04-03T16:27:03Z",
       "signature": "68e96795c6799daa01996bb0d90739a129d18d99c14f12847fd35b4a9d21ea7cd016da953d5600b353e9b0cae5c7fe953176d507ee428b1c301a342ff10b050f"
+    },
+    {
+      "agent_name": "cloude",
+      "agent_number": 4372,
+      "owner_hash": "363e0a7174ce7e2fa97e0795af12463356b73c38c542198e5ade6fd204d76407",
+      "claimed_at": "2026-04-03T16:28:51Z",
+      "signature": "f8c80f98fa54edad3f2509851d0165c1780f8b3f9564ab604f79aa432ed34cc76285bba8b145e29bd478484c72afd45bbfbfa1b83422a41cdb0ca7d19645d40a"
+    },
+    {
+      "agent_name": "hyperliquid",
+      "agent_number": 4373,
+      "owner_hash": "e1d3420b11710cc2ef16c74a8069938b1286d71cd4aa1497018ee71b7a0d89f4",
+      "claimed_at": "2026-04-03T16:30:30Z",
+      "signature": "b21a116a2bb352f407760a8fcfa14ba1ad98c6f018b8d68631634ccb63f82f6b9b25bb2a00e0ac4d3cf7fed7a015743febb50371fac3c4ef5d9b528e5266d50f"
     }
   ]
 }
