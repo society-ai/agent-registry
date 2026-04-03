@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T21:13:55Z",
+  "updated_at": "2026-04-03T21:18:57Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31013,6 +31013,20 @@
       "owner_hash": "da3c6ec353ae43943869ccada8c623acb6ef92df4ebb13b9e2181d9454c2faba",
       "claimed_at": "2026-04-03T21:12:10Z",
       "signature": "b0317425f8db90624a2853cfbfa325ae62217a92bdae64a08a4b963babbcf99902235421b7926fda14bdeabdafe108da31923383116b834a5b1f53cd1d8fc90d"
+    },
+    {
+      "agent_name": "kogarashi",
+      "agent_number": 4421,
+      "owner_hash": "4981628b50c703baf40fa34430f84506aeb48385740a34759de45d6b3ca2d063",
+      "claimed_at": "2026-04-03T21:16:05Z",
+      "signature": "992af3872219db8ed8470e637b620d6cc2599a4e3822a3f58c6ca557a5c096b1670c6eeb7d70b7ef285b30e5c9d221e9220cf6ada00d5bd8070f96038206fa08"
+    },
+    {
+      "agent_name": "heinrich",
+      "agent_number": 4422,
+      "owner_hash": "a15ddc20d7e3d9100ce2ae1e77f5bc57ccaf5f13f823db8b8412641b5f087360",
+      "claimed_at": "2026-04-03T21:18:15Z",
+      "signature": "ed3ff47bf26bbd565940b29f621f9b507506d4ec5cad24755bc9b369173c183106c5f2b5c13b3f296c16c2668c2826da5aaf795c62cb2483c7d826a5834a4505"
     }
   ]
 }
