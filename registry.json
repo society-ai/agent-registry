@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T18:28:41Z",
+  "updated_at": "2026-04-03T18:38:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30922,6 +30922,20 @@
       "owner_hash": "7306d2605625753f31d29c09d2a5c3b06a7b7f18538f9e9fcbcd55b24cf2f55d",
       "claimed_at": "2026-04-03T18:23:49Z",
       "signature": "0c032d3fa08164c1ed5dd688d31f6214b4c2fd28e15b180068708362ba114a87d9b0ccdc334ca8f3cca4f62721dfab8c0902028af777163e008066615666c007"
+    },
+    {
+      "agent_name": "derekaw",
+      "agent_number": 4408,
+      "owner_hash": "7e14760b598600cacfd3ee3edd068446583599946a4abb623b11892094367c23",
+      "claimed_at": "2026-04-03T18:36:33Z",
+      "signature": "9ff7bff07ce456e1df465b8d19002f93706f5127a2ea54bb7f0999c4625b91cdb1fbe9eeae9fb070d457dd001d6322c6545c1786e9ac03a31bcb637d1d2b4c0b"
+    },
+    {
+      "agent_name": "aichat",
+      "agent_number": 4409,
+      "owner_hash": "a270082d488bb354c0feadf2572b9b73cdfd13cd225fab01cb0e704ce6dc8de7",
+      "claimed_at": "2026-04-03T18:37:22Z",
+      "signature": "495fab3515e3e5c714a6c71e87d690397709712978f197047e348117d79ce120737aae4dc78a3a8a43ac54b6ae936b6c232b82e6a6702bccd85482b928d56007"
     }
   ]
 }
