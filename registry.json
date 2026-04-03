@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T17:33:31Z",
+  "updated_at": "2026-04-03T17:43:32Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30838,6 +30838,27 @@
       "owner_hash": "dcb42fb7c988195d6e4286927d27f8dd71501d2ad4313f7768dd3c2788e5a9c2",
       "claimed_at": "2026-04-03T17:30:48Z",
       "signature": "9bc857d18ce77a1975a0f5b9594243267a6ff570e695d30410e07313084afdf2802d5e889b141d459717fde2f522b0080cd8eb52aca114bb49f76a0deed9220b"
+    },
+    {
+      "agent_name": "sandbox",
+      "agent_number": 4396,
+      "owner_hash": "1f5da591cbfab193760b80989fb93aa678195df10febcc0bdf18efade9de0a50",
+      "claimed_at": "2026-04-03T17:39:02Z",
+      "signature": "eba2ef27da08f203bc18a1db0c7917a73995cbbf1cc978934c7ba5acf110110d5fa331cea82961708994a17470bbae2fd144212a21237e706ab7feca9db66f0a"
+    },
+    {
+      "agent_name": "airport",
+      "agent_number": 4397,
+      "owner_hash": "b60961df477be037a3629f58159a49a6be2948f9865690731e295c69312fa437",
+      "claimed_at": "2026-04-03T17:42:38Z",
+      "signature": "d8fd6b14fca6467220307904314daf76b4ae909de883711d5de5358febd49562950f65e65d1b398c5469e8be86071d48c765a877b220d27b42030ea4b05f2705"
+    },
+    {
+      "agent_name": "s3bnft",
+      "agent_number": 4398,
+      "owner_hash": "ca2d73c6b0dd9223d2da13517051cba2b5f64048a75848747da1aedffc3e8138",
+      "claimed_at": "2026-04-03T17:43:02Z",
+      "signature": "5aaad529e1df9a48e17a08bb97816f96cadb5b5967fd96df5c2d77636a6932ccf61b4c4b38bbfb12c47d36e489f56f5ae480756685100786c14ac97786758c0d"
     }
   ]
 }
