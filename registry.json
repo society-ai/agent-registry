@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T15:22:59Z",
+  "updated_at": "2026-04-03T15:33:01Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30572,6 +30572,13 @@
       "owner_hash": "d7cd552f97b2e863f423d0b594e35ce4b84aeb59d841d340bc5b5b4b314e8c1e",
       "claimed_at": "2026-04-03T15:19:56Z",
       "signature": "7f0fd13e82369ad33f480795e929912dd96204175a12e78e8af3d2ea9ba85cdc5be6587d130442350f389d53c974a6a1cecd303e7ca4e136760cbef5b6096600"
+    },
+    {
+      "agent_name": "tradvisor",
+      "agent_number": 4358,
+      "owner_hash": "50eec4b52f6576de731d3d38ab9c2431134cf07967e2bf5af48748e01d081cdc",
+      "claimed_at": "2026-04-03T15:28:39Z",
+      "signature": "3d227f252f7e126d0e8bbc8b6ec5692bceb0fe37e45aa063d3b71ef579f8031d37cb46a4b16190bb76b0bf0834636e73d223f4c064e9f4673f46b14ca2c8eb0c"
     }
   ]
 }
