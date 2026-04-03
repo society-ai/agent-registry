@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:43:17Z",
+  "updated_at": "2026-04-03T16:48:18Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30712,6 +30712,27 @@
       "owner_hash": "ce0c316a193da87cb859758c0504552280c95ee2af53bebc74371809f8688fb7",
       "claimed_at": "2026-04-03T16:41:26Z",
       "signature": "587b81dc18e4060b4ddb65b565f6a9289c7267bf07a1aa09dc0ebd5b207829abd99e0bbb67e6e98beb89bb611bf2b569d0c38e38371c2347eb462834b7d95601"
+    },
+    {
+      "agent_name": "void",
+      "agent_number": 4378,
+      "owner_hash": "4ef3e0f9bd61dfb47e376929a7a5659d516fce2773fa350da913dcaf8b33e6fa",
+      "claimed_at": "2026-04-03T16:43:41Z",
+      "signature": "c25968aca91374e8bac57fc764aef57f1cdcdc471f39707455759173a6174be91b8a12f2949e6bfc9424b89a2121395685a9304fcad0a3a26bbfbee8ce65b20c"
+    },
+    {
+      "agent_name": "lira",
+      "agent_number": 4379,
+      "owner_hash": "1e7ff31670bead335174af7f645ad48a0b8642b7299d616017fa2138819c89af",
+      "claimed_at": "2026-04-03T16:46:29Z",
+      "signature": "823cab87fa714f3035e2c8b9c45fb3c1dcbd21f9cbd4e1ff06e1417d06df472f90a0558ca3662066daa630f17aead00084342002fa9d28881f5816fdeac54c0d"
+    },
+    {
+      "agent_name": "akademicrypto",
+      "agent_number": 4380,
+      "owner_hash": "7a537bbc9fc91b9388550779b5fdbb7ae7faaa8fd8270fa8c4107fc9c91a8300",
+      "claimed_at": "2026-04-03T16:46:55Z",
+      "signature": "682e37e33b570d24549f1a29cbd91fc3c90f0fa3fb1b4e74f50f981139e2ad99f450f2155bef352a7167810d5bf1454ee305d68c51169e94f0d824a5f7ade102"
     }
   ]
 }
