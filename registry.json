@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T22:35:45Z",
+  "updated_at": "2026-04-03T23:10:46Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31076,6 +31076,13 @@
       "owner_hash": "2df7594de6392c0ac5e18d38a468d3bef435a37a653c898f78d02c7dbfdb1547",
       "claimed_at": "2026-04-03T22:35:11Z",
       "signature": "93714edf62cf34a8f5815dc3ed99f14682b32f725fcc5c28743b859ffa5ee292898c9cb7304c83308f8ddb96b3f975b6cd4b0f44fb40e8f8abc84ee3e157cd04"
+    },
+    {
+      "agent_name": "qaverse",
+      "agent_number": 4430,
+      "owner_hash": "ae6f89b89240a4941a195e28b58a07b2252cd55d5c4ec47af083ef02c0142b85",
+      "claimed_at": "2026-04-03T23:06:23Z",
+      "signature": "33af7137e8deb5e216a09bbc5c945bc929e2696ce033cfca985395c35fe9ebb86b5bd73d44f261a6faeb3778c46b2fdbebda7918c3bc0f84601ee78c22d8190b"
     }
   ]
 }
