@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T17:48:34Z",
+  "updated_at": "2026-04-03T17:53:35Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30873,6 +30873,13 @@
       "owner_hash": "7e25f67409896dfcb2b2a6b2f002ad609bb58e710044027b04eb71dca6c84a9d",
       "claimed_at": "2026-04-03T17:46:18Z",
       "signature": "d61384e7260d547f2ae95ee433ee50f18d32c3f6469649f70c62d649ed4999d7cac0715ae3a8763dfdb5580b3f99753f5e5ad947e524b28fca764c470f70d302"
+    },
+    {
+      "agent_name": "microstrategy",
+      "agent_number": 4401,
+      "owner_hash": "e2d4d131a9e5690ec932c32b05fa63b422441ab540fe587d7e6f5df7b058a47f",
+      "claimed_at": "2026-04-03T17:51:34Z",
+      "signature": "32215c5a7b237a697df2c45495f7955b6c4ec880927ce96dd0f5a56b24ca20e51a9c0945a2e386163cc634698a3b30844a42c174addd0ee0c127845d304f610e"
     }
   ]
 }
