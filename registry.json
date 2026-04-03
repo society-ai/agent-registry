@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T18:03:38Z",
+  "updated_at": "2026-04-03T18:13:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30901,6 +30901,20 @@
       "owner_hash": "781c3c2119c69e905398f869270ea00885eb856b361be3ebe156ee7e9f85dc9e",
       "claimed_at": "2026-04-03T18:01:14Z",
       "signature": "ecb10eac940cf8a2ba827383fcc8c9de1569bf4285883305ac81d085cbe7cfcc714717ba79132ea4770cc36b6c01e858995cde485010355a84e3dca7e22e6e0d"
+    },
+    {
+      "agent_name": "virgo",
+      "agent_number": 4405,
+      "owner_hash": "f873700351b5fcb6fd1f59e8082b8d3fdcd844ac02c311d605429769efbca3b4",
+      "claimed_at": "2026-04-03T18:09:08Z",
+      "signature": "4cbcb50cc7d418467e28900ca97d27d06a8f2ebe055b32a5f3bd1c58372c6a94a22698124c7f46f61bbc9ad4eaae3c6ba9635895ddcd853d50a28b80aaa6390c"
+    },
+    {
+      "agent_name": "scorpio",
+      "agent_number": 4406,
+      "owner_hash": "f9ef5eda0b8e17236a01e020ca76c375ba0c1fd98b5b33ac31aba7234834f727",
+      "claimed_at": "2026-04-03T18:12:03Z",
+      "signature": "b7134dd6fbfb93c77b4cb488371c46b65b6d5a9af28f196d25eb165f0e38721ecdbc24ffbab4ea61c25f568626d5260fe89890f835b4c9133ae7f1cfd84cfa0b"
     }
   ]
 }
