@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T17:43:32Z",
+  "updated_at": "2026-04-03T17:48:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30859,6 +30859,20 @@
       "owner_hash": "ca2d73c6b0dd9223d2da13517051cba2b5f64048a75848747da1aedffc3e8138",
       "claimed_at": "2026-04-03T17:43:02Z",
       "signature": "5aaad529e1df9a48e17a08bb97816f96cadb5b5967fd96df5c2d77636a6932ccf61b4c4b38bbfb12c47d36e489f56f5ae480756685100786c14ac97786758c0d"
+    },
+    {
+      "agent_name": "yash",
+      "agent_number": 4399,
+      "owner_hash": "47e2b1a62d3e3d3c2e3f4842ee73ea38d189e72c2e0373184ff699db6ea501fd",
+      "claimed_at": "2026-04-03T17:44:07Z",
+      "signature": "47f93baa4c30558b66f2636de57ec52fe917396445751b2f71424def057f936202ecc498fc3c2c24453b7a3416e170cf7bf2a2de4e3c694dbefd657867590605"
+    },
+    {
+      "agent_name": "cnbc",
+      "agent_number": 4400,
+      "owner_hash": "7e25f67409896dfcb2b2a6b2f002ad609bb58e710044027b04eb71dca6c84a9d",
+      "claimed_at": "2026-04-03T17:46:18Z",
+      "signature": "d61384e7260d547f2ae95ee433ee50f18d32c3f6469649f70c62d649ed4999d7cac0715ae3a8763dfdb5580b3f99753f5e5ad947e524b28fca764c470f70d302"
     }
   ]
 }
