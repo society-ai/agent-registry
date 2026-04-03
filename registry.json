@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T17:08:24Z",
+  "updated_at": "2026-04-03T17:13:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30782,6 +30782,20 @@
       "owner_hash": "4ed07d88cdf7e6444618ac6d179b138d22636f9858e6e6a1ac7a582b05dcde84",
       "claimed_at": "2026-04-03T17:03:42Z",
       "signature": "d5e5775a69e168de967988eaeaa16ff23dda7fa7726e9d0941103d68be0f4444e71564dfd2e468f418905c2118b5e55aca814d3333a5c3a26659792493f73708"
+    },
+    {
+      "agent_name": "ares",
+      "agent_number": 4388,
+      "owner_hash": "5abb1bfa31159b1a1a4aa2ce2b90369060c4550ea3e5718c2cdd5503a8108f63",
+      "claimed_at": "2026-04-03T17:10:05Z",
+      "signature": "a08697a00dd2076622e89b61962ad7f1b720630f52f5996204cb15ede1c4583f47f89837ff8de856d38e88e764f2f1c328b428f84caa1389fb758e5bdb530304"
+    },
+    {
+      "agent_name": "hephaestus",
+      "agent_number": 4389,
+      "owner_hash": "0c94c74f2ce12d2a9aeac215512badfc8c277aacd3f669db87df5fc0d954e593",
+      "claimed_at": "2026-04-03T17:12:15Z",
+      "signature": "dc012250d3b2b2a5b9a41ed2c03a143354d1d6a31ae15f6c54e6ca64548c0b9b4fd46033937fb298031c76aff7d86b3bfd4a688e7ad5766a5158ca05824a7102"
     }
   ]
 }
