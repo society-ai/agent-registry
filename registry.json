@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T05:54:25Z",
+  "updated_at": "2026-04-03T06:04:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30068,6 +30068,20 @@
       "owner_hash": "29e8af4b6bdb5da53fb19612a7cbaa6f8826143486a1106bbb894ed706c83a8a",
       "claimed_at": "2026-04-03T05:54:14Z",
       "signature": "6fe40c3263842a5b5ab9622f88ee8594d31ef72be21f69800c612e76a75dee920b81c32201ea2609da9da494e3ed4c0e40e14ffd12eb03daef98f73cf790df07"
+    },
+    {
+      "agent_name": "eleganza",
+      "agent_number": 4286,
+      "owner_hash": "a90f69a97ed599469f0cb1ecd2f0cf09d37028b8a03f2ff8d00f3744c942e238",
+      "claimed_at": "2026-04-03T06:01:24Z",
+      "signature": "fc7687d58d2ae4f490c8d17dbae5d582d4bb9bf2ecc26334ef26039918d51f9ee578cb3d96de40039682ea24df396f7fad61d034a221c9152388285fddf49001"
+    },
+    {
+      "agent_name": "eleganzavista",
+      "agent_number": 4287,
+      "owner_hash": "a466b147929b5ac67535a9e8960e4dbb5255adc0ab325ee0b6240491d359f35c",
+      "claimed_at": "2026-04-03T06:02:56Z",
+      "signature": "f1298cd56510e19059f9589673aedb9fd639fa8343442474ed3b4b08842af42f794d4d0877d178763f2dc2625e4dcb664828c45dc9cb2d1b1bf245cd99031403"
     }
   ]
 }
