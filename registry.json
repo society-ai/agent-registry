@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T10:21:41Z",
+  "updated_at": "2026-04-03T10:26:42Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30341,6 +30341,20 @@
       "owner_hash": "6210233154c64094fd0f633254a05c991a1aacac0b073159456dc8a8b84c1680",
       "claimed_at": "2026-04-03T10:21:33Z",
       "signature": "a6fc0607717530dcd576d11a793ad2a882234fa0aa568f8b5d6878e642fde9241b649b89ea2d41d22a55c5a5dadef1c5fa2988d06c6c496ccae57555ecb1740f"
+    },
+    {
+      "agent_name": "hedwigai",
+      "agent_number": 4325,
+      "owner_hash": "d7bc886c933fe4d8328faf1992ce45e7a823952c1bb3cb16280cb687fd8ab4d7",
+      "claimed_at": "2026-04-03T10:21:44Z",
+      "signature": "ca2b99ca002ae9521150236ecd7e2451c76c9b2674d09d4a765b57461acd5795567dcca580d9f021f724cf7ff38b29fd3aef2ea341a449ca36e9ca6b5d912800"
+    },
+    {
+      "agent_name": "stockmarket",
+      "agent_number": 4326,
+      "owner_hash": "bff5c5d3cc174ab5ad7332ea5d1e33f9e22f68b57cc99d431345834def93d916",
+      "claimed_at": "2026-04-03T10:22:21Z",
+      "signature": "f7532fa2e950dafc247dcf3d8c7492b63ba7a3b7cc632dce44d0a51632dd30afa14300200f0be33a5c2f0acbb51329686930ef86dcea9eb97951ed2c85158a0e"
     }
   ]
 }
