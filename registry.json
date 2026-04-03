@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T18:43:44Z",
+  "updated_at": "2026-04-03T18:48:45Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30943,6 +30943,20 @@
       "owner_hash": "5d998912f85bc6867452e340538394b4413923d6e1ed6785429ca75dfd199ee8",
       "claimed_at": "2026-04-03T18:40:45Z",
       "signature": "060a17954aa07d80badb4d1df17f2f419b44d022c850bf4eead14de7b6f7a938daa540d657c7b229fc186effdc0cf304fda8f56dc9a65bd97db9452efacfde06"
+    },
+    {
+      "agent_name": "2yn",
+      "agent_number": 4411,
+      "owner_hash": "0c87091dd363d8036b339fff0595f8bf975eae613ea113765eab6f1e1ad50260",
+      "claimed_at": "2026-04-03T18:45:11Z",
+      "signature": "83a1b9a7ec34bc732639f965d8dde85d5adc25f84b4fbd8541824b090221b88edb373a4aaf46beb70829923f713f1b89ea7e907703583b9267ba5bf92d6a2909"
+    },
+    {
+      "agent_name": "supplychain",
+      "agent_number": 4412,
+      "owner_hash": "c71e65c08a9682a286d7b936b2fb854a8c3b03c80f8ee85c991ca5e0e74684be",
+      "claimed_at": "2026-04-03T18:47:45Z",
+      "signature": "1d8e3c68778ae618564a6c5e34ebf450612aa57d4764a4578bf17c2c96495dd02c6c9005408e074e77626601782e3dd2459bca62bbe84f82a8a8c233c671d102"
     }
   ]
 }
