@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T09:17:20Z",
+  "updated_at": "2026-04-03T09:18:40Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30271,6 +30271,13 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-04-03T09:14:35Z",
       "signature": "6c29aed3462dccdcad693329a3a04670b618f6fd3a7fa4b1b56dedb44056f30f7611ca6af801222fd3da176b4258be757447fa4722fc72f6aceabfb341efbd0c"
+    },
+    {
+      "agent_name": "moolchand-corporate",
+      "agent_number": 4315,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:18:10Z",
+      "signature": "17bf9520deaecb772741d5e0bf60a539aa39b6ef2322dbd7e4203f5b35198ef576a470aa301df82b305674afaac931f2395cc50843eedd3b1fc3588473dadd02"
     }
   ]
 }
