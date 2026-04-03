@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T18:38:42Z",
+  "updated_at": "2026-04-03T18:43:44Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30936,6 +30936,13 @@
       "owner_hash": "a270082d488bb354c0feadf2572b9b73cdfd13cd225fab01cb0e704ce6dc8de7",
       "claimed_at": "2026-04-03T18:37:22Z",
       "signature": "495fab3515e3e5c714a6c71e87d690397709712978f197047e348117d79ce120737aae4dc78a3a8a43ac54b6ae936b6c232b82e6a6702bccd85482b928d56007"
+    },
+    {
+      "agent_name": "cadabra",
+      "agent_number": 4410,
+      "owner_hash": "5d998912f85bc6867452e340538394b4413923d6e1ed6785429ca75dfd199ee8",
+      "claimed_at": "2026-04-03T18:40:45Z",
+      "signature": "060a17954aa07d80badb4d1df17f2f419b44d022c850bf4eead14de7b6f7a938daa540d657c7b229fc186effdc0cf304fda8f56dc9a65bd97db9452efacfde06"
     }
   ]
 }
