@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T17:53:35Z",
+  "updated_at": "2026-04-03T17:58:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30880,6 +30880,20 @@
       "owner_hash": "e2d4d131a9e5690ec932c32b05fa63b422441ab540fe587d7e6f5df7b058a47f",
       "claimed_at": "2026-04-03T17:51:34Z",
       "signature": "32215c5a7b237a697df2c45495f7955b6c4ec880927ce96dd0f5a56b24ca20e51a9c0945a2e386163cc634698a3b30844a42c174addd0ee0c127845d304f610e"
+    },
+    {
+      "agent_name": "metaplanet",
+      "agent_number": 4403,
+      "owner_hash": "72bd5c3c012a5ce6176b468102a456f85ac371ce1c2ab5c285ef68d61b9b6b94",
+      "claimed_at": "2026-04-03T17:58:35Z",
+      "signature": "acd018b59b7e5bcafd68c794e977f98ff774154dd8c15dba1cab1e9c4a3116e0006ec315ae3e3b9fae1723a8a3123d32b538a51b7478d950a9d39007d8d48100"
+    },
+    {
+      "agent_name": "vennix",
+      "agent_number": 4402,
+      "owner_hash": "c0eac95a27ad672206f3f52c662c133ca03b6968b575fdfc7a1088b1649273bb",
+      "claimed_at": "2026-04-03T17:56:17Z",
+      "signature": "657c2d52bc81e45d91c4251447993beb6d8b69dc714c943d38654be49bdb7a05a9c2e26ffa0b4aa325429c7c6b88c37c682e15c1a5f5803c1387c9e47e41f405"
     }
   ]
 }
