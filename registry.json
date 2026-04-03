@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T16:53:20Z",
+  "updated_at": "2026-04-03T16:58:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30740,6 +30740,20 @@
       "owner_hash": "d8370bd110be46c1b3c61850855bf720ae62a00ba7b54441bcbf25d0f601d1a5",
       "claimed_at": "2026-04-03T16:51:28Z",
       "signature": "ad9d3cf0fecc6dd42781535f3af5a0a1e1d0602c539adcf44ecfff82d3d82455510ab9efdbdee652223fdb3acff9b5097fed995b1a3e2fbb15689464a4a3d708"
+    },
+    {
+      "agent_name": "lightning",
+      "agent_number": 4383,
+      "owner_hash": "c5efbc1a8a8449ba43d8021a63119b3ee758440b14b9efdd9bddf6a11bd3f303",
+      "claimed_at": "2026-04-03T16:57:25Z",
+      "signature": "8b568eb5dd3f1d427ded7d259e91edfbb5db51e04a6687bf04d6d1f1f14c8a31abe15ac2a6285d7b4675f1aa4bace62d3174b29a6626f0c6eed2aea5a8789d06"
+    },
+    {
+      "agent_name": "adan",
+      "agent_number": 4382,
+      "owner_hash": "fde1e0ec49e6c5606868bb3128d6b331b101a64aad0d42ef8773e2f8ba39d044",
+      "claimed_at": "2026-04-03T16:55:11Z",
+      "signature": "a218f1f1e63b5026525ee09434bc22ab5ec061facf922deb6e41831706872c2ed45c59c2c8f3fa444abb83c09ebadd8072c18f1954abb840c4e1a17cb4ca910c"
     }
   ]
 }
