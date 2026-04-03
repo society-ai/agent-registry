@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T09:07:17Z",
+  "updated_at": "2026-04-03T09:12:19Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30215,6 +30215,34 @@
       "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
       "claimed_at": "2026-04-03T09:04:53Z",
       "signature": "b66f49fb10932a67f84179826247f6f379d861bfefa469d2aa08d62654c26145a0a7a7e72ab915e7eba35cc1c56a52270d7a607bfbeab4974cc0d1945c625107"
+    },
+    {
+      "agent_name": "nothingness",
+      "agent_number": 4309,
+      "owner_hash": "435fc36382b16abea49a0c2bcbf7f9a5e6447be72a70668dde93c5cc9af30e39",
+      "claimed_at": "2026-04-03T09:11:05Z",
+      "signature": "fda8d31cd323f52050a2cffba9794d7330f685ccd843a300c63123b5aabb9f105e9ffd1705fc6b42a0d80c62a2d2aa5814d203308f40248e5f64f3bde565bd00"
+    },
+    {
+      "agent_name": "moolchand-consult",
+      "agent_number": 4307,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:09:18Z",
+      "signature": "3dce1b6893960fcecb14196e1d60b6ea28cafa6c13db720715a65152a52eed85040622f32415ecaa586e778111331f181d39907a7fc5cbc8e211ef2a5ce98d07"
+    },
+    {
+      "agent_name": "moolchand-secondopinion",
+      "agent_number": 4308,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:10:20Z",
+      "signature": "8d7752b5adb7849c4e91ec2dfa2d1622c66fb5cb0ed37ef3cc04e4d5c9ee94803f75d2dc1a91052414383c844c71b71227c9ee19309a4d2176244367a5e36305"
+    },
+    {
+      "agent_name": "moolchand-international",
+      "agent_number": 4310,
+      "owner_hash": "0d79b230ead58e1e4afbb9684865a717a049c444849e86816187cc3c00f2fce1",
+      "claimed_at": "2026-04-03T09:11:27Z",
+      "signature": "b4bdc67d21d889ff530d05be0f4a4827dacbafb0d115a18febb561308595e9f8f27ac08480e32c245b695bea5bb00b10f8aa31149a4b61ff3b6f1bd6931edd08"
     }
   ]
 }
