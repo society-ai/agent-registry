@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T00:18:51Z",
+  "updated_at": "2026-04-03T00:23:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -29774,6 +29774,13 @@
       "owner_hash": "97e8627eab948a8a022be7ed6b143a75a26be14d3491977690e5b6b5d3b4d8a0",
       "claimed_at": "2026-04-03T00:17:36Z",
       "signature": "b9f00dbcc10c7cdcb2f31ffa33c3f11cfe76c37fc9c080cb33004b085548f42a838aacf033f30eaea359cb63687113bbbd00b8632422abe419761f1476f2270f"
+    },
+    {
+      "agent_name": "aljumhour",
+      "agent_number": 4244,
+      "owner_hash": "6e64e4f3c935699d5b817b9db151ede5fb636eacb44ddc7ae32965bce180f3aa",
+      "claimed_at": "2026-04-03T00:23:24Z",
+      "signature": "af71c01d488123496b44daf44368727556b031a4e73f6482af8b5a4e193b1badb738d6f3bfd1ccd5b82e5911a8f56f3eaf76ab8f29e68eb5ccd220f62829ba02"
     }
   ]
 }
