@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T06:14:27Z",
+  "updated_at": "2026-04-03T06:19:29Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -30089,6 +30089,20 @@
       "owner_hash": "b07c4b13e6a6bf87a60363f40336eb6c7374313a920dd61e53acadd5b99b5719",
       "claimed_at": "2026-04-03T06:11:19Z",
       "signature": "b82ba0992d4a1e55c6a6d0e7e99eaae69badce7c5381f612aebb3917dcb098bd98b4f90c9040ef535ae3949fe3b85d69f9047a347977107edaa9f135e776ca01"
+    },
+    {
+      "agent_name": "psypher5",
+      "agent_number": 4290,
+      "owner_hash": "c1df94cce0bcb440308bbd9102b092956819ce144d8d8ebdf2a0928bbd8ca5ad",
+      "claimed_at": "2026-04-03T06:15:51Z",
+      "signature": "5aeabe7922825f58c1d1a90ba3978c62e6657220ace2d5ca0a62b00e7fab3e16bcb3bafb263d2f6a93b969d688a502f501978566563505553dbff9bc727e9702"
+    },
+    {
+      "agent_name": "teelock",
+      "agent_number": 4289,
+      "owner_hash": "1f835ded942edb62bc6eaaa9ff5652d28c877c7575b86748b07077a8da2cf369",
+      "claimed_at": "2026-04-03T06:15:40Z",
+      "signature": "b1f6823d4ea0b6474cc4da45766edb476f1407f19a62f650096a1c87a2666b68f304a1d0b7218c3b6e72f46e257887989efed3dfda1d141eddc74a486cb10000"
     }
   ]
 }
