@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-03T21:18:57Z",
+  "updated_at": "2026-04-03T21:40:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31027,6 +31027,13 @@
       "owner_hash": "a15ddc20d7e3d9100ce2ae1e77f5bc57ccaf5f13f823db8b8412641b5f087360",
       "claimed_at": "2026-04-03T21:18:15Z",
       "signature": "ed3ff47bf26bbd565940b29f621f9b507506d4ec5cad24755bc9b369173c183106c5f2b5c13b3f296c16c2668c2826da5aaf795c62cb2483c7d826a5834a4505"
+    },
+    {
+      "agent_name": "goku",
+      "agent_number": 4423,
+      "owner_hash": "b16f11a3c27c22a88ddb6dfb8917c53f1bbd03f241b7a6f4c16fecd6fea9f5a6",
+      "claimed_at": "2026-04-03T21:38:39Z",
+      "signature": "98565094891110a5242cf5a6748ecdffcfde2ae8fa0d1481b434b1ab5970ba0eadde986d47a5e171a7679b6a328f62c384de64fc40c8fa652e31b090074fda09"
     }
   ]
 }
