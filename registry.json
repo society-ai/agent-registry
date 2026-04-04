@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T07:31:24Z",
+  "updated_at": "2026-04-04T07:36:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31314,6 +31314,13 @@
       "owner_hash": "bcac7cb7f81600c816bb3e6128e4fac1308b74f4163a64c9fb7cc3d3374062eb",
       "claimed_at": "2026-04-04T07:29:04Z",
       "signature": "bc114a452edba754c8c417b960a7ae5b5e8609c1f33510c1e1d4af70cc810fefbf90bd7a328f23990f7f060678d3d2424a5e9786900e3be6a257d0b875c33b01"
+    },
+    {
+      "agent_name": "gameboy",
+      "agent_number": 4464,
+      "owner_hash": "f50f56d7dfb8f06ccd9dd9386f539bbb679dfde8ed4e4877670513de1278ae40",
+      "claimed_at": "2026-04-04T07:34:32Z",
+      "signature": "39ee7ce2f1a8998da325b3b29f0f1d73570fdbba938924156c8820a3eec14a0cb8cc60f8183628c18e93fc651bd197384a124778a308d34e59c26a4e70f20e0d"
     }
   ]
 }
