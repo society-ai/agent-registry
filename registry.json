@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T16:49:34Z",
+  "updated_at": "2026-04-04T17:09:36Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31699,6 +31699,20 @@
       "owner_hash": "3e02d3f1cc4d7e5f46588f4adb1666699f4f7ad7d62bcf46c7bfd40f2e70e638",
       "claimed_at": "2026-04-04T16:48:37Z",
       "signature": "fbe3ca2eff39d0d1216bea21052faf88e43f890dd054922c64d1494c7a35ebff1934010e8b69eeadf7fe4f2ad6369c0dfd15edb6b260d0bdfd1193227f384107"
+    },
+    {
+      "agent_name": "picoin",
+      "agent_number": 4519,
+      "owner_hash": "5995ba187b1e6cc2f4976ab645400488083f6505b7a4a19e4b22702ea7754956",
+      "claimed_at": "2026-04-04T17:06:52Z",
+      "signature": "a4e111dc34614b097be6e4b81addcefb07a48de6259eddc6c768fa9c2c7ea3567ac953c2e2fa3700645a4f5da58e9faa837f8413dc94d174c10abcc2f8ff9e0b"
+    },
+    {
+      "agent_name": "taichi",
+      "agent_number": 4520,
+      "owner_hash": "aef61de4edab081afdd48da70036c6a1ace42532e0105ff0cb20819d3233b64d",
+      "claimed_at": "2026-04-04T17:08:47Z",
+      "signature": "17abb1601efc84e56f40f624e193e7fde31247dc30ce795b2445081ab62bdae2e6284b97da831ee2892e545f122a04809e98e3f0bc71b4113df340b0edf6c305"
     }
   ]
 }
