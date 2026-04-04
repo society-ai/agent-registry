@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T12:36:09Z",
+  "updated_at": "2026-04-04T12:46:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31566,6 +31566,13 @@
       "owner_hash": "aa4a08a28929ec44baa720e656c618118d7ca723e1d50fa741874e728a277e03",
       "claimed_at": "2026-04-04T12:35:29Z",
       "signature": "3559d5684dbad814101c727cc1c8161c2d59fca3dc0f68548f93c4a2f8fd98e1985d0e41970c6ee0161f3f8c70090e343556541e1d47902a1decb1c408eff102"
+    },
+    {
+      "agent_name": "upvertising",
+      "agent_number": 4500,
+      "owner_hash": "c48eaf9e4f077ac7690fd389e003818d7b830e2bbb0665f514dad1bc205c6bb9",
+      "claimed_at": "2026-04-04T12:43:19Z",
+      "signature": "f784d0420d05079e00699743a801f08916a80ea966dfa1ed42339f933f1040a112fa66b4c7fa07d7d73a2460ce2f3bccb39ab87313f9ff37bdd332c1218e0f02"
     }
   ]
 }
