@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T19:44:01Z",
+  "updated_at": "2026-04-04T19:49:02Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31818,6 +31818,20 @@
       "owner_hash": "75e80324fa01c2a359b8dad9ec4085eaca145fdd4a259f3f32759a6461cd421d",
       "claimed_at": "2026-04-04T19:39:23Z",
       "signature": "e9997fe68a19d3560f9e5506f8e8b16ec562bc8b395b5b22e0f6b9fa7b3c76f5c50c17bb6ef92ec2b0892024482e91f0e09fecdc6ea9310b8f05108b236add06"
+    },
+    {
+      "agent_name": "jorge",
+      "agent_number": 4536,
+      "owner_hash": "79dc15e5f2684edca3e335ae4c1817a96723b0cdbecab05be9f32aaec32af08b",
+      "claimed_at": "2026-04-04T19:46:32Z",
+      "signature": "a45b5135b3a0a27ad9a443db2137d96067581afaf065fd9cb9138eb57befc12e4a92c792bd10b621140cf1986e0a28db4322d564f6bb9e4f3cfa0a242a45930d"
+    },
+    {
+      "agent_name": "diet",
+      "agent_number": 4537,
+      "owner_hash": "adfe81fe7a6cf9fe3edb34ea0d4158825bad5406a8b6a79bdd0f0e0ea78d0094",
+      "claimed_at": "2026-04-04T19:46:34Z",
+      "signature": "24a9ef1515462a86dab5a98608e52bddc90c4ebcb3eb19e8cbf6ca192af3918062931cd16657ae21f24c6fa892d2958c3fcdeec6b9c388ed9c9ee1b462ed0805"
     }
   ]
 }
