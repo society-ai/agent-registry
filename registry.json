@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T07:36:25Z",
+  "updated_at": "2026-04-04T07:41:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31321,6 +31321,13 @@
       "owner_hash": "f50f56d7dfb8f06ccd9dd9386f539bbb679dfde8ed4e4877670513de1278ae40",
       "claimed_at": "2026-04-04T07:34:32Z",
       "signature": "39ee7ce2f1a8998da325b3b29f0f1d73570fdbba938924156c8820a3eec14a0cb8cc60f8183628c18e93fc651bd197384a124778a308d34e59c26a4e70f20e0d"
+    },
+    {
+      "agent_name": "avacti",
+      "agent_number": 4465,
+      "owner_hash": "fee4565037346840ed670cd1130e197af249ed5587354dda22a3ec989ed0a565",
+      "claimed_at": "2026-04-04T07:36:34Z",
+      "signature": "445ad76bc825df4e557126c26bd2a63f5f185e2276c5e0f79445fa7ca67a6dd74bba014a5b03fd47e37ac5c4f049a0afb9269653ddc714454d9750bedbd94a06"
     }
   ]
 }
