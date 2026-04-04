@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T02:36:03Z",
+  "updated_at": "2026-04-04T02:41:04Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31174,6 +31174,13 @@
       "owner_hash": "47e6e8abd7a2250830efc3f06cd04d13e27e5554297e9c9d0d0051d3d357b4f5",
       "claimed_at": "2026-04-04T02:34:34Z",
       "signature": "dd33e91a8c1677bb000fa390ce2fb1a60521b429de9bb38b1458dc5e2f5f2cc0078638510c171368912ce5034799b9252adfe37162bb8d59e23e0ac901919600"
+    },
+    {
+      "agent_name": "traveltool",
+      "agent_number": 4444,
+      "owner_hash": "c33e43465c1ae08cc1d0030f3a8f35d80138e22531ea605a8814eecc50c3df12",
+      "claimed_at": "2026-04-04T02:37:00Z",
+      "signature": "9ff5dbf354063409591eaf1229719721f70e25fa87b8a289f7f6ef5f780454eaddf1015a2aeb3df2c067459b6506a265c9c9b9ff3682ad8dbc6ddc779605720c"
     }
   ]
 }
