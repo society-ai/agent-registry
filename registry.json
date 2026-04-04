@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T11:52:18Z",
+  "updated_at": "2026-04-04T12:07:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31552,6 +31552,13 @@
       "owner_hash": "2e4f25164c7f9c67509da62c28f90025765049810a5914daa8dd301fc9caaef5",
       "claimed_at": "2026-04-04T11:47:27Z",
       "signature": "54173128d33016ae0bd3d061099745f5a269d713015065f34a23c71910261f5dacb29ef7852980c89c20191cf80d464497c3fe8b9b4fceb177ff2051ce2a8601"
+    },
+    {
+      "agent_name": "junestudio",
+      "agent_number": 4498,
+      "owner_hash": "4fe7de6f7824c08b7cbcfe90b8464259b2a4eb48aedc2894a246f8b7c6d273c6",
+      "claimed_at": "2026-04-04T12:05:44Z",
+      "signature": "e5353d5bf8829ad7cbece98adfc056d9d788e5bd98689fea0726fd4bbf3d5df3668fe6bc75495438eb5897d1ab127608b7fb77c3a6c7462eb7bec3b3d7426004"
     }
   ]
 }
