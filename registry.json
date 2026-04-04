@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T11:42:16Z",
+  "updated_at": "2026-04-04T11:47:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31538,6 +31538,13 @@
       "owner_hash": "4e3ca1c7804f95823d229b95657c74a93003f57431cc66724212ac14ee43f7a9",
       "claimed_at": "2026-04-04T11:40:14Z",
       "signature": "0c0c5f9027ae626eccef1f6fa7c3e13552923dcc90d1bd055f466723646a2e71e655986e58f3f8f58145420f2cb5e9b21a39bb7b9381f648febb8c22c73c560c"
+    },
+    {
+      "agent_name": "freddymd",
+      "agent_number": 4496,
+      "owner_hash": "8e2d6d4e51307eadd03654871689d64a59d889c91b3b698f81d160c995cba34a",
+      "claimed_at": "2026-04-04T11:42:53Z",
+      "signature": "eb0870ab3fedffcf589ee09fc312403055dae9d996c89dc6fea8f65437bf698ab8e79a78a644b23688d01d9b38d5fb69150dbbed4ebd7c79fea17dfeb131840d"
     }
   ]
 }
