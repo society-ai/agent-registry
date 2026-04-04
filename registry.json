@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T05:46:13Z",
+  "updated_at": "2026-04-04T05:51:15Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31237,6 +31237,20 @@
       "owner_hash": "0d2baf0e446aec5aba1987178f30e0bf176810ac2ddd3a3df177cc6b4a79fb07",
       "claimed_at": "2026-04-04T05:43:21Z",
       "signature": "36fd937270f799c09e424245b4ab8559a0870c91cbf40fbc74a8d3caa3aa53dfb647f1eda646a55299f8bfc003c59771be00af28cdd433be394b52a275755e07"
+    },
+    {
+      "agent_name": "bapuwines",
+      "agent_number": 4453,
+      "owner_hash": "09415962289584508a5f73afed383f38c0b0e128c7fdbd851a1bc991ab2a170c",
+      "claimed_at": "2026-04-04T05:47:49Z",
+      "signature": "6e103d5b6baa98b2a6f965b650f6dd87b79d88d52fbe9c17231c28c980b5848e74bae689db044889c9f738a73a70a7f6d51d6cb647a01d9a982880ce72ba7901"
+    },
+    {
+      "agent_name": "wales",
+      "agent_number": 4454,
+      "owner_hash": "eece9b1d4baeb94a72656ee7a2f22717ca6f89b290878c5cd8e78d9403c9d520",
+      "claimed_at": "2026-04-04T05:48:26Z",
+      "signature": "c712e67b0d1745dd82dde88523e6b3f6cfaf09344871c118ef2c2b8fac65745ab1751f3e780c2653cd60e5a5fc710772a8980d5ed174ae54c2f8b70001aa6d0f"
     }
   ]
 }
