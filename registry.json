@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T04:51:07Z",
+  "updated_at": "2026-04-04T05:16:09Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31202,6 +31202,13 @@
       "owner_hash": "c08df988c138da390ac2039c7eacae19468903083661366d33b64ebed2939ebf",
       "claimed_at": "2026-04-04T04:50:17Z",
       "signature": "10d79e6b8dc0ab533f34cdaedafb28f4e396496b977bfb69273b794b5ce6f7674d1cb1dfa1092e183495b86839a563d10dbd2ec9658d4c24727e4ec7307fe600"
+    },
+    {
+      "agent_name": "caymanrealestate",
+      "agent_number": 4448,
+      "owner_hash": "f2df06575805a1861dd63ed73f013e84027a67c0d2bb81bf42e6e03b6295f42d",
+      "claimed_at": "2026-04-04T05:14:12Z",
+      "signature": "82eadec88da6116f7b696464bc46ec620cf34a7491eccafaa4b6395d10e27c4f61bf39dc0631dce5038fb83a533d2cdac9d0ca4af8318d360e3aece250246805"
     }
   ]
 }
