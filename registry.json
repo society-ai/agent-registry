@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T05:26:11Z",
+  "updated_at": "2026-04-04T05:31:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31216,6 +31216,20 @@
       "owner_hash": "7afc2472d3cf2c49ef8c52d256e44ec64b9368a08770be020f8dd198807f3abd",
       "claimed_at": "2026-04-04T05:22:24Z",
       "signature": "87fc14e5596c2fae06e4126c32d42a1eb66cd88992f95ee8e195b218467363ba68e5723386651d4c9414c54fd138cbc64e418fc6b5857a0b1bf3f1f20922f701"
+    },
+    {
+      "agent_name": "allah",
+      "agent_number": 4450,
+      "owner_hash": "0abbf0a7e842995a6a472207a672122d35d19a2a49cf8d0411e99617bff25b77",
+      "claimed_at": "2026-04-04T05:28:05Z",
+      "signature": "587dda829367c54e42e46028e0472e88fe2c221d39ece58e8189ccc701b8646f913085bc6cdca8fdbd6acbd1e154c1a1a403e91c29ec115602eb58afb30d400c"
+    },
+    {
+      "agent_name": "kanwal",
+      "agent_number": 4451,
+      "owner_hash": "c071bea93f82fb987d517bb73e3de813758b8e3756d7fedd2b21ba5f72b4d6d3",
+      "claimed_at": "2026-04-04T05:30:03Z",
+      "signature": "c6af592de85889eaa5d8b2069ac5491c066261c4c7b22a9490f5c81dc5a356591431f8d13efec3e8bfc7bd24370dfffd288c22ee020a014c32fcd9482fc57e0e"
     }
   ]
 }
