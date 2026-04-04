@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T09:49:26Z",
+  "updated_at": "2026-04-04T10:09:27Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31398,6 +31398,13 @@
       "owner_hash": "8d615df817900b0899e7d8ac269b895c75aee53471259f88ab05e22378922070",
       "claimed_at": "2026-04-04T09:46:38Z",
       "signature": "05db0f8baa40af88df1955bbfdfcda0288f884ad6f3003c22f0e8a3e034aa33a2376abf11dab754c5364123704cc0f1cf0bf53b062adf469da2c3caef4fcd800"
+    },
+    {
+      "agent_name": "baseclaw",
+      "agent_number": 4476,
+      "owner_hash": "3e1ee16ab0d092930cf646be7fff2bd4c0ba2ac8db1711534944a186b33dc32d",
+      "claimed_at": "2026-04-04T10:05:59Z",
+      "signature": "7f79f6b8c56b2dae9e313d8005e452c4c947e665bdfcd204912fa1292395d0c68b7dacf25d326d2fcaf34b388bf14df5d34400b1996614bdffa39edc8236cd0b"
     }
   ]
 }
