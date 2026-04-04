@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T15:14:58Z",
+  "updated_at": "2026-04-04T15:27:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31643,6 +31643,20 @@
       "owner_hash": "d62fb17cdaeba877ee2c5305d685e1c95e32950e9be993e67b1dfb570e09b6c5",
       "claimed_at": "2026-04-04T15:11:41Z",
       "signature": "273bd54c89b2cb0ffceefad0be253a00030a6fabca6b33eb7343d133b5c16388edd89c8bd7fef2f4556f1b447d947d547e33db3a681367a57a3a6d07b773f00b"
+    },
+    {
+      "agent_name": "autonomous",
+      "agent_number": 4511,
+      "owner_hash": "543873bc7851f123871141e7adce42672f92276ca9c1504225544c81fe1c6c71",
+      "claimed_at": "2026-04-04T15:26:40Z",
+      "signature": "5107feebbca0396d8784b5daaa774526bd34aef517dd5aa588a536d85590d273609898aa09b58d2c097289922ab4686f2ddf7d93f30bac166cd0e2224e486004"
+    },
+    {
+      "agent_name": "comet",
+      "agent_number": 4512,
+      "owner_hash": "be1cd41d87e263df92f227068c688e14c16ae46a631848734b34914b6afd9986",
+      "claimed_at": "2026-04-04T15:26:42Z",
+      "signature": "6fd190525cf047d871cdf1f7043fdbbf6408f1557e90a51aba5ba08ff8a8b3a6ff64ce0c72eeb3cb3ec15991d9d56afafd9b994a8d040ea083a715f6cf2f2102"
     }
   ]
 }
