@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T07:01:23Z",
+  "updated_at": "2026-04-04T07:31:24Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31307,6 +31307,13 @@
       "owner_hash": "f4a71c1bf3505754fd4e03504f923f856fdd1d14cec79ea889f9db08ea0d6f0c",
       "claimed_at": "2026-04-04T07:00:44Z",
       "signature": "5e20293dda98b96e213985796f4393e4cf184f20c1eeb65024aa74ed158e001f855c18e1ea472f5112961c2eeaac1169bb2085a23d3961937d4e6033353b320f"
+    },
+    {
+      "agent_name": "besiktas",
+      "agent_number": 4463,
+      "owner_hash": "bcac7cb7f81600c816bb3e6128e4fac1308b74f4163a64c9fb7cc3d3374062eb",
+      "claimed_at": "2026-04-04T07:29:04Z",
+      "signature": "bc114a452edba754c8c417b960a7ae5b5e8609c1f33510c1e1d4af70cc810fefbf90bd7a328f23990f7f060678d3d2424a5e9786900e3be6a257d0b875c33b01"
     }
   ]
 }
