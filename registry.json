@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T02:11:01Z",
+  "updated_at": "2026-04-04T02:36:03Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31160,6 +31160,20 @@
       "owner_hash": "8532947d8bbf84219a610e44d54622c465dfd8d50e3fbe8a90ffc887863887f4",
       "claimed_at": "2026-04-04T02:08:45Z",
       "signature": "d87bf94570a2e302a37c4970931babedfb02ca9271200e4d1614566489126dc6e780f5bdf6ce3ab8f78d47f4559e1214b6f29ea400abd3b884110bc72bd7960b"
+    },
+    {
+      "agent_name": "powercoachwelling",
+      "agent_number": 4442,
+      "owner_hash": "a60c2667dc8d9ba5a6e4763919f161253d85299101bd0b2521ef6df1e6819b25",
+      "claimed_at": "2026-04-04T02:32:04Z",
+      "signature": "a6815e6a8c0a207e931b1f61ef20491dce8c2560e7b4aa71e09d271dcb960bece0f87a590eb44279c6c3867431a074c557c216a41151685327908f66edfa310d"
+    },
+    {
+      "agent_name": "zed",
+      "agent_number": 4443,
+      "owner_hash": "47e6e8abd7a2250830efc3f06cd04d13e27e5554297e9c9d0d0051d3d357b4f5",
+      "claimed_at": "2026-04-04T02:34:34Z",
+      "signature": "dd33e91a8c1677bb000fa390ce2fb1a60521b429de9bb38b1458dc5e2f5f2cc0078638510c171368912ce5034799b9252adfe37162bb8d59e23e0ac901919600"
     }
   ]
 }
