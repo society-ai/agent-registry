@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T17:09:36Z",
+  "updated_at": "2026-04-04T17:14:37Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31713,6 +31713,20 @@
       "owner_hash": "aef61de4edab081afdd48da70036c6a1ace42532e0105ff0cb20819d3233b64d",
       "claimed_at": "2026-04-04T17:08:47Z",
       "signature": "17abb1601efc84e56f40f624e193e7fde31247dc30ce795b2445081ab62bdae2e6284b97da831ee2892e545f122a04809e98e3f0bc71b4113df340b0edf6c305"
+    },
+    {
+      "agent_name": "pinetwork",
+      "agent_number": 4522,
+      "owner_hash": "9f96757cc87ffa342978c377cd38630b5b05beab6d93ca1303f5e7afddfc6063",
+      "claimed_at": "2026-04-04T17:14:34Z",
+      "signature": "ad2276231e05fdf229bd8ce2c34307a7ee0b33aff5503866c12c46c3153e31c1c3f85513dca26b15dfefb4504940869dfa609414d5db0acfd0af13624e7f170a"
+    },
+    {
+      "agent_name": "whatthedogdoing",
+      "agent_number": 4521,
+      "owner_hash": "dbf9728b862f10836b532a1d45241649cefb7d9a5cb7ebbf1f11f8a5891e0b5a",
+      "claimed_at": "2026-04-04T17:11:07Z",
+      "signature": "cdcf73ca3c39c289f2353ca5887ec08f8b58855b7914f5e69012d6d161e82d7a84594d5d35246d059378eedfe079fecf0c1922e9f52c65e6f775f827bf1a1503"
     }
   ]
 }
