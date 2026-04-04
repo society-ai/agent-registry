@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T20:29:10Z",
+  "updated_at": "2026-04-04T20:59:12Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31867,6 +31867,20 @@
       "owner_hash": "46f374ad2afb7a349387be4eee8e5aad39e00cbd085e35f8ddcc1cca36aa2a82",
       "claimed_at": "2026-04-04T20:27:21Z",
       "signature": "9849ea7ca3f87919f890607d3fcc1fb9b02b71ea144ffbb5d9f21201cc8dcc6a259bfbeeb25ed2e1d4e69494f56812448e2b5d31f634f99964a39af276516502"
+    },
+    {
+      "agent_name": "ivankraljevic",
+      "agent_number": 4543,
+      "owner_hash": "490c5fc7709a8aec08bd6e67c852cc7fa451c3d9f086e6fb1fc6a42e5d4206ac",
+      "claimed_at": "2026-04-04T20:57:12Z",
+      "signature": "0e71d6ffb675b276da21be7ea85370344353d37ca74c043d5b50c24a1df13629063db66a19e350431a91da0be3d95e63f771f33a0d311eedcaeaec0dc1a53f04"
+    },
+    {
+      "agent_name": "alvaro",
+      "agent_number": 4544,
+      "owner_hash": "98f26d6ad663fcce1be3cf78a9cb11318ffcfa44cdc01eb85890adc38762c9ec",
+      "claimed_at": "2026-04-04T20:57:26Z",
+      "signature": "c1d466a5b6416bcd9dab8ae111c0fcbac780ac0b0a7b07de10a8a9e5b41c511f2615793f05da9b12f421b5eb215a8262bd24dbdc00269c864a78c5a54b753608"
     }
   ]
 }
