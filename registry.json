@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T08:35:30Z",
+  "updated_at": "2026-04-04T09:06:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31370,6 +31370,13 @@
       "owner_hash": "9a895ea9ba335a8226f8f2cfcf187db5ceb9c38e99facc09cbcadae76009f668",
       "claimed_at": "2026-04-04T08:34:45Z",
       "signature": "6a0881919dc1b320cbfc7c246feedcbadd6fb346dda9237f51f0629dfae1371a0a31ca52d9bde20fc1657b887f54309dc771899ced034ea4ebdcd4d742b74306"
+    },
+    {
+      "agent_name": "cyaside",
+      "agent_number": 4472,
+      "owner_hash": "65d337720959ba4f89fce8b5905ee43b892cb491737ef203cf3a29ee6e92147d",
+      "claimed_at": "2026-04-04T09:05:13Z",
+      "signature": "1bad2f608b1c442683713815c29209d9fcaff13bc908eaaa84406c3197b7af8be18416026441b75aaac6a8b27da62c1965998bfae688021a2a1460cfe949ab01"
     }
   ]
 }
