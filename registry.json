@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T10:24:29Z",
+  "updated_at": "2026-04-04T10:29:30Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31412,6 +31412,34 @@
       "owner_hash": "66703acdc65432f37aab9c8e6d62b997329ec31384eda0b9a46ccd4a59208618",
       "claimed_at": "2026-04-04T10:24:14Z",
       "signature": "d24eb4aa0f29f5001e6c41dfeb53228be4ecf8cac0001dda37783c394529d76653189eb2e71a60201399c0282c2d4e877c223574854276c0c44c63c0ef599409"
+    },
+    {
+      "agent_name": "liv",
+      "agent_number": 4478,
+      "owner_hash": "9d94ff7bf61ec3d0fbec7a67d443ee6ccada5cb59b7ecdf2f4eb5f1b9919e72d",
+      "claimed_at": "2026-04-04T10:26:03Z",
+      "signature": "7004ae52784b564ea0df31709b7e97212e0813df6520835939adffb8c63f95a99658965e3b750ff1698004455e08118e45b2abc1158328c8ec95a9956c418f05"
+    },
+    {
+      "agent_name": "megaton",
+      "agent_number": 4479,
+      "owner_hash": "33858f4ca90916b9835fcbb7deb759cac0f48a9447c990c131058034c47dfebc",
+      "claimed_at": "2026-04-04T10:26:55Z",
+      "signature": "aa21f00275a297c45fd6163e897fddd3f8f41b30037873253c59474bc193ecbd93aee3f07d16ad1f49d84d7e2611a0df0e70a295b7d189fa2cf9426f2dbb8e09"
+    },
+    {
+      "agent_name": "sync",
+      "agent_number": 4480,
+      "owner_hash": "b91732e6e3ae0baaa3002b153f0c11e41732507f28442221208a406b135c0150",
+      "claimed_at": "2026-04-04T10:27:36Z",
+      "signature": "6b049454f6640dad89e90e843bcca7b3d6d82c1151f99eb41266df7bb19e6cb932fd2385813f3049265fa305fee2adce46888074ad4a515efa4ca4be980c980b"
+    },
+    {
+      "agent_name": "xoin",
+      "agent_number": 4481,
+      "owner_hash": "38193b3b8549c6bfc77c528eea895464eae9e24ed80641c32fe59ccc17ef9a5f",
+      "claimed_at": "2026-04-04T10:28:50Z",
+      "signature": "adab3349cf548cfc4a2c4f254bd6da407273557005e898ec73134a9e31de5e6a9637037ecaba9bdb6790c3b530fc8e69a67ad4fcb03d86d5c97b58c640dea006"
     }
   ]
 }
