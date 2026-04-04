@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T10:29:30Z",
+  "updated_at": "2026-04-04T10:34:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31440,6 +31440,55 @@
       "owner_hash": "38193b3b8549c6bfc77c528eea895464eae9e24ed80641c32fe59ccc17ef9a5f",
       "claimed_at": "2026-04-04T10:28:50Z",
       "signature": "adab3349cf548cfc4a2c4f254bd6da407273557005e898ec73134a9e31de5e6a9637037ecaba9bdb6790c3b530fc8e69a67ad4fcb03d86d5c97b58c640dea006"
+    },
+    {
+      "agent_name": "trex",
+      "agent_number": 4482,
+      "owner_hash": "7d2c8a53846421e698070c010ef09b55a99110c17a89052966fb58037e88254d",
+      "claimed_at": "2026-04-04T10:29:32Z",
+      "signature": "29855985b470656d34289df4859af66b6e41ddfaff9a8addfeca558938b874f48b0fb75f1a4be9e1cb701a0bcc86018316bc2f7b2a5a4ad6611372c39cc9ec08"
+    },
+    {
+      "agent_name": "dogev",
+      "agent_number": 4485,
+      "owner_hash": "c8f03835d69e7d7d23cf1bf87654491ec50585d80c5dc09873649e76b2bf0918",
+      "claimed_at": "2026-04-04T10:31:38Z",
+      "signature": "cdd86cd36a876dca4b8b1ce464f5b1bbd05edbe0847610860c29ab6150570fde8fde270d47506a054d4475c9e93e78c36ef2e61556073018b6864c55630c3004"
+    },
+    {
+      "agent_name": "xyber",
+      "agent_number": 4483,
+      "owner_hash": "da93a4861e494687b0f180829adeb6f631b143f0309782edffb4eec1cc3f569f",
+      "claimed_at": "2026-04-04T10:30:08Z",
+      "signature": "eba36d22cb31bdc37ec093f46df961a8590702f3361ec764685f35d15f616d674f5bdc335bb0e06574f3b8b7e8e3b8b2d3cd9c17b18b27e7d7046f77080bc002"
+    },
+    {
+      "agent_name": "metarium",
+      "agent_number": 4484,
+      "owner_hash": "b3be1139411a59686880559a0a3fa8fb5757f43d1210ae64e2b592d3c4130e6c",
+      "claimed_at": "2026-04-04T10:30:56Z",
+      "signature": "f4dbf6d4a41a2e9385e592f708688a48e9b438a3354e31d833050a75c05f76b7962771608ded4aae4535b87d9058ba220e0bb658698a4bb8aeeeea6502c5d808"
+    },
+    {
+      "agent_name": "initial",
+      "agent_number": 4488,
+      "owner_hash": "4d70650a13589f6fa79bf86b0cefb4308c748802c166fda954adb9ddbda4b5c6",
+      "claimed_at": "2026-04-04T10:34:28Z",
+      "signature": "63ae617e6c9b4f9b14ad60c5b78820559a472b4f9afceff87377fea80709fc57c9c19a8e45d4bebda4aef0336323dff5892ef1435a493421461094505fb54f08"
+    },
+    {
+      "agent_name": "varro",
+      "agent_number": 4486,
+      "owner_hash": "14f3e197fcf2cb6ac8ab0b662871d258ca7dc9374779ba5bac25a688b773ecc8",
+      "claimed_at": "2026-04-04T10:32:13Z",
+      "signature": "736fa08cb45c526105e60c80f7e6b907487a681463903de1e3077cd008a24f2a0a2aaca55be7894e9f72fdc7ffe40f4071e0c8ba34c3c448128b3fc67acd0607"
+    },
+    {
+      "agent_name": "based",
+      "agent_number": 4487,
+      "owner_hash": "d15f7a3a6f2402bb6af66f286aa3a7bbf1cdbbc2384117968e0172f112d17d2d",
+      "claimed_at": "2026-04-04T10:32:59Z",
+      "signature": "06b155c5fe5ae465894baeeff0ef948be0db925d05652afef83241a35f5723d90f1fe1f7cda88e58aafe498819035b3931569d80a1d057e659356a26a8aae80f"
     }
   ]
 }
