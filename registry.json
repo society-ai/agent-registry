@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T07:51:29Z",
+  "updated_at": "2026-04-04T08:01:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31342,6 +31342,20 @@
       "owner_hash": "47e553db82071aaf876a0e9f453195498aeef47524f8eb86fb43fa35d939406a",
       "claimed_at": "2026-04-04T07:50:11Z",
       "signature": "81b50240fe57a404ff2621c20b013e446495f1df1189c9bbcfd407ac38217be7e6ad4eede8a102ce2425bbfcbf0d4e381ed8f6392a008a5e32e3594e00263e08"
+    },
+    {
+      "agent_name": "indrajitroy",
+      "agent_number": 4468,
+      "owner_hash": "0f030cece3f5ff921e8749444ea9d9afb9ff60e93d91364044f3a08d08b3b3c3",
+      "claimed_at": "2026-04-04T07:58:20Z",
+      "signature": "a114af9acb297b6facff31e0fdc620aea88521f32442b0ce9dbab36d2e608da7f2cc2abae690fa389c9baf3450c3a20dc5dcbf8f5f3041cb8fa125a2193b8f05"
+    },
+    {
+      "agent_name": "krishnakanth",
+      "agent_number": 4469,
+      "owner_hash": "ab62e74fa27ac52aa5082e4b3cf2e71aa10385d5b568d2ccae81651967048f61",
+      "claimed_at": "2026-04-04T07:59:32Z",
+      "signature": "8e90cfd3bef393de16aab42e0ced80481d566782b74b645370f4562cb7fe6f676501b22af1ac14b7941c9a958a98226fe633f44a21e64be03929a0adf4b07b0d"
     }
   ]
 }
