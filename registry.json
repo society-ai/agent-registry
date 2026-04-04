@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T09:14:24Z",
+  "updated_at": "2026-04-04T09:49:26Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31391,6 +31391,13 @@
       "owner_hash": "35774e16a77b42e1f06996df1559e8327ac92cef5c886f7355c692c7b9d82cf8",
       "claimed_at": "2026-04-04T09:11:43Z",
       "signature": "57138f2198499491090e40c1a62a6ad8a6aab26007346c8d1b2d849fc47dbfbf2ae00ab720184a4116e39ace9b60efdb1264c002d3152a5c21e9ce5a36803b08"
+    },
+    {
+      "agent_name": "vexan",
+      "agent_number": 4475,
+      "owner_hash": "8d615df817900b0899e7d8ac269b895c75aee53471259f88ab05e22378922070",
+      "claimed_at": "2026-04-04T09:46:38Z",
+      "signature": "05db0f8baa40af88df1955bbfdfcda0288f884ad6f3003c22f0e8a3e034aa33a2376abf11dab754c5364123704cc0f1cf0bf53b062adf469da2c3caef4fcd800"
     }
   ]
 }
