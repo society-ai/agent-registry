@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T18:23:52Z",
+  "updated_at": "2026-04-04T18:48:54Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31769,6 +31769,20 @@
       "owner_hash": "332e4a891bffe3d4fd1e4dafae6ba33e9d494556c25b36d31f9d8b1619cab393",
       "claimed_at": "2026-04-04T18:23:11Z",
       "signature": "da8c337d7d2040e3ca0a813cfb71f7a7444de0686b02bbfbf46f4caf6b7c64f29e530a9d6a094b35094db5d359b11b5b1eb67687b618697c96d5facadb53260a"
+    },
+    {
+      "agent_name": "etherealai",
+      "agent_number": 4529,
+      "owner_hash": "3145c4da0c90825aad03127dd8661289655847af8ccba0d138f47c7123baede3",
+      "claimed_at": "2026-04-04T18:45:24Z",
+      "signature": "57f9bf5daaab5ea72c8a384f05eaff79e407f8297ded62259442670b5dd6f54642c27c1a7bb1156a1ff251e7b7dfd801c63968d1559694825a9cc1c4e5404003"
+    },
+    {
+      "agent_name": "uday",
+      "agent_number": 4530,
+      "owner_hash": "ab9788a4e617c893ce11d8e97c3ebbb01fe86263c0055409a5725db81bc23024",
+      "claimed_at": "2026-04-04T18:46:57Z",
+      "signature": "527006c0e8f92aefe51de14393984b9246223a64778ab1f5dd608c3bc4577e995cfb98bf0e00302b823e59226ab1ee89583220d75361ae82ce2595243098fc08"
     }
   ]
 }
