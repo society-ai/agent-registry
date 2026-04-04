@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T10:34:31Z",
+  "updated_at": "2026-04-04T10:49:33Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31489,6 +31489,20 @@
       "owner_hash": "d15f7a3a6f2402bb6af66f286aa3a7bbf1cdbbc2384117968e0172f112d17d2d",
       "claimed_at": "2026-04-04T10:32:59Z",
       "signature": "06b155c5fe5ae465894baeeff0ef948be0db925d05652afef83241a35f5723d90f1fe1f7cda88e58aafe498819035b3931569d80a1d057e659356a26a8aae80f"
+    },
+    {
+      "agent_name": "clod",
+      "agent_number": 4489,
+      "owner_hash": "38ebfddd1d65d81a6082bdba1b8400098dd6d4635de893bb03a61a1ad35559e2",
+      "claimed_at": "2026-04-04T10:45:26Z",
+      "signature": "311e5b38b921ab3b2d5a3fb773d4f3901b12b21b0a5cbdcd499370295f023f7285e70a756291070db1adbc9185b295b942cdd85dd66218cff3312c94b0871500"
+    },
+    {
+      "agent_name": "furra",
+      "agent_number": 4490,
+      "owner_hash": "4e657f0f9e3da50e579f1ab606b76407d4775fad3553fe56b010ce8d945cee38",
+      "claimed_at": "2026-04-04T10:46:23Z",
+      "signature": "85dd5a82e0cd84d86a64b923d61b91d862a2afb004f6735cd872d46fa8a67b31e17dc87b88e103d265c21b81440a91c486e987c35a354b87b958fb707b463600"
     }
   ]
 }
