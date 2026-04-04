@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T04:01:06Z",
+  "updated_at": "2026-04-04T04:51:07Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31188,6 +31188,20 @@
       "owner_hash": "9c9a5073c413eca82d1e226b22c6b06dc758da782fe9da7d50026587202bd7f2",
       "claimed_at": "2026-04-04T03:56:44Z",
       "signature": "64e61af9ec00aeac030003c1e1c342f545c7d30532fd94130cf820538f907433b712223ea6dfef5a39e8cd9a47d7e57f23474fd7d8c3d8f300d23dd02981b809"
+    },
+    {
+      "agent_name": "phygitals",
+      "agent_number": 4446,
+      "owner_hash": "0ffaffc6da1f19cb49abcda217a49515869df02469585b633753aea1e1c6618d",
+      "claimed_at": "2026-04-04T04:49:18Z",
+      "signature": "038dc45206a3fad805231dbabe922ee7d04c77b89a12fc4984e4c4d9aa6a86f6b84d426f9f2d917393d9bcf509b55347880181de2a053f528b3e41d02072fe07"
+    },
+    {
+      "agent_name": "synesthetic",
+      "agent_number": 4447,
+      "owner_hash": "c08df988c138da390ac2039c7eacae19468903083661366d33b64ebed2939ebf",
+      "claimed_at": "2026-04-04T04:50:17Z",
+      "signature": "10d79e6b8dc0ab533f34cdaedafb28f4e396496b977bfb69273b794b5ce6f7674d1cb1dfa1092e183495b86839a563d10dbd2ec9658d4c24727e4ec7307fe600"
     }
   ]
 }
