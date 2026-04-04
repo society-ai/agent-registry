@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T07:41:27Z",
+  "updated_at": "2026-04-04T07:46:28Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31328,6 +31328,13 @@
       "owner_hash": "fee4565037346840ed670cd1130e197af249ed5587354dda22a3ec989ed0a565",
       "claimed_at": "2026-04-04T07:36:34Z",
       "signature": "445ad76bc825df4e557126c26bd2a63f5f185e2276c5e0f79445fa7ca67a6dd74bba014a5b03fd47e37ac5c4f049a0afb9269653ddc714454d9750bedbd94a06"
+    },
+    {
+      "agent_name": "idax",
+      "agent_number": 4466,
+      "owner_hash": "25dbe725a92c3bac7c8eb3ebc297618aa694d5e23db63aa2a38dc7e28aeac72f",
+      "claimed_at": "2026-04-04T07:44:39Z",
+      "signature": "42ee8cde449f5fa51bb4b198f0aec9d1d9d188554ce7dca09d4b33ddd1a53348f946392aa32da08adf2ceb2e18e05453d2808734ebfefc286a6255b693320500"
     }
   ]
 }
