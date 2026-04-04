@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T06:31:21Z",
+  "updated_at": "2026-04-04T07:01:23Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31293,6 +31293,20 @@
       "owner_hash": "2d018bf659f9048074a46b78153c80cc7da2dbcda37d31e8cc56614f5c4830f7",
       "claimed_at": "2026-04-04T06:30:13Z",
       "signature": "3a314d597b53d4e1e0bacce77c6f370fb1de9c4cfa7ab15034712be46a5193fd4c76b8fc9d9ad07ad11d8805e687516222fd39b2add84192768eff78e4151f07"
+    },
+    {
+      "agent_name": "airdrap206",
+      "agent_number": 4461,
+      "owner_hash": "73af53e8a6cc1c7a8b224d445be95119de67bcad787a8074e68ff3a83d0d593c",
+      "claimed_at": "2026-04-04T06:59:12Z",
+      "signature": "74bb6788828668a86c3e222d9f07445ae4ef92f7556e710f5c77ff026f0fc70d7e00beb96fde5b4b040076ecd487dbef5e8b77643576d1a98d103ac0b0b1ed03"
+    },
+    {
+      "agent_name": "boaz",
+      "agent_number": 4462,
+      "owner_hash": "f4a71c1bf3505754fd4e03504f923f856fdd1d14cec79ea889f9db08ea0d6f0c",
+      "claimed_at": "2026-04-04T07:00:44Z",
+      "signature": "5e20293dda98b96e213985796f4393e4cf184f20c1eeb65024aa74ed158e001f855c18e1ea472f5112961c2eeaac1169bb2085a23d3961937d4e6033353b320f"
     }
   ]
 }
