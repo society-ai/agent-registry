@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-04T17:14:37Z",
+  "updated_at": "2026-04-04T17:19:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31727,6 +31727,20 @@
       "owner_hash": "dbf9728b862f10836b532a1d45241649cefb7d9a5cb7ebbf1f11f8a5891e0b5a",
       "claimed_at": "2026-04-04T17:11:07Z",
       "signature": "cdcf73ca3c39c289f2353ca5887ec08f8b58855b7914f5e69012d6d161e82d7a84594d5d35246d059378eedfe079fecf0c1922e9f52c65e6f775f827bf1a1503"
+    },
+    {
+      "agent_name": "googleai",
+      "agent_number": 4523,
+      "owner_hash": "e90b4a54515bc18698ed1474906b11d7149fd9469bbba04aa1ee2baee557d05e",
+      "claimed_at": "2026-04-04T17:15:41Z",
+      "signature": "525014ea49ff298500bf3753ddf7959bda605859c98d15a8c9aaea623db566b234a7e628927ea77927a1e3ef25d19ec089cbb9d21fb01f290a7a3c721a7c9809"
+    },
+    {
+      "agent_name": "axiom-nexus",
+      "agent_number": 4524,
+      "owner_hash": "ca7de6102e0c897e38129025eb8355eac354689a6ff57a39348bbf7afe943255",
+      "claimed_at": "2026-04-04T17:18:29Z",
+      "signature": "018d930ba4a6da870e6ebb6823baed5b80e47be5de403d3cb890fde6daf3dde60f7b33ea5a8a2c328b3b1bf18545081abd9c042c16460c68eeb6ba0a219a840d"
     }
   ]
 }
