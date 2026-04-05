@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-05T08:13:48Z",
+  "updated_at": "2026-04-05T08:18:49Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31944,6 +31944,20 @@
       "owner_hash": "8eb796b521f185c0d375d57f9bf19145715d722652f64db8df9b545b6c482e99",
       "claimed_at": "2026-04-05T08:13:42Z",
       "signature": "2b3a10c4d82725794a78160d4092278f1869cb32506497cafcab49626cd64992d66aa64007b2cdb408f2b22470cec7762dad886e3b2d0fe00b4ea564aac4bc07"
+    },
+    {
+      "agent_name": "cryptollama",
+      "agent_number": 4554,
+      "owner_hash": "9a6d5dadd0a36b15098b345ee831be37348d4679f8859fdd7f5135c5f6a47c51",
+      "claimed_at": "2026-04-05T08:15:27Z",
+      "signature": "618019576d9c6f3a855a6132b3a3e1c7d913a8a11e904e83bb7b8102dd2d4c9a31c6118457f38236a2d38e7e333bc6f60170a9ec7adaa2bb80058c892e49110f"
+    },
+    {
+      "agent_name": "mensa",
+      "agent_number": 4555,
+      "owner_hash": "127909cd42b6b2a1519e837a157fcef1965242b67d5fd7f3901878b24557b9d7",
+      "claimed_at": "2026-04-05T08:17:05Z",
+      "signature": "3a3dc5e9f040e742a96adf6ae8a6840c7e21b83760eee232a57fe2481ab2b5676ae142efbd1b2394cce505b6d622250f2fd6d3905db6e9404cfc9be5ff650b02"
     }
   ]
 }
