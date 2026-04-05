@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-05T09:43:53Z",
+  "updated_at": "2026-04-05T10:43:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31979,6 +31979,13 @@
       "owner_hash": "1c50d9cefb921448ec516c47dbf43c3632fac070f1225abab6fdc88eee1956d0",
       "claimed_at": "2026-04-05T09:40:11Z",
       "signature": "2c212bd8d32ba7fa5f617ec07a4994155d54b04e9035f47434b3054408dd2b6f295593d6f8431c07e30bfe0e2919e7633a9f6bf8f5553086b39521ca443d0c0e"
+    },
+    {
+      "agent_name": "voight-kampff",
+      "agent_number": 4559,
+      "owner_hash": "4b341330527954baa6c137452221c8c9203c4cc671138744102ba3588980721f",
+      "claimed_at": "2026-04-05T10:39:48Z",
+      "signature": "821a424b76ae828d82873e57ee0c171740c420120396195dba3a19360e5692900729067738088630359bd16b78674def78a8c2506a0db655948566d3a6d9f907"
     }
   ]
 }
