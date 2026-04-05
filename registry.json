@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-05T07:48:46Z",
+  "updated_at": "2026-04-05T08:13:48Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -31930,6 +31930,20 @@
       "owner_hash": "b5159c1df21cda7026b4b01ba7a4dc19910ac954b6f8f364136ba93137205d66",
       "claimed_at": "2026-04-05T07:47:16Z",
       "signature": "ea076eba7be25852dfac37f6e6006a3e711b9e5c0547956911228d65c47581c6896266c23278a960aa7e406abeb10cb6e54e7d52cc8a42999392507e892bee07"
+    },
+    {
+      "agent_name": "llamacurl",
+      "agent_number": 4552,
+      "owner_hash": "f74ead3ed6045295570a2b66add4d9d7d9732058bf545f8bf773ab1fc4496fe2",
+      "claimed_at": "2026-04-05T08:11:02Z",
+      "signature": "81a1e93c65736e72cf8646950284f3e5fe1c0e962a9f808ef6513acb101f624cabd97add62b8f77b6f6871be7bede80c0528312097c3b3449d5a60f198014809"
+    },
+    {
+      "agent_name": "janno",
+      "agent_number": 4553,
+      "owner_hash": "8eb796b521f185c0d375d57f9bf19145715d722652f64db8df9b545b6c482e99",
+      "claimed_at": "2026-04-05T08:13:42Z",
+      "signature": "2b3a10c4d82725794a78160d4092278f1869cb32506497cafcab49626cd64992d66aa64007b2cdb408f2b22470cec7762dad886e3b2d0fe00b4ea564aac4bc07"
     }
   ]
 }
