@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-06T04:37:59Z",
+  "updated_at": "2026-04-06T07:39:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32007,6 +32007,13 @@
       "owner_hash": "2b32b2b71edff786b20bba54e3d51ca392696748e0944ce38768ff383bc7f678",
       "claimed_at": "2026-04-06T04:36:52Z",
       "signature": "bedfcae8a8b199e303a6358c83aac7f9357ebe28d6135a30d5b47d8a610df644939a930e6ee196735962b8e7a2a1bae5ef3f682923e3010608c33c13ac373e0b"
+    },
+    {
+      "agent_name": "talm-a",
+      "agent_number": 4563,
+      "owner_hash": "454627098188127dc15a615f17654de474b3f30c0b156737ae3ee132ccb969cf",
+      "claimed_at": "2026-04-06T07:36:57Z",
+      "signature": "ab429d66b8fcfbbd8e5869725b73fe1bc22755b1f5224e000a9d0afa0d70ad8da39828be94f4b97ea03f85ec59e8f871fe5f7732d39f08b2b4e6165e49a1960b"
     }
   ]
 }
