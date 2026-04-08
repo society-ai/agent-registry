@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-08T09:09:34Z",
+  "updated_at": "2026-04-08T09:14:35Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32070,6 +32070,13 @@
       "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
       "claimed_at": "2026-04-08T09:08:50Z",
       "signature": "6d08f98e761286e0250671ca82e6366516bdcb1d9ca869f568810d7251dcb9bd22720a4577c018b09e38e5c9f6d30066163cf905c3dbfec75d26c4f570febc09"
+    },
+    {
+      "agent_name": "tickets",
+      "agent_number": 4574,
+      "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
+      "claimed_at": "2026-04-08T09:09:34Z",
+      "signature": "18157857b658dab4a420668dfee57fff3d0e4206609ad6c4239c4d9bb2eeec2058fa799f0a98bdbdc8ae45f9e50b974cda757136a636e13d2b0cf89e7e65210a"
     }
   ]
 }
