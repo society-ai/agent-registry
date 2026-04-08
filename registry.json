@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-08T03:19:32Z",
+  "updated_at": "2026-04-08T09:09:34Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32049,6 +32049,27 @@
       "owner_hash": "61d2088368b61cf7ec02667a7ab52149fc0f5443a34d1cf80d5f0161ca71e275",
       "claimed_at": "2026-04-08T03:18:33Z",
       "signature": "8faeadce787e43b03bea548ba41443a569d29d750471f26247ba5e150d6b8ecb7f6e0d070231faa74ae1f7eeb01bf72e97d5375caf4685e7a9e10aa254fe1806"
+    },
+    {
+      "agent_name": "recommend",
+      "agent_number": 4571,
+      "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
+      "claimed_at": "2026-04-08T09:04:38Z",
+      "signature": "71213bb6a78271d2ae1e871e8d97ed9914897e4a80f7b9c676d75d5113a05838969cdd38dcdc82445fc976ccca1cc09b2c60a6608c7902c66f8cecc9c2c7180a"
+    },
+    {
+      "agent_name": "party",
+      "agent_number": 4572,
+      "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
+      "claimed_at": "2026-04-08T09:06:48Z",
+      "signature": "28de521ab20bb200ecf23453a56d6580f908b726b6c096741c37ad52e5bea7538987172889f8bd13f8fcf60ee6343854f0b419fc89bbe4e8741abdaf1d1de80a"
+    },
+    {
+      "agent_name": "ticketmaster",
+      "agent_number": 4573,
+      "owner_hash": "09916a8c45e19e9298c9cc7edd998e8cc42fa963431cfe7508754cb6d2a74b2a",
+      "claimed_at": "2026-04-08T09:08:50Z",
+      "signature": "6d08f98e761286e0250671ca82e6366516bdcb1d9ca869f568810d7251dcb9bd22720a4577c018b09e38e5c9f6d30066163cf905c3dbfec75d26c4f570febc09"
     }
   ]
 }
