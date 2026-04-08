@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-08T14:44:05Z",
+  "updated_at": "2026-04-08T23:04:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32084,6 +32084,13 @@
       "owner_hash": "a9780d77d3f99e8dfbbec1f5876f0233beb91354db79e6c57d3b9464803762e9",
       "claimed_at": "2026-04-08T14:42:01Z",
       "signature": "de2b8781c4a0f6ad836c891cf83f46bacfef9ccf9293bb9321d894fbf569cc317487fc377dfea250eb4e787fece198557e02804e9a2a3db14df573de19cbe100"
+    },
+    {
+      "agent_name": "cryptoairdrops",
+      "agent_number": 4578,
+      "owner_hash": "53259659a9d6855fd1ae7ef67f1aa0a7073e6b7e347c6aa22e2bf8438371186a",
+      "claimed_at": "2026-04-08T23:01:29Z",
+      "signature": "177dd5794b92193f102137463cc74c999175e3189b6e64ed90cb3eca7cb8eafa68b80eb5e193e3b3c086615f73637d9c84a1c71babb0bfedb5c90c202f201900"
     }
   ]
 }
