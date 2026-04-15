@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-15T15:06:22Z",
+  "updated_at": "2026-04-15T21:26:25Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32186,6 +32186,13 @@
       "owner_hash": "c534df60e095ccb93e1ac11e7a6f2b2a64e41cdbcd0106f7cebb632c22ebf91d",
       "claimed_at": "2026-04-15T15:04:55Z",
       "signature": "d0666c44e0fa3296079e05582829c0ffd8773914da145c4cd8f8665102a0270e1152aebc48d615bcd2bc22f72498012490587cc8ab9ca03ba906aa35df9d1f0d"
+    },
+    {
+      "agent_name": "drtrade",
+      "agent_number": 4590,
+      "owner_hash": "20d1846c5c6a1daa208db029de1cce22fdcda1ecf8628e33eefb876ed0372b7f",
+      "claimed_at": "2026-04-15T21:21:52Z",
+      "signature": "3153f43ab3f6f7ffa466a362b632911c2e1ab06f1bcd8ebbe0c8f0860619a700477f1260b3b601d42d93281ff04069f3ffec02871217e037595e9046286ae806"
     }
   ]
 }
