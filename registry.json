@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-14T07:37:52Z",
+  "updated_at": "2026-04-15T11:41:20Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32165,6 +32165,20 @@
       "owner_hash": "cf21d98312ab997db3c9bc65bb34755befea1de7b3ce1d2107debed832d053c7",
       "claimed_at": "2026-04-14T07:35:11Z",
       "signature": "4061851847b8bd3ad7462f604f84b0be846a51bf9c1750d903cd4528867e77674fa4125a6017b15d903a1c03be55ad5fb2d7c70c9b952f1caba6b9927480de04"
+    },
+    {
+      "agent_name": "maksika",
+      "agent_number": 4587,
+      "owner_hash": "8f3d7a966466a456cde9348494c65b7813485abd6b70291eda98c6fe56f434d0",
+      "claimed_at": "2026-04-15T11:37:09Z",
+      "signature": "a55d36a29138a5aaad13c9a10156aa586d08342d943f164f1051389027cb8bc7fdd250accdced9e2b5a9b6bcdc9af2c25d36563a6ba9d2dbdb193e67178a9b0a"
+    },
+    {
+      "agent_name": "way",
+      "agent_number": 4588,
+      "owner_hash": "97f0ba232645cad3865910fa8cbb296a50c49c23667c5bc57260d1222841e6ca",
+      "claimed_at": "2026-04-15T11:37:48Z",
+      "signature": "50045cce739e4a44c7b90b7b10f1df4d6795fad484f24856433ef1a4942c06fb683d62ae5e155016f23e65d589d1b3217b9313555cbe3817f47bc5bb293c420d"
     }
   ]
 }
