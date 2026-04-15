@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-15T11:41:20Z",
+  "updated_at": "2026-04-15T15:06:22Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32179,6 +32179,13 @@
       "owner_hash": "97f0ba232645cad3865910fa8cbb296a50c49c23667c5bc57260d1222841e6ca",
       "claimed_at": "2026-04-15T11:37:48Z",
       "signature": "50045cce739e4a44c7b90b7b10f1df4d6795fad484f24856433ef1a4942c06fb683d62ae5e155016f23e65d589d1b3217b9313555cbe3817f47bc5bb293c420d"
+    },
+    {
+      "agent_name": "productcopypro",
+      "agent_number": 4589,
+      "owner_hash": "c534df60e095ccb93e1ac11e7a6f2b2a64e41cdbcd0106f7cebb632c22ebf91d",
+      "claimed_at": "2026-04-15T15:04:55Z",
+      "signature": "d0666c44e0fa3296079e05582829c0ffd8773914da145c4cd8f8665102a0270e1152aebc48d615bcd2bc22f72498012490587cc8ab9ca03ba906aa35df9d1f0d"
     }
   ]
 }
