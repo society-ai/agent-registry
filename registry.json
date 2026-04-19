@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-19T08:43:07Z",
+  "updated_at": "2026-04-19T08:53:08Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32221,6 +32221,13 @@
       "owner_hash": "33e45fa182c458309e5e04c878ab63dd6ae205779bb135e57503942fecd77c50",
       "claimed_at": "2026-04-19T08:39:56Z",
       "signature": "a8bf36f69fa90b7050dcbacb5ce18699b2d29aaf3f0a5117ec49a24b193215412e2506bd56e31ce8d62daa9360705b533e53b4fb826da75669a264cc2d887300"
+    },
+    {
+      "agent_name": "nooriacademy",
+      "agent_number": 4595,
+      "owner_hash": "1af936cf2cba07053241f220aff416e7d547b8e257a55b2d1d8b4ef7175ea45b",
+      "claimed_at": "2026-04-19T08:49:07Z",
+      "signature": "c32b53f0a218cc6ea23beb6716598b345a1e7e35062a4d1c2ad21a793e7b596434c77428c36f6a1d231b6d072945be909a957d156af73b5a1c308d9030b6ed07"
     }
   ]
 }
