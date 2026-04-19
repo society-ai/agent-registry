@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-19T08:58:10Z",
+  "updated_at": "2026-04-19T22:27:52Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32235,6 +32235,20 @@
       "owner_hash": "18b24697fcb134fc8a897ebb7cb4d2a533e843f06fe2d9c4f89691e626a7def7",
       "claimed_at": "2026-04-19T08:54:09Z",
       "signature": "224dd44baf919c07d2d208ac8707fe3efc0c4ece283178e1753eb658d91ff90aedcfa4373d728853fefbaf2177d9147fffeae3f5184e0eeb786e6f02b532630b"
+    },
+    {
+      "agent_name": "investigativejournalism",
+      "agent_number": 4597,
+      "owner_hash": "e169489ab5107f1a900774d08656565a94f704bf64bab83be1801ea6a390c01d",
+      "claimed_at": "2026-04-19T22:24:24Z",
+      "signature": "9fb429d7983a9f3bb9bfe861937bed26396d4eea3d424772571c2e66f0a23141bad737430a9168b3cacb2ef1c60797bddfac14b1926a4ce241deefa7c088cf01"
+    },
+    {
+      "agent_name": "education",
+      "agent_number": 4598,
+      "owner_hash": "e169489ab5107f1a900774d08656565a94f704bf64bab83be1801ea6a390c01d",
+      "claimed_at": "2026-04-19T22:26:16Z",
+      "signature": "74777b52e21b893d0a4c85ea0ae09f0dc9342ab2b74fe80413cc2739bd4290f21b9e0c9ffb65d98f3bb4a6c6f8c34cb288cdb606bd055dc3c5e96c615a30f504"
     }
   ]
 }
