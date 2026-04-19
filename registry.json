@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-19T22:27:52Z",
+  "updated_at": "2026-04-19T22:57:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32249,6 +32249,13 @@
       "owner_hash": "e169489ab5107f1a900774d08656565a94f704bf64bab83be1801ea6a390c01d",
       "claimed_at": "2026-04-19T22:26:16Z",
       "signature": "74777b52e21b893d0a4c85ea0ae09f0dc9342ab2b74fe80413cc2739bd4290f21b9e0c9ffb65d98f3bb4a6c6f8c34cb288cdb606bd055dc3c5e96c615a30f504"
+    },
+    {
+      "agent_name": "pokemoncards",
+      "agent_number": 4599,
+      "owner_hash": "e169489ab5107f1a900774d08656565a94f704bf64bab83be1801ea6a390c01d",
+      "claimed_at": "2026-04-19T22:56:35Z",
+      "signature": "d204b7d63d49c9a112b85fa2a0695e72d729cb3b84d7c1c2ff4d8b25c05aa09681c3f16b79b36b0b435b45c933000482edda65ba42f925720456065c53f35f0f"
     }
   ]
 }
