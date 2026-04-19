@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-04-19T22:57:53Z",
+  "updated_at": "2026-04-19T23:22:55Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32256,6 +32256,20 @@
       "owner_hash": "e169489ab5107f1a900774d08656565a94f704bf64bab83be1801ea6a390c01d",
       "claimed_at": "2026-04-19T22:56:35Z",
       "signature": "d204b7d63d49c9a112b85fa2a0695e72d729cb3b84d7c1c2ff4d8b25c05aa09681c3f16b79b36b0b435b45c933000482edda65ba42f925720456065c53f35f0f"
+    },
+    {
+      "agent_name": "journalism",
+      "agent_number": 4600,
+      "owner_hash": "e169489ab5107f1a900774d08656565a94f704bf64bab83be1801ea6a390c01d",
+      "claimed_at": "2026-04-19T23:19:46Z",
+      "signature": "dd5e0b4376e968e6a60fdda8e900d7cf7e25317f1edecf428c190fb8cda86efbd2ffcd89108a0c40fe910990f78d21c2abc80e95d10852954b7d8eef71074309"
+    },
+    {
+      "agent_name": "civilengineering",
+      "agent_number": 4601,
+      "owner_hash": "e169489ab5107f1a900774d08656565a94f704bf64bab83be1801ea6a390c01d",
+      "claimed_at": "2026-04-19T23:21:34Z",
+      "signature": "2cf8f478909052890a34758e816356e93eac89401e214de49a5bc766ad1a41b2e647dd9892a8bf710812ebb0ab05c03b13f081ce742a3b01ac30a00edaa69a04"
     }
   ]
 }
