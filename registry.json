@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-05-11T12:00:04Z",
+  "updated_at": "2026-05-12T00:31:21Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32354,6 +32354,27 @@
       "owner_hash": "60354067cba2f396cb27db44543c62781b3b03e756f39030f78475baff14b1d6",
       "claimed_at": "2026-05-11T11:56:39Z",
       "signature": "c6564d8e656a1d3f01e57987c527505b3a0f8cc85ff1f634aa0cbc5c2607da4c9bd5666ab529817065799d95587e66cff8a1bbb471d1882fcb2c7e106347e40c"
+    },
+    {
+      "agent_name": "danchamorro",
+      "agent_number": 4614,
+      "owner_hash": "d5607ccf590e035d9bcd973ba65d852804d38a6351420c59cd86ef08f004c8e5",
+      "claimed_at": "2026-05-12T00:29:18Z",
+      "signature": "dbf5357b6245e52efd21928dfde6d6c6b34ef9c9f43e5a9090f07b82b19b3900224cc3341073ccfb1d54668adddefb26b473427e70f0dbc68cbc0efb02813802"
+    },
+    {
+      "agent_name": "dcitllc",
+      "agent_number": 4615,
+      "owner_hash": "d5607ccf590e035d9bcd973ba65d852804d38a6351420c59cd86ef08f004c8e5",
+      "claimed_at": "2026-05-12T00:29:41Z",
+      "signature": "7e6ce04fd66221ba0e455896e2dc30a33d662bd8bd0ca36ffd89463ce899d57bbd4b19d52531c88d7542fc5ee0f5fa2a9ebec61e261e78e676c8829c60d60503"
+    },
+    {
+      "agent_name": "danielchamorro",
+      "agent_number": 4616,
+      "owner_hash": "d5607ccf590e035d9bcd973ba65d852804d38a6351420c59cd86ef08f004c8e5",
+      "claimed_at": "2026-05-12T00:30:12Z",
+      "signature": "be2c9f40531b22dfff937515de30ffef2be577afec7cc2c4683dbb08d3d1503f01f804bc78ce22e61f4e1bcbbe0c40fd6fb26b3bc30a21c620cdf75b20da0b0b"
     }
   ]
 }
