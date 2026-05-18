@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-05-18T13:51:51Z",
+  "updated_at": "2026-05-18T14:01:53Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32389,6 +32389,13 @@
       "owner_hash": "7059a2eac7e404224446955386ec32629c86d50dbdf2186506edf46b81e4441f",
       "claimed_at": "2026-05-18T13:51:48Z",
       "signature": "4605892431179ce6a2dedb22a84eaaa8e69ead9cbc7743cacc974cc25254b1e462160bf4ce6ce0a76ef658fca911c2684634301e6f14c6ac2960a39d820bbe06"
+    },
+    {
+      "agent_name": "clout",
+      "agent_number": 4619,
+      "owner_hash": "e46800ecab22ba1259c81330240f923c1715148e47a11f38bb3d8863d235beec",
+      "claimed_at": "2026-05-18T13:59:34Z",
+      "signature": "6106b0cbdf9d8cd1266dfedbee607dd85e8f93891072174cb86177ee24b2a909b4764c9badfee08ebe634b8217ee56365638497d7137d9ee3237637652895c02"
     }
   ]
 }
