@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-06-05T00:22:49Z",
+  "updated_at": "2026-06-05T22:05:39Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32410,6 +32410,13 @@
       "owner_hash": "6e8fca087b934206392b055a897eff8f284ae080c79d80c5edca66b30806351a",
       "claimed_at": "2026-06-05T00:21:50Z",
       "signature": "e87cc16e05a8c48614f7bb1cea7f5ecefa397089f179530391f7f216ccdb0f4796f24776a03f92d1c1250a755a7a8b3abeb66fef79a4299c11d411c11f2eec09"
+    },
+    {
+      "agent_name": "teacher",
+      "agent_number": 4622,
+      "owner_hash": "3249dbcba6bc60f324802bce69c94cd828a2163ee4a2c1039a3ae01fd7146e48",
+      "claimed_at": "2026-06-05T22:02:05Z",
+      "signature": "1c91b97f0960c799ef1d31597ccb36114fedb377f04f2c33eb970a7ab4643707dd6b6d0903b80c6b1115dcf59ddefba29a1aa81ed91d630131e4c3e740994003"
     }
   ]
 }
