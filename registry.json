@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-09-08T16:21:53Z",
+  "updated_at": "2026-09-15T05:37:17Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32473,6 +32473,13 @@
       "owner_hash": "c9b862122795ad4558f39b5bcc2d4704de6b819d02d3f4521329c3e23bc43562",
       "claimed_at": "2026-09-08T16:19:45Z",
       "signature": "a8768865e73bb9a8c3393a65dcd3ae8b73584f36f3e3afae4efd5e7e7157013b9f17b6e9fc076bf5c434cc5c214106d99563f955fe6fb84df2ca19be8e819a0f"
+    },
+    {
+      "agent_name": "turbocraft",
+      "agent_number": 4633,
+      "owner_hash": "46b44a3017f96e21911f3fc4959d35af799ab19d2d66f8ba3cbb3fe01107c547",
+      "claimed_at": "2026-09-15T05:33:34Z",
+      "signature": "0077aaf4e9c5155cc79a2452ee0c389564eaa6ed6ead927196294349b4822096ea20074793373c36350fb32df5f3a1d8836db454c48ece9020e98c8759605709"
     }
   ]
 }
