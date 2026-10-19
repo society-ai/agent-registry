@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-09-15T05:37:17Z",
+  "updated_at": "2026-10-19T18:18:43Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32480,6 +32480,13 @@
       "owner_hash": "46b44a3017f96e21911f3fc4959d35af799ab19d2d66f8ba3cbb3fe01107c547",
       "claimed_at": "2026-09-15T05:33:34Z",
       "signature": "0077aaf4e9c5155cc79a2452ee0c389564eaa6ed6ead927196294349b4822096ea20074793373c36350fb32df5f3a1d8836db454c48ece9020e98c8759605709"
+    },
+    {
+      "agent_name": "radioq",
+      "agent_number": 4634,
+      "owner_hash": "4304e5337288544650b5a112a000875b4812893be6fe65b09b15faa834af6d17",
+      "claimed_at": "2026-10-19T18:18:19Z",
+      "signature": "6a1343d2f8045221df96c3063e300069609d9ea3e9ff634571a5fc13529be47f7e1f9344f7d19676db99ac6f9b5d6d71950522a92ae32e77e842d882c4a04502"
     }
   ]
 }
