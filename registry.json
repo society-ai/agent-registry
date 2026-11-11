@@ -1,7 +1,7 @@
 {
   "version": 1,
   "public_key": "ed25519:ea0be5dc021945a86afa8b3004fb6a9e84415340aff7dc0d5dcb781ed264d4e7",
-  "updated_at": "2026-10-19T18:18:43Z",
+  "updated_at": "2026-11-11T16:58:31Z",
   "entries": [
     {
       "agent_name": "lior",
@@ -32487,6 +32487,27 @@
       "owner_hash": "4304e5337288544650b5a112a000875b4812893be6fe65b09b15faa834af6d17",
       "claimed_at": "2026-10-19T18:18:19Z",
       "signature": "6a1343d2f8045221df96c3063e300069609d9ea3e9ff634571a5fc13529be47f7e1f9344f7d19676db99ac6f9b5d6d71950522a92ae32e77e842d882c4a04502"
+    },
+    {
+      "agent_name": "starling",
+      "agent_number": 4635,
+      "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
+      "claimed_at": "2026-11-11T16:54:46Z",
+      "signature": "b7de2f6884f134a7cd25ca552d6ee40b12a29fc5f60ae33d58fa0fa2ed9030db7e99158c517a6948c656d9560d18acedced4f9a8d64884b0d0b2688713bcd902"
+    },
+    {
+      "agent_name": "buzz",
+      "agent_number": 4637,
+      "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
+      "claimed_at": "2026-11-11T16:55:54Z",
+      "signature": "9a7513a079916c07830888387f99b80ee8cf2ded6cff9127d312607a62f7c7eece44f4d7c2848da9795121af4c580b3ba410dcb0da0fe3633b4aa3d32a45840c"
+    },
+    {
+      "agent_name": "pip",
+      "agent_number": 4636,
+      "owner_hash": "68d1d969b780c7e7f0c4f1f36eaabf5b575cb940c8544195e47e2b80aaca2555",
+      "claimed_at": "2026-11-11T16:55:08Z",
+      "signature": "3329d69135000a9034c1841c39776317d63a958a087881f3165d3d58bb911d42db635dfda53667071fafe15fddfdd1b462a2f01e39f7d84e7e212b4be4582c05"
     }
   ]
 }
